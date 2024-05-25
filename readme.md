@@ -1,6 +1,6 @@
-# TechiDaily
+# Extra Hints Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://extra-hints.techidaily.com](https://extra-hints.techidaily.com)
 
 ## Publish
 
