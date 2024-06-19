@@ -1,7 +1,7 @@
 ---
 title: "\"Capture the Moment  IPhone X's Revolutionary Camera for 2024\""
-date: 2024-05-24T02:07:33.492Z
-updated: 2024-05-25T02:07:33.492Z
+date: 2024-06-09T20:52:13.513Z
+updated: 2024-06-10T20:52:13.513Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Capture the Moment: IPhone X's Revolutionary Camera for 2024\""
 excerpt: "\"This Article Describes Capture the Moment: IPhone X's Revolutionary Camera for 2024\""
 keywords: "\"IPhone X PhotoTech,IPhone X CameraRevolution,Moments iPhoneX,X-Gen iPhone Photography,IPhone X PicsRevolution,Apple's XCameralot,Innovative iPhoneXCamera\""
-thumbnail: https://www.lifewire.com/thmb/crqf7aw9F6RC6VSVWVhQdSAcGQg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duet-c82ee94b39e24788bcfd51d1eea24288.jpg
+thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35913acbf3e4fc8c5af445646.jpg
 ---
 
 ## Capture the Moment: IPhone X's Revolutionary Camera

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  A Comprehensive Look at Yi's 4K Action Capabilities\""
-date: 2024-05-24T02:37:38.988Z
-updated: 2024-05-25T02:37:38.988Z
+date: 2024-06-09T20:52:02.120Z
+updated: 2024-06-10T20:52:02.120Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: A Comprehensive Look at Yi's 4K Action Capabilities\""
 excerpt: "\"This Article Describes 2024 Approved: A Comprehensive Look at Yi's 4K Action Capabilities\""
 keywords: "\"4K Yi Video,High-Res Yi Cams,Yi 4K Performance,UltraHD Action Yi,Yi Camera 4K Features,Yi 4K Imaging Capability,Ultra HD Video Yi Cam\""
-thumbnail: https://www.lifewire.com/thmb/yftj5hGeNzNsBIlx2Nku1eqIeZs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/header-3ea828e2fee7476096c67e4c3863b37b.jpg
+thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b46385efb03b48baabde0ba89ee.jpg
 ---
 
 ## A Comprehensive Look at Yi's 4K Action Capabilities

@@ -1,7 +1,7 @@
 ---
 title: "\"The Art of High-Quality Sound Recording via Audacity\""
-date: 2024-05-24T01:19:12.370Z
-updated: 2024-05-25T01:19:12.370Z
+date: 2024-06-09T20:52:10.828Z
+updated: 2024-06-10T20:52:10.828Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes The Art of High-Quality Sound Recording via Audacity\""
 excerpt: "\"This Article Describes The Art of High-Quality Sound Recording via Audacity\""
 keywords: "\"Audacity Pro Tips,High-Q Audio Record,Clear Sound Editing,Audience Audacity Guide,Quality Sound Capture,Edit Waves Effectively,Audacity Studio Setup\""
-thumbnail: https://www.lifewire.com/thmb/rOP6RPwYPYGU4Gfqy_MXLAKHwIo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/this-is-too-stressful-1195222010-b89ca79861814454a37e0cab3e9d0719.jpg
+thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e896428761bc70aaa3b066e45.jpg
 ---
 
 ## The Art of High-Quality Sound Recording via Audacity

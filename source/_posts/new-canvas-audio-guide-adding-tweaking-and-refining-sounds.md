@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Canva's Audio Guide  Adding, Tweaking, & Refining Sounds\""
-date: 2024-05-24T00:44:57.100Z
-updated: 2024-05-25T00:44:57.100Z
+date: 2024-06-09T20:52:05.656Z
+updated: 2024-06-10T20:52:05.656Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Canva's Audio Guide: Adding, Tweaking, & Refining Sounds\""
 excerpt: "\"This Article Describes [New] Canva's Audio Guide: Adding, Tweaking, & Refining Sounds\""
 keywords: "Canva Sound Editing Tutorial,Learn Canva Audio Enhancement,Canva Sound Adjustments Guide,Create Professional Audio with Canva,Canva Sounds Customization Steps,Master Audio in Canva Quickly,Refine Canva Audio Design"
-thumbnail: https://www.lifewire.com/thmb/DAL-N3_Lno5FbRim9sd78EkulLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/jens-kreuter-85328-c5ada5fb87224444a49aaa4ad1e16897.jpg
+thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5cc36ff257194dcf6821d1ac.jpg
 ---
 
 ## Canva's Audio Guide: Adding, Tweaking, & Refining Sounds

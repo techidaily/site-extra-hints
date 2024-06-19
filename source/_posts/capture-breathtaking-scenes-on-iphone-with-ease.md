@@ -1,7 +1,7 @@
 ---
 title: "Capture Breathtaking Scenes on iPhone with Ease"
-date: 2024-05-24T02:09:26.983Z
-updated: 2024-05-25T02:09:26.983Z
+date: 2024-06-09T20:52:03.908Z
+updated: 2024-06-10T20:52:03.908Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Capture Breathtaking Scenes on iPhone with Ease"
 excerpt: "This Article Describes Capture Breathtaking Scenes on iPhone with Ease"
 keywords: "IPhone Photography Basics,Capture Perfect iPhone Photos,IPhone Easy Landscapes,IPhone Panorama Mode Tips,IPhone HDR Scene Shots,IPhone Macro Focus Use,IPhone Low Light Imaging"
-thumbnail: https://www.lifewire.com/thmb/yfR53qUtMPAfXllTGyN38y8gqpM=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/keyboard-message-green-earth-183257413-58dbd3023df78c5162129409.jpg
+thumbnail: https://thmb.techidaily.com/7a3bff4e2eede5438bb2fccedcb9095f7ad51baa5a8f2d8fdc6330db34850673.jpg
 ---
 
 ## Capture Breathtaking Scenes on iPhone with Ease

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Comprehensive Fullscreen Guide in Premiere Pro"
-date: 2024-05-24T02:25:15.989Z
-updated: 2024-05-25T02:25:15.989Z
+date: 2024-06-09T20:52:04.626Z
+updated: 2024-06-10T20:52:04.626Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Comprehensive Fullscreen Guide in Premiere Pro"
 excerpt: "This Article Describes [Updated] Comprehensive Fullscreen Guide in Premiere Pro"
 keywords: "Premiere Fullscreen Tutorial,Fullscreen Techniques,Screen Design Guide,Video Editing Basics,Adobe Premiere Best Practices,Fullscreen Mastery Pro,Film Screen Effects"
-thumbnail: https://www.lifewire.com/thmb/rX4VsgpJpJWRX7spZaoO_weuJBg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/theideaofyou-1932ff92f059479da5323a854078e783.jpeg
+thumbnail: https://thmb.techidaily.com/1dd490a8bd0fd9490b2a1a7e2f3e07f4fe288167493a224a8c1401933c662484.jpeg
 ---
 
 ## Comprehensive Fullscreen Guide in Premiere Pro

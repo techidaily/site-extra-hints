@@ -1,7 +1,7 @@
 ---
 title: "\"A Journey Through Colors  Leading Tutorials for Grading & Correction\""
-date: 2024-05-24T02:16:33.850Z
-updated: 2024-05-25T02:16:33.850Z
+date: 2024-06-09T20:52:02.956Z
+updated: 2024-06-10T20:52:02.956Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes A Journey Through Colors: Leading Tutorials for Grading & Correction\""
 excerpt: "\"This Article Describes A Journey Through Colors: Leading Tutorials for Grading & Correction\""
 keywords: "Color Grading Tutorials,Artwork Correction Guide,Grading & Correction Skills,Visual Quality Improvement,Color Enhancement Techniques,Masterful Art Editing,Digital Color Management"
-thumbnail: https://www.lifewire.com/thmb/cLzdzaXCHQmL2C9Qufq6ZiO1gSQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-642250032-010d3026f565420eac9ac098bced6278.jpg
+thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b59cc59254c5cb25869dff46a.jpg
 ---
 
 ## A Journey Through Colors: Leading Tutorials for Grading & Correction

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Create Compelling Compositions with iPhone  The Power of Leading Lines\""
-date: 2024-05-24T00:58:45.921Z
-updated: 2024-05-25T00:58:45.921Z
+date: 2024-06-09T20:52:00.991Z
+updated: 2024-06-10T20:52:00.991Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Create Compelling Compositions with iPhone: The Power of Leading Lines\""
 excerpt: "\"This Article Describes [Updated] Create Compelling Compositions with iPhone: The Power of Leading Lines\""
 keywords: "IPhone Composition Tips,Lead With Lines Technique,IPhone Photography Tricks,Compelling Shot iPhone,Artistic Photo Lines,Mobile Image Leading,Photo Composition iPhone"
-thumbnail: https://www.lifewire.com/thmb/yfR53qUtMPAfXllTGyN38y8gqpM=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/keyboard-message-green-earth-183257413-58dbd3023df78c5162129409.jpg
+thumbnail: https://thmb.techidaily.com/7a3bff4e2eede5438bb2fccedcb9095f7ad51baa5a8f2d8fdc6330db34850673.jpg
 ---
 
 ## Create Compelling Compositions with iPhone: The Power of Leading Lines

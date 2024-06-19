@@ -1,7 +1,7 @@
 ---
 title: "VisualVision Studio for Win8"
-date: 2024-05-24T02:28:59.816Z
-updated: 2024-05-25T02:28:59.816Z
+date: 2024-06-09T20:52:05.778Z
+updated: 2024-06-10T20:52:05.778Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes VisualVision Studio for Win8"
 excerpt: "This Article Describes VisualVision Studio for Win8"
 keywords: "Win8 Vision Studio,VisualStudio Win8,Win8 Design Studio,Windows 8 Creatives,Win8 Graphic Suite,VisualWin Studio Tools,Win8 Image Editing Hub"
-thumbnail: https://www.lifewire.com/thmb/RGDsbt708xWy-bclsFwdv7llVks=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/streamingamazonondiscord-a9c34243e5924d5f95a6e11db738646d.jpg
+thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd934a3e89af40244a078e590d9.jpg
 ---
 
 ## VisualVision Studio for Win8

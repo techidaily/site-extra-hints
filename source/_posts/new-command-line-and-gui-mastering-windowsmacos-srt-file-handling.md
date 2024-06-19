@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Command Line & GUI  Mastering Windows/MacOS SRT File Handling\""
-date: 2024-05-24T01:24:04.394Z
-updated: 2024-05-25T01:24:04.394Z
+date: 2024-06-09T20:52:02.767Z
+updated: 2024-06-10T20:52:02.767Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Command Line & GUI: Mastering Windows/MacOS SRT File Handling\""
 excerpt: "\"This Article Describes [New] Command Line & GUI: Mastering Windows/MacOS SRT File Handling\""
 keywords: "\"CLI for SRT Files,GUI in OS File Handling,Mastering MacOS SRT Commands,Windows SRT Editing Tips,Handling SRT on MacOS,CLI-GUI File Management,GUI Tools for SRT Files\""
-thumbnail: https://www.lifewire.com/thmb/ZMruKpVw6zACdr1FRoY3AjKsdfU=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/Cleaningrobotonlaptop_HuberandStarke_GettyImages-1448733073_EVANCROP-8ed67f08b9c4430db8e47c51fde78feb.jpg
+thumbnail: https://thmb.techidaily.com/41df33583a82ea2d9923ca08fb1de828ddad2dc59980553349e15164e2adbb30.jpg
 ---
 
 ## Command Line & GUI: Mastering Windows/MacOS SRT File Handling

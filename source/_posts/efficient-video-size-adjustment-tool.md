@@ -1,7 +1,7 @@
 ---
 title: "Efficient Video Size Adjustment Tool"
-date: 2024-05-24T00:27:53.275Z
-updated: 2024-05-25T00:27:53.275Z
+date: 2024-06-09T20:52:12.560Z
+updated: 2024-06-10T20:52:12.560Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Efficient Video Size Adjustment Tool"
 excerpt: "This Article Describes Efficient Video Size Adjustment Tool"
 keywords: "\"Video Resize Tool,Efficient Video Adjust,Streaming Quality Fix,Quick Size Reduction,Optimize Video File,Adaptive Video Tool,Size-Efficient Streaming\""
-thumbnail: https://www.lifewire.com/thmb/5q5VAPO1_mABa8lvNdiyg5-xmIs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/DiscordProfileImage5-aedff4a1f42145f3b849fc6608730e95.jpg
+thumbnail: https://thmb.techidaily.com/bb7b22db4f29df84af9ef917f29e85118ed689c604ae901531790591bfbc5dab.jpg
 ---
 
 ## Efficient Video Size Adjustment Tool

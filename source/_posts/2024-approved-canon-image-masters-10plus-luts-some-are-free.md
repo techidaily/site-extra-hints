@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Canon Image Masters - 10+ LUTs, Some Are Free\""
-date: 2024-05-24T00:53:34.665Z
-updated: 2024-05-25T00:53:34.665Z
+date: 2024-06-09T20:52:00.397Z
+updated: 2024-06-10T20:52:00.397Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Canon Image Masters - 10+ LUTs, Some Are Free\""
 excerpt: "\"This Article Describes 2024 Approved: Canon Image Masters - 10+ LUTs, Some Are Free\""
 keywords: "Canon LUTs,Free LUTs by Canon,Free Image Masters LUTs,Canon Color Grading Tools,Canon Mastering Options,Premium Canon LUTs,Canon Image Adjustment Suite"
-thumbnail: https://www.lifewire.com/thmb/BC6OeiwkBymr7dc4CcbkqAYWOxw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1251892298-4a6a303ae72a47ff807e5d0b7a9e899a.jpg
+thumbnail: https://thmb.techidaily.com/d03c6bda0db9e446c0d9464753859ee1c2f12f38d94da77b1f5b8b2204a1d875.jpg
 ---
 
 ## Canon Image Masters - 10+ LUTs, Some Are Free

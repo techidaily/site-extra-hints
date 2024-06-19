@@ -1,7 +1,7 @@
 ---
 title: "\"SRT Guide  Everything You Should Know About SRT\""
-date: 2024-05-24T00:20:24.324Z
-updated: 2024-05-25T00:20:24.324Z
+date: 2024-06-09T20:52:04.071Z
+updated: 2024-06-10T20:52:04.071Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes SRT Guide: Everything You Should Know About SRT\""
 excerpt: "\"This Article Describes SRT Guide: Everything You Should Know About SRT\""
 keywords: "SRT Basics,Understanding SRT,SRT Essentials,SRT Fundamentals,Mastering SRT,SRT Overview,SRT Introduction"
-thumbnail: https://www.lifewire.com/thmb/1e0lAWRimhVHbQkTAV-f6BKr0q8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/finger-2081169_1280-1aea4fd076b84091b3468211e7b3b3aa.jpg
+thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987fd8e7537df266174c877eec.jpg
 ---
 
 ## SRT Guide: Everything You Should Know About SRT

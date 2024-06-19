@@ -1,7 +1,7 @@
 ---
 title: "Premiere Smart Goggles Craftsmen"
-date: 2024-05-24T02:14:09.666Z
-updated: 2024-05-25T02:14:09.666Z
+date: 2024-06-09T20:52:10.973Z
+updated: 2024-06-10T20:52:10.973Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Premiere Smart Goggles Craftsmen"
 excerpt: "This Article Describes Premiere Smart Goggles Craftsmen"
 keywords: "\"Smart Goggle Innovation,Crafted Eyewear Premium,Goggles for Artisans,High-End Smart Goggles,Tech in Craftsmutables,Smart Worker's Vision,Exclusive Goggle Design\""
-thumbnail: https://www.lifewire.com/thmb/L_bLJsnpl-tFtCL5yNXr6cWRq-I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Recycle-laptop-battery-94eeae5ae45246b2801317b86b868cb0.jpg
+thumbnail: https://thmb.techidaily.com/cc2d4ffbafce624b537835413e18b0d5bee03ddebe9cf76be61f42eab18cd22c.jpg
 ---
 
 ## Premiere Smart Goggles Craftsmen

@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Photo Text Edits  Online & App Guide\""
-date: 2024-05-24T02:05:15.224Z
-updated: 2024-05-25T02:05:15.224Z
+date: 2024-06-09T20:52:10.774Z
+updated: 2024-06-10T20:52:10.774Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Mastering Photo Text Edits: Online & App Guide\""
 excerpt: "\"This Article Describes Mastering Photo Text Edits: Online & App Guide\""
 keywords: "\"Photo Edit Tips,Text on Images,Online Edit Tools,Photo Correction Guide,Image Text Adjustment,Visual Content Edits,App-Based Image Tuning\""
-thumbnail: https://www.lifewire.com/thmb/88mChmQ2VYUJlsDQVujAG8K38XA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ps4-2326616_1280-09912014986f461fbafdce07c1e9fad1.jpg
+thumbnail: https://thmb.techidaily.com/9b6181d7d07722f8a9a54201f128a4424f9e657e4070376880c0b424223e6faa.jpg
 ---
 
 ## Mastering Photo Text Edits: Online & App Guide

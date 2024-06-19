@@ -1,7 +1,7 @@
 ---
 title: "\"PSD Mastery Journey  Unlimited Complimentary Texts\""
-date: 2024-05-24T00:13:48.880Z
-updated: 2024-05-25T00:13:48.880Z
+date: 2024-06-09T20:52:02.480Z
+updated: 2024-06-10T20:52:02.480Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes PSD Mastery Journey: Unlimited Complimentary Texts\""
 excerpt: "\"This Article Describes PSD Mastery Journey: Unlimited Complimentary Texts\""
 keywords: "PSD Mastery Guide,Free Text Tutorials,Text Design Skills,Complimentary Editing,Unlimited Text Courses,Advanced Typography,Professional Text Artistry"
-thumbnail: https://www.lifewire.com/thmb/ffNLpc-c3s41hXlKLIHluWIm158=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed3-811dc04ac827434a8a7e6390258c8ae1.png
+thumbnail: https://thmb.techidaily.com/b4646e6c7dd57e63be8305e5fc613622e6d7e19134ef2ba8ba5fe989f296bf0b.png
 ---
 
 ## PSD Mastery Journey: Unlimited Complimentary Texts

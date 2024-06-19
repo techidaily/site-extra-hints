@@ -1,7 +1,7 @@
 ---
 title: "\"New Horizons in Video Codecs  Comparing Av1 and VP9\""
-date: 2024-05-24T02:33:10.271Z
-updated: 2024-05-25T02:33:10.271Z
+date: 2024-06-09T20:52:11.280Z
+updated: 2024-06-10T20:52:11.280Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes New Horizons in Video Codecs: Comparing Av1 and VP9\""
 excerpt: "\"This Article Describes New Horizons in Video Codecs: Comparing Av1 and VP9\""
 keywords: "\"Av1 vs VP9 Comparison,Video Coding Advantage,AV1 Versus VP9 Analysis,Codec Efficiency Breakdown,Next-Gen Video Encoders,Av1 and VP9 Performance,Comparing Modern Codecs\""
-thumbnail: https://www.lifewire.com/thmb/NgJyQBGFmsrhkEXhA5pREWNGnoI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/photo-editor-working-on-computer-at-desk-in-office-946928370-5b85791746e0fb0025b40d84.jpg
+thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0043bb6ffedd07e36277b4e8.jpg
 ---
 
 ## New Horizons in Video Codecs: Comparing Av1 and VP9

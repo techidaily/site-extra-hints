@@ -1,7 +1,7 @@
 ---
 title: "Simplicity in Story Construction"
-date: 2024-05-24T01:23:22.212Z
-updated: 2024-05-25T01:23:22.212Z
+date: 2024-06-09T20:52:06.169Z
+updated: 2024-06-10T20:52:06.169Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Simplicity in Story Construction"
 excerpt: "This Article Describes Simplicity in Story Construction"
 keywords: "Story Simplicity SEO,Narrative Efficiency Tips,Streamlined Stories SEO,Crafting Simple Stories,Clear Plot Structuring,Seo for Simple Tales,Basic Storytelling Strategies"
-thumbnail: https://www.lifewire.com/thmb/hHvRn_o6AyGq97eyCxPfzUgw-Ok=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Pen-Signing-Paper-Tetra-Images-Getty-140193384-56a1c2d15f9b58b7d0c2595a.jpg
+thumbnail: https://thmb.techidaily.com/d6c8d5c25a5b3ae8109b2957c3f404be919cf133b41c5b6f6638a7ed5bc1223b.jpg
 ---
 
 ## Simplicity in Story Construction

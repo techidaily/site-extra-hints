@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Aerial Vehicles  A Taxonomy\""
-date: 2024-05-24T01:21:00.510Z
-updated: 2024-05-25T01:21:00.510Z
+date: 2024-06-09T20:52:03.356Z
+updated: 2024-06-10T20:52:03.356Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Aerial Vehicles: A Taxonomy\""
 excerpt: "\"This Article Describes [Updated] Aerial Vehicles: A Taxonomy\""
 keywords: "Aerial Vehicle Types,Drones and VTOLs Classification,Air Craft Segmentation,Flying Machine Categories,UAV Classifications,AeroVehicles Taxonomy,Altitude Transport Systems"
-thumbnail: https://www.lifewire.com/thmb/R2EAcV3wZUv2LpJtJ6Pbo23Xsuk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-752179111-e4cc13e6bc184d0cb0ccfca448ce9aa0.jpg
+thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5dbda3843a3191dbeadf76d9d.jpg
 ---
 
 ## Aerial Vehicles: A Taxonomy

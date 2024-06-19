@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Amplify Visual Impact  Mastering the Art of Applying LUTs with OBS Studio\""
-date: 2024-05-24T02:33:43.759Z
-updated: 2024-05-25T02:33:43.759Z
+date: 2024-06-09T20:52:04.283Z
+updated: 2024-06-10T20:52:04.283Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Amplify Visual Impact: Mastering the Art of Applying LUTs with OBS Studio\""
 excerpt: "\"This Article Describes In 2024, Amplify Visual Impact: Mastering the Art of Applying LUTs with OBS Studio\""
 keywords: "OBS LUTs Techniques,Amplify OBS Visuals,LUTs in OBS,Enhance Vision OBS,Mastery OBS LUTs,OBS Color Grading,Impactful OBS LUTs"
-thumbnail: https://www.lifewire.com/thmb/eM4hZGgmiddhaEuS0uvmoeRFwaY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Chromecast-vs-Roku-33a3c5676af0480bb0d9a294aca6bfc2.jpg
+thumbnail: https://thmb.techidaily.com/9681e2a52e53572a5b2a969e09d45c7b049caa711109cfbd8cfddd28b50dfbe3.jpg
 ---
 
 ## Amplify Visual Impact: Mastering the Art of Applying LUTs with OBS Studio

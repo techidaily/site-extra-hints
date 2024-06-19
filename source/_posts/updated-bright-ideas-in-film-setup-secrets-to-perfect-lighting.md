@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Bright Ideas in Film Setup  Secrets to Perfect Lighting\""
-date: 2024-05-24T00:41:58.582Z
-updated: 2024-05-25T00:41:58.582Z
+date: 2024-06-09T20:52:00.871Z
+updated: 2024-06-10T20:52:00.871Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Bright Ideas in Film Setup: Secrets to Perfect Lighting\""
 excerpt: "\"This Article Describes [Updated] Bright Ideas in Film Setup: Secrets to Perfect Lighting\""
 keywords: "Film Set Lighting Tips,Perfect Lights for Films,Film Brightening Secrets,Ideal Filming Lighting,Film Light Techniques,Light Setup in Cinematography,Secrets Film Lighting"
-thumbnail: https://www.lifewire.com/thmb/8jAJox8ex8XnWv26MEFKz69po5g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/82039841-56a104725f9b58eba4b6ac84.jpg
+thumbnail: https://thmb.techidaily.com/e475d95ff83684e67af3ed3b0fb046f03e477b4f885c10acf9d70c8e5fd03d37.jpg
 ---
 
 ## Bright Ideas in Film Setup: Secrets to Perfect Lighting

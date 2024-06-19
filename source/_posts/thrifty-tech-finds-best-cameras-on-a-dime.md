@@ -1,7 +1,7 @@
 ---
 title: "\"Thrifty Tech Finds  Best Cameras on a Dime\""
-date: 2024-05-24T00:32:35.121Z
-updated: 2024-05-25T00:32:35.121Z
+date: 2024-06-09T20:52:10.057Z
+updated: 2024-06-10T20:52:10.057Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Thrifty Tech Finds: Best Cameras on a Dime\""
 excerpt: "\"This Article Describes Thrifty Tech Finds: Best Cameras on a Dime\""
 keywords: "\"Cheap Cameras Guide,Affordable Camera Tech,Budget-Friendly Cameras,Low-Cost Camera Options,Inexpensive Digital Cameras,Economical Photography Gear,Value-Priced Cameras\""
-thumbnail: https://www.lifewire.com/thmb/ReQPNO-ibbrLI7WMYu2BUkMpfrg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/router-99275904-5a8360cb1f4e130037c0aee3.jpg
+thumbnail: https://thmb.techidaily.com/fb4a67269b09db2a7f2f5849b8bae34d180258d63241c7d8da96fca41cce9da8.jpg
 ---
 
 ## Thrifty Tech Finds: Best Cameras on a Dime

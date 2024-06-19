@@ -1,7 +1,7 @@
 ---
 title: "Prime Cameras for Extreme Pursuits"
-date: 2024-05-24T02:34:43.838Z
-updated: 2024-05-25T02:34:43.838Z
+date: 2024-06-09T20:52:01.128Z
+updated: 2024-06-10T20:52:01.128Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Prime Cameras for Extreme Pursuits"
 excerpt: "This Article Describes Prime Cameras for Extreme Pursuits"
 keywords: "\"Prime Cam Extreme Sports,Ultra-High Definition Outdoors,Action Photography Gear,Premium Camera Wildlife,High Res Nature Photos,Excellent Image Quality Lenses,Top-Tier Sports Cameras\""
-thumbnail: https://www.lifewire.com/thmb/0XOSR_cSdI-UPr8TRlThT4Fytnk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GorillaArmor-6d65059c5c99453d85e9a960592adb9a.jpeg
+thumbnail: https://thmb.techidaily.com/a49d5779dbd8d3bcb3bf8423c93f4ef941ba145d1cb34757b006a9b7dc8bcdff.jpeg
 ---
 
 ## Prime Cameras for Extreme Pursuits

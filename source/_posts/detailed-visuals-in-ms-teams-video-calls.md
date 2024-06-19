@@ -1,7 +1,7 @@
 ---
 title: "Detailed Visuals in MS Teams Video Calls"
-date: 2024-05-24T02:32:48.541Z
-updated: 2024-05-25T02:32:48.541Z
+date: 2024-06-09T20:52:05.312Z
+updated: 2024-06-10T20:52:05.312Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Detailed Visuals in MS Teams Video Calls"
 excerpt: "This Article Describes Detailed Visuals in MS Teams Video Calls"
 keywords: "Team Visuals MS,MS Meeting Graphics,Video Call Images,Clear Video Chat,MS Teams Screen Share,Visuals in Online Meetings,Enhanced Conference Calls"
-thumbnail: https://www.lifewire.com/thmb/t5WmI-P-259DHHwiqqcfb217ZK8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/martin-sanchez-kiocDlMgxmk-unsplash-b9a3ba7266a7423493d2c1371af7d789.jpg
+thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc7679792239ca349164c0b304f.jpg
 ---
 
 ## Detailed Visuals in MS Teams Video Calls

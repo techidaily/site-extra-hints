@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Become a Digital Native in the Metaverse Now\""
-date: 2024-05-24T02:38:50.670Z
-updated: 2024-05-25T02:38:50.670Z
+date: 2024-06-09T20:52:09.628Z
+updated: 2024-06-10T20:52:09.628Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Become a Digital Native in the Metaverse Now\""
 excerpt: "\"This Article Describes 2024 Approved: Become a Digital Native in the Metaverse Now\""
 keywords: "Virtual Natives Begin,Metaverse Learners Join,Digital World Entry,Metaverse Initiates,Online Learning Journey,Navigate Metaverse Growth,Embracing Cyber Space Now"
-thumbnail: https://www.lifewire.com/thmb/u__p9PWL3Uvoj7yKh73LTAz8p1I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphonedefaultalerttone-15a2b7bd66de41878765af23bd0d6c6f.png
+thumbnail: https://thmb.techidaily.com/48eb4fc0f083727828418817e7d3c53949a229ffb44504b07d25f967a878becd.png
 ---
 
 ## Become a Digital Native in the Metaverse Now

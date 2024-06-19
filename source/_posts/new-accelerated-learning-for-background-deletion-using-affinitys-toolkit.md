@@ -1,7 +1,7 @@
 ---
 title: "[New] Accelerated Learning for Background Deletion Using Affinity's Toolkit"
-date: 2024-05-24T02:14:34.159Z
-updated: 2024-05-25T02:14:34.159Z
+date: 2024-06-09T20:52:09.780Z
+updated: 2024-06-10T20:52:09.780Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Accelerated Learning for Background Deletion Using Affinity's Toolkit"
 excerpt: "This Article Describes [New] Accelerated Learning for Background Deletion Using Affinity's Toolkit"
 keywords: "Audio Trailer Soundscapes,Background Music Selection,Trailer Effective Music,Trailer Mood Setting,Ambiance Audio Choices,Film Trailer Tunes,Creative Music for Trailers"
-thumbnail: https://www.lifewire.com/thmb/ptOMVF2coNQ3xHDjYSJNiDTf5gY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/search-error-e0cf43ae96b248189eb82768561c2087.png
+thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0d2036dc5a1ad2aa416dd2a4.png
 ---
 
 ## Accelerated Learning for Background Deletion Using Affinity's Toolkit

@@ -1,7 +1,7 @@
 ---
 title: "\"Zodiac Influence in Your Digital Dossier  Writing Compelling Biographies\""
-date: 2024-05-24T02:30:21.657Z
-updated: 2024-05-25T02:30:21.657Z
+date: 2024-06-09T20:52:07.238Z
+updated: 2024-06-10T20:52:07.238Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Zodiac Influence in Your Digital Dossier: Writing Compelling Biographies\""
 excerpt: "\"This Article Describes Zodiac Influence in Your Digital Dossier: Writing Compelling Biographies\""
 keywords: "\"Zodiac Bio Writing,Zodiac Biography Creation,Digital Dossier Traits,Influence in Personal Profiles,Zodiacal Biographical Tales,Write Zodiac-Influenced Stories,Compelling Bios By Signs\""
-thumbnail: https://www.lifewire.com/thmb/6JhwFDhBTau7o_JB-sXcd6h6mkc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/5440183030_e6c3c5f4b8_b-jason-young-5804eb213df78cbc288062ac.jpg
+thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f5206773825bdc531095627fac7c4.jpg
 ---
 
 ## Zodiac Influence in Your Digital Dossier: Writing Compelling Biographies

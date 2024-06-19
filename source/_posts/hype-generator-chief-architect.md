@@ -1,7 +1,7 @@
 ---
 title: "Hype Generator Chief Architect"
-date: 2024-05-24T01:50:56.820Z
-updated: 2024-05-25T01:50:56.820Z
+date: 2024-06-09T20:52:02.909Z
+updated: 2024-06-10T20:52:02.909Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Hype Generator Chief Architect"
 excerpt: "This Article Describes Hype Generator Chief Architect"
 keywords: "Architect Hype Gen,Chief Hype Genr,Hype Create Arch,Chief Arch Genius,Hype Leader Pro,Architect Innovation,Top Hype Architect"
-thumbnail: https://www.lifewire.com/thmb/UrjQQFvusVB9PNcHD5UDh3sS0Vc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Phone-2-PDP-Glyph-41dfdb6657bc4204828c4686027dfa5c.jpg
+thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d279883606cc35ff29b3863a4d78b16e.jpg
 ---
 
 ## Hype Generator Chief Architect

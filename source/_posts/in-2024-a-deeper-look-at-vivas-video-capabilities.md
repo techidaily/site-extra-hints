@@ -1,7 +1,7 @@
 ---
 title: "In 2024, A Deeper Look at Viva's Video Capabilities"
-date: 2024-05-24T01:35:05.676Z
-updated: 2024-05-25T01:35:05.676Z
+date: 2024-06-09T20:52:07.041Z
+updated: 2024-06-10T20:52:07.041Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, A Deeper Look at Viva's Video Capabilities"
 excerpt: "This Article Describes In 2024, A Deeper Look at Viva's Video Capabilities"
 keywords: "\"Deep Viva Videos,Video Analysis Viva,Viva Video Insight,Exploring Viva Media,Advanced Video Viva,Viva's Video Features,In-Depth Viva Video\""
-thumbnail: https://www.lifewire.com/thmb/zt8RBMAq1SUTZa_KfjMM1Z3MRC0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/PS5controller-4afdb45423ba43bc8e98bf34f1c3b1d6.jpeg
+thumbnail: https://thmb.techidaily.com/26fc91ea31b084d9024cbf2c3260379dfbc09b55f5ef939a3a4cdd1934973c13.jpeg
 ---
 
 ## A Deeper Look at Viva's Video Capabilities

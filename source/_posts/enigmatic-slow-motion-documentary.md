@@ -1,7 +1,7 @@
 ---
 title: "\"Enigmatic Slow-Motion Documentary\""
-date: 2024-05-24T01:30:04.793Z
-updated: 2024-05-25T01:30:04.793Z
+date: 2024-06-09T20:52:11.459Z
+updated: 2024-06-10T20:52:11.459Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Enigmatic Slow-Motion Documentary\""
 excerpt: "\"This Article Describes Enigmatic Slow-Motion Documentary\""
 keywords: "\"Mystical DocuFlow,Slow-Mo Film Magic,Enigma Time-Lapse,Puzzle Slow Video,Arcane Momentum Scene,Riddles in Reel Slow,Labyrinthine Time Clip\""
-thumbnail: https://www.lifewire.com/thmb/PoIF2i4NC-hX4aHVoGsJ2JZyBks=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/fixd-5bcf5b80c9e77c00511ac234.jpg
+thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7ceba807afb11ae201e1d4e5.jpg
 ---
 
 ## Enigmatic Slow-Motion Documentary

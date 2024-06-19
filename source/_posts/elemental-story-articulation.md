@@ -1,7 +1,7 @@
 ---
 title: "Elemental Story Articulation"
-date: 2024-05-24T02:09:34.214Z
-updated: 2024-05-25T02:09:34.214Z
+date: 2024-06-09T20:52:09.535Z
+updated: 2024-06-10T20:52:09.535Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Elemental Story Articulation"
 excerpt: "This Article Describes Elemental Story Articulation"
 keywords: "Articulating Elements,Story Elements Guide,Elemental Narrative Techniques,Storytelling with Elements,Integrating Art in Stories,Fusion of Art and Lore,Creative Story Elements"
-thumbnail: https://www.lifewire.com/thmb/vNiduGzd38MaH6SQoi23lWSaGTw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-122061346-f4d63be5cfde470e9b7192d89497b501.jpg
+thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec122694d578843a25c7f44c71.jpg
 ---
 
 ## Elemental Story Articulation

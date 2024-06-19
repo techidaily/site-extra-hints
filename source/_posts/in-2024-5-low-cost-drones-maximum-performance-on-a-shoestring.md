@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, 5 Low-Cost Drones  Maximum Performance on a Shoestring\""
-date: 2024-05-24T01:15:10.113Z
-updated: 2024-05-25T01:15:10.113Z
+date: 2024-06-09T20:52:04.322Z
+updated: 2024-06-10T20:52:04.322Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, 5 Low-Cost Drones: Maximum Performance on a Shoestring\""
 excerpt: "\"This Article Describes In 2024, 5 Low-Cost Drones: Maximum Performance on a Shoestring\""
 keywords: "\"Budget Drones Performance,Affordable Drone Tech,Cost-Effective Drones,Economical UAVs Excellence,Frugal Drones Quality,Cheap Drone Top Models,Low-Cost Drones High Output\""
-thumbnail: https://www.lifewire.com/thmb/Upemm_83fheu5JnASUVL9rXiGqw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheOscarsStatue-33f6c30d7ffd4694a4dd1d1113de57f5.jpg
+thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6f572fe9945c7d91985d72b7.jpg
 ---
 
 ## 5 Low-Cost Drones: Maximum Performance on a Shoestring

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  2022'S Speed Demon  Olympic Crossers' Greatest Hits\""
-date: 2024-05-24T02:17:18.277Z
-updated: 2024-05-25T02:17:18.277Z
+date: 2024-06-09T20:52:14.060Z
+updated: 2024-06-10T20:52:14.060Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: 2022'S Speed Demon: Olympic Crossers' Greatest Hits\""
 excerpt: "\"This Article Describes 2024 Approved: 2022'S Speed Demon: Olympic Crossers' Greatest Hits\""
 keywords: "\"Olympic X-Cross Record 2022,X-Cross Olympian Achievements,Olympic Cross Country Highlights,Fastest Cross Country Runners 2022,Top Cross Country Athletes 2022,X-Cross Champion Stories 2022,Speed Champions in Olympics 2022\""
-thumbnail: https://www.lifewire.com/thmb/rFjBjbgG4dAis3lB2Bmfagm_oyU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/a-knot-on-a-flex-to-a-portable-computer-close-up--88162993-596506423df78cdc68c20116.jpg
+thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b261fbe4ba782432860cba0bd7.jpg
 ---
 
 ## 2022'S Speed Demon: Olympic Crossers' Greatest Hits

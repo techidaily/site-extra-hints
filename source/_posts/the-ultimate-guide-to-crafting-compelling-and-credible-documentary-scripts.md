@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Crafting Compelling and Credible Documentary Scripts"
-date: 2024-05-24T02:27:22.323Z
-updated: 2024-05-25T02:27:22.323Z
+date: 2024-06-09T20:52:03.009Z
+updated: 2024-06-10T20:52:03.009Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Ultimate Guide to Crafting Compelling and Credible Documentary Scripts"
 excerpt: "This Article Describes The Ultimate Guide to Crafting Compelling and Credible Documentary Scripts"
 keywords: "DocuScript Basics,Film Storytelling,Credible Documentary,Script Writing Tips,Engaging Documentaries,Professional Script Guide,Authentic Script Crafting"
-thumbnail: https://www.lifewire.com/thmb/GDhrkG37mFZypO1GOPnkstb4cjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ipad-comparison-chart-1994214-3d277ab7ac1b4932a36831654c0a42b1.png
+thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851e40e3896cfafa881709bc60.png
 ---
 
 ## The Ultimate Guide to Crafting Compelling and Credible Documentary Scripts

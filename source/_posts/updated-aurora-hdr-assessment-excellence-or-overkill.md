@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Aurora HDR Assessment  Excellence or Overkill?\""
-date: 2024-05-24T00:43:26.647Z
-updated: 2024-05-25T00:43:26.647Z
+date: 2024-06-09T20:52:03.454Z
+updated: 2024-06-10T20:52:03.454Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Aurora HDR Assessment: Excellence or Overkill?\""
 excerpt: "\"This Article Describes [Updated] Aurora HDR Assessment: Excellence or Overkill?\""
 keywords: "HDR Quality Analysis,Aurora HD Effectiveness,HDR In Photography,Evaluating HDR Images,HDR Excellence Debate,Assessing Overuse of HDR,Balancing HDR Usage"
-thumbnail: https://www.lifewire.com/thmb/VzXuyz80lUKLaWW9Q85Xntrc90Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/mobile-tv-watching-521008101-5bedbaefc9e77c00513d6d6c.jpg
+thumbnail: https://thmb.techidaily.com/b291d1186c17a0e27af028a28ffb312d4304bf88d64275a707a4eb2f0cc766f8.jpg
 ---
 
 ## Aurora HDR Assessment: Excellence or Overkill?

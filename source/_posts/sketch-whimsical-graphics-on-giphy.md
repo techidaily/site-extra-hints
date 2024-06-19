@@ -1,7 +1,7 @@
 ---
 title: "Sketch Whimsical Graphics on Giphy"
-date: 2024-05-24T01:55:17.830Z
-updated: 2024-05-25T01:55:17.830Z
+date: 2024-06-09T20:52:13.560Z
+updated: 2024-06-10T20:52:13.560Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Sketch Whimsical Graphics on Giphy"
 excerpt: "This Article Describes Sketch Whimsical Graphics on Giphy"
 keywords: "Gif Sketch Artistry,Whimsical Drawing Gifs,Giphy Graphic Illustration,Sketched Animated Gifs,Playful Graphics on Giphy,Creative Sketch Gifs,Funny Visuals GifHub"
-thumbnail: https://www.lifewire.com/thmb/rHRZPbsfIIPtMA1RYRKO2Ze8ZiM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/nowifivisio-47f9584b5e24444db43e46a2fc630b10.jpg
+thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b29050cd2236573beb2ecb06.jpg
 ---
 
 ## Sketch Whimsical Graphics on Giphy

@@ -1,7 +1,7 @@
 ---
 title: "\"Precision in Visuals  Learning to Soften Specific Areas\""
-date: 2024-05-24T01:14:49.163Z
-updated: 2024-05-25T01:14:49.163Z
+date: 2024-06-09T20:52:11.209Z
+updated: 2024-06-10T20:52:11.209Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Precision in Visuals: Learning to Soften Specific Areas\""
 excerpt: "\"This Article Describes Precision in Visuals: Learning to Soften Specific Areas\""
 keywords: "Visual Precision Tips,Softening Techniques,Area Sharpening Guide,Artistic Image Blur,Focus & Contrast Control,Selective Image Smooth,Targeted Edits Enhancement"
-thumbnail: https://www.lifewire.com/thmb/huwSbK2d3evbFLZP84WrnC3KCxM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Board-Game-25eaf89cd79e445ebe7ce23aeb8a892a.jpg
+thumbnail: https://thmb.techidaily.com/b65c1700fc3be6103fe73469bcdff9ebd5593034f3622d27aea03408c9719ceb.jpg
 ---
 
 ## Precision in Visuals: Learning to Soften Specific Areas

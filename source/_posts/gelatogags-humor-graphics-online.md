@@ -1,7 +1,7 @@
 ---
 title: "\"GelatoGags  Humor Graphics Online\""
-date: 2024-05-24T02:21:21.794Z
-updated: 2024-05-25T02:21:21.794Z
+date: 2024-06-09T20:52:10.904Z
+updated: 2024-06-10T20:52:10.904Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes GelatoGags: Humor Graphics Online\""
 excerpt: "\"This Article Describes GelatoGags: Humor Graphics Online\""
 keywords: "GelatoFunny,GelatoLaughs,GelatoJokes,GelatoGraphics,GelatoHumor,GelatoGags,HumorGelato"
-thumbnail: https://www.lifewire.com/thmb/pB84IVlbNt7SUn9y37ax7gJTFn0=/300x200/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-choose-your-ideal-phonecase-ca91460721b143b0b0ae61b5baf11b3c.jpg
+thumbnail: https://thmb.techidaily.com/a04f09fd3f332adf9ea1d2c4b6687272d88f08a364f88560f34c633d621d6cbc.jpg
 ---
 
 ## GelatoGags: Humor Graphics Online

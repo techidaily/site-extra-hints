@@ -1,7 +1,7 @@
 ---
 title: "Traverse Time's Tapestry with Public Domain Art"
-date: 2024-05-24T00:43:00.703Z
-updated: 2024-05-25T00:43:00.703Z
+date: 2024-06-09T20:52:05.189Z
+updated: 2024-06-10T20:52:05.189Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Traverse Time's Tapestry with Public Domain Art"
 excerpt: "This Article Describes Traverse Time's Tapestry with Public Domain Art"
 keywords: "Timeless Art Trail,PD Art Weaving,Historical Artwork,Free Art Collection,Public Domain Canvas,Classical Art Pieces,Digital Time Portraits"
-thumbnail: https://www.lifewire.com/thmb/x4ELePcuvTvISiLzV5DQ1wwDvMw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Microsoft-Build-small-d7911de8b5f5459498b2c3a4536591fc.jpg
+thumbnail: https://thmb.techidaily.com/071483303e8a1f6026bf0da4b7a67ab78d5daef3d5d188bd12d3a2359c4d77ed.jpg
 ---
 
 ## Traverse Time's Tapestry with Public Domain Art

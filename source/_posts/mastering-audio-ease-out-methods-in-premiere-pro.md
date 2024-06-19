@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Audio Ease-Out Methods in Premiere Pro\""
-date: 2024-05-24T00:39:48.073Z
-updated: 2024-05-25T00:39:48.073Z
+date: 2024-06-09T20:52:13.938Z
+updated: 2024-06-10T20:52:13.938Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Mastering Audio Ease-Out Methods in Premiere Pro\""
 excerpt: "\"This Article Describes Mastering Audio Ease-Out Methods in Premiere Pro\""
 keywords: "\"Premiere Pro Audio Ease,Ease-Out Techniques,Audience Comfort,Audio Edit Mastery,Smooth Sound Transitions,Creative Suite Methods,Pro Video Easing Tricks\""
-thumbnail: https://www.lifewire.com/thmb/mK-HmnWarrLiD8ffOlJlcSgm-2U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed-6870a02faf0b4509a94bb66c2b174d72.jpg
+thumbnail: https://thmb.techidaily.com/6f24909f969f84628da7cca908a8ecbcf1f1310799ac0e990b393370971b6be4.jpg
 ---
 
 ## Mastering Audio Ease-Out Methods in Premiere Pro

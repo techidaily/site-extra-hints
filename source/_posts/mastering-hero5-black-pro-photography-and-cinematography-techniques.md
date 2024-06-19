@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Hero5 Black  Pro Photography & Cinematography Techniques\""
-date: 2024-05-24T00:42:41.507Z
-updated: 2024-05-25T00:42:41.507Z
+date: 2024-06-09T20:52:03.840Z
+updated: 2024-06-10T20:52:03.840Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Mastering Hero5 Black: Pro Photography & Cinematography Techniques\""
 excerpt: "\"This Article Describes Mastering Hero5 Black: Pro Photography & Cinematography Techniques\""
 keywords: "Hero5 Tips,Cinematic Technique,Pro Photo Mastery,Film Cinematography Secrets,Black Hole Photography,Advanced Camera Work,Prov Photo Crafting"
-thumbnail: https://www.lifewire.com/thmb/BON7al6dTidXa-GUMeknCKmbQa4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/does-nintendo-switch-have-netflix-4585193-302b2819925546df8af4c44a1d8b71af.png
+thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a47a862a6e3798990cfe51fb1.png
 ---
 
 ## Mastering Hero5 Black: Pro Photography & Cinematography Techniques

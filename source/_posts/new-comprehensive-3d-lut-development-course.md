@@ -1,7 +1,7 @@
 ---
 title: "[New] Comprehensive 3D LUT Development Course"
-date: 2024-05-24T02:32:33.991Z
-updated: 2024-05-25T02:32:33.991Z
+date: 2024-06-09T20:52:08.737Z
+updated: 2024-06-10T20:52:08.737Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Comprehensive 3D LUT Development Course"
 excerpt: "This Article Describes [New] Comprehensive 3D LUT Development Course"
 keywords: "3D LUT Design Basics,LUT Creation Techniques,Advanced Color Grading,Professional Rendering Tools,Digital Image Processing (DIP) Course,Artistic Visual Effects Class,Expert 3D Color Mapping Training"
-thumbnail: https://www.lifewire.com/thmb/Un1YEqbiCg7tvkvdPUwFi2fhkms=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/pairquesttophone-5ea84b24d0684dab893fe33c5a25b5fa.png
+thumbnail: https://thmb.techidaily.com/3c2c7242db76dee89b0144537322bf00338926834317c4e6bfcb9abc42eeaf14.png
 ---
 
 ## Comprehensive 3D LUT Development Course

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Connected Healing  Telemedicine Evolved\""
-date: 2024-05-24T01:10:03.503Z
-updated: 2024-05-25T01:10:03.503Z
+date: 2024-06-09T20:52:07.792Z
+updated: 2024-06-10T20:52:07.792Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Connected Healing: Telemedicine Evolved\""
 excerpt: "\"This Article Describes [Updated] Connected Healing: Telemedicine Evolved\""
 keywords: "\"Telehealth Innovation,Remote Patient Care,Digital Health Transformation,MedTech Advancement,Virtual Medicine Growth,Online Therapeutic Services,Tech-Driven Healing\""
-thumbnail: https://www.lifewire.com/thmb/1i3oq9smFKn81c4WYVSI492gaLU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/blu-ray-disc-player-information-1846364-ccbae6fd80244359a2a5fada4cd53e40.png
+thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b83c993e13cda25988d89dcf.png
 ---
 
 ## Connected Healing: Telemedicine Evolved

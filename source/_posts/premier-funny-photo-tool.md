@@ -1,7 +1,7 @@
 ---
 title: "Premier Funny Photo Tool"
-date: 2024-05-24T01:52:29.266Z
-updated: 2024-05-25T01:52:29.266Z
+date: 2024-06-09T20:52:13.415Z
+updated: 2024-06-10T20:52:13.415Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Premier Funny Photo Tool"
 excerpt: "This Article Describes Premier Funny Photo Tool"
 keywords: "Funny Photo Editor,Humor Picture Software,Comedy Photography Tool,Hilarity Image Maker,Joke Capture App,Amusing Photo Edit,Giggle Image Tools"
-thumbnail: https://www.lifewire.com/thmb/BVRmeZ6zTnQCdnC9tQl0Du8Dpnw=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/206-terminating-yahoo-account-57f6b3c05f9b586c355390ec.jpg
+thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d04ebfcc926d77ca01d474b27.jpg
 ---
 
 ## Premier Funny Photo Tool

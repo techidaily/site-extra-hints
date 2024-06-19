@@ -1,7 +1,7 @@
 ---
 title: "\"Elite 12 Action Recording Devices with Built-In GPS Systems\""
-date: 2024-05-24T00:34:51.621Z
-updated: 2024-05-25T00:34:51.621Z
+date: 2024-06-09T20:52:13.980Z
+updated: 2024-06-10T20:52:13.980Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Elite 12 Action Recording Devices with Built-In GPS Systems\""
 excerpt: "\"This Article Describes Elite 12 Action Recording Devices with Built-In GPS Systems\""
 keywords: "\"Elite 12 Action Cam,GPS Action Recorders,Built-In GPS Cameras,High-End Recording GPS,Dual Functionality Devices,Professional Action GPS,Top Performance GPS Cameras\""
-thumbnail: https://www.lifewire.com/thmb/CjqB0Pk0fUj0Tw_8pdFRcjZZ25A=/180x120/filters:no_upscale():max_bytes(150000):strip_icc()/WomeninGaming_GettyImages-1395688501_Maskot_Getty_CROPPED-879a39555c2b4c869413033cb8b13112.jpg
+thumbnail: https://thmb.techidaily.com/40e0889241e76e5d59eca7143e9d07b55913d6df3d4a890109030eaaab30cafd.jpg
 ---
 
 ## Elite 12 Action Recording Devices with Built-In GPS Systems

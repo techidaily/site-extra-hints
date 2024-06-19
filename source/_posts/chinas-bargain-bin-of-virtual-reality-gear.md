@@ -1,7 +1,7 @@
 ---
 title: "China's Bargain Bin of Virtual Reality Gear"
-date: 2024-05-24T01:03:13.328Z
-updated: 2024-05-25T01:03:13.328Z
+date: 2024-06-09T20:52:09.742Z
+updated: 2024-06-10T20:52:09.742Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes China's Bargain Bin of Virtual Reality Gear"
 excerpt: "This Article Describes China's Bargain Bin of Virtual Reality Gear"
 keywords: "\"VR China Deals,Virtual Reality Discounts,Cheap VR Equipment China,Low-Cost VR Headsets,Budget VR Gear Market,Affordable Chinese VR,Bargain VR Technology\""
-thumbnail: https://www.lifewire.com/thmb/b8EMy5HxFSYL5CiC3mC0OBMLYDs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/is-comcast-down-or-is-it-you-4802268-9da8f19ae85b4c57879e55b7a87df128.jpg
+thumbnail: https://thmb.techidaily.com/bfe527075b76486c457bb40593f28ebdf4420fa39a7d079da9e7faa5dde71ba1.jpg
 ---
 
 ## China's Bargain Bin of Virtual Reality Gear

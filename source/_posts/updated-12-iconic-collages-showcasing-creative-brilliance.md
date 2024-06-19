@@ -1,7 +1,7 @@
 ---
 title: "[Updated] 12 Iconic Collages Showcasing Creative Brilliance"
-date: 2024-05-24T01:58:22.522Z
-updated: 2024-05-25T01:58:22.522Z
+date: 2024-06-09T20:52:08.686Z
+updated: 2024-06-10T20:52:08.686Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] 12 Iconic Collages Showcasing Creative Brilliance"
 excerpt: "This Article Describes [Updated] 12 Iconic Collages Showcasing Creative Brilliance"
 keywords: "Brilliant Anime Opens,Anime Classic Beginnings,Iconic Anime Openings,Stunning Anime Start,Famous Anime Previews,Popular Anime Intros,Memorable Anime Credits"
-thumbnail: https://www.lifewire.com/thmb/M_X1ma-kuwmeQ-kg-ITiIY4tMQQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2023-03-14at12.27.14PM-07cb4c0039e84004a9918ecb5dee60ec.jpg
+thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c350e0ba60cc8399b6967ad03.jpg
 ---
 
 ## 12 Iconic Collages Showcasing Creative Brilliance

@@ -1,7 +1,7 @@
 ---
 title: "\"Perfect Classic Vacation Flicks  Top 10 for Summer Fun\""
-date: 2024-05-24T01:52:28.716Z
-updated: 2024-05-25T01:52:28.716Z
+date: 2024-06-09T20:52:02.553Z
+updated: 2024-06-10T20:52:02.553Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Perfect Classic Vacation Flicks: Top 10 for Summer Fun\""
 excerpt: "\"This Article Describes Perfect Classic Vacation Flicks: Top 10 for Summer Fun\""
 keywords: "Summer Classic Movies,Perfect Vacation Films,Top Summer Flicks,Classic Summer Classics,Ideal Movie Summers,Best Fun Film Hits,Classic Holiday Blockbusters"
-thumbnail: https://www.lifewire.com/thmb/7qDbbPuSLzuZN4zFzJ05A8TCM0k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/panos-sakalakis-525108-unsplash-5c76011f46e0fb00019b8cda.jpg
+thumbnail: https://thmb.techidaily.com/1b4d426689bd18514a96cb95968cc5a755b1ea7a22bc00e9feef5b8e8bfa78d1.jpg
 ---
 
 ## Perfect Classic Vacation Flicks: Top 10 for Summer Fun

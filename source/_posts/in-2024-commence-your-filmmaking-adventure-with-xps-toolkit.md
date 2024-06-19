@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Commence Your Filmmaking Adventure with XP's Toolkit"
-date: 2024-05-24T01:22:50.690Z
-updated: 2024-05-25T01:22:50.690Z
+date: 2024-06-09T20:52:02.316Z
+updated: 2024-06-10T20:52:02.316Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Commence Your Filmmaking Adventure with XP's Toolkit"
 excerpt: "This Article Describes In 2024, Commence Your Filmmaking Adventure with XP's Toolkit"
 keywords: "Filmmaking Journey,XP Movie Kit,Start Directing,Filmmaking Basics,XP Creation Tools,Begin Screenplay Craft,XP Cinematography Guide"
-thumbnail: https://www.lifewire.com/thmb/OytCEY3_FhC3G4yuYNbQaiei7vg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/discoveryplusturnoffautoplay-9d9f20c89c724e83b9b5f5bbaddc03d8.jpg
+thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81e7fb9a2b0bcd4cf8d7ba0d8.jpg
 ---
 
 ## Commence Your Filmmaking Adventure with XP's Toolkit

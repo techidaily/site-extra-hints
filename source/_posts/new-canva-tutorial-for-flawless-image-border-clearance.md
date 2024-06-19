@@ -1,7 +1,7 @@
 ---
 title: "[New] Canva Tutorial for Flawless Image Border Clearance"
-date: 2024-05-24T00:31:43.063Z
-updated: 2024-05-25T00:31:43.063Z
+date: 2024-06-09T20:52:03.600Z
+updated: 2024-06-10T20:52:03.600Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Canva Tutorial for Flawless Image Border Clearance"
 excerpt: "This Article Describes [New] Canva Tutorial for Flawless Image Border Clearance"
 keywords: "GVREs Expansion Guide,Essential Gear VR Tips,Gear VR Accessories,Gear VR Setup Instructions,Enhance VR Experiences,GVR Device Knowledge,Extend Gear VR Usage"
-thumbnail: https://www.lifewire.com/thmb/WRIh1ZlJssVUKoRPwYSH5qo9eB0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1158697466-60e5f09c462547c48c9788376ed6248d.jpg
+thumbnail: https://thmb.techidaily.com/c0fe8b6f81af5b05eb5adacea58a29fe6fd2f271b6a687457517f15534dc6b13.jpg
 ---
 
 ## Canva Tutorial for Flawless Image Border Clearance

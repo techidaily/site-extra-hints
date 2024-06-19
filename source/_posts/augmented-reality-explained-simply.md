@@ -1,7 +1,7 @@
 ---
 title: "Augmented Reality Explained Simply"
-date: 2024-05-24T00:17:31.323Z
-updated: 2024-05-25T00:17:31.323Z
+date: 2024-06-09T20:52:13.487Z
+updated: 2024-06-10T20:52:13.487Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Augmented Reality Explained Simply"
 excerpt: "This Article Describes Augmented Reality Explained Simply"
 keywords: "AR Basics,AugReality Guide,Simple AR Explanation,Augmented Perception,Easy AR Insight,Reality Enhanced Simplicity,AR for Beginners"
-thumbnail: https://www.lifewire.com/thmb/sx5hd7He1vcpR0KajATX8cwq3zM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Twitter-and-X-4c4103f6bc3c42e0b7197b60a50317ca.jpg
+thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f8bcbe092ec793162bb9610d.jpg
 ---
 
 ## Augmented Reality Explained Simply

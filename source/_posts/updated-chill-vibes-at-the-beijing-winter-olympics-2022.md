@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Chill Vibes at the Beijing Winter Olympics 2022"
-date: 2024-05-24T01:22:46.805Z
-updated: 2024-05-25T01:22:46.805Z
+date: 2024-06-09T20:52:09.106Z
+updated: 2024-06-10T20:52:09.106Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Chill Vibes at the Beijing Winter Olympics 2022"
 excerpt: "This Article Describes [Updated] Chill Vibes at the Beijing Winter Olympics 2022"
 keywords: "Olympic Chill Vibes,Winter Games Relaxation,Beijing Olympics Atmosphere,2022 Olympics Chill,Cold Games Calmness,Winter Olympics Peace,Serene Olympics China"
-thumbnail: https://www.lifewire.com/thmb/KvyKv3qw43Rj30-fBwiiF96FrEQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2021-06-08at11.43.45AM-2ef9daaff54943558fd3a1612153347d.png
+thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33cafa8864cd2873a58b515ce.png
 ---
 
 ## Chill Vibes at the Beijing Winter Olympics 2022

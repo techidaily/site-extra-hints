@@ -1,7 +1,7 @@
 ---
 title: "The Artisan's Path to Memetic Fame via GIFs"
-date: 2024-05-24T02:20:17.980Z
-updated: 2024-05-25T02:20:17.980Z
+date: 2024-06-09T20:52:01.033Z
+updated: 2024-06-10T20:52:01.033Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Artisan's Path to Memetic Fame via GIFs"
 excerpt: "This Article Describes The Artisan's Path to Memetic Fame via GIFs"
 keywords: "Artisan GIF Fame,Memetic Artisan Path,GIFs for Memetics,Crafting GIF Fame,GIF Memetic Journey,Path to Gif Popularity,Artisanal GIF Success"
-thumbnail: https://www.lifewire.com/thmb/ahjGgPBNVXhPGoYIxS7OxgZ4vuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-200544475-001-a23be5e7b0f24905873ef477e09dbbd3.jpg
+thumbnail: https://thmb.techidaily.com/ed5ee8baad91072b118b2d67f1083103fa228337347cb369c95ebc26efcbbaf5.jpg
 ---
 
 ## The Artisan's Path to Memetic Fame via GIFs

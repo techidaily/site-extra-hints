@@ -1,7 +1,7 @@
 ---
 title: "\"Visual Comedy  Make and Share via Kapwing\""
-date: 2024-05-24T01:05:19.873Z
-updated: 2024-05-25T01:05:19.873Z
+date: 2024-06-09T20:52:11.114Z
+updated: 2024-06-10T20:52:11.114Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Visual Comedy: Make and Share via Kapwing\""
 excerpt: "\"This Article Describes Visual Comedy: Make and Share via Kapwing\""
 keywords: "Visual Comedy Tips,Joke Sharing Platforms,Funny Video Creation,Social Media Humor,Digital Comedy Tools,Kapwing Comedy Insights,Share Your Jokes Online"
-thumbnail: https://www.lifewire.com/thmb/mQGqL0eWRfBieVMGM5ZlJAtwh3c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-mobile-boarding-pass-eb61458058f44011ad7ed012566127e4.jpg
+thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9ade996e1956601a5424d0a8.jpg
 ---
 
 ## Visual Comedy: Make and Share via Kapwing

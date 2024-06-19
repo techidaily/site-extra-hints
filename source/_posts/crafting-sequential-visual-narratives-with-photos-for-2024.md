@@ -1,7 +1,7 @@
 ---
 title: "Crafting Sequential Visual Narratives with Photos for 2024"
-date: 2024-05-24T02:04:44.735Z
-updated: 2024-05-25T02:04:44.735Z
+date: 2024-06-09T20:52:01.692Z
+updated: 2024-06-10T20:52:01.692Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Crafting Sequential Visual Narratives with Photos for 2024"
 excerpt: "This Article Describes Crafting Sequential Visual Narratives with Photos for 2024"
 keywords: "PhotoStorytelling,VisualNarrativeSeries,SequentialPhotography,ImagerySequence,PhotonarraiveCrafting,VisuallyNarratedShots,ChronoPhotoSeries"
-thumbnail: https://www.lifewire.com/thmb/z3uV4BuNDzRDQ7ifJS6KaTNCHfs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/001-how-to-fix-google-maps-not-working-4802364-966f13bdac7b41f9a9d357d428e168f8.jpg
+thumbnail: https://thmb.techidaily.com/b366957cb2f5f0bbc845d34641faf6413a6383aa8049e6555ff0f80bdf97ed47.jpg
 ---
 
 ## Crafting Sequential Visual Narratives with Photos

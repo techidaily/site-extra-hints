@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] C-Span Video Acquisition  Secrets Revealed\""
-date: 2024-05-24T01:39:54.509Z
-updated: 2024-05-25T01:39:54.509Z
+date: 2024-06-09T20:52:01.395Z
+updated: 2024-06-10T20:52:01.395Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] C-Span Video Acquisition: Secrets Revealed\""
 excerpt: "\"This Article Describes [Updated] C-Span Video Acquisition: Secrets Revealed\""
 keywords: "\"C-Span Videos,Video Secrets,C-Span Insights,Behind-the-Scenes TV,C-Span Acquisition,Historical Broadcasts,C-Span Revealed\""
-thumbnail: https://www.lifewire.com/thmb/GQnN1xDTyf1WCew2KMfYUeUpvK8=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/WeiliDai-acfe647b60c149869466ebd6d3bd574a.jpg
+thumbnail: https://thmb.techidaily.com/815fea7976911214190dec2e4ce8ef31c5b56fc35aca9555d7d0112a6571e067.jpg
 ---
 
 ## C-Span Video Acquisition: Secrets Revealed

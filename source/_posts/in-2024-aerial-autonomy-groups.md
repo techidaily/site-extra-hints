@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Aerial Autonomy Groups"
-date: 2024-05-24T00:53:18.832Z
-updated: 2024-05-25T00:53:18.832Z
+date: 2024-06-09T20:52:13.813Z
+updated: 2024-06-10T20:52:13.813Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Aerial Autonomy Groups"
 excerpt: "This Article Describes In 2024, Aerial Autonomy Groups"
 keywords: "\"Air Drone Teams,Drones Flight Controls,AI-Controlled Aerial,Unmanned Vehicle Coordination,Sky Robot Groups,Flying Automation Units,UAV Group Navigation\""
-thumbnail: https://www.lifewire.com/thmb/tSsqupVM0VhVIBbMZiulrq4_rTM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-watch-taylor-swift-movies-in-order-a8e26851d3d94bf183a144766801c16c.jpg
+thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b95533429025b3702f8272211ea0.jpg
 ---
 
 ## Aerial Autonomy Groups

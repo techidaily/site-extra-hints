@@ -1,7 +1,7 @@
 ---
 title: "\"Leading 10 Models  Premier 4K DSLR Shoulder Rigs\""
-date: 2024-05-24T01:37:31.660Z
-updated: 2024-05-25T01:37:31.660Z
+date: 2024-06-09T20:52:08.894Z
+updated: 2024-06-10T20:52:08.894Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Leading 10 Models: Premier 4K DSLR Shoulder Rigs\""
 excerpt: "\"This Article Describes Leading 10 Models: Premier 4K DSLR Shoulder Rigs\""
 keywords: "PremierDSLRShoulderRigs,4KDSLRModellingEquipment,HighEndDSLRRigs,Top10DSLRModels,ProDSLRSheepRigs,LeadingDSLRModels,PremierDSLRForModeling"
-thumbnail: https://www.lifewire.com/thmb/ZoFksP-ijfTY1R_eJS-zfSIgOQc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/the-12-best-group-video-call-apps-in-2020-bd94fd657b5643088166b1df441b8614.jpg
+thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5caaa3e52196c91037b09546.jpg
 ---
 
 ## Leading 10 Models: Premier 4K DSLR Shoulder Rigs

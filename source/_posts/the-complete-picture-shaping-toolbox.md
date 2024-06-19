@@ -1,7 +1,7 @@
 ---
 title: "\"The Complete Picture-Shaping Toolbox\""
-date: 2024-05-24T00:51:33.570Z
-updated: 2024-05-25T00:51:33.570Z
+date: 2024-06-09T20:52:11.972Z
+updated: 2024-06-10T20:52:11.972Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes The Complete Picture-Shaping Toolbox\""
 excerpt: "\"This Article Describes The Complete Picture-Shaping Toolbox\""
 keywords: "Shape Pics Toolkit,Artistic Image Guide,Creativity Box,Design Imagery Hub,Visual Ideas Library,Picture Perfection Kit,Creative Composition Set"
-thumbnail: https://www.lifewire.com/thmb/CewnPdEDUshSU0PnqqyQxiaIaFw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-language-exchange-websites-1357059-d87c92dbdba3429dbf17d51ba313b1ff.png
+thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b827af6bb095b68b19082ca48f.png
 ---
 
 ## The Complete Picture-Shaping Toolbox

@@ -1,7 +1,7 @@
 ---
 title: "\"11 Easy-to-Produce Vlog Projects at Home for 2024\""
-date: 2024-05-24T01:05:20.983Z
-updated: 2024-05-25T01:05:20.983Z
+date: 2024-06-09T20:52:06.370Z
+updated: 2024-06-10T20:52:06.370Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 11 Easy-to-Produce Vlog Projects at Home for 2024\""
 excerpt: "\"This Article Describes 11 Easy-to-Produce Vlog Projects at Home for 2024\""
 keywords: "\"Homemade Vlogs,DIY Video Projects,Simple Home Videos,Easy Vlog Creation,Home-Based Filming Ideas,Affordable Vlogging Tips,Quick Home Vlog Concepts\""
-thumbnail: https://www.lifewire.com/thmb/lhbJJfx9jw73NRKSxIbXOun2DPw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Tim-Cook-Apple-Event-d66973a623fa430baa705c97ec37efc2.jpg
+thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a44316e750df20403e0686bc2309.jpg
 ---
 
 ## 11 Easy-to-Produce Vlog Projects at Home

@@ -1,7 +1,7 @@
 ---
 title: "Basic Equipment for Travel Video Creators"
-date: 2024-05-24T02:29:39.946Z
-updated: 2024-05-25T02:29:39.946Z
+date: 2024-06-09T20:52:01.901Z
+updated: 2024-06-10T20:52:01.901Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Basic Equipment for Travel Video Creators"
 excerpt: "This Article Describes Basic Equipment for Travel Video Creators"
 keywords: "\"Travel Videographer Gear,Essential Film Tools,Video Capture Accessories,Creative Travel Equipment,Portable Filming Kit,Mobile Cinematography Supplies,On-the-Go Camera Tech\""
-thumbnail: https://www.lifewire.com/thmb/KAfSjj-IqhTZHQvyAxdtpAFCDK4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/mskrissy1-eb3f2530735c446d9e3d8cdf8d42e729.png
+thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191cb1e756a607d3720738205f.png
 ---
 
 ## Basic Equipment for Travel Video Creators

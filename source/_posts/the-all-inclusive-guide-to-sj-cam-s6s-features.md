@@ -1,7 +1,7 @@
 ---
 title: "\"The All-Inclusive Guide to SJ-CAM S6's Features\""
-date: 2024-05-24T01:34:49.697Z
-updated: 2024-05-25T01:34:49.697Z
+date: 2024-06-09T20:52:02.597Z
+updated: 2024-06-10T20:52:02.597Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes The All-Inclusive Guide to SJ-CAM S6's Features\""
 excerpt: "\"This Article Describes The All-Inclusive Guide to SJ-CAM S6's Features\""
 keywords: "\"SJ-CAM S6 Guide,SJ-CAM Features,SJ-CAM Basics,SJ-CAM Functionalities,SJ-CAM Advanced,SJ-CAM Tips,CAM S6 Essentials\""
-thumbnail: https://www.lifewire.com/thmb/PoIF2i4NC-hX4aHVoGsJ2JZyBks=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/fixd-5bcf5b80c9e77c00511ac234.jpg
+thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7ceba807afb11ae201e1d4e5.jpg
 ---
 
 ## The All-Inclusive Guide to SJ-CAM S6's Features

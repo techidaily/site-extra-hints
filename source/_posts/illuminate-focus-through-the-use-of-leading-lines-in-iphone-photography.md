@@ -1,7 +1,7 @@
 ---
 title: "Illuminate Focus Through the Use of Leading Lines in iPhone Photography"
-date: 2024-05-24T02:18:28.042Z
-updated: 2024-05-25T02:18:28.042Z
+date: 2024-06-09T20:52:13.589Z
+updated: 2024-06-10T20:52:13.589Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Illuminate Focus Through the Use of Leading Lines in iPhone Photography"
 excerpt: "This Article Describes Illuminate Focus Through the Use of Leading Lines in iPhone Photography"
 keywords: "IPhone Leading Lines Photography,Illuminate Focus Techniques,Mobile Photo Composition,Visual Pathways in Photos,Focal Points with iPhones,Lighting Directional Lines,Artistic iPhone Shots"
-thumbnail: https://www.lifewire.com/thmb/A9pTD5g1g1cUZKr7a5KggfD1txU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/142020133-56a1048d5f9b58eba4b6aebe.jpg
+thumbnail: https://thmb.techidaily.com/61e1fbca092ac5d2ffa00e76582e3823f6ee9bd8608e03fb6613489ba0869657.jpg
 ---
 
 ## Illuminate Focus Through the Use of Leading Lines in iPhone Photography

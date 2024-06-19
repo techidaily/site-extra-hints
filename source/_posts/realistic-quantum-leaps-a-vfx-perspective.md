@@ -1,7 +1,7 @@
 ---
 title: "\"Realistic Quantum Leaps  A VFX Perspective\""
-date: 2024-05-24T00:15:11.433Z
-updated: 2024-05-25T00:15:11.433Z
+date: 2024-06-09T20:52:00.552Z
+updated: 2024-06-10T20:52:00.552Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Realistic Quantum Leaps: A VFX Perspective\""
 excerpt: "\"This Article Describes Realistic Quantum Leaps: A VFX Perspective\""
 keywords: "\"Past Views,Historical Images,Time-Lapse Galleries,Visual History,Ancient Artwork,Spectacular Sights,Retrospective Vision\""
-thumbnail: https://www.lifewire.com/thmb/OuVef_5haGHVKpJil20272Du6cI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/computer-internals-with-red-LED-and-RGB-GettyImages-ebb5630f80ee4f8e874dd787739ad3cb.jpg
+thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf4a7b3121bebc119dc83e730.jpg
 ---
 
 ## Realistic Quantum Leaps: A VFX Perspective

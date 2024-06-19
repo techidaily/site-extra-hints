@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Crafting Visual Brilliance  Mastering LUTs in AE\""
-date: 2024-05-24T01:44:39.534Z
-updated: 2024-05-25T01:44:39.534Z
+date: 2024-06-09T20:52:03.756Z
+updated: 2024-06-10T20:52:03.756Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Crafting Visual Brilliance: Mastering LUTs in AE\""
 excerpt: "\"This Article Describes 2024 Approved: Crafting Visual Brilliance: Mastering LUTs in AE\""
 keywords: "\"AE LUT Creation,AE Color Grading,AE Light Tables,Professional Video Editing,Visual Enhancement Tools,Advanced Editor Techniques,High-End VFX Workflows\""
-thumbnail: https://www.lifewire.com/thmb/vwXY4ZVwcerLrMyrYuIV0bJij5Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-logo-dbc6703838ab40ffac436f7f360b79f7.png
+thumbnail: https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a435028604a3c634507f598f5.png
 ---
 
 ## Crafting Visual Brilliance: Mastering LUTs in AE

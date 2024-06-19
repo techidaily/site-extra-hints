@@ -1,7 +1,7 @@
 ---
 title: "\"Voice that Captures Hearts  Intro Artistry\""
-date: 2024-05-24T02:01:05.666Z
-updated: 2024-05-25T02:01:05.666Z
+date: 2024-06-09T20:52:00.902Z
+updated: 2024-06-10T20:52:00.902Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Voice that Captures Hearts: Intro Artistry\""
 excerpt: "\"This Article Describes Voice that Captures Hearts: Intro Artistry\""
 keywords: "Heartfelt Voice Introduction,Captivating Voice Artistry,Introductory Heart Connection,Expressive Voice Art Form,Enchanting Vocal Entry,Passionate Artist Prelude,Charismatic Vocal Premiere"
-thumbnail: https://www.lifewire.com/thmb/W4WRTJiI80qWQugtfcrcauwLImY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rearviewofboywithlaptoponsofa-31ba45dfa7fb4553a257c133b352ef64.jpg
+thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a794c85ff8e27071c7786d452.jpg
 ---
 
 ## Voice that Captures Hearts: Intro Artistry

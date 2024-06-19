@@ -1,7 +1,7 @@
 ---
 title: "\"[New] A Comprehensive Guide to Canon Time-Lapse Video\""
-date: 2024-05-24T02:31:56.609Z
-updated: 2024-05-25T02:31:56.609Z
+date: 2024-06-09T20:52:11.910Z
+updated: 2024-06-10T20:52:11.910Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] A Comprehensive Guide to Canon Time-Lapse Video\""
 excerpt: "\"This Article Describes [New] A Comprehensive Guide to Canon Time-Lapse Video\""
 keywords: "\"Canon TLV Guide,Time-Lapse Photography Tips,Creating Time-Lapses with Canon,Basics of Canon Video Lapse,Canon Camera Time-Lapse,Mastering Time-Lapse with Canon,Guide to Canon Video Timing\""
-thumbnail: https://www.lifewire.com/thmb/ru-jVd0Cvv8tkOSsngOh3taWsHA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-2443739-5b55bc7c46e0fb00378df55b.jpg
+thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d87088006ba977c8519d5351.jpg
 ---
 
 ## A Comprehensive Guide to Canon Time-Lapse Video

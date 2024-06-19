@@ -1,7 +1,7 @@
 ---
 title: "\"Utilizing Azure Speech-to-Text API\""
-date: 2024-05-24T00:45:55.140Z
-updated: 2024-05-25T00:45:55.140Z
+date: 2024-06-09T20:52:08.842Z
+updated: 2024-06-10T20:52:08.842Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Utilizing Azure Speech-to-Text API\""
 excerpt: "\"This Article Describes Utilizing Azure Speech-to-Text API\""
 keywords: "Azure Speech API,Text to Azure,Azure TTS Service,Speech Recognition Azure,Cloud Speech Azure,Azure AI Transcription,Azure Voice API"
-thumbnail: https://www.lifewire.com/thmb/ykb-X1fleqsocOPzjbEHKe67iWs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/1-fda3dfcb691444eebe2921baebecd372.jpg
+thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c3aca95005c1c84fe62729c2.jpg
 ---
 
 ## Utilizing Azure Speech-to-Text API

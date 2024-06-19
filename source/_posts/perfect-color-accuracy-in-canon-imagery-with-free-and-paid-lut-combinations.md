@@ -1,7 +1,7 @@
 ---
 title: "Perfect Color Accuracy in Canon Imagery with Free & Paid LUT Combinations"
-date: 2024-05-24T00:57:24.488Z
-updated: 2024-05-25T00:57:24.488Z
+date: 2024-06-09T20:52:06.580Z
+updated: 2024-06-10T20:52:06.580Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Perfect Color Accuracy in Canon Imagery with Free & Paid LUT Combinations"
 excerpt: "This Article Describes Perfect Color Accuracy in Canon Imagery with Free & Paid LUT Combinations"
 keywords: "\"Perfect Precision Color,Canon Imagery Standards,Accurate Color Luts,LUT Combination Strategies,Free Canon LUTs,Paid Color Correction,High-Quality Image Editing\""
-thumbnail: https://www.lifewire.com/thmb/U2_ZVqdtVZUlaa1Hl3NAfB66OEY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/JSL2-de07f8b4e06e49d58026eedc72df66c7.png
+thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30eaffbfeaeadce5abdbcdc1d.png
 ---
 
 ## Perfect Color Accuracy in Canon Imagery with Free & Paid LUT Combinations

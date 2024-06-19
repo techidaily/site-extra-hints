@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Cheap Sky Expeditions  Under $500 Drone Highlights\""
-date: 2024-05-24T01:12:43.254Z
-updated: 2024-05-25T01:12:43.254Z
+date: 2024-06-09T20:52:12.621Z
+updated: 2024-06-10T20:52:12.621Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Cheap Sky Expeditions: Under $500 Drone Highlights\""
 excerpt: "\"This Article Describes [New] Cheap Sky Expeditions: Under $500 Drone Highlights\""
 keywords: "\"Budget Drones Flight,Cheap Aerial Views,Low-Cost Drone Shots,Inexpensive Drones Sky,Affordable UAV Highlights,Economical Drone Photography,Cost-Effective Droning\""
-thumbnail: https://www.lifewire.com/thmb/wnN-qVO61jMEVKBE1HStiKTk2xY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/lg-channels-guide-1800-x-0f720f6afeb842c299c88baa42f3bd88.jpg
+thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b5686d5a4ad72e83eea7dc08de2.jpg
 ---
 
 ## Cheap Sky Expeditions: Under $500 Drone Highlights
