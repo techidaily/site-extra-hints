@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Break Free From Conventions  Advanced Distortion Art in Photoshop\""
-date: 2024-05-24T02:13:20.175Z
-updated: 2024-05-25T02:13:20.175Z
+date: 2024-06-18T19:43:55.898Z
+updated: 2024-06-19T19:43:55.898Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Break Free From Conventions: Advanced Distortion Art in Photoshop\""
 excerpt: "\"This Article Describes [New] Break Free From Conventions: Advanced Distortion Art in Photoshop\""
 keywords: "PhotoDistortArt,AdvancePhotoshopping,CreativeConViolence,DistortedPhotoTrends,FreePhotographing,ArtisticShock,ViolentImageDesign"
-thumbnail: https://www.lifewire.com/thmb/5dWfE2pdmNCU9qpfDVc7QhYieRw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/X-Logo-on-Phone-35c83db6a3c34b689ab069ff50b96bcc.jpg
+thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
 ---
 
 ## Break Free From Conventions: Advanced Distortion Art in Photoshop

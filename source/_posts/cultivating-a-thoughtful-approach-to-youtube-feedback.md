@@ -1,7 +1,7 @@
 ---
 title: "Cultivating a Thoughtful Approach to YouTube Feedback"
-date: 2024-05-24T00:57:11.102Z
-updated: 2024-05-25T00:57:11.102Z
+date: 2024-06-18T19:44:01.756Z
+updated: 2024-06-19T19:44:01.756Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Cultivating a Thoughtful Approach to YouTube Feedback"
 excerpt: "This Article Describes Cultivating a Thoughtful Approach to YouTube Feedback"
 keywords: "YouTube Feedback Care,Thoughtful Response Tips,Engage Respectfully Online,Mindful Comments Strategy,Positive Video Reviews,Polite Comment Culture,Constructive Video Critiques"
-thumbnail: https://www.lifewire.com/thmb/sujrBq1SN6zkmNgqHTSAbFbTvKk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/18-Hidden-Snapchat-Features-efa75dca521e4cf6bb321dc960276deb.jpg
+thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0bb65c23b15603692f6dffac9.jpg
 ---
 
 ## Cultivating a Thoughtful Approach to YouTube Feedback

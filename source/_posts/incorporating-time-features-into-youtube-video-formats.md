@@ -1,7 +1,7 @@
 ---
 title: "Incorporating Time Features Into YouTube Video Formats"
-date: 2024-05-24T00:36:31.137Z
-updated: 2024-05-25T00:36:31.137Z
+date: 2024-06-18T19:43:58.526Z
+updated: 2024-06-19T19:43:58.526Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Incorporating Time Features Into YouTube Video Formats"
 excerpt: "This Article Describes Incorporating Time Features Into YouTube Video Formats"
 keywords: "Time Features in Video,YouTube Format Time,Video Temporal Enhancement,Incorporate Time Into Video,Adding Time to YouTube Vid,Time Features in Vids,Temporal Aspects of YouTube Video"
-thumbnail: https://www.lifewire.com/thmb/sXDkXR4uqlH0fi0xOmWZKLuZ0XU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1214532639-57ab1d744d2c4ff086695eda92890eb4.jpg
+thumbnail: https://thmb.techidaily.com/971161d0d4b1da3c5be518691bc7a9fd7e29d3fe831ffe5683f3df2b7e432663.jpg
 ---
 
 ## Incorporating Time Features Into YouTube Video Formats

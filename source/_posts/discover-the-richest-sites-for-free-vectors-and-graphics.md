@@ -1,7 +1,7 @@
 ---
 title: "Discover the Richest Sites for Free Vectors & Graphics"
-date: 2024-05-24T01:59:08.425Z
-updated: 2024-05-25T01:59:08.425Z
+date: 2024-06-18T19:43:52.893Z
+updated: 2024-06-19T19:43:52.893Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Discover the Richest Sites for Free Vectors & Graphics"
 excerpt: "This Article Describes Discover the Richest Sites for Free Vectors & Graphics"
 keywords: "Free Vector Graphics Sites,Rich Graphic Resources,Top Vector Designs Online,Free Artistic Imagery Access,Premium Vector Collections,Exclusive Graphics Archives,Wealthy Visual Content Hubs"
-thumbnail: https://www.lifewire.com/thmb/EAqZr-HjkZo5i0jwoEEUqZxRCpc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1437209125-b47ae60035f248e2b01b781f50f919c1.jpg
+thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c2584c8d35c887e62fae8bb62c7.jpg
 ---
 
 ## Discover the Richest Sites for Free Vectors & Graphics

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capturing the Heavens  Phone Panorama Basics\""
-date: 2024-05-24T00:26:08.191Z
-updated: 2024-05-25T00:26:08.191Z
+date: 2024-06-18T19:44:04.277Z
+updated: 2024-06-19T19:44:04.277Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Capturing the Heavens: Phone Panorama Basics\""
 excerpt: "\"This Article Describes [Updated] Capturing the Heavens: Phone Panorama Basics\""
 keywords: "Sky Panoramas,PhotoPanoramaTech,HeavensPanoBasics,MobileStargazing,StarrySkyView,PanoramaPhones,CelestialPhotoGuide"
-thumbnail: https://www.lifewire.com/thmb/FqO8HacH7oOJFhftsem-b4GjiuQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/19-ways-to-fix-netflix-not-working-on-an-lg-tv-8aa3de55433a412cbccba571f825829b.jpg
+thumbnail: https://thmb.techidaily.com/bd7c586aade6fed49cfda54f6e705ff08c3876c36db98184cb0c5aec1615decc.jpg
 ---
 
 ## Capturing the Heavens: Phone Panorama Basics

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Circlesmith's Arsenal\""
-date: 2024-05-24T00:53:37.875Z
-updated: 2024-05-25T00:53:37.875Z
+date: 2024-06-18T19:44:07.818Z
+updated: 2024-06-19T19:44:07.818Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Circlesmith's Arsenal\""
 excerpt: "\"This Article Describes 2024 Approved: Circlesmith's Arsenal\""
 keywords: "Circlesmith Gear,Smithy Tools,Metalwork Supplies,Forging Equipment,Smith Armorset,Blacksmith Arsenal,Craftsman Kit"
-thumbnail: https://www.lifewire.com/thmb/VMPWrpjVgFPc7xmvdAxDfHhWGtw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/12-pc.jpg.thumb-3e7162f1a64a47938ab2b8ffa5d6b02e.jpeg
+thumbnail: https://thmb.techidaily.com/669bc1413d235f8908afbf69f357ad5578fda1c3066e7cdb610eb41a93c8a8ff.jpeg
 ---
 
 ## Circlesmith's Arsenal

@@ -1,7 +1,7 @@
 ---
 title: "\"Techniques for Ignoring Home-Based Educational Media\""
-date: 2024-05-24T01:16:28.276Z
-updated: 2024-05-25T01:16:28.276Z
+date: 2024-06-18T19:44:08.713Z
+updated: 2024-06-19T19:44:08.713Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Techniques for Ignoring Home-Based Educational Media\""
 excerpt: "\"This Article Describes Techniques for Ignoring Home-Based Educational Media\""
 keywords: "\"Homeschooling Distraction Methods,Avoiding Ed-Media at Home,Education Media Rejection Techniques,Non-Engagement with Ed-Media,Shutting Down Educational Media,Ignoring Learning Devices/Tools,Evasion of Online Homeschooling\""
-thumbnail: https://www.lifewire.com/thmb/W5SdHvmRm1AkZ_3S___KYhBKNBA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/linksys-classic-micro-router-pro-6-8b16a5f340964425bdb89a3cc2f42e5d.jpg
+thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036bc18134bd1752c7ab7f277b6.jpg
 ---
 
 ## Techniques for Ignoring Home-Based Educational Media
@@ -89,7 +89,7 @@ To avoid concerns about the 'time spent threshold,' you can pause the video unti
 * Refresh Edgenuity.
 * Drag the marker to the end of the video.
 
-### Here's How To Make More Interesting Tutorial Videos With [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) \- For All The Educators
+### Here's How To Make More Interesting Tutorial Videos With Wondershare Filmora
 
 **Students are more likely to accept videos.**
 

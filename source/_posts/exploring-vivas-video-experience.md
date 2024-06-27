@@ -1,7 +1,7 @@
 ---
 title: "Exploring Viva's Video Experience"
-date: 2024-05-24T00:32:10.936Z
-updated: 2024-05-25T00:32:10.936Z
+date: 2024-06-18T19:44:12.698Z
+updated: 2024-06-19T19:44:12.698Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Exploring Viva's Video Experience"
 excerpt: "This Article Describes Exploring Viva's Video Experience"
 keywords: "Viva Video Journey,Viva Media Streaming,Viva Content Explore,Viva Video Insight,Enjoy Viva Videos,Discover Viva Clips,Watch Viva Visuals"
-thumbnail: https://www.lifewire.com/thmb/MQuF0kYWSV23n_XR72nO-hbBEkA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed1-fb7457dea3e948c5956ae91118a2dbd7.jpg
+thumbnail: https://thmb.techidaily.com/d50bbc29912cb43ec93cd3720edb01228fbd6306ec3185b1604a33af30298ce1.jpg
 ---
 
 ## Exploring Viva's Video Experience

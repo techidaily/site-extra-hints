@@ -1,7 +1,7 @@
 ---
 title: "\"Full Scene Preview  A Complete PPro Manual\""
-date: 2024-05-24T01:00:25.983Z
-updated: 2024-05-25T01:00:25.983Z
+date: 2024-06-18T19:43:55.231Z
+updated: 2024-06-19T19:43:55.231Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Full Scene Preview: A Complete PPro Manual\""
 excerpt: "\"This Article Describes Full Scene Preview: A Complete PPro Manual\""
 keywords: "PPro Guide Full Scene,PPro Prep Complete,Pro Player Training,PPro Skillset Overview,PPro Strategy Preview,Comprehensive PPro Manual,Ultimate PPro Learning"
-thumbnail: https://www.lifewire.com/thmb/BpRBOKItcfeYG4M7aM3w9eMMwLg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-459017673-f192a5b0281140139f5ebf5f81a6694f.jpg
+thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed7177e712ed911926c5fc53a785.jpg
 ---
 
 ## Full Scene Preview: A Complete PPro Manual

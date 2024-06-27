@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Composition and Tints  Mastering Color Usage\""
-date: 2024-05-24T01:46:07.265Z
-updated: 2024-05-25T01:46:07.265Z
+date: 2024-06-18T19:44:02.456Z
+updated: 2024-06-19T19:44:02.456Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Composition and Tints: Mastering Color Usage\""
 excerpt: "\"This Article Describes [New] Composition and Tints: Mastering Color Usage\""
 keywords: "Color Composition Basics,Art Tint Techniques,Mastering Painting Colors,Effective Color Mixing,Understanding Palette Balance,Key Principles in Color Usage,Expertise in Artistic Tints"
-thumbnail: https://www.lifewire.com/thmb/pm4pRKe2jOUQhGmmNOxS1UX4ZxY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1065028028-8e770c58918e4cf8b0852e81cff60ed6.jpg
+thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5b37d142ebd628755c0e5ec6.jpg
 ---
 
 ## Composition and Tints: Mastering Color Usage

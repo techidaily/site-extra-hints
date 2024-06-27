@@ -1,7 +1,7 @@
 ---
 title: "The Case for High Dynamic Range in Modern Videography"
-date: 2024-05-24T02:00:59.600Z
-updated: 2024-05-25T02:00:59.600Z
+date: 2024-06-18T19:44:05.478Z
+updated: 2024-06-19T19:44:05.478Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Case for High Dynamic Range in Modern Videography"
 excerpt: "This Article Describes The Case for High Dynamic Range in Modern Videography"
 keywords: "HD Video Quality,HDR Photography,Videographer Tech,Cinematic Visuals,Enhanced Video Rendering,Dynamic Range Advantage,Modern Videography Upgrade"
-thumbnail: https://www.lifewire.com/thmb/2m05dVVztrBUitNNvZLnp-qDPy4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/artificialintelligenceledeimage-134b9fe3292242f199bc572445a0c5e2.jpg
+thumbnail: https://thmb.techidaily.com/27b127c31cd1d4c4e3c7e2e3da33ec44af88b4b625ba034a78a3512eb4d83268.jpg
 ---
 
 ## The Case for High Dynamic Range in Modern Videography

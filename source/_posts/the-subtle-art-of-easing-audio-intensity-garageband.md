@@ -1,7 +1,7 @@
 ---
 title: "The Subtle Art of Easing Audio Intensity (Garageband)"
-date: 2024-05-24T01:42:19.423Z
-updated: 2024-05-25T01:42:19.423Z
+date: 2024-06-18T19:44:11.040Z
+updated: 2024-06-19T19:44:11.040Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Subtle Art of Easing Audio Intensity (Garageband)"
 excerpt: "This Article Describes The Subtle Art of Easing Audio Intensity (Garageband)"
 keywords: "GarageBand Sound Control,Audio Balance Mastery,Managing Audio Levels,Ease Bass In GarageBand,Softening Audio Volume,Taming Music Intensity,Adjusting Garageband Sounds"
-thumbnail: https://www.lifewire.com/thmb/laYr_bz-G81soaCEO-mXrkZKgVA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-80719175-5c801e67c9e77c0001fd5b12.jpg
+thumbnail: https://thmb.techidaily.com/aea87c60fd17e514ad5b0d00df16de19060de16b7b31b6165884880013291d16.jpg
 ---
 
 ## The Subtle Art of Easing Audio Intensity (Garageband)

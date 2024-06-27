@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, A Filmmaker's Handbook  Mastering Close-Up Videography\""
-date: 2024-05-24T01:36:31.034Z
-updated: 2024-05-25T01:36:31.034Z
+date: 2024-06-18T19:43:54.475Z
+updated: 2024-06-19T19:43:54.476Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, A Filmmaker's Handbook: Mastering Close-Up Videography\""
 excerpt: "\"This Article Describes In 2024, A Filmmaker's Handbook: Mastering Close-Up Videography\""
 keywords: "\"Video Closeup Techniques,Cinematographer Guide,Close-Up Videography Basics,Filmmaker's Closeups Tips,Mastering Videography Shots,Film Closeup Skills Hub,Professional Videography Handbook\""
-thumbnail: https://www.lifewire.com/thmb/PoIF2i4NC-hX4aHVoGsJ2JZyBks=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/fixd-5bcf5b80c9e77c00511ac234.jpg
+thumbnail: https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7ceba807afb11ae201e1d4e5.jpg
 ---
 
 ## A Filmmaker's Handbook: Mastering Close-Up Videography

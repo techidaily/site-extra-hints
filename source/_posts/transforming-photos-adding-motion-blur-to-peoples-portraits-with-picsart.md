@@ -1,7 +1,7 @@
 ---
 title: "\"Transforming Photos  Adding Motion Blur to People's Portraits with Picsart\""
-date: 2024-05-24T00:19:35.314Z
-updated: 2024-05-25T00:19:35.314Z
+date: 2024-06-18T19:43:52.932Z
+updated: 2024-06-19T19:43:52.932Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Transforming Photos: Adding Motion Blur to People's Portraits with Picsart\""
 excerpt: "\"This Article Describes Transforming Photos: Adding Motion Blur to People's Portraits with Picsart\""
 keywords: "Portrait Motion Blur Editing,Picsart Blur Effect,Personalized Photo Enhancement,Dynamic Portrait Adjustments,Blurred People Images,Picsart Photorealism,Artistic Portraits Motion"
-thumbnail: https://www.lifewire.com/thmb/_XuM0RGQqq3Xr9zgilkTIlHeBSM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Machine-Learning-vs-Deep-Learning-916363798b674c2fb4d481a46ad72789.jpg
+thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b69670867cf0671d294f1cd7b.jpg
 ---
 
 ## Transforming Photos: Adding Motion Blur to People's Portraits with Picsart

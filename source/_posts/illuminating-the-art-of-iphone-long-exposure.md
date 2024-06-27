@@ -1,7 +1,7 @@
 ---
 title: "Illuminating the Art of iPhone Long Exposure"
-date: 2024-05-24T01:52:17.093Z
-updated: 2024-05-25T01:52:17.093Z
+date: 2024-06-18T19:44:07.362Z
+updated: 2024-06-19T19:44:07.362Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Illuminating the Art of iPhone Long Exposure"
 excerpt: "This Article Describes Illuminating the Art of iPhone Long Exposure"
 keywords: "IPhone Long Exposure Photography,IPhone Nighttime Photos,Long Exposure on iPhone,Enhancing iPhone Images,Artistic iPhone Shots,Capturing Time with iPhone,Prolonged iPhone Exposure"
-thumbnail: https://www.lifewire.com/thmb/fL68SytTeJL-sSJ-8TL3jOwaDwI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/obi_headshot-14bd66cca0984a39a5b846803a02d1ae.JPG
+thumbnail: https://thmb.techidaily.com/91dc46c6cc6911e9915591791566cdaadd16613fc33817ba0857c51273b662cd.JPG
 ---
 
 ## Illuminating the Art of iPhone Long Exposure

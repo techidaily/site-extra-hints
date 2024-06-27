@@ -1,7 +1,7 @@
 ---
 title: "\"Hustle Smart, Listen Hard  Top Tasks for Podcast Enthusiasts\""
-date: 2024-05-24T02:21:24.017Z
-updated: 2024-05-25T02:21:24.017Z
+date: 2024-06-18T19:43:54.919Z
+updated: 2024-06-19T19:43:54.919Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Hustle Smart, Listen Hard: Top Tasks for Podcast Enthusiasts\""
 excerpt: "\"This Article Describes Hustle Smart, Listen Hard: Top Tasks for Podcast Enthusiasts\""
 keywords: "Podcast Task Planning,Efficient Podcasting,Sound Hustle Tips,Listen Learning Pods,Top Podcast Tasks,Smart Podcast Strategies,Hardcore Podcast Tasks"
-thumbnail: https://www.lifewire.com/thmb/tclvUc96-Ait5kPqxaZfBNJHuEo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-your-ideal-phonecase-ca91460721b143b0b0ae61b5baf11b3c.jpg
+thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
 ---
 
 ## Hustle Smart, Listen Hard: Top Tasks for Podcast Enthusiasts

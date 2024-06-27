@@ -1,7 +1,7 @@
 ---
 title: "[New] Bringing Imagery Elements Into Harmony"
-date: 2024-05-24T01:35:31.246Z
-updated: 2024-05-25T01:35:31.246Z
+date: 2024-06-18T19:44:06.418Z
+updated: 2024-06-19T19:44:06.418Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Bringing Imagery Elements Into Harmony"
 excerpt: "This Article Describes [New] Bringing Imagery Elements Into Harmony"
 keywords: "Image Balance,Artistic Harmony,Creative Composition,Visual Unity,Aesthetic Synergy,Design Cohesion,Imagery Blend"
-thumbnail: https://www.lifewire.com/thmb/Xx8MZlS4QS9KGvb8ZuSVztsqNrQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-safely-use-airport-charging-stations-4690583-01-6085c56e46b34f84b5f5d2d976e20677.jpg
+thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab52940ff719d4e3de086cc546e4e.jpg
 ---
 
 ## Bringing Imagery Elements Into Harmony

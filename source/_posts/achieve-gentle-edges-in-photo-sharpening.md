@@ -1,7 +1,7 @@
 ---
 title: "Achieve Gentle Edges in Photo Sharpening"
-date: 2024-05-24T02:30:59.448Z
-updated: 2024-05-25T02:30:59.448Z
+date: 2024-06-18T19:43:58.341Z
+updated: 2024-06-19T19:43:58.341Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Achieve Gentle Edges in Photo Sharpening"
 excerpt: "This Article Describes Achieve Gentle Edges in Photo Sharpening"
 keywords: "Soft Photo Edge Enhance,Gently Sculpt Pixels,Subtle Sharpness Increase,Delicate Edges Focus,Mild Sharpening Techniques,Gentle Image Clarity Boost,Smooth Image Sharpening"
-thumbnail: https://www.lifewire.com/thmb/AbUU4zD-uREP7Hddr_1MmMfCNoQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/get-wifi-in-your-car-4047954-0f36e2ee5fc4412e88cd1407eefe47df.png
+thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ecfefae2f5882a90863822c25.png
 ---
 
 ## Achieve Gentle Edges in Photo Sharpening

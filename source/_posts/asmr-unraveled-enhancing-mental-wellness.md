@@ -1,7 +1,7 @@
 ---
 title: "\"ASMR Unraveled  Enhancing Mental Wellness\""
-date: 2024-05-24T00:36:11.980Z
-updated: 2024-05-25T00:36:11.980Z
+date: 2024-06-18T19:44:09.167Z
+updated: 2024-06-19T19:44:09.167Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes ASMR Unraveled: Enhancing Mental Wellness\""
 excerpt: "\"This Article Describes ASMR Unraveled: Enhancing Mental Wellness\""
 keywords: "ASMR Health Gain,Mental AsMR,Wellness ASMR,ASMR Benefits,Mind ASMR Aid,ASMR Serenity Boost,ASMR Stress Relief"
-thumbnail: https://www.lifewire.com/thmb/C5NsJYR6FRT4y8jRGIvlsTKr6LU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/santahatcomputer-5ba0332646e0fb0050e7ae93.jpg
+thumbnail: https://thmb.techidaily.com/20e687e989a89b1dd45743ceb6d6d3c635644bf241cd4154d769e7b945709de7.jpg
 ---
 
 ## ASMR Unraveled: Enhancing Mental Wellness

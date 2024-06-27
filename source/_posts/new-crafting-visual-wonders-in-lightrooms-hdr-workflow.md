@@ -1,7 +1,7 @@
 ---
 title: "[New] Crafting Visual Wonders in Lightroom's HDR Workflow"
-date: 2024-05-24T01:38:33.513Z
-updated: 2024-05-25T01:38:33.513Z
+date: 2024-06-18T19:43:55.993Z
+updated: 2024-06-19T19:43:55.993Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Crafting Visual Wonders in Lightroom's HDR Workflow"
 excerpt: "This Article Describes [New] Crafting Visual Wonders in Lightroom's HDR Workflow"
 keywords: "LR HDR Artistry,HDR Lightroom Magic,Lightroom Visionary,HDR Image Crafting,Visual Wonders HDR,Dynamic HDR Processing,Bright HDR Photography"
-thumbnail: https://www.lifewire.com/thmb/U2_ZVqdtVZUlaa1Hl3NAfB66OEY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/JSL2-de07f8b4e06e49d58026eedc72df66c7.png
+thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30eaffbfeaeadce5abdbcdc1d.png
 ---
 
 ## Crafting Visual Wonders in Lightroom's HDR Workflow

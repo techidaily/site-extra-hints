@@ -1,7 +1,7 @@
 ---
 title: "\"Time-Lapse Magic  Animation Through the Lens of Movie Maker\""
-date: 2024-05-24T02:30:12.233Z
-updated: 2024-05-25T02:30:12.233Z
+date: 2024-06-18T19:44:11.575Z
+updated: 2024-06-19T19:44:11.575Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Time-Lapse Magic: Animation Through the Lens of Movie Maker\""
 excerpt: "\"This Article Describes Time-Lapse Magic: Animation Through the Lens of Movie Maker\""
 keywords: "\"Time-Lapse Magic Animation,Movie Maker Time-Lapse,Animation Through Lens,Movie Maker Visuals,Magic Video Creation,Filmmaker Time Capture,Animated Timelapse Art\""
-thumbnail: https://www.lifewire.com/thmb/A2hh3QBSXtt10b0JqR-lTf2WG0E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Copilot-in-Excel-demo-f054e2679c5a4f94b11853286e6026d4.jpg
+thumbnail: https://thmb.techidaily.com/290fdfbe7988bc73a9658535e5e89697be7bda898900fabab3b9425630194609.jpg
 ---
 
 ## Time-Lapse Magic: Animation Through the Lens of Movie Maker

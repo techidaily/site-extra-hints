@@ -1,7 +1,7 @@
 ---
 title: "\"Educational Videography  Key Editing Strategies\""
-date: 2024-05-24T00:17:44.841Z
-updated: 2024-05-25T00:17:44.841Z
+date: 2024-06-18T19:44:14.262Z
+updated: 2024-06-19T19:44:14.262Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Educational Videography: Key Editing Strategies\""
 excerpt: "\"This Article Describes Educational Videography: Key Editing Strategies\""
 keywords: "EduVideoEditingTips,LearnVidEdTechniques,VideoProfEdGuidance,EdTechFilmEditing,VideogrSchoolTactics,AcademicClipsEdit,SchoolMediaStrategies"
-thumbnail: https://www.lifewire.com/thmb/R8mQYHSyvIG9KhbxaCWoxTwRczE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Remotecontrol-dd51ae399bd54bd4adccca5d9d446195.jpg
+thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab49f48ed06a998718358fad4.jpg
 ---
 
 ## Educational Videography: Key Editing Strategies

@@ -1,7 +1,7 @@
 ---
 title: "\"Nikon D500 and Its Stance on High-Quality Imaging\""
-date: 2024-05-24T02:05:16.335Z
-updated: 2024-05-25T02:05:16.335Z
+date: 2024-06-18T19:44:12.364Z
+updated: 2024-06-19T19:44:12.364Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Nikon D500 and Its Stance on High-Quality Imaging\""
 excerpt: "\"This Article Describes Nikon D500 and Its Stance on High-Quality Imaging\""
 keywords: "\"Nikon D500 High Res,D500 Top Imaging,D500 Quality Lens,Nikon D500 Sharp Photos,High-Quality D500,Imaging Excellence D500,D500 Premium Imaging\""
-thumbnail: https://www.lifewire.com/thmb/9-8N1hD2MYqTcjuzb69k4fYxXsk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-469187056-57cdf0a45f9b5829f4457c9a.jpg
+thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e202aee43a31b71787185171a.jpg
 ---
 
 ## Nikon D500 and Its Stance on High-Quality Imaging

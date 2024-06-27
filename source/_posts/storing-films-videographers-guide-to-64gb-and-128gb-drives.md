@@ -1,7 +1,7 @@
 ---
 title: "\"Storing Films  Videographers' Guide to 64GB and 128GB Drives\""
-date: 2024-05-24T00:33:51.243Z
-updated: 2024-05-25T00:33:51.243Z
+date: 2024-06-18T19:43:56.295Z
+updated: 2024-06-19T19:43:56.295Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Storing Films: Videographers' Guide to 64GB and 128GB Drives\""
 excerpt: "\"This Article Describes Storing Films: Videographers' Guide to 64GB and 128GB Drives\""
 keywords: "\"Video Storage Tips,Film Drive Guide,Videographer Storage Solutions,High-Capacity HD Drives,64GB SD Guide,128GB Storage for Filmmaking,Pro Film Drive Selection\""
-thumbnail: https://www.lifewire.com/thmb/QlJ49L63E9oyywyXJAGv3C_qUuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/switcheshero-4f3b792cb7014baf919e7c68b91e96ab.jpg
+thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a6b22046a96709ecae17c234.jpg
 ---
 
 ## Storing Films: Videographers' Guide to 64GB and 128GB Drives

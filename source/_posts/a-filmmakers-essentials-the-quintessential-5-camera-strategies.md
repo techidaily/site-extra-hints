@@ -1,7 +1,7 @@
 ---
 title: "\"A Filmmaker's Essentials  The Quintessential 5 Camera Strategies\""
-date: 2024-05-24T00:53:51.978Z
-updated: 2024-05-25T00:53:51.978Z
+date: 2024-06-18T19:44:10.677Z
+updated: 2024-06-19T19:44:10.677Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes A Filmmaker's Essentials: The Quintessential 5 Camera Strategies\""
 excerpt: "\"This Article Describes A Filmmaker's Essentials: The Quintessential 5 Camera Strategies\""
 keywords: "\"Film Making Basics,Key Camera Tips,Essential Cams Five,Pro Filming Techniques,Top Cam Strategy,Cinematography Secrets,Must-Know Film Tools\""
-thumbnail: https://www.lifewire.com/thmb/x14UrRTf3--IfQ99R_ewwR4TwWY=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104288650-cd3f369f8ead449f94d1a1ce6f55c9de.jpg
+thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006aaa80a48dab2ef20ecc47cd.jpg
 ---
 
 ## A Filmmaker's Essentials: The Quintessential 5 Camera Strategies

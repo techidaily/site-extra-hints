@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Aerial Cinematography Secrets Unveiled\""
-date: 2024-05-24T02:27:37.802Z
-updated: 2024-05-25T02:27:37.802Z
+date: 2024-06-18T19:43:59.288Z
+updated: 2024-06-19T19:43:59.288Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Aerial Cinematography Secrets Unveiled\""
 excerpt: "\"This Article Describes 2024 Approved: Aerial Cinematography Secrets Unveiled\""
 keywords: "Aerial Film Techniques,Sky Shot Filmmaking,Drone Cinematic Tips,Camera Height Insights,Bird's Eye View Crafting,Altitude Filming Secrets,Aviation Photography Guide"
-thumbnail: https://www.lifewire.com/thmb/6jpoPegXRX8McokesqszRR7iEZk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/firmbee-com-eMemmpUojlw-unsplash-78781d3f0a424890af91ca16a6e636a0.jpg
+thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9a0f3270b71a79e318ccd253.jpg
 ---
 
 ## Aerial Cinematography Secrets Unveiled

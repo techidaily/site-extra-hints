@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Appreciation Showcase  Easy Access to OTUs\""
-date: 2024-05-24T01:30:50.338Z
-updated: 2024-05-25T01:30:50.338Z
+date: 2024-06-18T19:44:08.483Z
+updated: 2024-06-19T19:44:08.483Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Appreciation Showcase: Easy Access to OTUs\""
 excerpt: "\"This Article Describes [Updated] Appreciation Showcase: Easy Access to OTUs\""
 keywords: "Easy OTU Access,OTU Identification,Microbial Genomes,Single Cell Analysis,Biological Diversity,Bioinformatics Tools,Phylogenetic Studies"
-thumbnail: https://www.lifewire.com/thmb/WM1s7UDQZgn-NyUuhG5tsE54IIU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/streamingdune-5c16c09fb2e842f6ad5d176b47046b49.jpg
+thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9f150048899a6b75835712f0.jpg
 ---
 
 ## Appreciation Showcase: Easy Access to OTUs

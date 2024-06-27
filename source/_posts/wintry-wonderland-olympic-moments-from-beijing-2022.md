@@ -1,7 +1,7 @@
 ---
 title: "\"Wintry Wonderland  Olympic Moments From Beijing 2022\""
-date: 2024-05-24T02:21:47.325Z
-updated: 2024-05-25T02:21:47.325Z
+date: 2024-06-18T19:43:58.944Z
+updated: 2024-06-19T19:43:58.944Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Wintry Wonderland: Olympic Moments From Beijing 2022\""
 excerpt: "\"This Article Describes Wintry Wonderland: Olympic Moments From Beijing 2022\""
 keywords: "Beijing Olympics Snow,Winter Games China,Olympic Ice Skating,Curling Beijing 2022,Figure Skate Champs,Ski Jumpers Beijing,Ice Hockey Gold Medal"
-thumbnail: https://www.lifewire.com/thmb/siASk6ug5XxPdLigzsCwwXe_C8w=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed1-9c9badc69b6246a986855f6f923185d8.jpg
+thumbnail: https://thmb.techidaily.com/c7cd587848b7c423971790fdb3b04288b53670a44c37276f13cc96d749320e4c.jpg
 ---
 
 ## Wintry Wonderland: Olympic Moments From Beijing 2022

@@ -1,7 +1,7 @@
 ---
 title: "\"Non-Athletic Games  The Best 10 Front Rows\""
-date: 2024-05-24T01:23:18.337Z
-updated: 2024-05-25T01:23:18.337Z
+date: 2024-06-18T19:44:01.701Z
+updated: 2024-06-19T19:44:01.701Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Non-Athletic Games: The Best 10 Front Rows\""
 excerpt: "\"This Article Describes Non-Athletic Games: The Best 10 Front Rows\""
 keywords: "\"Non-Athlete Games,Front Row Selection,Casual Game Fronts,Fun Sports Alternatives,Leisure Sport Rows,Easy Sports Options,Light Physical Activities\""
-thumbnail: https://www.lifewire.com/thmb/hChEC-0UB0ou0mefNP4ASWlLbfo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/xblfeat-5c51f48446e0fb00014c3a59.jpg
+thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686720a91de941d4b85521ee34.jpg
 ---
 
 ## Non-Athletic Games: The Best 10 Front Rows

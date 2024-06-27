@@ -1,7 +1,7 @@
 ---
 title: "\"Blitz Photography  Crafting Quick Google Collage Images for 2024\""
-date: 2024-05-24T00:58:27.210Z
-updated: 2024-05-25T00:58:27.210Z
+date: 2024-06-18T19:43:58.657Z
+updated: 2024-06-19T19:43:58.657Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Blitz Photography: Crafting Quick Google Collage Images for 2024\""
 excerpt: "\"This Article Describes Blitz Photography: Crafting Quick Google Collage Images for 2024\""
 keywords: "Fast Photogrphies SEO,Blitz Photo Collage,Quik Google Image,Rapid Photo SEO,Blitz Collage Search,Quick Images SEO,Blitz Google Photos"
-thumbnail: https://www.lifewire.com/thmb/BPYPQrXsNWygpcoCT-Bo8NlAS2Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1094009490-2694d308001d46049e0755f4dd7fdf4c.jpg
+thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f07504ad9ddbf600b0c76aae.jpg
 ---
 
 ## Blitz Photography: Crafting Quick Google Collage Images

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Composition and Tints  Mastering Color Usage\""
-date: 2024-05-24T00:31:49.900Z
-updated: 2024-05-25T00:31:49.900Z
+date: 2024-06-18T19:44:11.771Z
+updated: 2024-06-19T19:44:11.771Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Composition and Tints: Mastering Color Usage\""
 excerpt: "\"This Article Describes In 2024, Composition and Tints: Mastering Color Usage\""
 keywords: "Color Composition Basics,Art Tint Techniques,Mastering Painting Colors,Effective Color Mixing,Understanding Palette Balance,Key Principles in Color Usage,Expertise in Artistic Tints"
-thumbnail: https://www.lifewire.com/thmb/3zMdgx5u-I1b9AlTuItMhiE6wWQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/erik-lucatero-VcOwZMahmCQ-unsplash-7714083297a048f3848156a836a80b13.jpg
+thumbnail: https://thmb.techidaily.com/b46b34fd5ad4244a5b3542fda6e0ba281358e5c36628241992e02c966a06886d.jpg
 ---
 
 ## Composition and Tints: Mastering Color Usage

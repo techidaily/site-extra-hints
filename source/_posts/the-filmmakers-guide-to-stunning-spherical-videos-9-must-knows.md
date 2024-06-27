@@ -1,7 +1,7 @@
 ---
 title: "\"The Filmmaker's Guide to Stunning Spherical Videos (9 Must-Knows)\""
-date: 2024-05-24T00:19:25.692Z
-updated: 2024-05-25T00:19:25.692Z
+date: 2024-06-18T19:44:09.452Z
+updated: 2024-06-19T19:44:09.452Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes The Filmmaker's Guide to Stunning Spherical Videos (9 Must-Knows)\""
 excerpt: "\"This Article Describes The Filmmaker's Guide to Stunning Spherical Videos (9 Must-Knows)\""
 keywords: "FilmMakingSphereVids,SphericalVideoGuide,VedSphereTips,VideoDirectingSphere,StunningSphereFilm,FilmmakerSphereTricks,SphereVideoTutorials"
-thumbnail: https://www.lifewire.com/thmb/DCkyrrIKF6IlOibLq3FWXS7tDbE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Google-Nest-Audio-vs-Google-Nest-Mini-2-85c4f29a43b24769a97f645fc3dd5687.jpg
+thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050db781f6bcdf9e50e7619aa67.jpg
 ---
 
 ## The Filmmaker's Guide to Stunning Spherical Videos (9 Must-Knows)

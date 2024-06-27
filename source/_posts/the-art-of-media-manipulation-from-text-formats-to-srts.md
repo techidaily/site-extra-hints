@@ -1,7 +1,7 @@
 ---
 title: "\"The Art of Media Manipulation  From Text Formats to SRTs\""
-date: 2024-05-24T01:42:17.743Z
-updated: 2024-05-25T01:42:17.743Z
+date: 2024-06-18T19:43:53.995Z
+updated: 2024-06-19T19:43:53.995Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes The Art of Media Manipulation: From Text Formats to SRTs\""
 excerpt: "\"This Article Describes The Art of Media Manipulation: From Text Formats to SRTs\""
 keywords: "Media Manip Techniques,SRT Format Adjustment,Text Manipulation Arts,SRT Content Creation,Editing for Media Impact,SRT Text Alignment,SRT Video Enhancement"
-thumbnail: https://www.lifewire.com/thmb/71reoJ08pe9fxU7SLDHBCk0MgVg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
 ## The Art of Media Manipulation: From Text Formats to SRTs

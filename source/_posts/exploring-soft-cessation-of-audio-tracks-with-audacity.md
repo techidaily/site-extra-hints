@@ -1,7 +1,7 @@
 ---
 title: "Exploring Soft Cessation of Audio Tracks with Audacity"
-date: 2024-05-24T00:44:03.089Z
-updated: 2024-05-25T00:44:03.089Z
+date: 2024-06-18T19:43:56.555Z
+updated: 2024-06-19T19:43:56.555Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Exploring Soft Cessation of Audio Tracks with Audacity"
 excerpt: "This Article Describes Exploring Soft Cessation of Audio Tracks with Audacity"
 keywords: "\"Audacity Audio Editing,Soft Track Pause,Audio Cessation Techniques,Non-Abrupt Audio Stop,Silent Track Creation,Pause Audio Tracks Gently,Manual Track Silence\""
-thumbnail: https://www.lifewire.com/thmb/R4hO61lalLOqraKCRcJdmU6HWfQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/0010_21-best-teen-movies-on-netflix-5104880-b0e9832746854cabb4f33cafef96214b.jpg
+thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d9b87e9c40850a4f81b5f21f.jpg
 ---
 
 ## Exploring Soft Cessation of Audio Tracks with Audacity
@@ -79,7 +79,7 @@ Even though it's still thought of as difficult, time-consuming work, audio editi
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-##### Step1 Download and Install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Step1 Download and Install Filmora
 
 Installing Filmora, a straightforward platform for starting to edit your audio and music files, is the first step. You must first download and install this application on your Windows PC in order to utilize it without problem. Download the most current edition of this application first. It's now time to install it on your computer when you've completed that. Simply install this program on your computer by following the standard setup instructions if you want to do it fast.
 
@@ -117,7 +117,7 @@ You may access a variety of tools and services on the platform known as Audacity
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-##### Step1 Download and Install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Step1 Download and Install Filmora
 
 Installing Filmora, a straightforward platform for starting to edit your audio and music files, is the first step. You must first download and install this application on your Windows PC in order to utilize it without problem. Download the most current edition of this application first. It's now time to install it on your computer when you've completed that. Simply install this program on your computer by following the standard setup instructions if you want to do it fast.
 

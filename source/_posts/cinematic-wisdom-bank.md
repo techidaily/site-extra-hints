@@ -1,7 +1,7 @@
 ---
 title: "Cinematic Wisdom Bank"
-date: 2024-05-24T02:22:27.882Z
-updated: 2024-05-25T02:22:27.882Z
+date: 2024-06-18T19:43:58.465Z
+updated: 2024-06-19T19:43:58.465Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Cinematic Wisdom Bank"
 excerpt: "This Article Describes Cinematic Wisdom Bank"
 keywords: "Movie Insight Secrets,Film Knowledge Hub,Cinema Smart Tips,Director's Teachings,Screenplay Advice,Auteur Wisdom Guide,Cinematic Brain Bank"
-thumbnail: https://www.lifewire.com/thmb/ehdDK2kB_g10ki14S7Le00Xplyo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/DolphinwebbrowserfromMoboTap-a1801c64ac094dfdb045aa47915e934c.jpg
+thumbnail: https://thmb.techidaily.com/5307ccfc777a39b3d6969599149826d5178dfcbddb72a6dfb46b368d884a1028.jpg
 ---
 
 ## Cinematic Wisdom Bank

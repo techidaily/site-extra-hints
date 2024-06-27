@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Capturing Brilliance with the Q500 Drone\""
-date: 2024-05-24T01:28:17.174Z
-updated: 2024-05-25T01:28:17.174Z
+date: 2024-06-18T19:44:06.794Z
+updated: 2024-06-19T19:44:06.794Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Capturing Brilliance with the Q500 Drone\""
 excerpt: "\"This Article Describes 2024 Approved: Capturing Brilliance with the Q500 Drone\""
 keywords: "\"Q500 Drone Pro,Drones Photography,Aerial Captures Q500,High-Res Drone Imaging,Brilliant Aerial Shots,Drone Q500 Innovation,Professional Dronemagic\""
-thumbnail: https://www.lifewire.com/thmb/ffNLpc-c3s41hXlKLIHluWIm158=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed3-811dc04ac827434a8a7e6390258c8ae1.png
+thumbnail: https://thmb.techidaily.com/b4646e6c7dd57e63be8305e5fc613622e6d7e19134ef2ba8ba5fe989f296bf0b.png
 ---
 
 ## Capturing Brilliance with the Q500 Drone

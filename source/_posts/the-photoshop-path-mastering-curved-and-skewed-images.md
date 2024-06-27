@@ -1,7 +1,7 @@
 ---
 title: "\"The Photoshop Path  Mastering Curved and Skewed Images\""
-date: 2024-05-24T00:42:57.899Z
-updated: 2024-05-25T00:42:57.899Z
+date: 2024-06-18T19:44:10.939Z
+updated: 2024-06-19T19:44:10.939Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes The Photoshop Path: Mastering Curved and Skewed Images\""
 excerpt: "\"This Article Describes The Photoshop Path: Mastering Curved and Skewed Images\""
 keywords: "Photoshop Image Correction,Master Curve Adjustment,Skew Editing Techniques,Curved Image Processing,Digital Photo Enhancement,Tilt and Scale Transformations,Creative Image Warping"
-thumbnail: https://www.lifewire.com/thmb/qiktAkdIlSu9VsdFjM1R46-msZU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/editing-5c8a53d446e0fb0001336621.png
+thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281721c2dd1a2340c4240b4f62.png
 ---
 
 ## The Photoshop Path: Mastering Curved and Skewed Images

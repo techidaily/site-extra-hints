@@ -1,7 +1,7 @@
 ---
 title: "Pursuing Prolonged iPhone Night Sky Captures"
-date: 2024-05-24T02:09:58.627Z
-updated: 2024-05-25T02:09:58.627Z
+date: 2024-06-18T19:44:11.756Z
+updated: 2024-06-19T19:44:11.756Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Pursuing Prolonged iPhone Night Sky Captures"
 excerpt: "This Article Describes Pursuing Prolonged iPhone Night Sky Captures"
 keywords: "Night Sky iPhone Photos,IPhone Starry Landscape,Long Exposure iPhone Shots,High Res iPhone Nightscape,Stargazing iPhone Capture,Longevity iPhone Astrophotography,Prolonged iPhone Celestial Images"
-thumbnail: https://www.lifewire.com/thmb/4MzQVD7hvg3LqrJguvtCUGY_xnA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-990620130-ec2a7076e3f043bfa4f540b72d2034c6.jpg
+thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd4f5906c27990e96a64caabf.jpg
 ---
 
 ## Pursuing Prolonged iPhone Night Sky Captures

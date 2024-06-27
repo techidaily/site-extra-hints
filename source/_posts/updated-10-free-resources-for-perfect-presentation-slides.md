@@ -1,7 +1,7 @@
 ---
 title: "[Updated] 10 Free Resources for Perfect Presentation Slides"
-date: 2024-05-24T02:17:17.170Z
-updated: 2024-05-25T02:17:17.170Z
+date: 2024-06-18T19:44:07.011Z
+updated: 2024-06-19T19:44:07.012Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] 10 Free Resources for Perfect Presentation Slides"
 excerpt: "This Article Describes [Updated] 10 Free Resources for Perfect Presentation Slides"
 keywords: "\"FREE Slide Designs,Presentation Tips,No-Cost Templates,Effective Slideshow,Costless Resource Guide,Perfect Slides Essentials,Free Presentation Tools\""
-thumbnail: https://www.lifewire.com/thmb/tmFYz3-a45XjOnstllYBhNxpyMM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/aether-6066d2f8168142fab48a9181cb188da7.jpg
+thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89327096af45fe59619012883.jpg
 ---
 
 ## 10 Free Resources for Perfect Presentation Slides

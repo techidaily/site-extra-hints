@@ -1,7 +1,7 @@
 ---
 title: "\"Pixelated Projections  Immersive Filmscape\""
-date: 2024-05-24T01:21:50.824Z
-updated: 2024-05-25T01:21:50.824Z
+date: 2024-06-18T19:43:55.490Z
+updated: 2024-06-19T19:43:55.490Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Pixelated Projections: Immersive Filmscape\""
 excerpt: "\"This Article Describes Pixelated Projections: Immersive Filmscape\""
 keywords: "Pixel Art Films,Film Immersion,Virtual Cinemas,Digital Screenplays,Cinema Projection,VR Movies Magic,Augmented Filmscapes"
-thumbnail: https://www.lifewire.com/thmb/5RTbarRW5EYz-SZovd7jyZM6TIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/update-3362089_1920-e52cc32797cc4803ab2f51a0139e4875.jpg
+thumbnail: https://thmb.techidaily.com/7bb5cd6c098dcc354a1616a8cf729a503ba552ba0d30358349d319e43f0bdaa3.jpg
 ---
 
 ## Pixelated Projections: Immersive Filmscape

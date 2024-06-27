@@ -1,7 +1,7 @@
 ---
 title: "\"Into the Abyss and Beyond  Shadowbearer Vs Daybeam\""
-date: 2024-05-24T01:43:33.869Z
-updated: 2024-05-25T01:43:33.869Z
+date: 2024-06-18T19:44:12.467Z
+updated: 2024-06-19T19:44:12.467Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Into the Abyss and Beyond: Shadowbearer Vs Daybeam\""
 excerpt: "\"This Article Describes Into the Abyss and Beyond: Shadowbearer Vs Daybeam\""
 keywords: "Shadowbearer Clash,Daybeam Showdown,Into The Void,Shadow vs Light,Abyssal Battle,Beyond Limits,Epic Shadowfights"
-thumbnail: https://www.lifewire.com/thmb/KTAZAQNAYZb70h8sHPRLDWgojwg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/cebit-2012-technology-trade-fair-140705980-583a92d05f9b58d5b1136c37.jpg
+thumbnail: https://thmb.techidaily.com/c9bde50ffc9a9a68a0d89e0f0e5e46cd2e144cb4ea5d9637c925f68f1f756db1.jpg
 ---
 
 ## Into the Abyss and Beyond: Shadowbearer Vs Daybeam

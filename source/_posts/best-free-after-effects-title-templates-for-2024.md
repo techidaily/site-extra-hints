@@ -1,7 +1,7 @@
 ---
 title: "Best Free After Effects Title Templates for 2024"
-date: 2024-05-24T01:02:52.327Z
-updated: 2024-05-25T01:02:52.327Z
+date: 2024-06-18T19:44:09.997Z
+updated: 2024-06-19T19:44:09.997Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Best Free After Effects Title Templates for 2024"
 excerpt: "This Article Describes Best Free After Effects Title Templates for 2024"
 keywords: "\"Free AE Template Creation,Cost-Free AE Titles,Top Free AE Designs,Essential Free AE Templates,Ideal Free Title AE,Premium Free AE Options,Optimal Free AETitles\""
-thumbnail: https://www.lifewire.com/thmb/ihHXhscRd_7pjZenuKYSLpv9OwM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed2-60f231b72c19491683c2166c9285b34d.jpg
+thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50b7aab7a2fe4029be64b0298.jpg
 ---
 
 ## Best Free After Effects Title Templates

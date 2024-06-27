@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Adopting PowerPoint’s Advanced Speech-to-Text Functionality for Dynamic Slide Shows\""
-date: 2024-05-24T00:32:47.546Z
-updated: 2024-05-25T00:32:47.546Z
+date: 2024-06-18T19:44:13.846Z
+updated: 2024-06-19T19:44:13.846Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Adopting PowerPoint’s Advanced Speech-to-Text Functionality for Dynamic Slide Shows\""
 excerpt: "\"This Article Describes [New] Adopting PowerPoint’s Advanced Speech-to-Text Functionality for Dynamic Slide Shows\""
 keywords: "\"PowerPoint Speech-to-Text,Dynamic Slide Captions,Real-Time Transcription,Enhanced Presentation Aids,Advanced TTS Functionality,Interactive Slideshows,Textual Audio Conversion\""
-thumbnail: https://www.lifewire.com/thmb/RVHYcHxZK80TLaMk4bNfK1rMPWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/getty_images_Morsa_Images-166b38a9c3184b1aa5d051f113d51828.jpg
+thumbnail: https://thmb.techidaily.com/482035835ea328d1609501451811446cad884a7a61227ca3ca092b735291d94d.jpg
 ---
 
 ## Adopting PowerPoint’s Advanced Speech-to-Text Functionality for Dynamic Slide Shows

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, A Beginner-Friendly Approach to SRT Knowledge\""
-date: 2024-05-24T01:30:45.320Z
-updated: 2024-05-25T01:30:45.320Z
+date: 2024-06-18T19:44:06.389Z
+updated: 2024-06-19T19:44:06.389Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, A Beginner-Friendly Approach to SRT Knowledge\""
 excerpt: "\"This Article Describes In 2024, A Beginner-Friendly Approach to SRT Knowledge\""
 keywords: "Srt Basics,Srt for Newbies,Learn SRT Quickly,Easy SRT Guide,Start SRT Today,SRT Foundations,Beginner's SRT Tips"
-thumbnail: https://www.lifewire.com/thmb/JVF5j2ixNkw6YsOsj4P4vtZrB-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/connect-tv-to-stereo-system-3135127-83ec0f315fa54c1290555169d689ad88.jpg
+thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c957109090842f5892749c79.jpg
 ---
 
 ## A Beginner-Friendly Approach to SRT Knowledge

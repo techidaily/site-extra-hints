@@ -1,7 +1,7 @@
 ---
 title: "\"Director's Diary  Filmo Q&A Series\""
-date: 2024-05-24T00:18:56.383Z
-updated: 2024-05-25T00:18:56.383Z
+date: 2024-06-18T19:43:55.154Z
+updated: 2024-06-19T19:43:55.154Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Director's Diary: Filmo Q&A Series\""
 excerpt: "\"This Article Describes Director's Diary: Filmo Q&A Series\""
 keywords: "\"Film Director Insights,Cinematic Q&A Sessions,Movie Making Tips,Behind-the-Scenes Diaries,Directors' Interview Series,Film Industry Exclusives,Creative Filmmaker Dialogues\""
-thumbnail: https://www.lifewire.com/thmb/mQGqL0eWRfBieVMGM5ZlJAtwh3c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-mobile-boarding-pass-eb61458058f44011ad7ed012566127e4.jpg
+thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9ade996e1956601a5424d0a8.jpg
 ---
 
 ## Director's Diary: Filmo Q&A Series

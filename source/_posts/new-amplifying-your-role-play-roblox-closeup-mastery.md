@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Amplifying Your Role-Play  Roblox Closeup Mastery\""
-date: 2024-05-24T02:15:55.466Z
-updated: 2024-05-25T02:15:55.466Z
+date: 2024-06-18T19:44:04.380Z
+updated: 2024-06-19T19:44:04.380Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Amplifying Your Role-Play: Roblox Closeup Mastery\""
 excerpt: "\"This Article Describes [New] Amplifying Your Role-Play: Roblox Closeup Mastery\""
 keywords: "\"Roleplay Mastery Tips,Closer Insights in RP,Enhance Roblox Play,Virtual World Skills,Improve RB Gaming,Closeup Techniques,Advance Role-Playing\""
-thumbnail: https://www.lifewire.com/thmb/wbIj8Nnh7GHWuHhw-jihfDWuFcY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/6-best-parental-control-apps-of-2019-featured-c5b50932ab9c4c0fbc0757665e46b6b2.jpg
+thumbnail: https://thmb.techidaily.com/54fd3e003b786647a6f1d7a89a0a9ff3e56e44f972b8ef6e36ebd7fc54a18cb3.jpg
 ---
 
 ## Amplifying Your Role-Play: Roblox Closeup Mastery

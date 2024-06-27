@@ -1,7 +1,7 @@
 ---
 title: "\"Enhancing iPhones in Night Mode  Silhouettes\""
-date: 2024-05-24T00:34:52.755Z
-updated: 2024-05-25T00:34:52.755Z
+date: 2024-06-18T19:44:05.241Z
+updated: 2024-06-19T19:44:05.241Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Enhancing iPhones in Night Mode: Silhouettes\""
 excerpt: "\"This Article Describes Enhancing iPhones in Night Mode: Silhouettes\""
 keywords: "IPhone Night Shadowing,Nocturnal iPhone Enhancement,IPhone Night Silhouette Boost,Night Vision iPhone Improvement,Dark Mode iPhone Illumination,IPhone Night Aesthetics,Silhouette Amplification iPhone"
-thumbnail: https://www.lifewire.com/thmb/1X3sRGX1kbV-Ydn8ceXfqTlOH6I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/african-american-woman-opening-packages-of-shoes-on-sofa-580503483-5a735094d8fdd50036b63f8a.jpg
+thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01116c41da9ae37331ba659b6.jpg
 ---
 
 ## Enhancing iPhones in Night Mode: Silhouettes
