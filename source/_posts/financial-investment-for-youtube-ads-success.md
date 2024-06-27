@@ -1,7 +1,7 @@
 ---
 title: "Financial Investment for Youtube Ads Success"
-date: 2024-06-18T19:44:04.488Z
-updated: 2024-06-19T19:44:04.488Z
+date: 2024-06-26T13:39:33.626Z
+updated: 2024-06-27T13:39:33.626Z
 tags: 
   - screen-recording
   - ai video
@@ -106,9 +106,7 @@ Cut or trim your video to select the part that’s relevant.
 
 ![trim promotion video filmora](https://images.wondershare.com/filmora/article-images/2022/07/trim-promotion-video-filmora.jpg)
 
-Add filters to enhance the video and set the desired mood
-
-![add filter promotion video filmora](https://images.wondershare.com/filmora/article-images/2022/07/add-filter-promotion-video-filmora.jpg)
+Add filters to enhance the video and set the desired mood ![add filter promotion video filmora](https://images.wondershare.com/filmora/article-images/2022/07/add-filter-promotion-video-filmora.jpg)
 
 Add animated titles to bring your words to life.
 
@@ -198,9 +196,7 @@ Cut or trim your video to select the part that’s relevant.
 
 ![trim promotion video filmora](https://images.wondershare.com/filmora/article-images/2022/07/trim-promotion-video-filmora.jpg)
 
-Add filters to enhance the video and set the desired mood
-
-![add filter promotion video filmora](https://images.wondershare.com/filmora/article-images/2022/07/add-filter-promotion-video-filmora.jpg)
+Add filters to enhance the video and set the desired mood ![add filter promotion video filmora](https://images.wondershare.com/filmora/article-images/2022/07/add-filter-promotion-video-filmora.jpg)
 
 Add animated titles to bring your words to life.
 

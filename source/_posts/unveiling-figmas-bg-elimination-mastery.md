@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Figma's BG Elimination Mastery"
-date: 2024-05-24T01:08:12.892Z
-updated: 2024-05-25T01:08:12.892Z
+date: 2024-06-26T13:39:27.204Z
+updated: 2024-06-27T13:39:27.204Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Unveiling Figma's BG Elimination Mastery"
 excerpt: "This Article Describes Unveiling Figma's BG Elimination Mastery"
 keywords: "NFT Mastery Guide,Best NFT Artists List,Top NFT Makers,Leading NFT Designers,NFT Innovators Showcase,Elite NFT Creators,Prime NFT Talent Selection"
-thumbnail: https://www.lifewire.com/thmb/Z9p2yelev5XjoupT3HWfYtADBRA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/saveps4gameplay-fe5d19b66a8e46bc8fec8350be2feadb.jpg
+thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db273783ec5bcb39c2377739cf581a.jpg
 ---
 
 ## Unveiling Figma's BG Elimination Mastery

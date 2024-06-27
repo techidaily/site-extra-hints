@@ -1,7 +1,7 @@
 ---
 title: "\"Easy Broadcast  OBS + Streamlabs Tutorial for Mac Users\""
-date: 2024-05-24T02:16:47.215Z
-updated: 2024-05-25T02:16:47.215Z
+date: 2024-06-26T13:39:37.746Z
+updated: 2024-06-27T13:39:37.746Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Easy Broadcast: OBS + Streamlabs Tutorial for Mac Users\""
 excerpt: "\"This Article Describes Easy Broadcast: OBS + Streamlabs Tutorial for Mac Users\""
 keywords: "OBS Mac Basics,Streamlabs Mac Guide,Easy Mac Broadcasting,Mac Studio Setup OBS,Simple Streamlabs Tutorial,Mac Media Production,Learn Mac Live Streaming"
-thumbnail: https://www.lifewire.com/thmb/Lt7EML2RrB2kJWs-oE5VbZxnlNo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-kids-movies-on-disney-plus-june-2023-5112564-37245acf2e6840ba8319f0e13985e04a.jpg
+thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec05c10e1ad65882453b11db44.jpg
 ---
 
 ## Easy Broadcast: OBS + Streamlabs Tutorial for Mac Users

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  A Filmmaker's Handbook  Mastering Close-Up Videography\""
-date: 2024-05-24T02:23:15.053Z
-updated: 2024-05-25T02:23:15.053Z
+date: 2024-06-26T13:39:35.291Z
+updated: 2024-06-27T13:39:35.291Z
 tags: 
   - screen-recording
   - ai video
@@ -13,14 +13,12 @@ categories:
 description: "\"This Article Describes 2024 Approved: A Filmmaker's Handbook: Mastering Close-Up Videography\""
 excerpt: "\"This Article Describes 2024 Approved: A Filmmaker's Handbook: Mastering Close-Up Videography\""
 keywords: "\"Video Closeup Techniques,Cinematographer Guide,Close-Up Videography Basics,Filmmaker's Closeups Tips,Mastering Videography Shots,Film Closeup Skills Hub,Professional Videography Handbook\""
-thumbnail: https://www.lifewire.com/thmb/5-m_1GYRxGAFct79OSVOEiWVtWM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/new-apple-tv-4k-console-device-against-yellow-background-1140205622-2a35a59f75d34f95b8395268d53950b0.jpg
+thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec74141e34200890076f60dc1f.jpg
 ---
 
 ## A Filmmaker's Handbook: Mastering Close-Up Videography
 
-# Videography: 6 Tips for Making Macro Video
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+# Videography: 6 Tips for Making Macro Video ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
 

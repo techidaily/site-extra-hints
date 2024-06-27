@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Bestow Photographic Frames with Outer Radial Smearing"
-date: 2024-05-24T02:16:06.629Z
-updated: 2024-05-25T02:16:06.629Z
+date: 2024-06-26T13:39:30.427Z
+updated: 2024-06-27T13:39:30.427Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Bestow Photographic Frames with Outer Radial Smearing"
 excerpt: "This Article Describes In 2024, Bestow Photographic Frames with Outer Radial Smearing"
 keywords: "Radial Frame Artistry,Smearing Photographs,Best Framed Images,Smudged Picture Decor,Radial Frames Design,Outer Image Smearing,Creative Photo Frames"
-thumbnail: https://www.lifewire.com/thmb/S9DL5y6jdL8LZYRsDVu5U20GF1w=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Childlearningonline_WillieBThomas_Getty-3e51600a64d742a0b5db4fadacead069.jpg
+thumbnail: https://thmb.techidaily.com/1441934e237c52f497a6fd0ab6f056661ecffacc05322a198ecbbd0ad48fbaf8.jpg
 ---
 
 ## Bestow Photographic Frames with Outer Radial Smearing

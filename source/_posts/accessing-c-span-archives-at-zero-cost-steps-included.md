@@ -1,7 +1,7 @@
 ---
 title: "\"Accessing C-Span Archives at Zero Cost - Steps Included\""
-date: 2024-05-24T01:03:08.203Z
-updated: 2024-05-25T01:03:08.203Z
+date: 2024-06-26T13:39:26.407Z
+updated: 2024-06-27T13:39:26.407Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Accessing C-Span Archives at Zero Cost - Steps Included\""
 excerpt: "\"This Article Describes Accessing C-Span Archives at Zero Cost - Steps Included\""
 keywords: "\"Free C-Span Archive Access,C-Span Archive No Pay,C-Span View History,Zero Cost Archive Entry,C-Span Archives Free Entry,C-Span Historical Records,Subscription-Free C-Span Archives\""
-thumbnail: https://www.lifewire.com/thmb/QwKcPQKF2k2KN4pltvNc_DxgxjY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1354885833-3f73986466314850b80f8265a17440d4.jpg
+thumbnail: https://thmb.techidaily.com/73f237caff1293d1dd4178031db987cf4821ccb81a94a966ce0f48ea51b79037.jpg
 ---
 
 ## Accessing C-Span Archives at Zero Cost - Steps Included

@@ -1,7 +1,7 @@
 ---
 title: "Composing Prime Canon Temporal Vignettes for 2024"
-date: 2024-05-24T00:30:19.200Z
-updated: 2024-05-25T00:30:19.200Z
+date: 2024-06-26T13:39:37.329Z
+updated: 2024-06-27T13:39:37.329Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Composing Prime Canon Temporal Vignettes for 2024"
 excerpt: "This Article Describes Composing Prime Canon Temporal Vignettes for 2024"
 keywords: "\"Prime Canon Art,Temporal Imagery,Composite Photography,Visual Storytelling,Classic Horizon Focus,Time-Lapse Vignettes,Pristine Landscapes\""
-thumbnail: https://www.lifewire.com/thmb/Nc8KmupM-nyJApRyNJ45Wt2qOwg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/vlcsnap-2021-02-18-15h04m50s440-ea5dd4e1fdb14223b1bc981ff9c11455.png
+thumbnail: https://thmb.techidaily.com/775033cec734e193d493811f769dcaa65d428fba2286e40a488d59f8b08228ae.png
 ---
 
 ## Composing Prime Canon Temporal Vignettes

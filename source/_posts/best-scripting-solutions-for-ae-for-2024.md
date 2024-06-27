@@ -1,7 +1,7 @@
 ---
 title: "Best Scripting Solutions for AE for 2024"
-date: 2024-05-24T00:13:00.191Z
-updated: 2024-05-25T00:13:00.191Z
+date: 2024-06-26T13:39:35.063Z
+updated: 2024-06-27T13:39:35.063Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Best Scripting Solutions for AE for 2024"
 excerpt: "This Article Describes Best Scripting Solutions for AE for 2024"
 keywords: "AE Script Optimization,Top AE Scripts,Best AE Development,Premium AE Coding,Expertise in AE Scripting,Advanced AE Solutions,AE Programming Tips"
-thumbnail: https://www.lifewire.com/thmb/GLP3MMh3fiI21uzbTNxbYmlFrZA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-check-router-history-5206763-4a35a9ac67f54e978a7f206600e8a8e1.jpg
+thumbnail: https://thmb.techidaily.com/d16299364ff8a12ac1730983e510ad0f5d027390038abb94b7b607447c1cc871.jpg
 ---
 
 ## Best Scripting Solutions for AE

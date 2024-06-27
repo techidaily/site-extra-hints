@@ -1,7 +1,7 @@
 ---
 title: "\"Digital Enlightenment  A Treasury of AR/VR Quotations\""
-date: 2024-05-24T01:08:52.179Z
-updated: 2024-05-25T01:08:52.179Z
+date: 2024-06-26T13:39:28.668Z
+updated: 2024-06-27T13:39:28.668Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Digital Enlightenment: A Treasury of AR/VR Quotations\""
 excerpt: "\"This Article Describes Digital Enlightenment: A Treasury of AR/VR Quotations\""
 keywords: "AR Vision Quotes,VR Wisdom Phrases,Digital AR Insights,VR Enlightenment Sayings,Augmented Reality Tidbits,Virtual Realms Proverbs,Tech Truths in VR/AR"
-thumbnail: https://www.lifewire.com/thmb/zcmLCaAS2rquyOBmPOs0BcLkssY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-graphics-card-5225912-e71513f30b90445e8c0702a87db6fcdc.jpg
+thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566be785a358865debf94836fef.jpg
 ---
 
 ## Digital Enlightenment: A Treasury of AR/VR Quotations
@@ -56,15 +56,11 @@ Metaverse, coined by Author Neal Stephenson in 1992, was in a science fiction no
 
 Let’s see the most inspiring metaverse quotes by legends.
 
-### 1. Matthew Ball
-
-![metaverse quotes matthew ball](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-matthew.jpg)
+### 1. Matthew Ball ![metaverse quotes matthew ball](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-matthew.jpg)
 
 Our first metaverse quote means that metaverse has turned into the most current full-scale objective for many of the world's tech giants, says Matthew Ball.
 
-### 2. Robert Charles Wilson
-
-![metaverse quotes robert wilson](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-robert.jpg)
+### 2. Robert Charles Wilson ![metaverse quotes robert wilson](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-robert.jpg)
 
 Change is inevitable, and that abides by reality. Metaverse is evolving by nature. Change makes saints sinners and vice versa. Similarly, dust becomes men, men become gods, and gods turn to dust.
 
@@ -74,39 +70,27 @@ Our third metaverse quote is by Mark Zuckerberg.
 
 India will be a massive and vital part of the metaverse.
 
-### 4. Tim Sweeney
-
-![metaverse quotes tim sweeney](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-tim.jpg)
+### 4. Tim Sweeney ![metaverse quotes tim sweeney](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-tim.jpg)
 
 The new metaverse will be unavoidable and more powerful. So, if one company controls it, it will become a god and more potent than any government in the world.
 
-### 5. Mark Zuckerberg
-
-![metaverse quotes mark zuckerberg](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-mark.jpg)
+### 5. Mark Zuckerberg ![metaverse quotes mark zuckerberg](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-mark.jpg)
 
 Currently, we look at the Internet, but soon we will in for authentic experiences.
 
-### 6. Andrew Bosworth
-
-![andrew bosworth](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-andrew.jpg)
+### 6. Andrew Bosworth ![andrew bosworth](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-andrew.jpg)
 
 How much would we want other companies or governments to keep a check our conversations in the digital environment?
 
-### 7. Neal Stephenson
-
-![neal stephenson](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-neal.jpg)
+### 7. Neal Stephenson ![neal stephenson](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-neal.jpg)
 
 Magic is possible in the metaverse. It is a fictional world made of codes that computers understand. You can call metaverse a vast individual Nam-Shub that operates on L.Bob Rife's fiber-optic network.
 
-### 8. Ernest Cline
-
-![metaverse quotes ernest cline](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-ernest.jpg)
+### 8. Ernest Cline ![metaverse quotes ernest cline](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-ernest.jpg)
 
 Long before, other virtual universes moved from the metaverse to the Matrix. Next to the Star Wars galaxy, the Firefly universe had a detailed re-creation of the Star Trek universe in the following area. Center Earth. The players could quickly move from one universe to the other. Vulcan. Pern. Arrakis. Magrathea. Discworld, Mid-World, River world, Ringworld. Universes upon universes.
 
-### 9. Matthew Ball
-
-![metaverse quote matthew ball](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-ball.jpg)
+### 9. Matthew Ball ![metaverse quote matthew ball](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-ball.jpg)
 
 The metaverse could comprise a solitary stage or numerous web administrations covering simple exercises. It could incorporate PC designs, AR, VR, and individual symbols and be a spot for clients to interface with one another and the rest of the world in horde ways. Likewise, it could connect to outside financial frameworks to permit individuals to benefit from virtual products.
 
@@ -118,27 +102,19 @@ Check out the force of time and human insight, scarcely any years prior, we coul
 
 Let’s discuss the various amazing VR quotes about metaverse with VR technology.
 
-### 1. Frank Biocca
-
-![VR quotes frank biocca](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-frank.jpg)
+### 1. Frank Biocca ![VR quotes frank biocca](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-frank.jpg)
 
 VR is our first step towards the adventure land of imagination.
 
-### 2. Mark Zuckerberg
-
-![VR quotes mark zuckerberg](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-mark.jpg)
+### 2. Mark Zuckerberg ![VR quotes mark zuckerberg](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-mark.jpg)
 
 VR was a dream, and so were Internet, computers, and smartphones.
 
-### 3. Thomas Metzinger
-
-![VR quotes thomas metzinger](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-thomas.jpg)
+### 3. Thomas Metzinger ![VR quotes thomas metzinger](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-thomas.jpg)
 
 Virtual reality is simply the portrayal of possible universes and conceivable selves, determined to cause them to show up as genuine as could be expected - preferably by making an abstract feeling of "presence" and complete submersion in the client.
 
-### 4. Vanna Bonta
-
-![AR quotes vanna bonta](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-vanna.jpg)
+### 4. Vanna Bonta ![AR quotes vanna bonta](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-vanna.jpg)
 
 As individuals become more mindful of this universe as a quantum universe, they will accept holographic amusement encounters. As of now, augmented reality and virtual connection are a component of quantum fiction. Says Vanna Bonta.
 
@@ -158,15 +134,11 @@ There are limitless applications of VR. It’s up to your imagination - John God
 
 The Facebook or Meta CEO Mark Zuckerberg bets that VR, AR, and immersive will be daily life for ordinary people in the long run.
 
-### 9. Josh Sackman
-
-![vr quotes josh sackman](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-josh.jpg)
+### 9. Josh Sackman ![vr quotes josh sackman](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-josh.jpg)
 
 VR, in theory, holds immense value. However, we must rely on clinical studies that can prove value if VR to healthcare providers becomes acceptable by all.
 
-### 10. Chris Milk
-
-![vr quotes chris milk](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-chris.jpg)
+### 10. Chris Milk ![vr quotes chris milk](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-chris.jpg)
 
 VR will open a new gateway wherein you can connect humanly to anyone from anywhere in the world.
 
@@ -174,15 +146,11 @@ VR will open a new gateway wherein you can connect humanly to anyone from anywhe
 
 Let’s discuss some exciting AR quotes about how the future could be.
 
-### 1. Andrew Finlayson
-
-![AR quotes andrew finlayson](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-andrew.jpg)
+### 1. Andrew Finlayson ![AR quotes andrew finlayson](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-andrew.jpg)
 
 AR and VR in the retail world are desensitizing some cases. Thus, the NHC must take a more decisive step towards it.
 
-### 2. Tim Cook
-
-![ar quotes tim cook](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-tim.jpg)
+### 2. Tim Cook ![ar quotes tim cook](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-tim.jpg)
 
 AR will surely change the way users use technology forever and transform how we read, play, and experience things.
 
@@ -202,9 +170,7 @@ AR is an incredible idea like the idea of the smartphone –Tim Cook.
 
 Innovations like AR, iPads, Touchscreen, etc., can be much more if not underused by the entertainment industry - Justine Bateman.
 
-### 7. Simon Mainwaring
-
-![AR quotes simon](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-simon.jpg)
+### 7. Simon Mainwaring ![AR quotes simon](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-simon.jpg)
 
 The social media industry can provide better service with clearer and consistent storytelling by using the latest technology, like AR.
 
@@ -256,15 +222,11 @@ Metaverse, coined by Author Neal Stephenson in 1992, was in a science fiction no
 
 Let’s see the most inspiring metaverse quotes by legends.
 
-### 1. Matthew Ball
-
-![metaverse quotes matthew ball](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-matthew.jpg)
+### 1. Matthew Ball ![metaverse quotes matthew ball](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-matthew.jpg)
 
 Our first metaverse quote means that metaverse has turned into the most current full-scale objective for many of the world's tech giants, says Matthew Ball.
 
-### 2. Robert Charles Wilson
-
-![metaverse quotes robert wilson](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-robert.jpg)
+### 2. Robert Charles Wilson ![metaverse quotes robert wilson](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-robert.jpg)
 
 Change is inevitable, and that abides by reality. Metaverse is evolving by nature. Change makes saints sinners and vice versa. Similarly, dust becomes men, men become gods, and gods turn to dust.
 
@@ -274,39 +236,27 @@ Our third metaverse quote is by Mark Zuckerberg.
 
 India will be a massive and vital part of the metaverse.
 
-### 4. Tim Sweeney
-
-![metaverse quotes tim sweeney](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-tim.jpg)
+### 4. Tim Sweeney ![metaverse quotes tim sweeney](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-tim.jpg)
 
 The new metaverse will be unavoidable and more powerful. So, if one company controls it, it will become a god and more potent than any government in the world.
 
-### 5. Mark Zuckerberg
-
-![metaverse quotes mark zuckerberg](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-mark.jpg)
+### 5. Mark Zuckerberg ![metaverse quotes mark zuckerberg](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-mark.jpg)
 
 Currently, we look at the Internet, but soon we will in for authentic experiences.
 
-### 6. Andrew Bosworth
-
-![andrew bosworth](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-andrew.jpg)
+### 6. Andrew Bosworth ![andrew bosworth](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-andrew.jpg)
 
 How much would we want other companies or governments to keep a check our conversations in the digital environment?
 
-### 7. Neal Stephenson
-
-![neal stephenson](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-neal.jpg)
+### 7. Neal Stephenson ![neal stephenson](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-neal.jpg)
 
 Magic is possible in the metaverse. It is a fictional world made of codes that computers understand. You can call metaverse a vast individual Nam-Shub that operates on L.Bob Rife's fiber-optic network.
 
-### 8. Ernest Cline
-
-![metaverse quotes ernest cline](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-ernest.jpg)
+### 8. Ernest Cline ![metaverse quotes ernest cline](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-ernest.jpg)
 
 Long before, other virtual universes moved from the metaverse to the Matrix. Next to the Star Wars galaxy, the Firefly universe had a detailed re-creation of the Star Trek universe in the following area. Center Earth. The players could quickly move from one universe to the other. Vulcan. Pern. Arrakis. Magrathea. Discworld, Mid-World, River world, Ringworld. Universes upon universes.
 
-### 9. Matthew Ball
-
-![metaverse quote matthew ball](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-ball.jpg)
+### 9. Matthew Ball ![metaverse quote matthew ball](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-ball.jpg)
 
 The metaverse could comprise a solitary stage or numerous web administrations covering simple exercises. It could incorporate PC designs, AR, VR, and individual symbols and be a spot for clients to interface with one another and the rest of the world in horde ways. Likewise, it could connect to outside financial frameworks to permit individuals to benefit from virtual products.
 
@@ -318,27 +268,19 @@ Check out the force of time and human insight, scarcely any years prior, we coul
 
 Let’s discuss the various amazing VR quotes about metaverse with VR technology.
 
-### 1. Frank Biocca
-
-![VR quotes frank biocca](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-frank.jpg)
+### 1. Frank Biocca ![VR quotes frank biocca](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-frank.jpg)
 
 VR is our first step towards the adventure land of imagination.
 
-### 2. Mark Zuckerberg
-
-![VR quotes mark zuckerberg](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-mark.jpg)
+### 2. Mark Zuckerberg ![VR quotes mark zuckerberg](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-mark.jpg)
 
 VR was a dream, and so were Internet, computers, and smartphones.
 
-### 3. Thomas Metzinger
-
-![VR quotes thomas metzinger](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-thomas.jpg)
+### 3. Thomas Metzinger ![VR quotes thomas metzinger](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-thomas.jpg)
 
 Virtual reality is simply the portrayal of possible universes and conceivable selves, determined to cause them to show up as genuine as could be expected - preferably by making an abstract feeling of "presence" and complete submersion in the client.
 
-### 4. Vanna Bonta
-
-![AR quotes vanna bonta](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-vanna.jpg)
+### 4. Vanna Bonta ![AR quotes vanna bonta](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-vanna.jpg)
 
 As individuals become more mindful of this universe as a quantum universe, they will accept holographic amusement encounters. As of now, augmented reality and virtual connection are a component of quantum fiction. Says Vanna Bonta.
 
@@ -358,15 +300,11 @@ There are limitless applications of VR. It’s up to your imagination - John God
 
 The Facebook or Meta CEO Mark Zuckerberg bets that VR, AR, and immersive will be daily life for ordinary people in the long run.
 
-### 9. Josh Sackman
-
-![vr quotes josh sackman](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-josh.jpg)
+### 9. Josh Sackman ![vr quotes josh sackman](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-josh.jpg)
 
 VR, in theory, holds immense value. However, we must rely on clinical studies that can prove value if VR to healthcare providers becomes acceptable by all.
 
-### 10. Chris Milk
-
-![vr quotes chris milk](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-chris.jpg)
+### 10. Chris Milk ![vr quotes chris milk](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-chris.jpg)
 
 VR will open a new gateway wherein you can connect humanly to anyone from anywhere in the world.
 
@@ -374,15 +312,11 @@ VR will open a new gateway wherein you can connect humanly to anyone from anywhe
 
 Let’s discuss some exciting AR quotes about how the future could be.
 
-### 1. Andrew Finlayson
-
-![AR quotes andrew finlayson](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-andrew.jpg)
+### 1. Andrew Finlayson ![AR quotes andrew finlayson](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-andrew.jpg)
 
 AR and VR in the retail world are desensitizing some cases. Thus, the NHC must take a more decisive step towards it.
 
-### 2. Tim Cook
-
-![ar quotes tim cook](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-tim.jpg)
+### 2. Tim Cook ![ar quotes tim cook](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-tim.jpg)
 
 AR will surely change the way users use technology forever and transform how we read, play, and experience things.
 
@@ -402,9 +336,7 @@ AR is an incredible idea like the idea of the smartphone –Tim Cook.
 
 Innovations like AR, iPads, Touchscreen, etc., can be much more if not underused by the entertainment industry - Justine Bateman.
 
-### 7. Simon Mainwaring
-
-![AR quotes simon](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-simon.jpg)
+### 7. Simon Mainwaring ![AR quotes simon](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-simon.jpg)
 
 The social media industry can provide better service with clearer and consistent storytelling by using the latest technology, like AR.
 
@@ -456,15 +388,11 @@ Metaverse, coined by Author Neal Stephenson in 1992, was in a science fiction no
 
 Let’s see the most inspiring metaverse quotes by legends.
 
-### 1. Matthew Ball
-
-![metaverse quotes matthew ball](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-matthew.jpg)
+### 1. Matthew Ball ![metaverse quotes matthew ball](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-matthew.jpg)
 
 Our first metaverse quote means that metaverse has turned into the most current full-scale objective for many of the world's tech giants, says Matthew Ball.
 
-### 2. Robert Charles Wilson
-
-![metaverse quotes robert wilson](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-robert.jpg)
+### 2. Robert Charles Wilson ![metaverse quotes robert wilson](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-robert.jpg)
 
 Change is inevitable, and that abides by reality. Metaverse is evolving by nature. Change makes saints sinners and vice versa. Similarly, dust becomes men, men become gods, and gods turn to dust.
 
@@ -474,39 +402,27 @@ Our third metaverse quote is by Mark Zuckerberg.
 
 India will be a massive and vital part of the metaverse.
 
-### 4. Tim Sweeney
-
-![metaverse quotes tim sweeney](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-tim.jpg)
+### 4. Tim Sweeney ![metaverse quotes tim sweeney](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-tim.jpg)
 
 The new metaverse will be unavoidable and more powerful. So, if one company controls it, it will become a god and more potent than any government in the world.
 
-### 5. Mark Zuckerberg
-
-![metaverse quotes mark zuckerberg](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-mark.jpg)
+### 5. Mark Zuckerberg ![metaverse quotes mark zuckerberg](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-mark.jpg)
 
 Currently, we look at the Internet, but soon we will in for authentic experiences.
 
-### 6. Andrew Bosworth
-
-![andrew bosworth](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-andrew.jpg)
+### 6. Andrew Bosworth ![andrew bosworth](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-andrew.jpg)
 
 How much would we want other companies or governments to keep a check our conversations in the digital environment?
 
-### 7. Neal Stephenson
-
-![neal stephenson](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-neal.jpg)
+### 7. Neal Stephenson ![neal stephenson](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-neal.jpg)
 
 Magic is possible in the metaverse. It is a fictional world made of codes that computers understand. You can call metaverse a vast individual Nam-Shub that operates on L.Bob Rife's fiber-optic network.
 
-### 8. Ernest Cline
-
-![metaverse quotes ernest cline](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-ernest.jpg)
+### 8. Ernest Cline ![metaverse quotes ernest cline](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-ernest.jpg)
 
 Long before, other virtual universes moved from the metaverse to the Matrix. Next to the Star Wars galaxy, the Firefly universe had a detailed re-creation of the Star Trek universe in the following area. Center Earth. The players could quickly move from one universe to the other. Vulcan. Pern. Arrakis. Magrathea. Discworld, Mid-World, River world, Ringworld. Universes upon universes.
 
-### 9. Matthew Ball
-
-![metaverse quote matthew ball](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-ball.jpg)
+### 9. Matthew Ball ![metaverse quote matthew ball](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-ball.jpg)
 
 The metaverse could comprise a solitary stage or numerous web administrations covering simple exercises. It could incorporate PC designs, AR, VR, and individual symbols and be a spot for clients to interface with one another and the rest of the world in horde ways. Likewise, it could connect to outside financial frameworks to permit individuals to benefit from virtual products.
 
@@ -518,27 +434,19 @@ Check out the force of time and human insight, scarcely any years prior, we coul
 
 Let’s discuss the various amazing VR quotes about metaverse with VR technology.
 
-### 1. Frank Biocca
-
-![VR quotes frank biocca](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-frank.jpg)
+### 1. Frank Biocca ![VR quotes frank biocca](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-frank.jpg)
 
 VR is our first step towards the adventure land of imagination.
 
-### 2. Mark Zuckerberg
-
-![VR quotes mark zuckerberg](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-mark.jpg)
+### 2. Mark Zuckerberg ![VR quotes mark zuckerberg](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-mark.jpg)
 
 VR was a dream, and so were Internet, computers, and smartphones.
 
-### 3. Thomas Metzinger
-
-![VR quotes thomas metzinger](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-thomas.jpg)
+### 3. Thomas Metzinger ![VR quotes thomas metzinger](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-thomas.jpg)
 
 Virtual reality is simply the portrayal of possible universes and conceivable selves, determined to cause them to show up as genuine as could be expected - preferably by making an abstract feeling of "presence" and complete submersion in the client.
 
-### 4. Vanna Bonta
-
-![AR quotes vanna bonta](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-vanna.jpg)
+### 4. Vanna Bonta ![AR quotes vanna bonta](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-vanna.jpg)
 
 As individuals become more mindful of this universe as a quantum universe, they will accept holographic amusement encounters. As of now, augmented reality and virtual connection are a component of quantum fiction. Says Vanna Bonta.
 
@@ -558,15 +466,11 @@ There are limitless applications of VR. It’s up to your imagination - John God
 
 The Facebook or Meta CEO Mark Zuckerberg bets that VR, AR, and immersive will be daily life for ordinary people in the long run.
 
-### 9. Josh Sackman
-
-![vr quotes josh sackman](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-josh.jpg)
+### 9. Josh Sackman ![vr quotes josh sackman](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-josh.jpg)
 
 VR, in theory, holds immense value. However, we must rely on clinical studies that can prove value if VR to healthcare providers becomes acceptable by all.
 
-### 10. Chris Milk
-
-![vr quotes chris milk](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-chris.jpg)
+### 10. Chris Milk ![vr quotes chris milk](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-chris.jpg)
 
 VR will open a new gateway wherein you can connect humanly to anyone from anywhere in the world.
 
@@ -574,15 +478,11 @@ VR will open a new gateway wherein you can connect humanly to anyone from anywhe
 
 Let’s discuss some exciting AR quotes about how the future could be.
 
-### 1. Andrew Finlayson
-
-![AR quotes andrew finlayson](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-andrew.jpg)
+### 1. Andrew Finlayson ![AR quotes andrew finlayson](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-andrew.jpg)
 
 AR and VR in the retail world are desensitizing some cases. Thus, the NHC must take a more decisive step towards it.
 
-### 2. Tim Cook
-
-![ar quotes tim cook](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-tim.jpg)
+### 2. Tim Cook ![ar quotes tim cook](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-tim.jpg)
 
 AR will surely change the way users use technology forever and transform how we read, play, and experience things.
 
@@ -602,9 +502,7 @@ AR is an incredible idea like the idea of the smartphone –Tim Cook.
 
 Innovations like AR, iPads, Touchscreen, etc., can be much more if not underused by the entertainment industry - Justine Bateman.
 
-### 7. Simon Mainwaring
-
-![AR quotes simon](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-simon.jpg)
+### 7. Simon Mainwaring ![AR quotes simon](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-simon.jpg)
 
 The social media industry can provide better service with clearer and consistent storytelling by using the latest technology, like AR.
 
@@ -656,15 +554,11 @@ Metaverse, coined by Author Neal Stephenson in 1992, was in a science fiction no
 
 Let’s see the most inspiring metaverse quotes by legends.
 
-### 1. Matthew Ball
-
-![metaverse quotes matthew ball](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-matthew.jpg)
+### 1. Matthew Ball ![metaverse quotes matthew ball](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-matthew.jpg)
 
 Our first metaverse quote means that metaverse has turned into the most current full-scale objective for many of the world's tech giants, says Matthew Ball.
 
-### 2. Robert Charles Wilson
-
-![metaverse quotes robert wilson](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-robert.jpg)
+### 2. Robert Charles Wilson ![metaverse quotes robert wilson](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-robert.jpg)
 
 Change is inevitable, and that abides by reality. Metaverse is evolving by nature. Change makes saints sinners and vice versa. Similarly, dust becomes men, men become gods, and gods turn to dust.
 
@@ -674,39 +568,27 @@ Our third metaverse quote is by Mark Zuckerberg.
 
 India will be a massive and vital part of the metaverse.
 
-### 4. Tim Sweeney
-
-![metaverse quotes tim sweeney](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-tim.jpg)
+### 4. Tim Sweeney ![metaverse quotes tim sweeney](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-tim.jpg)
 
 The new metaverse will be unavoidable and more powerful. So, if one company controls it, it will become a god and more potent than any government in the world.
 
-### 5. Mark Zuckerberg
-
-![metaverse quotes mark zuckerberg](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-mark.jpg)
+### 5. Mark Zuckerberg ![metaverse quotes mark zuckerberg](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-mark.jpg)
 
 Currently, we look at the Internet, but soon we will in for authentic experiences.
 
-### 6. Andrew Bosworth
-
-![andrew bosworth](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-andrew.jpg)
+### 6. Andrew Bosworth ![andrew bosworth](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-andrew.jpg)
 
 How much would we want other companies or governments to keep a check our conversations in the digital environment?
 
-### 7. Neal Stephenson
-
-![neal stephenson](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-neal.jpg)
+### 7. Neal Stephenson ![neal stephenson](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-neal.jpg)
 
 Magic is possible in the metaverse. It is a fictional world made of codes that computers understand. You can call metaverse a vast individual Nam-Shub that operates on L.Bob Rife's fiber-optic network.
 
-### 8. Ernest Cline
-
-![metaverse quotes ernest cline](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-ernest.jpg)
+### 8. Ernest Cline ![metaverse quotes ernest cline](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-ernest.jpg)
 
 Long before, other virtual universes moved from the metaverse to the Matrix. Next to the Star Wars galaxy, the Firefly universe had a detailed re-creation of the Star Trek universe in the following area. Center Earth. The players could quickly move from one universe to the other. Vulcan. Pern. Arrakis. Magrathea. Discworld, Mid-World, River world, Ringworld. Universes upon universes.
 
-### 9. Matthew Ball
-
-![metaverse quote matthew ball](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-ball.jpg)
+### 9. Matthew Ball ![metaverse quote matthew ball](https://images.wondershare.com/filmora/article-images/2021/metaverse-quotes-ball.jpg)
 
 The metaverse could comprise a solitary stage or numerous web administrations covering simple exercises. It could incorporate PC designs, AR, VR, and individual symbols and be a spot for clients to interface with one another and the rest of the world in horde ways. Likewise, it could connect to outside financial frameworks to permit individuals to benefit from virtual products.
 
@@ -718,27 +600,19 @@ Check out the force of time and human insight, scarcely any years prior, we coul
 
 Let’s discuss the various amazing VR quotes about metaverse with VR technology.
 
-### 1. Frank Biocca
-
-![VR quotes frank biocca](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-frank.jpg)
+### 1. Frank Biocca ![VR quotes frank biocca](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-frank.jpg)
 
 VR is our first step towards the adventure land of imagination.
 
-### 2. Mark Zuckerberg
-
-![VR quotes mark zuckerberg](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-mark.jpg)
+### 2. Mark Zuckerberg ![VR quotes mark zuckerberg](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-mark.jpg)
 
 VR was a dream, and so were Internet, computers, and smartphones.
 
-### 3. Thomas Metzinger
-
-![VR quotes thomas metzinger](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-thomas.jpg)
+### 3. Thomas Metzinger ![VR quotes thomas metzinger](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-thomas.jpg)
 
 Virtual reality is simply the portrayal of possible universes and conceivable selves, determined to cause them to show up as genuine as could be expected - preferably by making an abstract feeling of "presence" and complete submersion in the client.
 
-### 4. Vanna Bonta
-
-![AR quotes vanna bonta](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-vanna.jpg)
+### 4. Vanna Bonta ![AR quotes vanna bonta](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-vanna.jpg)
 
 As individuals become more mindful of this universe as a quantum universe, they will accept holographic amusement encounters. As of now, augmented reality and virtual connection are a component of quantum fiction. Says Vanna Bonta.
 
@@ -758,15 +632,11 @@ There are limitless applications of VR. It’s up to your imagination - John God
 
 The Facebook or Meta CEO Mark Zuckerberg bets that VR, AR, and immersive will be daily life for ordinary people in the long run.
 
-### 9. Josh Sackman
-
-![vr quotes josh sackman](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-josh.jpg)
+### 9. Josh Sackman ![vr quotes josh sackman](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-josh.jpg)
 
 VR, in theory, holds immense value. However, we must rely on clinical studies that can prove value if VR to healthcare providers becomes acceptable by all.
 
-### 10. Chris Milk
-
-![vr quotes chris milk](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-chris.jpg)
+### 10. Chris Milk ![vr quotes chris milk](https://images.wondershare.com/filmora/article-images/2021/vr-quotes-chris.jpg)
 
 VR will open a new gateway wherein you can connect humanly to anyone from anywhere in the world.
 
@@ -774,15 +644,11 @@ VR will open a new gateway wherein you can connect humanly to anyone from anywhe
 
 Let’s discuss some exciting AR quotes about how the future could be.
 
-### 1. Andrew Finlayson
-
-![AR quotes andrew finlayson](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-andrew.jpg)
+### 1. Andrew Finlayson ![AR quotes andrew finlayson](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-andrew.jpg)
 
 AR and VR in the retail world are desensitizing some cases. Thus, the NHC must take a more decisive step towards it.
 
-### 2. Tim Cook
-
-![ar quotes tim cook](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-tim.jpg)
+### 2. Tim Cook ![ar quotes tim cook](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-tim.jpg)
 
 AR will surely change the way users use technology forever and transform how we read, play, and experience things.
 
@@ -802,9 +668,7 @@ AR is an incredible idea like the idea of the smartphone –Tim Cook.
 
 Innovations like AR, iPads, Touchscreen, etc., can be much more if not underused by the entertainment industry - Justine Bateman.
 
-### 7. Simon Mainwaring
-
-![AR quotes simon](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-simon.jpg)
+### 7. Simon Mainwaring ![AR quotes simon](https://images.wondershare.com/filmora/article-images/2021/ar-quotes-simon.jpg)
 
 The social media industry can provide better service with clearer and consistent storytelling by using the latest technology, like AR.
 

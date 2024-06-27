@@ -1,7 +1,7 @@
 ---
 title: "\"10 Sci-Fi VR Adventures  Unveiling Distant Realities\""
-date: 2024-05-24T02:37:10.697Z
-updated: 2024-05-25T02:37:10.697Z
+date: 2024-06-26T13:39:32.092Z
+updated: 2024-06-27T13:39:32.092Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 10 Sci-Fi VR Adventures: Unveiling Distant Realities\""
 excerpt: "\"This Article Describes 10 Sci-Fi VR Adventures: Unveiling Distant Realities\""
 keywords: "\"Sci-Fi VR Worlds,Virtual Reality Escapes,Futuristic VR Games,Sci-Fi Immersive Experiences,Distant Realities VR,Extraterrestrial Adventures VR,Space Exploration VR\""
-thumbnail: https://www.lifewire.com/thmb/c2lEnb6rmFVIHbFbmLJMVxUZ1Uo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/tiktok-smart-tv-12dcac76114b4747b9b3db8bb3551ddc.jpg
+thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f125b94d0f79189ce7d24b4f.jpg
 ---
 
 ## 10 Sci-Fi VR Adventures: Unveiling Distant Realities

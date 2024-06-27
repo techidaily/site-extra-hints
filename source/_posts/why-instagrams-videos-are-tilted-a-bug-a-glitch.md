@@ -1,7 +1,7 @@
 ---
 title: "\"Why Instagram's Videos Are Tilted - A Bug, a Glitch?\""
-date: 2024-05-24T00:45:57.393Z
-updated: 2024-05-25T00:45:57.393Z
+date: 2024-06-26T13:39:31.808Z
+updated: 2024-06-27T13:39:31.808Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Why Instagram's Videos Are Tilted - A Bug, a Glitch?\""
 excerpt: "\"This Article Describes Why Instagram's Videos Are Tilted - A Bug, a Glitch?\""
 keywords: "\"Instagram Video Issue,Why InstaVideos Tilt,Instagram Angle Bug,Glitch: Instagram Videos,Vertical Instagram Images,Instagram Visual Distortion,Fixing InstaVideo Aspect\""
-thumbnail: https://www.lifewire.com/thmb/_I2jMGl0tyzGXur_kCDYwkN4HbQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-827678424-5b6c5a0246e0fb0025d6f810.jpg
+thumbnail: https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29fa552917e2c2599c84130202.jpg
 ---
 
 ## Why Instagram's Videos Are Tilted - A Bug, a Glitch?

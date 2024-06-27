@@ -1,7 +1,7 @@
 ---
 title: "Motion Analysis Report 2023"
-date: 2024-05-24T01:45:11.279Z
-updated: 2024-05-25T01:45:11.279Z
+date: 2024-06-26T13:39:26.103Z
+updated: 2024-06-27T13:39:26.103Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Motion Analysis Report 2023"
 excerpt: "This Article Describes Motion Analysis Report 2023"
 keywords: "Motion Insight '23,Analyze Movement,Activity Overview,Dynamic Data 2023,Kinetic Review 2023,Moto Report 2023,ActuData Analysis"
-thumbnail: https://www.lifewire.com/thmb/fglQbPvp_9RtlOLpfs07tFE5g3U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/is-zoom-down-or-is-it-you-4802086-f3ab10eb11874291adac62d146e14e94.jpg
+thumbnail: https://thmb.techidaily.com/ce1836626dd4307cd42ffb8054ede87619858d1bf1634f1f32732c80e0c8c7aa.jpg
 ---
 
 ## Motion Analysis Report 2023

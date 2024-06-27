@@ -1,7 +1,7 @@
 ---
 title: "Digital Distortion Made Simple for Creative Minds"
-date: 2024-05-24T01:24:18.165Z
-updated: 2024-05-25T01:24:18.165Z
+date: 2024-06-26T13:39:35.427Z
+updated: 2024-06-27T13:39:35.428Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Digital Distortion Made Simple for Creative Minds"
 excerpt: "This Article Describes Digital Distortion Made Simple for Creative Minds"
 keywords: "Digital Distortion Guide,Creative Distortion Tips,Simplified Distortion Tech,Mindful Media Distortion,Distorted Imagery Creation,Simple Image Transformation,Artistic Distortion Methods"
-thumbnail: https://www.lifewire.com/thmb/2V_G_xN9itHN1yVayRsBfLGLGZ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/20201117103929-532580a0db8346228f20b8d694ee67cb.jpg
+thumbnail: https://thmb.techidaily.com/08702778e13a63a51dde09a4b23ab862a68808a42d3ab8c5759ae25bd6bbada4.jpg
 ---
 
 ## Digital Distortion Made Simple for Creative Minds
@@ -64,19 +64,17 @@ Flip any of these effects in the opposite direction by placing a negative sign i
 
 ##### Step4Save the Image
 
-Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
-
-![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
+Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
 
 ## Conclusion
 
 We hope this post has helped you learn how to curve an image in Photoshop. The best part about it? It's easy to do, and you can do it quickly. So, don't wait another minute! Get out there and start curving your images today (we know we are).
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later [Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

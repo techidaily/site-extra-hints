@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Augmenting Our Perception  An Introduction\""
-date: 2024-05-24T02:38:42.908Z
-updated: 2024-05-25T02:38:42.908Z
+date: 2024-06-26T13:39:30.034Z
+updated: 2024-06-27T13:39:30.034Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Augmenting Our Perception: An Introduction\""
 excerpt: "\"This Article Describes 2024 Approved: Augmenting Our Perception: An Introduction\""
 keywords: "Augmented Reality Basics,Perceptual Enhancement,Intro to Augmented Vision,Augmented Insight Start,View Augmentation Introduction,Enhancing Senses Through Tech,Beginning with Augmented Perception"
-thumbnail: https://www.lifewire.com/thmb/264xm89WJRvn8-nnX4DNU7kRr_k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ApCent_2018-04-08_20-29-19-5acab3fbc0647100378b32fd.png
+thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a46c11534bd2a1352ab33e591.png
 ---
 
 ## Augmenting Our Perception: An Introduction

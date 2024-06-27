@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Boost Engagement in Stories  Tips for Adding Smoothly Animated Text\""
-date: 2024-05-24T00:55:06.404Z
-updated: 2024-05-25T00:55:06.404Z
+date: 2024-06-26T13:39:25.873Z
+updated: 2024-06-27T13:39:25.873Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Boost Engagement in Stories: Tips for Adding Smoothly Animated Text\""
 excerpt: "\"This Article Describes [Updated] Boost Engagement in Stories: Tips for Adding Smoothly Animated Text\""
 keywords: "Story Boosting Tips,Smooth Animation Words,Engage Through Text,Dynamic Story Elements,Animate Text Effectively,Animated Narrative Tech,Stories Enhancement Guide"
-thumbnail: https://www.lifewire.com/thmb/BVRmeZ6zTnQCdnC9tQl0Du8Dpnw=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/206-terminating-yahoo-account-57f6b3c05f9b586c355390ec.jpg
+thumbnail: https://thmb.techidaily.com/55ff105adfb563907b6c1c05420f78a6c5ab084d04ebfcc926d77ca01d474b27.jpg
 ---
 
 ## Boost Engagement in Stories: Tips for Adding Smoothly Animated Text
@@ -46,7 +46,7 @@ Step4 You may check a preview of the dynamic text on Instagram. The animation wi
 
 ![revise story post instagram](https://images.wondershare.com/filmora/article-images/2022/09/revise-story-post-instagram.jpg)
 
-## Way 2\. Use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) Video Editor on Computer
+## Way 2\. Use Filmora
 
 Get distinctive word animations that will wow your friends and followers for anything from promotional videos to corporate presentations. Start right now for nothing! Each video scene may be edited separately, and scenes can be added or removed as you go. Enter your text, choose your preferred font, and then select the kind of text animation you want from the dropdown menu. You may also import any photographs or video clips that you wish to utilize. With the app's record function, you may even create brand-new video clips, or you can add a voiceover to go along with your animated text.
 

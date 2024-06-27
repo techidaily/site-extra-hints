@@ -1,7 +1,7 @@
 ---
 title: "\"Vanguard Ventures  Newcomers to the Panzoid World\""
-date: 2024-05-24T00:16:47.412Z
-updated: 2024-05-25T00:16:47.412Z
+date: 2024-06-26T13:39:27.668Z
+updated: 2024-06-27T13:39:27.668Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Vanguard Ventures: Newcomers to the Panzoid World\""
 excerpt: "\"This Article Describes Vanguard Ventures: Newcomers to the Panzoid World\""
 keywords: "Vanguard Startups,Panzoid Entrepreneurs,New Venture Paths,Zooniverse Innovators,Panzoid Business Leaders,Vanguard Explorers,Novice Panzoidists"
-thumbnail: https://www.lifewire.com/thmb/JqeWwiSiHl2mePI1yAdAfzGario=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/woman-using-laptop-on-diving-board-at-poolside-468840349-58d553785f9b584683dfa24c.jpg
+thumbnail: https://thmb.techidaily.com/1ce0f809b5f53bee55ecc4e59e4fc7fd703e674d56363d25b6490a7057e74118.jpg
 ---
 
 ## Vanguard Ventures: Newcomers to the Panzoid World

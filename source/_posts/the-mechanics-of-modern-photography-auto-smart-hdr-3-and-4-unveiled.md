@@ -1,7 +1,7 @@
 ---
 title: "\"The Mechanics of Modern Photography  Auto, Smart HDR 3 & 4 Unveiled\""
-date: 2024-05-24T01:34:51.919Z
-updated: 2024-05-25T01:34:51.919Z
+date: 2024-06-26T13:39:27.565Z
+updated: 2024-06-27T13:39:27.565Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes The Mechanics of Modern Photography: Auto, Smart HDR 3 & 4 Unveiled\""
 excerpt: "\"This Article Describes The Mechanics of Modern Photography: Auto, Smart HDR 3 & 4 Unveiled\""
 keywords: "Modern Photo Tech,HDR Smart Camera,Advanced HDR Modes,Photo Auto Triggers,HDR Photography Guide,Smart HDR Technology,Newest HDR Features"
-thumbnail: https://www.lifewire.com/thmb/_Bd6Xd_jOvOiQxwL_z4I0ZUa-8A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/the-8-best-gmail-alternatives-4844382-be53baf69f91420fa78df0b1d1038b7a.jpg
+thumbnail: https://thmb.techidaily.com/b60c1fc9251ee88631c28dd2623940b69aaa4124599c741f135b80728b533209.jpg
 ---
 
 ## The Mechanics of Modern Photography: Auto, Smart HDR 3 & 4 Unveiled

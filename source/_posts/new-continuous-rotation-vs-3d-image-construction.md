@@ -1,7 +1,7 @@
 ---
 title: "[New] Continuous Rotation vs 3D Image Construction"
-date: 2024-05-24T01:28:27.190Z
-updated: 2024-05-25T01:28:27.190Z
+date: 2024-06-26T13:39:29.006Z
+updated: 2024-06-27T13:39:29.006Z
 tags: 
   - screen-recording
   - ai video
@@ -13,14 +13,12 @@ categories:
 description: "This Article Describes [New] Continuous Rotation vs 3D Image Construction"
 excerpt: "This Article Describes [New] Continuous Rotation vs 3D Image Construction"
 keywords: "\"Continuous Rotation,3D Imaging,Constant Spinning,Three-Dimensional Art,3D Visualization,Dynamic Image Creation,Spiral Animation Tech\""
-thumbnail: https://www.lifewire.com/thmb/W34W6TT9TbgsmuZbNttEy9T33-k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/iPhoneinUVSanitizer-dd84366f842c41cc985354139d8ffb8e.jpeg
+thumbnail: https://thmb.techidaily.com/de2a2439a12942f0b9808810580359ed4223c732cf24aad5cc401c9c124e67ae.jpeg
 ---
 
 ## Continuous Rotation vs 3D Image Construction
 
-# 360 Degree Cameras Vs 3D Cameras: What are the Differences
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+# 360 Degree Cameras Vs 3D Cameras: What are the Differences ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
 
@@ -42,9 +40,7 @@ thumbnail: https://www.lifewire.com/thmb/W34W6TT9TbgsmuZbNttEy9T33-k=/400x300/fi
 
 ## About 3D or a Stereo Camera
 
-### 1.What is 3D Camera
-
-![3D camera](https://images.wondershare.com/filmora/article-images/what-is-3d-camera.jpg)
+### 1.What is 3D Camera ![3D camera](https://images.wondershare.com/filmora/article-images/what-is-3d-camera.jpg)
 
  wallpaperfolder.com
 
@@ -52,9 +48,7 @@ thumbnail: https://www.lifewire.com/thmb/W34W6TT9TbgsmuZbNttEy9T33-k=/400x300/fi
 
  There are other 3D camera configurations where the camera records an image, then the lens shifts slightly before another image is recorded, all happening within a fraction of a second, to result into two different views. Other 3D cameras on the other hand will use a stitching software to put together all the images to create a three dimensional image.
 
-### 2. How Do 3D Cameras Work
-
-![3D camera principal](https://images.wondershare.com/filmora/article-images/3d-camera-principle.png)
+### 2. How Do 3D Cameras Work ![3D camera principal](https://images.wondershare.com/filmora/article-images/3d-camera-principle.png)
 
  <www.reddit.com>
 
@@ -106,9 +100,7 @@ Follow @Benjamin Arango
 
 ## About 3D or a Stereo Camera
 
-### 1.What is 3D Camera
-
-![3D camera](https://images.wondershare.com/filmora/article-images/what-is-3d-camera.jpg)
+### 1.What is 3D Camera ![3D camera](https://images.wondershare.com/filmora/article-images/what-is-3d-camera.jpg)
 
  wallpaperfolder.com
 
@@ -116,9 +108,7 @@ Follow @Benjamin Arango
 
  There are other 3D camera configurations where the camera records an image, then the lens shifts slightly before another image is recorded, all happening within a fraction of a second, to result into two different views. Other 3D cameras on the other hand will use a stitching software to put together all the images to create a three dimensional image.
 
-### 2. How Do 3D Cameras Work
-
-![3D camera principal](https://images.wondershare.com/filmora/article-images/3d-camera-principle.png)
+### 2. How Do 3D Cameras Work ![3D camera principal](https://images.wondershare.com/filmora/article-images/3d-camera-principle.png)
 
  <www.reddit.com>
 
@@ -170,9 +160,7 @@ Follow @Benjamin Arango
 
 ## About 3D or a Stereo Camera
 
-### 1.What is 3D Camera
-
-![3D camera](https://images.wondershare.com/filmora/article-images/what-is-3d-camera.jpg)
+### 1.What is 3D Camera ![3D camera](https://images.wondershare.com/filmora/article-images/what-is-3d-camera.jpg)
 
  wallpaperfolder.com
 
@@ -180,9 +168,7 @@ Follow @Benjamin Arango
 
  There are other 3D camera configurations where the camera records an image, then the lens shifts slightly before another image is recorded, all happening within a fraction of a second, to result into two different views. Other 3D cameras on the other hand will use a stitching software to put together all the images to create a three dimensional image.
 
-### 2. How Do 3D Cameras Work
-
-![3D camera principal](https://images.wondershare.com/filmora/article-images/3d-camera-principle.png)
+### 2. How Do 3D Cameras Work ![3D camera principal](https://images.wondershare.com/filmora/article-images/3d-camera-principle.png)
 
  <www.reddit.com>
 
@@ -234,9 +220,7 @@ Follow @Benjamin Arango
 
 ## About 3D or a Stereo Camera
 
-### 1.What is 3D Camera
-
-![3D camera](https://images.wondershare.com/filmora/article-images/what-is-3d-camera.jpg)
+### 1.What is 3D Camera ![3D camera](https://images.wondershare.com/filmora/article-images/what-is-3d-camera.jpg)
 
  wallpaperfolder.com
 
@@ -244,9 +228,7 @@ Follow @Benjamin Arango
 
  There are other 3D camera configurations where the camera records an image, then the lens shifts slightly before another image is recorded, all happening within a fraction of a second, to result into two different views. Other 3D cameras on the other hand will use a stitching software to put together all the images to create a three dimensional image.
 
-### 2. How Do 3D Cameras Work
-
-![3D camera principal](https://images.wondershare.com/filmora/article-images/3d-camera-principle.png)
+### 2. How Do 3D Cameras Work ![3D camera principal](https://images.wondershare.com/filmora/article-images/3d-camera-principle.png)
 
  <www.reddit.com>
 

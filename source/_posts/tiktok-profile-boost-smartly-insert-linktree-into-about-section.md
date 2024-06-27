@@ -1,7 +1,7 @@
 ---
 title: "\"TikTok Profile Boost  Smartly Insert Linktree Into About Section\""
-date: 2024-05-24T02:03:57.489Z
-updated: 2024-05-25T02:03:57.489Z
+date: 2024-06-26T13:39:33.091Z
+updated: 2024-06-27T13:39:33.091Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes TikTok Profile Boost: Smartly Insert Linktree Into About Section\""
 excerpt: "\"This Article Describes TikTok Profile Boost: Smartly Insert Linktree Into About Section\""
 keywords: "TikTok Profiles,LinkTree for TikTok,Profile Optimization,About Page Links,Boost TikTok Presence,Inserting Links,Linktree in Bio"
-thumbnail: https://www.lifewire.com/thmb/fAu6_ORb9M5oeIYjTL2bgG5hxho=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-use-image-creator-from-microsoft-designer-7fad906276724cac96622cfcf3af3322.jpg
+thumbnail: https://thmb.techidaily.com/246a59716ccd46798f84896d6b6802f3ff638286b1b806ed68510f39b79036cf.jpg
 ---
 
 ## TikTok Profile Boost: Smartly Insert Linktree Into About Section

@@ -1,7 +1,7 @@
 ---
 title: "The Complete Manual on Deleting a Defunct LinkedIn Profile"
-date: 2024-05-24T00:47:14.006Z
-updated: 2024-05-25T00:47:14.006Z
+date: 2024-06-26T13:39:27.734Z
+updated: 2024-06-27T13:39:27.734Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes The Complete Manual on Deleting a Defunct LinkedIn Profile"
 excerpt: "This Article Describes The Complete Manual on Deleting a Defunct LinkedIn Profile"
 keywords: "Delete LinkedIn Profile Guide,Profiles Removal Instructions,LinkedIn Account Permanent Deletion,Unlinked In Profile Elimination,Mastering LinkedIn Profile Deletion,Clear Defunct LinkedIn Profile,LinkedIn Profile Eradication Tips"
-thumbnail: https://www.lifewire.com/thmb/QfD2V3XVdLp89nG0MuN4fPsGfzo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-881503284-5c0f8762c9e77c0001d46bf2.jpg
+thumbnail: https://thmb.techidaily.com/dbece127b3474bfee03fecc83648c4194241691bdbde80d7fc24eae5256f2a38.jpg
 ---
 
 ## The Complete Manual on Deleting a Defunct LinkedIn Profile

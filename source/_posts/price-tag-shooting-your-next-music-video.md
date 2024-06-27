@@ -1,7 +1,7 @@
 ---
 title: "\"Price Tag  Shooting Your Next Music Video\""
-date: 2024-05-24T02:09:56.969Z
-updated: 2024-05-25T02:09:56.969Z
+date: 2024-06-26T13:39:35.103Z
+updated: 2024-06-27T13:39:35.103Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Price Tag: Shooting Your Next Music Video\""
 excerpt: "\"This Article Describes Price Tag: Shooting Your Next Music Video\""
 keywords: "\"Music Video Production Costs,Indie Music Video Shooting,DIY Music Video Filming,Music Video Budget Planning,Cost-Effective Music Video Creation,Shooting Affordable Music Videos,Music Video Financing Tips\""
-thumbnail: https://www.lifewire.com/thmb/LKFN_Lro4pYMdm6FbsJMfVQlGnE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/cigarettelightersocketdoesntworknocharge-5bb3c7fac9e77c0051fbd30d.jpg
+thumbnail: https://thmb.techidaily.com/00e1438c22966a36d893eecd9042143ec66d342044498e4db45f5bcf754631a6.jpg
 ---
 
 ## Price Tag: Shooting Your Next Music Video

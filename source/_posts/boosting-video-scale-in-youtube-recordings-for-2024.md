@@ -1,7 +1,7 @@
 ---
 title: "Boosting Video Scale in YouTube Recordings for 2024"
-date: 2024-05-24T02:23:42.738Z
-updated: 2024-05-25T02:23:42.738Z
+date: 2024-06-26T13:39:30.839Z
+updated: 2024-06-27T13:39:30.839Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Boosting Video Scale in YouTube Recordings for 2024"
 excerpt: "This Article Describes Boosting Video Scale in YouTube Recordings for 2024"
 keywords: "\"YouTube Video Scaling,Enhanced Video Quality,Upgraded Recording Size,Optimize Video Aspects,High-Resolution YouTube Recordings,Improve Video Scale,Maximized Video Quality on YouTube\""
-thumbnail: https://www.lifewire.com/thmb/oM1F6FMEMZ0Riy1ckp-E8xI__eI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Signal-vs-WhatsApp-511d663c232b4478bbf7c44e7d7e5641.jpg
+thumbnail: https://thmb.techidaily.com/d6473782f31868e794fc3ab8460fc67b139be82f000417effd74e9124ff9dff3.jpg
 ---
 
 ## Boosting Video Scale in YouTube Recordings
@@ -52,7 +52,7 @@ Step1Download and install [Wondershare Filmora](https://tools.techidaily.com/won
 
 Step2Drag and drop the target YouTube video on Filmora into Project Media folder.
 
-![drag video into project media folder ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+![drag video into project media folder](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 Step3Thereafter, drag and drop the YouTube video file from Project Media folder into Timeline. Click on Crop icon located at the top of the timeline.
 
@@ -90,7 +90,7 @@ Step1Download and install [Wondershare Filmora](https://tools.techidaily.com/won
 
 Step2Drag and drop the target YouTube video on Filmora into Project Media folder.
 
-![drag video into project media folder ](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
+![drag video into project media folder](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 Step3Thereafter, drag and drop the YouTube video file from Project Media folder into Timeline. Click on Crop icon located at the top of the timeline.
 

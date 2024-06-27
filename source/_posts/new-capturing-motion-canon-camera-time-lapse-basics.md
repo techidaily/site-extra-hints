@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing Motion  Canon Camera Time-Lapse Basics\""
-date: 2024-05-24T02:01:36.705Z
-updated: 2024-05-25T02:01:36.705Z
+date: 2024-06-26T13:39:28.545Z
+updated: 2024-06-27T13:39:28.545Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Capturing Motion: Canon Camera Time-Lapse Basics\""
 excerpt: "\"This Article Describes [New] Capturing Motion: Canon Camera Time-Lapse Basics\""
 keywords: "\"Canon Time-Lapse Photography,LAPSE Capture Techniques,Basic Time-Lapse Cams,Motion Photography Secrets,Static to Dynamic: Time-Lapse,Camera Tutorials,Canon Basics for Lapse Shots\""
-thumbnail: https://www.lifewire.com/thmb/EGCkDxwFfxciXzxWhTjaoNz8iBc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/003_the-best-free-tv-shows-on-youtube-5224600-b9d20004bb3945cb881b775e7271f4ea.jpg
+thumbnail: https://thmb.techidaily.com/7f531620a49852bbff7e687b5f3193b68bdfdcb0db935514f90e93325010d261.jpg
 ---
 
 ## Capturing Motion: Canon Camera Time-Lapse Basics

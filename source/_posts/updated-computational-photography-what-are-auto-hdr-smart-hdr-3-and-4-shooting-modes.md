@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Computational Photography  What Are Auto HDR, Smart HDR 3 & 4 Shooting Modes?\""
-date: 2024-05-24T01:11:26.124Z
-updated: 2024-05-25T01:11:26.124Z
+date: 2024-06-26T13:39:34.327Z
+updated: 2024-06-27T13:39:34.327Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Computational Photography: What Are Auto HDR, Smart HDR 3 & 4 Shooting Modes?\""
 excerpt: "\"This Article Describes [Updated] Computational Photography: What Are Auto HDR, Smart HDR 3 & 4 Shooting Modes?\""
 keywords: "Auto HDR Basics,Smart HDR Tech,HDR Auto Modes,Advanced HDR Options,Photography HDR Guide,HDR Shooting Modes,Understanding HDR 3/4"
-thumbnail: https://www.lifewire.com/thmb/olqeipohCHW2E73yes0iZRJNyvo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1289905642-df07b09295454f57a05a4e866c2924ad.jpg
+thumbnail: https://thmb.techidaily.com/de76a8c110eaff7a166a09fee629e954d26d490c5f1eecc48133ce74b4cc31e3.jpg
 ---
 
 ## Computational Photography: What Are Auto HDR, Smart HDR 3 & 4 Shooting Modes?

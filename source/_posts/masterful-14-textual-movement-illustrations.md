@@ -1,7 +1,7 @@
 ---
 title: "Masterful 14 Textual Movement Illustrations"
-date: 2024-05-24T00:16:24.039Z
-updated: 2024-05-25T00:16:24.039Z
+date: 2024-06-26T13:39:32.666Z
+updated: 2024-06-27T13:39:32.666Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Masterful 14 Textual Movement Illustrations"
 excerpt: "This Article Describes Masterful 14 Textual Movement Illustrations"
 keywords: "Illustration Artistry,Masterful Text Motion,Visual 14Moves,Creative Text Arts,Masterpiece Illusions,Animated Text Designs,Expert Illustrations"
-thumbnail: https://www.lifewire.com/thmb/qlDKEhC1s0qpKxfQoJg-LZEy24M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/weather-apps-5b57415246e0fb00370b7d6e.jpg
+thumbnail: https://thmb.techidaily.com/69e9ce291a37fc7b18e662948bbf53944b60034e468a1fcf01b032cc2430ea00.jpg
 ---
 
 ## Masterful 14 Textual Movement Illustrations

@@ -1,7 +1,7 @@
 ---
 title: "Mastering iPhone Burst Photography"
-date: 2024-05-24T00:44:13.225Z
-updated: 2024-05-25T00:44:13.225Z
+date: 2024-06-26T13:39:27.848Z
+updated: 2024-06-27T13:39:27.848Z
 tags: 
   - screen-recording
   - ai video
@@ -13,14 +13,12 @@ categories:
 description: "This Article Describes Mastering iPhone Burst Photography"
 excerpt: "This Article Describes Mastering iPhone Burst Photography"
 keywords: "IPhone Burst Shots,IPhone Photo Techniques,IPhone Photography Tips,Capture iPhone Rapidly,IPhone Moment Freeze,IPhone Dynamic Frames,IPhone Flash Photos"
-thumbnail: https://www.lifewire.com/thmb/JIMkk9-NRTH24rzU4ZyoWplPQU0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/160019707-56a289593df78cf7727747e3-b542ce0cf6404a17a1fd40e42602dac6.jpg
+thumbnail: https://thmb.techidaily.com/402a192fa8f9a76c25001597879db6a11d907dc8fe3db6a194aec02ff3403057.jpg
 ---
 
 ## Mastering iPhone Burst Photography
 
-# iPhone Photo Burst: How to Take Burst Images
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+# iPhone Photo Burst: How to Take Burst Images ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
 
@@ -89,9 +87,7 @@ thumbnail: https://www.lifewire.com/thmb/JIMkk9-NRTH24rzU4ZyoWplPQU0=/400x300/fi
 
  We hope you had fun reading this article and took as much benefit as possible from it. Thanks for your precious time.
 
- Images come from the Internet
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+ Images come from the Internet ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
 
@@ -166,9 +162,7 @@ Follow @Ollie Mattison
 
  We hope you had fun reading this article and took as much benefit as possible from it. Thanks for your precious time.
 
- Images come from the Internet
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+ Images come from the Internet ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
 
@@ -243,9 +237,7 @@ Follow @Ollie Mattison
 
  We hope you had fun reading this article and took as much benefit as possible from it. Thanks for your precious time.
 
- Images come from the Internet
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+ Images come from the Internet ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
 
@@ -320,9 +312,7 @@ Follow @Ollie Mattison
 
  We hope you had fun reading this article and took as much benefit as possible from it. Thanks for your precious time.
 
- Images come from the Internet
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+ Images come from the Internet ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 Ollie Mattison
 

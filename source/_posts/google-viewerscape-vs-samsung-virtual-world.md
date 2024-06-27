@@ -1,7 +1,7 @@
 ---
 title: "Google Viewerscape Vs. Samsung Virtual World"
-date: 2024-06-18T19:44:07.979Z
-updated: 2024-06-19T19:44:07.979Z
+date: 2024-06-26T13:39:29.573Z
+updated: 2024-06-27T13:39:29.573Z
 tags: 
   - screen-recording
   - ai video
@@ -18,9 +18,7 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 
 ## Google Viewerscape Vs. Samsung Virtual World
 
-# Google Cardboard vs. Samsung Gear VR
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+# Google Cardboard vs. Samsung Gear VR ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
 

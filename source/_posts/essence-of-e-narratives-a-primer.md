@@ -1,7 +1,7 @@
 ---
 title: "\"Essence of E-Narratives  A Primer\""
-date: 2024-05-24T01:17:36.468Z
-updated: 2024-05-25T01:17:36.468Z
+date: 2024-06-26T13:39:31.775Z
+updated: 2024-06-27T13:39:31.775Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Essence of E-Narratives: A Primer\""
 excerpt: "\"This Article Describes Essence of E-Narratives: A Primer\""
 keywords: "\"E-Narra E-Narrative Essence,E-Narrative Core Idea,Narrative in E-Media,Digital Storytelling Fundamentals,Online Narrative Basics,Virtual Narratives Principles,E-Media Stories Origins\""
-thumbnail: https://www.lifewire.com/thmb/WRDmGM751bcd-uPEnTRppKvTp80=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/sergey-zolkin-_UeY8aTI6d0-unsplash-70ae49e2888e4a9eb06efe3050fcb772.jpg
+thumbnail: https://thmb.techidaily.com/bc2d4277b292ae7f5948b4f932bd10c3a9f77d53f80591ecadf09ffda8a120cc.jpg
 ---
 
 ## Essence of E-Narratives: A Primer

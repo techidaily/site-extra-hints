@@ -1,7 +1,7 @@
 ---
 title: "\"ProGoPro Sessions  Four Meets Five\""
-date: 2024-05-24T01:16:18.281Z
-updated: 2024-05-25T01:16:18.281Z
+date: 2024-06-26T13:39:36.727Z
+updated: 2024-06-27T13:39:36.727Z
 tags: 
   - screen-recording
   - ai video
@@ -13,14 +13,12 @@ categories:
 description: "\"This Article Describes ProGoPro Sessions: Four Meets Five\""
 excerpt: "\"This Article Describes ProGoPro Sessions: Four Meets Five\""
 keywords: "ProGoproSession5,GoProFourMeet,ProGoproFiveSess,GopProSessionFour,GoproSession4V5,FiveGoProSessions,MeetingsGoProFour"
-thumbnail: https://www.lifewire.com/thmb/264xm89WJRvn8-nnX4DNU7kRr_k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ApCent_2018-04-08_20-29-19-5acab3fbc0647100378b32fd.png
+thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a46c11534bd2a1352ab33e591.png
 ---
 
 ## ProGoPro Sessions: Four Meets Five
 
-# GoPro Hero5 Session Vs Hero Session
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+# GoPro Hero5 Session Vs Hero Session ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
 
