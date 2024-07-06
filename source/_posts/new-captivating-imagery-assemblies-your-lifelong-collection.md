@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Captivating Imagery Assemblies  Your Lifelong Collection\""
-date: 2024-06-26T13:39:25.259Z
-updated: 2024-06-27T13:39:25.259Z
+date: 2024-07-05T22:48:32.218Z
+updated: 2024-07-06T22:48:32.218Z
 tags: 
   - screen-recording
   - ai video
@@ -18,7 +18,8 @@ thumbnail: https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a8218335
 
 ## Captivating Imagery Assemblies: Your Lifelong Collection
 
-# 20+ Creative Photo Collage Ideas to Light Up Your Life ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+# 20+ Creative Photo Collage Ideas to Light Up Your Life
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
 

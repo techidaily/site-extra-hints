@@ -1,7 +1,7 @@
 ---
 title: "\"Samsung BD-J5900 Review\""
-date: 2024-05-24T00:43:49.578Z
-updated: 2024-05-25T00:43:49.578Z
+date: 2024-07-05T22:48:34.454Z
+updated: 2024-07-06T22:48:34.454Z
 tags: 
   - screen-recording
   - ai video
@@ -59,7 +59,7 @@ Professionals say that this player can make the hallmark record in the budget fr
 
 You will find a slim disc tray on this device that is controlled via well designed Open and Close buttons. Front end also consists of one USB port that allows easy connectivity to external HDDs and Flash Drivers so that music, photos and videos can be accessed with ease. Same as many competing units in the market, Samsung BD900 possesses compact and slim design that can be placed easily in your less spacey apartments. The simple line up further consists of HDMI output, coaxial output and Ethernet. Most of the users love to use this HDMI port for making connectivity with TV or AV Receiver.
 
-![ ](https://images.wondershare.com/filmora/article-images/j5900-2.jpg)
+![](https://images.wondershare.com/filmora/article-images/j5900-2.jpg)
 
 ## Operation
 
@@ -67,7 +67,7 @@ Samsung has designed J900 with user friendly offerings where quick start mode pr
 
 You will find least information on home screen and Samsung has tried to keep it least cluttered. Large files are displayed here via Logos and thumbnail images. The interface is divided into several sections like Music, Video and Photos. The last three controls on screen help users to make selection for changing externally connected devices; it can be DLNA server, Disc or a USB drive. There is wide range of options available on bottom row that provide quick access to various applications, setup menu and Screen Mirroring.
 
-![ ](https://images.wondershare.com/filmora/article-images/j5900-3.jpg)
+![](https://images.wondershare.com/filmora/article-images/j5900-3.jpg)
 
 ## Performance
 
@@ -75,7 +75,7 @@ Performance of Blu-Ray players is often tested in terms of speed offered by them
 
 Image quality tests were also conducted on J900 unit and impressively it provides great results as it provided clean delineation for all patterns under observation. DVD upscaling is another important test parameter and it was compared against Oppo BDP-105 for this feature, results were pretty good with little rippling jaggies. Blue ray tests also provided error free performance.
 
-![ ](https://images.wondershare.com/filmora/article-images/j5900-4.jpg)
+![](https://images.wondershare.com/filmora/article-images/j5900-4.jpg)
 
 ## Verdict
 
@@ -126,7 +126,7 @@ Professionals say that this player can make the hallmark record in the budget fr
 
 You will find a slim disc tray on this device that is controlled via well designed Open and Close buttons. Front end also consists of one USB port that allows easy connectivity to external HDDs and Flash Drivers so that music, photos and videos can be accessed with ease. Same as many competing units in the market, Samsung BD900 possesses compact and slim design that can be placed easily in your less spacey apartments. The simple line up further consists of HDMI output, coaxial output and Ethernet. Most of the users love to use this HDMI port for making connectivity with TV or AV Receiver.
 
-![ ](https://images.wondershare.com/filmora/article-images/j5900-2.jpg)
+![](https://images.wondershare.com/filmora/article-images/j5900-2.jpg)
 
 ## Operation
 
@@ -134,7 +134,7 @@ Samsung has designed J900 with user friendly offerings where quick start mode pr
 
 You will find least information on home screen and Samsung has tried to keep it least cluttered. Large files are displayed here via Logos and thumbnail images. The interface is divided into several sections like Music, Video and Photos. The last three controls on screen help users to make selection for changing externally connected devices; it can be DLNA server, Disc or a USB drive. There is wide range of options available on bottom row that provide quick access to various applications, setup menu and Screen Mirroring.
 
-![ ](https://images.wondershare.com/filmora/article-images/j5900-3.jpg)
+![](https://images.wondershare.com/filmora/article-images/j5900-3.jpg)
 
 ## Performance
 
@@ -142,7 +142,7 @@ Performance of Blu-Ray players is often tested in terms of speed offered by them
 
 Image quality tests were also conducted on J900 unit and impressively it provides great results as it provided clean delineation for all patterns under observation. DVD upscaling is another important test parameter and it was compared against Oppo BDP-105 for this feature, results were pretty good with little rippling jaggies. Blue ray tests also provided error free performance.
 
-![ ](https://images.wondershare.com/filmora/article-images/j5900-4.jpg)
+![](https://images.wondershare.com/filmora/article-images/j5900-4.jpg)
 
 ## Verdict
 
@@ -193,7 +193,7 @@ Professionals say that this player can make the hallmark record in the budget fr
 
 You will find a slim disc tray on this device that is controlled via well designed Open and Close buttons. Front end also consists of one USB port that allows easy connectivity to external HDDs and Flash Drivers so that music, photos and videos can be accessed with ease. Same as many competing units in the market, Samsung BD900 possesses compact and slim design that can be placed easily in your less spacey apartments. The simple line up further consists of HDMI output, coaxial output and Ethernet. Most of the users love to use this HDMI port for making connectivity with TV or AV Receiver.
 
-![ ](https://images.wondershare.com/filmora/article-images/j5900-2.jpg)
+![](https://images.wondershare.com/filmora/article-images/j5900-2.jpg)
 
 ## Operation
 
@@ -201,7 +201,7 @@ Samsung has designed J900 with user friendly offerings where quick start mode pr
 
 You will find least information on home screen and Samsung has tried to keep it least cluttered. Large files are displayed here via Logos and thumbnail images. The interface is divided into several sections like Music, Video and Photos. The last three controls on screen help users to make selection for changing externally connected devices; it can be DLNA server, Disc or a USB drive. There is wide range of options available on bottom row that provide quick access to various applications, setup menu and Screen Mirroring.
 
-![ ](https://images.wondershare.com/filmora/article-images/j5900-3.jpg)
+![](https://images.wondershare.com/filmora/article-images/j5900-3.jpg)
 
 ## Performance
 
@@ -209,7 +209,7 @@ Performance of Blu-Ray players is often tested in terms of speed offered by them
 
 Image quality tests were also conducted on J900 unit and impressively it provides great results as it provided clean delineation for all patterns under observation. DVD upscaling is another important test parameter and it was compared against Oppo BDP-105 for this feature, results were pretty good with little rippling jaggies. Blue ray tests also provided error free performance.
 
-![ ](https://images.wondershare.com/filmora/article-images/j5900-4.jpg)
+![](https://images.wondershare.com/filmora/article-images/j5900-4.jpg)
 
 ## Verdict
 
@@ -260,7 +260,7 @@ Professionals say that this player can make the hallmark record in the budget fr
 
 You will find a slim disc tray on this device that is controlled via well designed Open and Close buttons. Front end also consists of one USB port that allows easy connectivity to external HDDs and Flash Drivers so that music, photos and videos can be accessed with ease. Same as many competing units in the market, Samsung BD900 possesses compact and slim design that can be placed easily in your less spacey apartments. The simple line up further consists of HDMI output, coaxial output and Ethernet. Most of the users love to use this HDMI port for making connectivity with TV or AV Receiver.
 
-![ ](https://images.wondershare.com/filmora/article-images/j5900-2.jpg)
+![](https://images.wondershare.com/filmora/article-images/j5900-2.jpg)
 
 ## Operation
 
@@ -268,7 +268,7 @@ Samsung has designed J900 with user friendly offerings where quick start mode pr
 
 You will find least information on home screen and Samsung has tried to keep it least cluttered. Large files are displayed here via Logos and thumbnail images. The interface is divided into several sections like Music, Video and Photos. The last three controls on screen help users to make selection for changing externally connected devices; it can be DLNA server, Disc or a USB drive. There is wide range of options available on bottom row that provide quick access to various applications, setup menu and Screen Mirroring.
 
-![ ](https://images.wondershare.com/filmora/article-images/j5900-3.jpg)
+![](https://images.wondershare.com/filmora/article-images/j5900-3.jpg)
 
 ## Performance
 
@@ -276,7 +276,7 @@ Performance of Blu-Ray players is often tested in terms of speed offered by them
 
 Image quality tests were also conducted on J900 unit and impressively it provides great results as it provided clean delineation for all patterns under observation. DVD upscaling is another important test parameter and it was compared against Oppo BDP-105 for this feature, results were pretty good with little rippling jaggies. Blue ray tests also provided error free performance.
 
-![ ](https://images.wondershare.com/filmora/article-images/j5900-4.jpg)
+![](https://images.wondershare.com/filmora/article-images/j5900-4.jpg)
 
 ## Verdict
 

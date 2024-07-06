@@ -1,7 +1,7 @@
 ---
 title: "Mastering iPhone Burst Photography"
-date: 2024-06-26T13:39:27.848Z
-updated: 2024-06-27T13:39:27.848Z
+date: 2024-07-05T22:48:31.911Z
+updated: 2024-07-06T22:48:31.911Z
 tags: 
   - screen-recording
   - ai video
@@ -18,7 +18,8 @@ thumbnail: https://thmb.techidaily.com/402a192fa8f9a76c25001597879db6a11d907dc8f
 
 ## Mastering iPhone Burst Photography
 
-# iPhone Photo Burst: How to Take Burst Images ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+# iPhone Photo Burst: How to Take Burst Images
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
 

@@ -1,7 +1,7 @@
 ---
 title: "Cinematic Scale Optimizer"
-date: 2024-05-24T02:04:53.050Z
-updated: 2024-05-25T02:04:53.050Z
+date: 2024-07-05T22:48:34.217Z
+updated: 2024-07-06T22:48:34.217Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Cinematic Scale Optimizer"
 excerpt: "This Article Describes Cinematic Scale Optimizer"
 keywords: "\"Movie Scale Optimize,CinemScope Enhance,Film Scale Improvement,VFX Scaling Tech,Visual Scale Adjuster,CineScale Boost,On-Set Size Tuner\""
-thumbnail: https://www.lifewire.com/thmb/sSrx_p8tl3G4DBeeTx4XKBhdjR8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/MetrobyT-Mobilelogo-43185fc123d54b1fa301b05f4c01e173.jpg
+thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab19701697c4cb0d6aea2250418304b.jpg
 ---
 
 ## Cinematic Scale Optimizer

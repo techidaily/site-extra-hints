@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Best Storage Expansion for Sony A7C Cameras\""
-date: 2024-06-26T13:39:25.100Z
-updated: 2024-06-27T13:39:25.100Z
+date: 2024-07-05T22:48:30.519Z
+updated: 2024-07-06T22:48:30.519Z
 tags: 
   - screen-recording
   - ai video
@@ -18,7 +18,8 @@ thumbnail: https://www.lifewire.com/thmb/TIhbojtPiLWxPexEUegjc5UUv38=/400x300/fi
 
 ## Best Storage Expansion for Sony A7C Cameras
 
-# Best Memory Card for Sony A7S II ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+# Best Memory Card for Sony A7S II
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
 

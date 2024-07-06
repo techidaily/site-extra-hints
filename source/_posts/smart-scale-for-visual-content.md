@@ -1,7 +1,7 @@
 ---
 title: "Smart Scale for Visual Content"
-date: 2024-05-24T01:28:57.586Z
-updated: 2024-05-25T01:28:57.586Z
+date: 2024-07-05T22:48:32.311Z
+updated: 2024-07-06T22:48:32.311Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Smart Scale for Visual Content"
 excerpt: "This Article Describes Smart Scale for Visual Content"
 keywords: "\"Vision-Based Scaling,Smart Scale Insights,Digital Content Measure,Visual Data Analysis,AI Scale Metrics,Image Scale Tech,Content Intelligence Gauge\""
-thumbnail: https://www.lifewire.com/thmb/MaOu3FH6HAb4dzVe_AN1hXIylb0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/CK_Headshot-6631970d6f384e74bf6a4e7d19791081.jpg
+thumbnail: https://thmb.techidaily.com/759e3775dd226670ae28d5af19c1defd92ebed9270d940f9ca545069c585fcb0.jpg
 ---
 
 ## Smart Scale for Visual Content

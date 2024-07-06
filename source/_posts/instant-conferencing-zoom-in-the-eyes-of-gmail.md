@@ -1,7 +1,7 @@
 ---
 title: "\"Instant Conferencing  Zoom in the Eyes of Gmail\""
-date: 2024-05-24T00:19:09.991Z
-updated: 2024-05-25T00:19:09.991Z
+date: 2024-07-05T22:48:28.824Z
+updated: 2024-07-06T22:48:28.824Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Instant Conferencing: Zoom in the Eyes of Gmail\""
 excerpt: "\"This Article Describes Instant Conferencing: Zoom in the Eyes of Gmail\""
 keywords: "\"Zoom Gmail Chat,Instant Video Callers,Email-Based Meeting,Real-Time Screen Sharing,Zoom Online Collaboration,Gmail Conferencing Tools,Live Chat Interface\""
-thumbnail: https://www.lifewire.com/thmb/Qa72eBfCZc6Kch4bXzH3ZVm1XTU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/LifewireClubhousePrimary-6ea7cf41b0884f88b419ec23bc3c35be.jpg
+thumbnail: https://thmb.techidaily.com/cabed3ff31b82926ba008513e58f8543d937e5a9afb11a07e4133edf1c0ffefb.jpg
 ---
 
 ## Instant Conferencing: Zoom in the Eyes of Gmail

@@ -1,7 +1,7 @@
 ---
 title: "Leading Edge of Color Grading with LUTs"
-date: 2024-05-24T00:52:45.437Z
-updated: 2024-05-25T00:52:45.437Z
+date: 2024-07-05T22:48:32.558Z
+updated: 2024-07-06T22:48:32.558Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Leading Edge of Color Grading with LUTs"
 excerpt: "This Article Describes Leading Edge of Color Grading with LUTs"
 keywords: "\"Edge LUT Grading,LUT-Based Grading,Advanced Color Grading,LUT Techniques in Grading,LUT Grading Leaders,Premium Grading Tools,Professional LUT Editing\""
-thumbnail: https://www.lifewire.com/thmb/zS1KzodK4IykQGo2jxig8PQhqso=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apps-like-tiktok-the-best-alternatives-in-2020-9f3611f635da4198956585133eaf01cb.jpg
+thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd1b5268a8b5026540ff9ee16.jpg
 ---
 
 ## Leading Edge of Color Grading with LUTs

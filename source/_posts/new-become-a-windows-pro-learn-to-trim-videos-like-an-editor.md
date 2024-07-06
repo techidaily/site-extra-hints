@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Become a Windows Pro  Learn to Trim Videos Like an Editor\""
-date: 2024-05-24T01:15:24.536Z
-updated: 2024-05-25T01:15:24.536Z
+date: 2024-07-05T22:48:29.958Z
+updated: 2024-07-06T22:48:29.958Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Become a Windows Pro: Learn to Trim Videos Like an Editor\""
 excerpt: "\"This Article Describes [New] Become a Windows Pro: Learn to Trim Videos Like an Editor\""
 keywords: "Video Editing Basics,Proficient Windows Users,Trimming Techniques,Mastering Video Cuts,Edit Pro Skills,Professional Windows PCs,Expertise in Video Trimming"
-thumbnail: https://www.lifewire.com/thmb/HP1f6Y5v-9RLt9yWUuwoG4EjIsQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/JanetPhan-ProfessionalWeb-82f9b60035e04a31bd8db9f8df8d44a5.jpg
+thumbnail: https://thmb.techidaily.com/1ccd49c85e9212303a8d46ffca4e2f894288070bb2a09d79b62ee40d21724a7f.jpg
 ---
 
 ## Become a Windows Pro: Learn to Trim Videos Like an Editor

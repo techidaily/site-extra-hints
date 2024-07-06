@@ -1,7 +1,7 @@
 ---
 title: "[New] Comprehensive Guide to AE Type Effects"
-date: 2024-05-24T00:14:35.696Z
-updated: 2024-05-25T00:14:35.696Z
+date: 2024-07-05T22:48:31.956Z
+updated: 2024-07-06T22:48:31.956Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Comprehensive Guide to AE Type Effects"
 excerpt: "This Article Describes [New] Comprehensive Guide to AE Type Effects"
 keywords: "AE Type Effects Tutorial,Comprehensive AE Effects Guide,AE Impact Analysis,AE Effect Exploration,AE Visual Enhancements,Understanding AE Types,Mastering AE Influences"
-thumbnail: https://www.lifewire.com/thmb/TTQs-owdidJ3vVxwHNq2QLaJE5k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1124963889-d2e00bd6bec643449b4fe87ca86104d8.jpg
+thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5c3d20cd43f4003c2eedf878.jpg
 ---
 
 ## Comprehensive Guide to AE Type Effects

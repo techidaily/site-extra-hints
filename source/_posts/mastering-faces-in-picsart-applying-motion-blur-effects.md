@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Faces in Picsart  Applying Motion Blur Effects\""
-date: 2024-05-24T00:17:54.974Z
-updated: 2024-05-25T00:17:54.974Z
+date: 2024-07-05T22:48:34.275Z
+updated: 2024-07-06T22:48:34.275Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Mastering Faces in Picsart: Applying Motion Blur Effects\""
 excerpt: "\"This Article Describes Mastering Faces in Picsart: Applying Motion Blur Effects\""
 keywords: "Face Motion Blur Tutorial,Picsart Facial Distortion,Blur Effects on Faces,Face Motion Artistry,Motion Blurring Faces,Picsart Face Edits,Applying Facial Blur"
-thumbnail: https://www.lifewire.com/thmb/B_1diziBQUEroVybSTOOXTd9cxc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-643997505-3dcb1b226e104d1da13825b0d9117173.jpg
+thumbnail: https://thmb.techidaily.com/4be59755ae7994bb626513b3614a3ec947be3b56430323187fb64d462d24a601.jpg
 ---
 
 ## Mastering Faces in Picsart: Applying Motion Blur Effects

@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Visual Storytelling with LUTs in AE"
-date: 2024-05-24T02:12:55.204Z
-updated: 2024-05-25T02:12:55.204Z
+date: 2024-07-05T22:48:32.744Z
+updated: 2024-07-06T22:48:32.744Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Transform Your Visual Storytelling with LUTs in AE"
 excerpt: "This Article Describes Transform Your Visual Storytelling with LUTs in AE"
 keywords: "AE LUT Stories,AE Creative Tools,Color Grading Basics,Dynamic Imaging Techniques,Visual Storytelling Tips,Image Enhancement with LUTs,AE Aesthetic Transformations"
-thumbnail: https://www.lifewire.com/thmb/r5-nbFpZcg3uV6IKilx2-E6xQtA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-185223738-56a691fd5f9b58b7d0e3a1d9.jpg
+thumbnail: https://thmb.techidaily.com/0f399835ae801930fc09d856b55526ca68007b6aa28f7cfc8442056063114a14.jpg
 ---
 
 ## Transform Your Visual Storytelling with LUTs in AE

@@ -1,7 +1,7 @@
 ---
 title: "\"The Eyewear Challenge  Google Vs. Samsung Virtual Reality\""
-date: 2024-05-24T01:20:40.544Z
-updated: 2024-05-25T01:20:40.544Z
+date: 2024-07-05T22:48:32.644Z
+updated: 2024-07-06T22:48:32.644Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes The Eyewear Challenge: Google Vs. Samsung Virtual Reality\""
 excerpt: "\"This Article Describes The Eyewear Challenge: Google Vs. Samsung Virtual Reality\""
 keywords: "Google Vs. VR Lenses,VR Eye Gear Showdown,Samsung Ocular Tech,VR Headset Duel,Giant VR Competition,Virtual Reality Display,Eyewear VR Faceoff"
-thumbnail: https://www.lifewire.com/thmb/fAu6_ORb9M5oeIYjTL2bgG5hxho=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-use-image-creator-from-microsoft-designer-7fad906276724cac96622cfcf3af3322.jpg
+thumbnail: https://thmb.techidaily.com/246a59716ccd46798f84896d6b6802f3ff638286b1b806ed68510f39b79036cf.jpg
 ---
 
 ## The Eyewear Challenge: Google Vs. Samsung Virtual Reality

@@ -1,7 +1,7 @@
 ---
 title: "\"The Ultimate Guide to Time-Bending Videos on GoPro Hero 10\""
-date: 2024-05-24T01:22:04.676Z
-updated: 2024-05-25T01:22:04.676Z
+date: 2024-07-05T22:48:30.279Z
+updated: 2024-07-06T22:48:30.279Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes The Ultimate Guide to Time-Bending Videos on GoPro Hero 10\""
 excerpt: "\"This Article Describes The Ultimate Guide to Time-Bending Videos on GoPro Hero 10\""
 keywords: "Hero 10 BendTime,GoPro TimeWarp,GoPro Hero TikTok,Ultimate GoPro Timelapse,GoPro Hero ChronoEdit,ProHero TempShift,Hero10 TemporalVideo"
-thumbnail: https://www.lifewire.com/thmb/TTQs-owdidJ3vVxwHNq2QLaJE5k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1124963889-d2e00bd6bec643449b4fe87ca86104d8.jpg
+thumbnail: https://thmb.techidaily.com/5ed909f597267ef924f41dbe3db988e7da363a5d5c3d20cd43f4003c2eedf878.jpg
 ---
 
 ## The Ultimate Guide to Time-Bending Videos on GoPro Hero 10

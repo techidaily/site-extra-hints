@@ -1,7 +1,7 @@
 ---
 title: "Mastering Photography with Nikon D7500"
-date: 2024-05-24T01:14:41.966Z
-updated: 2024-05-25T01:14:41.966Z
+date: 2024-07-05T22:48:28.868Z
+updated: 2024-07-06T22:48:28.868Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Mastering Photography with Nikon D7500"
 excerpt: "This Article Describes Mastering Photography with Nikon D7500"
 keywords: "Nikon D7500 Basics,D7500 Photo Techniques,D7500 Light Control,Nikon D7500 Exposure,Nikon D7500 Focus Tips,Nikon D7500 Composition,D7500 RAW Imaging"
-thumbnail: https://www.lifewire.com/thmb/gqD8upUHe51-QbDVBOjSRL6QoLk=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/AI_Choreograph_GettyImagesPlus-1473211827_CROPPED-137fc9eef04a43a79554344a6f11d1b7.jpg
+thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a1d76f74a4f77913c7df7881.jpg
 ---
 
 ## Mastering Photography with Nikon D7500

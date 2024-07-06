@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Behind-the-Scenes  The DJI Phantom 3 Pro Tech\""
-date: 2024-05-24T00:46:15.410Z
-updated: 2024-05-25T00:46:15.410Z
+date: 2024-07-05T22:48:30.363Z
+updated: 2024-07-06T22:48:30.363Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, Behind-the-Scenes: The DJI Phantom 3 Pro Tech\""
 excerpt: "\"This Article Describes In 2024, Behind-the-Scenes: The DJI Phantom 3 Pro Tech\""
 keywords: "\"Phantom 3 Pro Tech,DJI Drone Tech,Drone Camera Technology,DJI P3 Pro Specs,DJI Photography Tools,Professional Drones for Filming,Advanced Drones: Phantom 3 Pro\""
-thumbnail: https://www.lifewire.com/thmb/4OpZUmrUm09wuyKaxQzrFai2HEQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Screenshot2023-09-12at11.00.18AM-9bce49c3f0784762bc4792fe43286cc8.png
+thumbnail: https://thmb.techidaily.com/76bc2de184e61e693dbac8bc5f62288cf6610a7d170abd91534f7a21873e1f18.png
 ---
 
 ## Behind-the-Scenes: The DJI Phantom 3 Pro Tech

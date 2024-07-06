@@ -1,7 +1,7 @@
 ---
 title: "[New] A Novice's Introduction to AV1 Codec"
-date: 2024-05-24T01:58:25.853Z
-updated: 2024-05-25T01:58:25.853Z
+date: 2024-07-05T22:48:33.269Z
+updated: 2024-07-06T22:48:33.269Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] A Novice's Introduction to AV1 Codec"
 excerpt: "This Article Describes [New] A Novice's Introduction to AV1 Codec"
 keywords: "Beginner's AV1 Guide,AV1 Basics Overview,Intro to AV1 Encoding,Understanding AV1 Tech,Novice AV1 Decoder,Introduction to Video Codec AV1,Start with AV1 Compression"
-thumbnail: https://www.lifewire.com/thmb/KQEPD1j8h_qKr2PB3tJ6qZQQ508=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104626001-5c34f065c9e77c00010b8cd5.jpg
+thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39326ff49e8d4fafd11fa0e00.jpg
 ---
 
 ## A Novice's Introduction to AV1 Codec

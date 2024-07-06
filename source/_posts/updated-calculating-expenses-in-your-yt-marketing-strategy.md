@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Calculating Expenses in Your YT Marketing Strategy"
-date: 2024-05-24T02:07:32.383Z
-updated: 2024-05-25T02:07:32.383Z
+date: 2024-07-05T22:48:34.564Z
+updated: 2024-07-06T22:48:34.564Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Calculating Expenses in Your YT Marketing Strategy"
 excerpt: "This Article Describes [Updated] Calculating Expenses in Your YT Marketing Strategy"
 keywords: "YT Marketing Costs Analysis,YT Budgeting Guide,YT Spend Evaluation,YT Fiscal Planning,YT Expense Tracking,YT Finance Strategy,YT Marketing ROI Assessment"
-thumbnail: https://www.lifewire.com/thmb/m-K3IzE697zmvCh3fDv5AHkpXLE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ipad-parent-kids-57a274ec3df78c32764996b7.jpg
+thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd178394378301c673d9cd094e466a.jpg
 ---
 
 ## Calculating Expenses in Your YT Marketing Strategy

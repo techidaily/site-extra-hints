@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing the Heavens  Phone Panorama Basics\""
-date: 2024-05-24T00:22:57.824Z
-updated: 2024-05-25T00:22:57.824Z
+date: 2024-07-05T22:48:29.174Z
+updated: 2024-07-06T22:48:29.174Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [New] Capturing the Heavens: Phone Panorama Basics\""
 excerpt: "\"This Article Describes [New] Capturing the Heavens: Phone Panorama Basics\""
 keywords: "Sky Panoramas,PhotoPanoramaTech,HeavensPanoBasics,MobileStargazing,StarrySkyView,PanoramaPhones,CelestialPhotoGuide"
-thumbnail: https://www.lifewire.com/thmb/Cy8805iRCouyGVEpCG4cH6-vzRI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-97096677-56e308935f9b5854a9f8c07e.jpg
+thumbnail: https://thmb.techidaily.com/2cb7f310cfa40bade9f97a206c11fec1a7936d92f7d177b793679fa54a81c9a8.jpg
 ---
 
 ## Capturing the Heavens: Phone Panorama Basics

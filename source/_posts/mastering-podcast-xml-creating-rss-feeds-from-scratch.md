@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Podcast XML  Creating RSS Feeds From Scratch\""
-date: 2024-05-24T02:31:28.254Z
-updated: 2024-05-25T02:31:28.254Z
+date: 2024-07-05T22:48:32.505Z
+updated: 2024-07-06T22:48:32.505Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Mastering Podcast XML: Creating RSS Feeds From Scratch\""
 excerpt: "\"This Article Describes Mastering Podcast XML: Creating RSS Feeds From Scratch\""
 keywords: "Podcast RSS Basics,RSS Feed Crafting,XML for Podcasts,Master Podcast RSS,Create RSS Tracks,Scratchpad XML,RSS Feeds From Start"
-thumbnail: https://www.lifewire.com/thmb/LSRhv9V0PxzBAHOqiakqf0M89LI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1302402871-ea3debd2e3c64ec5a78a99e580b6a8d1.jpg
+thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a96b142f6b85654b12ef9f8e.jpg
 ---
 
 ## Mastering Podcast XML: Creating RSS Feeds From Scratch

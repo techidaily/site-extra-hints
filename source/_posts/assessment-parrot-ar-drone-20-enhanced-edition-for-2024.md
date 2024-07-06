@@ -1,7 +1,7 @@
 ---
 title: "\"Assessment  Parrot AR Drone 2.0 Enhanced Edition for 2024\""
-date: 2024-05-24T02:04:13.648Z
-updated: 2024-05-25T02:04:13.648Z
+date: 2024-07-05T22:48:31.597Z
+updated: 2024-07-06T22:48:31.597Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Assessment: Parrot AR Drone 2.0 Enhanced Edition for 2024\""
 excerpt: "\"This Article Describes Assessment: Parrot AR Drone 2.0 Enhanced Edition for 2024\""
 keywords: "Parrot AR Drone,AR Drone Assessment,Drone 2.0 Upgrade,Parrot 2.0 AR Tech,Enhanced Drone Features,AR Drones Revision,Drone Technology Advance"
-thumbnail: https://www.lifewire.com/thmb/pRpDOA8AIRjeIki_qKAnNQoXzBw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/amazon-prime-day-is-just-16-days-away---here-s-what-you-need-to-know-76d8205ed9e54da1ae0c0d0ec5d883e7
+thumbnail: https://thmb.techidaily.com/8ac81d16fe79fad30026aca67e023b34a8f1d9b49b75551b82236c5ce76daa3d
 ---
 
 ## Assessment: Parrot AR Drone 2.0 Enhanced Edition

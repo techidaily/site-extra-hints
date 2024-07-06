@@ -1,7 +1,7 @@
 ---
 title: "\"Prime Retro Elements  Reviving Classic VHS Tricks\""
-date: 2024-05-24T01:14:50.276Z
-updated: 2024-05-25T01:14:50.276Z
+date: 2024-07-05T22:48:30.023Z
+updated: 2024-07-06T22:48:30.023Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Prime Retro Elements: Reviving Classic VHS Tricks\""
 excerpt: "\"This Article Describes Prime Retro Elements: Reviving Classic VHS Tricks\""
 keywords: "\"Budget Art Collection,Cheap Art Finds,Affordable Art Pieces,Cost-Effective Creativity,Economical Artist Items,Inexpensive Crafts,Low-Cost Art Supplies\""
-thumbnail: https://www.lifewire.com/thmb/AnSQt4WBf9mCAfe0DlWWjxsoA2w=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/android-phone-9eea685d77174a2fbab326fc95cdd2c0.jpg
+thumbnail: https://thmb.techidaily.com/3f83cf37f566bce38971b018170626d6e67c9f875eec12a8f86b696a3d6ea101.jpg
 ---
 
 ## Prime Retro Elements: Reviving Classic VHS Tricks

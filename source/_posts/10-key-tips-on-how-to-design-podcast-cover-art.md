@@ -1,7 +1,7 @@
 ---
 title: "10 Key Tips on How to Design Podcast Cover Art"
-date: 2024-05-24T00:57:03.766Z
-updated: 2024-05-25T00:57:03.766Z
+date: 2024-07-05T22:48:35.392Z
+updated: 2024-07-06T22:48:35.392Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes 10 Key Tips on How to Design Podcast Cover Art"
 excerpt: "This Article Describes 10 Key Tips on How to Design Podcast Cover Art"
 keywords: "Podcast Cover Art Tips,Design Podcast Art Guide,Podcast Art Design Basics,Cover Art for Podcasts,Top Podcast Image Designs,Podcast Visual Identity,Tips for Podcast Cover Art"
-thumbnail: https://www.lifewire.com/thmb/TMG1LQfedgEOLzsa0xsss0jfV3g=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Apple-Watch-9-46d6928f7a824ba88510cdc5911f8b82.jpg
+thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a099867df0bbc5e1bf070a408f.jpg
 ---
 
 ## 10 Key Tips on How to Design Podcast Cover Art

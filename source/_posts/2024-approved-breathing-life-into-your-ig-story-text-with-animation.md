@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Breathing Life Into Your IG Story Text with Animation\""
-date: 2024-05-24T02:20:51.350Z
-updated: 2024-05-25T02:20:51.350Z
+date: 2024-07-05T22:48:32.353Z
+updated: 2024-07-06T22:48:32.353Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Breathing Life Into Your IG Story Text with Animation\""
 excerpt: "\"This Article Describes 2024 Approved: Breathing Life Into Your IG Story Text with Animation\""
 keywords: "Animated IG Stories,Breathe Life to Stories,IG Stories Animation,Dynamic IG Content,Engaging Story Lives,Animated IG Text,Vivid Storytelling on IG"
-thumbnail: https://www.lifewire.com/thmb/FS5Gk68xWgkA8f3C7mSUdhpjCms=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/wwdc-2024-d4e7a013ffd94036a6c5e0f8a23eb2a0.png
+thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61c9d02d5a4f78ba177103c47.png
 ---
 
 ## Breathing Life Into Your IG Story Text with Animation
@@ -46,7 +46,7 @@ Step4 You may check a preview of the dynamic text on Instagram. The animation wi
 
 ![revise story post instagram](https://images.wondershare.com/filmora/article-images/2022/09/revise-story-post-instagram.jpg)
 
-## Way 2\. Use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) Video Editor on Computer
+## Way 2\. Use Filmora
 
 Get distinctive word animations that will wow your friends and followers for anything from promotional videos to corporate presentations. Start right now for nothing! Each video scene may be edited separately, and scenes can be added or removed as you go. Enter your text, choose your preferred font, and then select the kind of text animation you want from the dropdown menu. You may also import any photographs or video clips that you wish to utilize. With the app's record function, you may even create brand-new video clips, or you can add a voiceover to go along with your animated text.
 

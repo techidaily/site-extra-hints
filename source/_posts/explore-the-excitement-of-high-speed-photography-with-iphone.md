@@ -1,7 +1,7 @@
 ---
 title: "\"Explore the Excitement of High-Speed Photography with iPhone\""
-date: 2024-05-24T02:29:50.497Z
-updated: 2024-05-25T02:29:50.497Z
+date: 2024-07-05T22:48:29.860Z
+updated: 2024-07-06T22:48:29.860Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Explore the Excitement of High-Speed Photography with iPhone\""
 excerpt: "\"This Article Describes Explore the Excitement of High-Speed Photography with iPhone\""
 keywords: "IPhone HSPhotography,IPhone SpeedCapture,IPhone FastPhoto,IPhone ShockFreezing,IPhone RapidShutter,IPhone FlashFreeze,IPhone LightningClicks"
-thumbnail: https://www.lifewire.com/thmb/XUXpJP1xyzXNqvCpvexeMODTRe8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1264479367-d2278fd5760d4949b4887c2a06002972.jpg
+thumbnail: https://thmb.techidaily.com/67fbae13bc8823b0a301a4edbd98e7b90a3759ff0f1b1dda3ab1c9790066eccf.jpg
 ---
 
 ## Explore the Excitement of High-Speed Photography with iPhone

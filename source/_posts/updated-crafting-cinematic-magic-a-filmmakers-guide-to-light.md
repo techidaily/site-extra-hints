@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Crafting Cinematic Magic  A Filmmaker's Guide to Light\""
-date: 2024-05-24T01:00:06.266Z
-updated: 2024-05-25T01:00:06.266Z
+date: 2024-07-05T22:48:33.367Z
+updated: 2024-07-06T22:48:33.367Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Crafting Cinematic Magic: A Filmmaker's Guide to Light\""
 excerpt: "\"This Article Describes [Updated] Crafting Cinematic Magic: A Filmmaker's Guide to Light\""
 keywords: "Film Light Techniques,Cinemagic Storytelling,Cinephile Visuals Mastery,Lights & Cinema Essentials,Director's Lighting Guide,Movie Magic Through Light,Screenplay Illumination Tips"
-thumbnail: https://www.lifewire.com/thmb/9bR77WEEupNjyWJs1sjZyKQ-ZcQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/onur-binay-uk5FrhKtr7E-unsplash-61bd7ebecee043dbad9abd9677638b3f.jpg
+thumbnail: https://thmb.techidaily.com/f44a3055113623243d984e90c974cbd9f7a4751106e76ccc80ae32530955e3a8.jpg
 ---
 
 ## Crafting Cinematic Magic: A Filmmaker's Guide to Light

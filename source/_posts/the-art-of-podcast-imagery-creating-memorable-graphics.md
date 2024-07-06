@@ -1,7 +1,7 @@
 ---
 title: "\"The Art of Podcast Imagery  Creating Memorable Graphics\""
-date: 2024-05-24T02:02:28.187Z
-updated: 2024-05-25T02:02:28.187Z
+date: 2024-07-05T22:48:34.789Z
+updated: 2024-07-06T22:48:34.789Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes The Art of Podcast Imagery: Creating Memorable Graphics\""
 excerpt: "\"This Article Describes The Art of Podcast Imagery: Creating Memorable Graphics\""
 keywords: "\"Podcast Image Design,Graphic Podcast Memes,Audio Visuals for Podcasts,Eye-Catching Podcast Art,Imagery in Podcasting,Graphics for Podcast Clips,Memorable Podcast Visuals\""
-thumbnail: https://www.lifewire.com/thmb/Ku_-_mUSA_-pqx1qUkcNNrkX0ic=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Gmail-Logo-57e3e0b75f9b586c35507780.png
+thumbnail: https://thmb.techidaily.com/184d7cf1dfbfc8948b40afe261697d83b7fb70b650978462e7e0c6bc450abb26.png
 ---
 
 ## The Art of Podcast Imagery: Creating Memorable Graphics

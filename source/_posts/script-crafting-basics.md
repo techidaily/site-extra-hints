@@ -1,7 +1,7 @@
 ---
 title: "Script Crafting Basics"
-date: 2024-05-24T02:34:44.952Z
-updated: 2024-05-25T02:34:44.952Z
+date: 2024-07-05T22:48:34.051Z
+updated: 2024-07-06T22:48:34.051Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Script Crafting Basics"
 excerpt: "This Article Describes Script Crafting Basics"
 keywords: "Script Writing Fundamentals,Basic Scritp Techniques,Script Creation Essentials,Scriptwriting Basics,Foundational Script Skills,Crafting Screenplays,Beginner Screenplay Tips"
-thumbnail: https://www.lifewire.com/thmb/uGlcYv-L56dzHpQafRHSaTb_cq8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-527803604-ad6f389c89ff4be1b953a3c2cdc64c09.jpg
+thumbnail: https://thmb.techidaily.com/cfa45c8957851b057661f0d98a0c4cd9830d27a0c465cacef45307df647411ca.jpg
 ---
 
 ## Script Crafting Basics
@@ -155,13 +155,13 @@ After you have chosen what template is more appropriate for your needs, you will
 
 The article has provided the most information about screenplays and how to write one. Not only that, but we'll also talk about video editing software. We hope that after reading and learning from this source, you will be able to write a better screenplay.
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For Win 7 or later(64-bit)
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 </article
 
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/)For macOS 10.14 or later
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 <ins class="adsbygoogle"
      style="display:block"

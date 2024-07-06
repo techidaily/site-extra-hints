@@ -1,7 +1,7 @@
 ---
 title: "[New] Comprehensive Collection for Collage Crafting"
-date: 2024-05-24T01:20:01.778Z
-updated: 2024-05-25T01:20:01.778Z
+date: 2024-07-05T22:48:32.861Z
+updated: 2024-07-06T22:48:32.861Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Comprehensive Collection for Collage Crafting"
 excerpt: "This Article Describes [New] Comprehensive Collection for Collage Crafting"
 keywords: "Collage Creation Guide,Crafting Collage Essentials,Collaborative Art Collage,DIY Collage Hacks,Creative Collage Kits,Easy Collage Projects,Masterpiece Collage Tools"
-thumbnail: https://www.lifewire.com/thmb/q7-GkgjyQTtb1vUY1UKOX8N-9dc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/jongsun-lee-F-pSZO_jeE8-unsplash-f3e7cedccf0c468eacc22b2b9b161def.jpg
+thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd1d393f4b6d528ffbc9df6b1.jpg
 ---
 
 ## Comprehensive Collection for Collage Crafting

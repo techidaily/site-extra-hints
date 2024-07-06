@@ -1,7 +1,7 @@
 ---
 title: "Blurring the Line Between Still and Motion Art"
-date: 2024-05-24T01:59:01.286Z
-updated: 2024-05-25T01:59:01.286Z
+date: 2024-07-05T22:48:31.054Z
+updated: 2024-07-06T22:48:31.054Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Blurring the Line Between Still and Motion Art"
 excerpt: "This Article Describes Blurring the Line Between Still and Motion Art"
 keywords: "Still Life Meets Movement,Dynamic Art Exploration,Pure Motion Creation,Blurred Art Forms,Transcending Stillness,Interactive Art Dynamics,Kinetic Aesthetic Design"
-thumbnail: https://www.lifewire.com/thmb/ykAUFSZjtnCD_V_gdulTcJzd-5w=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1367281424-4cada22b6aa04ceabd3a3af00609dac0.jpg
+thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca1da2ad6fefe640eb56756a6.jpg
 ---
 
 ## Blurring the Line Between Still and Motion Art

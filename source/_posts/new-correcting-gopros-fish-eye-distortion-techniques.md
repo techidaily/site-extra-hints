@@ -1,7 +1,7 @@
 ---
 title: "[New] Correcting GoPro's Fish Eye Distortion Techniques"
-date: 2024-05-24T01:01:30.706Z
-updated: 2024-05-25T01:01:30.706Z
+date: 2024-07-05T22:48:35.542Z
+updated: 2024-07-06T22:48:35.542Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] Correcting GoPro's Fish Eye Distortion Techniques"
 excerpt: "This Article Describes [New] Correcting GoPro's Fish Eye Distortion Techniques"
 keywords: "GoPro Distortion Fix,Corrected GoPro Lens,Remove FishEye in GoPro,GoPro Lens Adjustment,Reduce GoPro Distortion,GoPro Image Correction,Clear GoPro Videography"
-thumbnail: https://www.lifewire.com/thmb/img6T68Fg1fTMamba3P66n34F08=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/theregisti-wbDsOAMynRo-unsplash-6b32cc049cda496b8cbd6150d77f5abc.jpg
+thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1348792ff9e2250cf6de872e.jpg
 ---
 
 ## Correcting GoPro's Fish Eye Distortion Techniques
@@ -89,7 +89,7 @@ The reason behind this recommendation is that:
 
 **Step 3:** Use import button to bring your photos on timeline or you can do this task with the help of simple drag and drop feature. Even the unwanted files can be easily removed by pressing Clear button on screen.
 
-![Import files]( https://images.wondershare.com/filmora/guide/3-action-cam-tool-import-file.jpg)
+![Import files](https://images.wondershare.com/filmora/guide/3-action-cam-tool-import-file.jpg)
 
 **Step 4:** Now enable Lens Correction option. The drop down list will help you to select your camera model as well as the video mode that was used for capturing videos. Once all selections are made then Filmora will immediately correct your distorted video. The correction level can be also adjusted manually as per need from the slide bar.
 
@@ -180,7 +180,7 @@ The reason behind this recommendation is that:
 
 **Step 3:** Use import button to bring your photos on timeline or you can do this task with the help of simple drag and drop feature. Even the unwanted files can be easily removed by pressing Clear button on screen.
 
-![Import files]( https://images.wondershare.com/filmora/guide/3-action-cam-tool-import-file.jpg)
+![Import files](https://images.wondershare.com/filmora/guide/3-action-cam-tool-import-file.jpg)
 
 **Step 4:** Now enable Lens Correction option. The drop down list will help you to select your camera model as well as the video mode that was used for capturing videos. Once all selections are made then Filmora will immediately correct your distorted video. The correction level can be also adjusted manually as per need from the slide bar.
 
@@ -271,7 +271,7 @@ The reason behind this recommendation is that:
 
 **Step 3:** Use import button to bring your photos on timeline or you can do this task with the help of simple drag and drop feature. Even the unwanted files can be easily removed by pressing Clear button on screen.
 
-![Import files]( https://images.wondershare.com/filmora/guide/3-action-cam-tool-import-file.jpg)
+![Import files](https://images.wondershare.com/filmora/guide/3-action-cam-tool-import-file.jpg)
 
 **Step 4:** Now enable Lens Correction option. The drop down list will help you to select your camera model as well as the video mode that was used for capturing videos. Once all selections are made then Filmora will immediately correct your distorted video. The correction level can be also adjusted manually as per need from the slide bar.
 
@@ -362,7 +362,7 @@ The reason behind this recommendation is that:
 
 **Step 3:** Use import button to bring your photos on timeline or you can do this task with the help of simple drag and drop feature. Even the unwanted files can be easily removed by pressing Clear button on screen.
 
-![Import files]( https://images.wondershare.com/filmora/guide/3-action-cam-tool-import-file.jpg)
+![Import files](https://images.wondershare.com/filmora/guide/3-action-cam-tool-import-file.jpg)
 
 **Step 4:** Now enable Lens Correction option. The drop down list will help you to select your camera model as well as the video mode that was used for capturing videos. Once all selections are made then Filmora will immediately correct your distorted video. The correction level can be also adjusted manually as per need from the slide bar.
 

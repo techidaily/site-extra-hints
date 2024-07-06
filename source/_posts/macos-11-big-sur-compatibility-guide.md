@@ -1,7 +1,7 @@
 ---
 title: "MacOS 11 Big Sur Compatibility Guide"
-date: 2024-05-24T02:11:28.255Z
-updated: 2024-05-25T02:11:28.255Z
+date: 2024-07-05T22:48:31.845Z
+updated: 2024-07-06T22:48:31.845Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes MacOS 11 Big Sur Compatibility Guide"
 excerpt: "This Article Describes MacOS 11 Big Sur Compatibility Guide"
 keywords: "MacOS 11,Compatibility Guide,Big Sur Upgrade Tips,OSX Big Sur Support,Software Compatibility Mac,Big Sur Installation Check,Update to Big Sur Guide"
-thumbnail: https://www.lifewire.com/thmb/G7UyM6yly4YWcsiu8kN1fpWKHp8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/mgwheel00-df5fd550ae664063ad12d2cf861f32fc.jpg
+thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7cf21c80e9cb56c9f6856e1f.jpg
 ---
 
 ## MacOS 11 Big Sur Compatibility Guide
