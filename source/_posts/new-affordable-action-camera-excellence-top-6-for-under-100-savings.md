@@ -1,7 +1,7 @@
 ---
 title: "[New] Affordable Action Camera Excellence – Top 6 for Under $100 Savings"
-date: 2024-05-24T01:05:29.871Z
-updated: 2024-05-25T01:05:29.871Z
+date: 2024-07-22T11:32:42.541Z
+updated: 2024-07-23T11:32:42.541Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "This Article Describes [New] Affordable Action Camera Excellence – Top 6 for Under $100 Savings"
 excerpt: "This Article Describes [New] Affordable Action Camera Excellence – Top 6 for Under $100 Savings"
 keywords: "\"Budget Cameras,Affordable Action Vid,Cheap Camera Gear,Discounted Camera Kits,Low-Cost Action Cam,$100+ Camera Deals,Economical Camera Choices\""
-thumbnail: https://www.lifewire.com/thmb/5lyEkq3okn_NNsuCJc0_04F1lIU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/how-to-cast-to-firestick-from-an-android-phone-f625f95b6dd548e5934171100785016e.jpg
+thumbnail: https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee741804b69375cf4ed02faf5de.jpg
 ---
 
 ## Affordable Action Camera Excellence – Top 6 for Under $100 Savings
 
 # Top 6 Cheapest Action Cameras to Buy Under $100
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,6 +33,9 @@ thumbnail: https://www.lifewire.com/thmb/5lyEkq3okn_NNsuCJc0_04F1lIU=/400x300/fi
 
  GoPro has been dominating the market for over a decade, now due to its popularity among professionals, availability of compatible [accessories](https://tools.techidaily.com/wondershare/filmora/download/) and above all its quality. However, before buying, it is worth looking at some other brands (though less popular compared to GoPro) featuring wonderful technical specifications at affordable prices.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Factors to Consider When Buying Your Action or Sports Camera
 
  Those who are novice to the concept of motion video and photography should consider the following aspects seriously while choosing their action camera.
@@ -44,6 +50,171 @@ thumbnail: https://www.lifewire.com/thmb/5lyEkq3okn_NNsuCJc0_04F1lIU=/400x300/fi
 
 **Camera Shape, Dimension and Weight:** The action camera is mostly mounted on the photographer’s body during high-speed mobility. Choose a camera with extremely compact design (preferably box shaped) and lightweight model for convenient mounting.
 
+## Top 6 Cheapest Action Cameras to Buy Under $100
+
+#### **1. [Polaroid Cube+](https://tools.techidaily.com/wondershare/filmora/download/) HD 1080p Lifestyle Action Camera- $99.99**
+
+[Check at Amazon](https://www.amazon.com/gp/product/B011OUSSL2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B011OUSSL2&linkId=8468cb3fa9694ab9e09d99e5f9a7587e
+)
+
+ This cute 35 mm (1.4 inches) cube shaped camera with 10m waterproof case is fit for all your adventure video shooting needs while finely WiFi sync via the Cube+ app and a range of powerful tools allows you to monitor and control the operations via iOS and Android screen devices. Great for taking time-lapse videos, the camera can take up to 100 shots at 10fps.
+
+ **Key Features and Specifications**
+
+* **Chipset:** Ambarella A7LS
+* **Image Sensor:** 8MP CMOS
+* **Battery:** 600mAh li-ion battery included (85mins recording when shooting at 1440/60fps)
+* **Memory Storage Support:** microSD card storage capacity of up to 128GB
+* **Lens:** 124° lens
+* **Frame Rate:** 120fps, 60fps, 30fps
+* **Image Resolution:** 8MP
+* **Video Resolution:** 1440p @ 30fps; 1080p @ 30/60 fps; 720p @ 30/60/120fps
+* **Media Format:** MP4, , JPEG
+* **Connectivity:** USB, Wifi, or the Cube+ app
+* **Waterproof:** 10m waterproof case
+
+#### **2. YI Action Camera- $99.99**
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01C89GCHU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89GCHU&linkId=0fa33bbe15256887fcfa7957bd8e3a3a)
+
+ The YI Action Camera is a great possession for professionals to capture sporting events with a documentary style. The 40m extra-shield waterproofing is best option for capturing awesome underwater sequences. The camera supports MP4 and JPEG media file formats on various storage devices, including MicroSD/HC/XC capacity of up to 64 GB. Featuring various connectivity options, the users can use Bluetooth, micro B USB, Wifi, HDMI, or the app to access the videos.
+
+ **Key Features and Specifications**
+
+* **Chipset:** Ambarella A7LS
+* **Image Sensor:** 1/2.3"16 Megapixel CMOS
+* **Battery:** 1010mAh (80mins recording when shooting at 1080/60fps)
+* **Memory Storage Support:** TF card, MicroSD/HC/XC capacity of up to 64 GB
+* **Lens:** 155° wide view angle lens
+* **Frame Rate:** 120fps, 60fps, 30fps
+* **Image Resolution:** 16MP
+* **Video Resolution:** 1080p@60/48/30/24fps, 960@60/48fps;720p@48/60/120fps;480p@40fps
+* **Media Format:** MP4, , JPEG
+* **Connectivity:** Bluetooth, micro B USB, Wifi, HDMI, or the app
+* **Waterproof:** 40m extra-shield (with case)
+
+#### **3. Amkov AMK7000S- $99.99**
+
+ Featuring heat dissipating and shock resistant zinc alloy steel body with the Sunplus 6350M chipset, this 12MP camera is suitable for long duration shooting with extended 1150mAh battery. The camera has a wide range of specialties such as the anti-shake technology, loop recording and adjustment option like burst mode. You can view the notification on the front screen and video display at the 2” back LCD screen.
+
+ **Key Features and Specifications**
+
+* **Chipset:** Sunplus 6350M
+* **Display:** 2” back LCD screen
+* **Battery:** 1150mAh (90mins recording)
+* **Memory Storage Support:** TF Card up to 32GB (not included in the package)
+* **Lens:** 170° wide view angle
+* **Frame Rate:** 120fps, 60fps, 30fps
+* **Image Resolution:** 12MP
+* **Video Resolution:** 4K@10fps, 2.7k@15fps, 1080p@60/30fps, 720p@60/120fps
+* **Media Format:** MP4, , JPEG
+* **Connectivity:** Micro HDMI, Micro USB, Wi-Fi, and AMK icam App
+* **Waterproof:** 40m extra-shield (with case)
+
+#### **4. Elephone Explorer- $69.99**
+
+ This is a budget friendly option for novice photographers trying their hands on the action cameras. There is a 2” LCD monitor as well Wifi connectivity facility to see your recording on Android and iOS screen devices.
+
+ **Key Features and Specifications**
+
+* **Image Sensor:** AptinaAR0330 Sensor
+* **Battery:** 900mAh (90 minutes)
+* **Memory Storage Support:** MicroSD/Micro SDHC(up to 32GB)
+* **Lens:** 170° wide view angle
+* **Video Resolution:** 4K@15fps, 1080p@30fps, 720p@30/60/fps
+* **Media Format:** MP4, JPEG
+* **Connectivity:** Wi-Fi, HDMI, Micro USB, APP
+* **Waterproof:** 30m (with case)
+
+#### **5. SJCAM SJ4000: 1080p- $67.10**
+
+ This is a multi-purpose camera to fulfill your needs at various situations. The HDMI connectivity allows using this small device as web camera to chat online and perform several other actions. In addition to these, the waterproofing allows the users to carry this lightweight device even for adventure sports.
+
+ **Key Features and Specifications**
+
+* **Image Sensor:** AptinaAR0330 Sensor
+* **Battery:** 900mAh (90 minutes)
+* **Memory Storage Support:** MicroSD/Micro SDHC(up to 32GB)
+* **Lens:** 170° wide view angle
+* **Video Resolution:** 1080p@30fps, 720p@30/60/fps
+* **Media Format:** MP4, JPEG
+* **Connectivity:** Micro USB, HDMI
+* **Waterproof:** 30m (with case)
+
+[Learn more about Top 10 Must Have Accessories for SJ4000](https://tools.techidaily.com/wondershare/filmora/download/)
+
+#### **6. EKEN H9 - $59.99**
+
+ This low cost action camera is superb for basic photography and video recording tasks. With a standard Sunplus 6350 chipset and 2” LCD screen, it becomes very easy to shoot your videos while monitoring them throughout.
+
+ **Key Features and Specifications**
+
+* **Image Sensor:** OV4689 CMOS
+* **Battery:** 1050mAh (1080p30/1.5 hours, 4K25/1080p60 50 mins)
+* **Memory Storage Support:** Micro SDHC card
+* **Lens:** 170° wide view angle
+* **Video Resolution:** 4K@15fps 1080p@60/30fps, 720p@60/120fps slow-motion
+* **Media Format**: mov ; JPEG
+* **Connectivity:** Micro USB, HDMI
+* **Waterproof:** 30m (with case)
+
+## Conclusion
+
+ While GoPro is widely recognized for unmatched qualities, advanced technological specifications, adaptation to accessories, and durability, several new cameras selling at a price range of below $100 are slowly emerging as key market competitors. At all circumstances, the customers are at a greater advantage of choosing simply the best.
+
+ The above mentioned list of the top 6 cheapest cameras under $100 is based on the features, performance and recommendations of professional photography veterans. If you have user experience with any other camera in this price range that deserve to be in this list, please feel free to share your views in the comment section below.
+
+ However, if you are interested in cameras within a higher range of $100-$200, read our article about the [best cameras within $100-$200](https://tools.techidaily.com/wondershare/filmora/download/).
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ The introduction of the GoPro in the market brought the revolution in professional photography, making action and sports camera incredibly popular. Whether you are an adventure sport enthusiast looking to immortalize every moment during high speed jumping, [diving](https://tools.techidaily.com/wondershare/filmora/download/), skiing experience, or looking forward to produce documentary-style motion videos, the action camera is the most precious possession.
+
+ GoPro has been dominating the market for over a decade, now due to its popularity among professionals, availability of compatible [accessories](https://tools.techidaily.com/wondershare/filmora/download/) and above all its quality. However, before buying, it is worth looking at some other brands (though less popular compared to GoPro) featuring wonderful technical specifications at affordable prices.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+## Factors to Consider When Buying Your Action or Sports Camera
+
+ Those who are novice to the concept of motion video and photography should consider the following aspects seriously while choosing their action camera.
+
+**Cost of the Camera:** Your budget determines the actual range while looking for the action cameras. Ideally, it can be hard to find a GoPro under $100\. Even a basic model is priced at $130\. While preparing a budget, you must also consider a checklist of supportive accessories and their prices.
+
+**Supportive Accessories:** Though the manufacturers provide some basic gears such as waterproof housing with the camera, it is always necessary to purchase the most compatible high quality accessories that fit your camera best. Some basic requirements include mounts, tripods, filters, extended life batteries etc.
+
+**Camera Specifications and Features:** At the end of the day, your picture or video quality is the main thing that matters. Decide what quality picture resolution or video shooting do you intend to achieve. Consider choosing highest pixel for photos and 4k resolution for best results with final edited video.
+
+**Weather Resistance Protection:** Your action camera is exposed to moisture and fluctuating temperatures often. Your camera should have a waterproof housing or water resistant protection support to ensure greater durability.
+
+**Camera Shape, Dimension and Weight:** The action camera is mostly mounted on the photographer’s body during high-speed mobility. Choose a camera with extremely compact design (preferably box shaped) and lightweight model for convenient mounting.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Top 6 Cheapest Action Cameras to Buy Under $100
 
 #### **1. [Polaroid Cube+](https://tools.techidaily.com/wondershare/filmora/download/) HD 1080p Lifestyle Action Camera- $99.99**
@@ -298,6 +469,9 @@ Follow @Max Wales
 * **Connectivity:** Micro USB, HDMI
 * **Waterproof:** 30m (with case)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Conclusion
 
  While GoPro is widely recognized for unmatched qualities, advanced technological specifications, adaptation to accessories, and durability, several new cameras selling at a price range of below $100 are slowly emerging as key market competitors. At all circumstances, the customers are at a greater advantage of choosing simply the best.
@@ -306,6 +480,9 @@ Follow @Max Wales
 
  However, if you are interested in cameras within a higher range of $100-$200, read our article about the [best cameras within $100-$200](https://tools.techidaily.com/wondershare/filmora/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -452,152 +629,9 @@ Follow @Max Wales
 
  However, if you are interested in cameras within a higher range of $100-$200, read our article about the [best cameras within $100-$200](https://tools.techidaily.com/wondershare/filmora/download/).
 
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- The introduction of the GoPro in the market brought the revolution in professional photography, making action and sports camera incredibly popular. Whether you are an adventure sport enthusiast looking to immortalize every moment during high speed jumping, [diving](https://tools.techidaily.com/wondershare/filmora/download/), skiing experience, or looking forward to produce documentary-style motion videos, the action camera is the most precious possession.
-
- GoPro has been dominating the market for over a decade, now due to its popularity among professionals, availability of compatible [accessories](https://tools.techidaily.com/wondershare/filmora/download/) and above all its quality. However, before buying, it is worth looking at some other brands (though less popular compared to GoPro) featuring wonderful technical specifications at affordable prices.
-
-## Factors to Consider When Buying Your Action or Sports Camera
-
- Those who are novice to the concept of motion video and photography should consider the following aspects seriously while choosing their action camera.
-
-**Cost of the Camera:** Your budget determines the actual range while looking for the action cameras. Ideally, it can be hard to find a GoPro under $100\. Even a basic model is priced at $130\. While preparing a budget, you must also consider a checklist of supportive accessories and their prices.
-
-**Supportive Accessories:** Though the manufacturers provide some basic gears such as waterproof housing with the camera, it is always necessary to purchase the most compatible high quality accessories that fit your camera best. Some basic requirements include mounts, tripods, filters, extended life batteries etc.
-
-**Camera Specifications and Features:** At the end of the day, your picture or video quality is the main thing that matters. Decide what quality picture resolution or video shooting do you intend to achieve. Consider choosing highest pixel for photos and 4k resolution for best results with final edited video.
-
-**Weather Resistance Protection:** Your action camera is exposed to moisture and fluctuating temperatures often. Your camera should have a waterproof housing or water resistant protection support to ensure greater durability.
-
-**Camera Shape, Dimension and Weight:** The action camera is mostly mounted on the photographer’s body during high-speed mobility. Choose a camera with extremely compact design (preferably box shaped) and lightweight model for convenient mounting.
-
-## Top 6 Cheapest Action Cameras to Buy Under $100
-
-#### **1. [Polaroid Cube+](https://tools.techidaily.com/wondershare/filmora/download/) HD 1080p Lifestyle Action Camera- $99.99**
-
-[Check at Amazon](https://www.amazon.com/gp/product/B011OUSSL2/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B011OUSSL2&linkId=8468cb3fa9694ab9e09d99e5f9a7587e
-)
-
- This cute 35 mm (1.4 inches) cube shaped camera with 10m waterproof case is fit for all your adventure video shooting needs while finely WiFi sync via the Cube+ app and a range of powerful tools allows you to monitor and control the operations via iOS and Android screen devices. Great for taking time-lapse videos, the camera can take up to 100 shots at 10fps.
-
- **Key Features and Specifications**
-
-* **Chipset:** Ambarella A7LS
-* **Image Sensor:** 8MP CMOS
-* **Battery:** 600mAh li-ion battery included (85mins recording when shooting at 1440/60fps)
-* **Memory Storage Support:** microSD card storage capacity of up to 128GB
-* **Lens:** 124° lens
-* **Frame Rate:** 120fps, 60fps, 30fps
-* **Image Resolution:** 8MP
-* **Video Resolution:** 1440p @ 30fps; 1080p @ 30/60 fps; 720p @ 30/60/120fps
-* **Media Format:** MP4, , JPEG
-* **Connectivity:** USB, Wifi, or the Cube+ app
-* **Waterproof:** 10m waterproof case
-
-#### **2. YI Action Camera- $99.99**
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01C89GCHU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C89GCHU&linkId=0fa33bbe15256887fcfa7957bd8e3a3a)
-
- The YI Action Camera is a great possession for professionals to capture sporting events with a documentary style. The 40m extra-shield waterproofing is best option for capturing awesome underwater sequences. The camera supports MP4 and JPEG media file formats on various storage devices, including MicroSD/HC/XC capacity of up to 64 GB. Featuring various connectivity options, the users can use Bluetooth, micro B USB, Wifi, HDMI, or the app to access the videos.
-
- **Key Features and Specifications**
-
-* **Chipset:** Ambarella A7LS
-* **Image Sensor:** 1/2.3"16 Megapixel CMOS
-* **Battery:** 1010mAh (80mins recording when shooting at 1080/60fps)
-* **Memory Storage Support:** TF card, MicroSD/HC/XC capacity of up to 64 GB
-* **Lens:** 155° wide view angle lens
-* **Frame Rate:** 120fps, 60fps, 30fps
-* **Image Resolution:** 16MP
-* **Video Resolution:** 1080p@60/48/30/24fps, 960@60/48fps;720p@48/60/120fps;480p@40fps
-* **Media Format:** MP4, , JPEG
-* **Connectivity:** Bluetooth, micro B USB, Wifi, HDMI, or the app
-* **Waterproof:** 40m extra-shield (with case)
-
-#### **3. Amkov AMK7000S- $99.99**
-
- Featuring heat dissipating and shock resistant zinc alloy steel body with the Sunplus 6350M chipset, this 12MP camera is suitable for long duration shooting with extended 1150mAh battery. The camera has a wide range of specialties such as the anti-shake technology, loop recording and adjustment option like burst mode. You can view the notification on the front screen and video display at the 2” back LCD screen.
-
- **Key Features and Specifications**
-
-* **Chipset:** Sunplus 6350M
-* **Display:** 2” back LCD screen
-* **Battery:** 1150mAh (90mins recording)
-* **Memory Storage Support:** TF Card up to 32GB (not included in the package)
-* **Lens:** 170° wide view angle
-* **Frame Rate:** 120fps, 60fps, 30fps
-* **Image Resolution:** 12MP
-* **Video Resolution:** 4K@10fps, 2.7k@15fps, 1080p@60/30fps, 720p@60/120fps
-* **Media Format:** MP4, , JPEG
-* **Connectivity:** Micro HDMI, Micro USB, Wi-Fi, and AMK icam App
-* **Waterproof:** 40m extra-shield (with case)
-
-#### **4. Elephone Explorer- $69.99**
-
- This is a budget friendly option for novice photographers trying their hands on the action cameras. There is a 2” LCD monitor as well Wifi connectivity facility to see your recording on Android and iOS screen devices.
-
- **Key Features and Specifications**
-
-* **Image Sensor:** AptinaAR0330 Sensor
-* **Battery:** 900mAh (90 minutes)
-* **Memory Storage Support:** MicroSD/Micro SDHC(up to 32GB)
-* **Lens:** 170° wide view angle
-* **Video Resolution:** 4K@15fps, 1080p@30fps, 720p@30/60/fps
-* **Media Format:** MP4, JPEG
-* **Connectivity:** Wi-Fi, HDMI, Micro USB, APP
-* **Waterproof:** 30m (with case)
-
-#### **5. SJCAM SJ4000: 1080p- $67.10**
-
- This is a multi-purpose camera to fulfill your needs at various situations. The HDMI connectivity allows using this small device as web camera to chat online and perform several other actions. In addition to these, the waterproofing allows the users to carry this lightweight device even for adventure sports.
-
- **Key Features and Specifications**
-
-* **Image Sensor:** AptinaAR0330 Sensor
-* **Battery:** 900mAh (90 minutes)
-* **Memory Storage Support:** MicroSD/Micro SDHC(up to 32GB)
-* **Lens:** 170° wide view angle
-* **Video Resolution:** 1080p@30fps, 720p@30/60/fps
-* **Media Format:** MP4, JPEG
-* **Connectivity:** Micro USB, HDMI
-* **Waterproof:** 30m (with case)
-
-[Learn more about Top 10 Must Have Accessories for SJ4000](https://tools.techidaily.com/wondershare/filmora/download/)
-
-#### **6. EKEN H9 - $59.99**
-
- This low cost action camera is superb for basic photography and video recording tasks. With a standard Sunplus 6350 chipset and 2” LCD screen, it becomes very easy to shoot your videos while monitoring them throughout.
-
- **Key Features and Specifications**
-
-* **Image Sensor:** OV4689 CMOS
-* **Battery:** 1050mAh (1080p30/1.5 hours, 4K25/1080p60 50 mins)
-* **Memory Storage Support:** Micro SDHC card
-* **Lens:** 170° wide view angle
-* **Video Resolution:** 4K@15fps 1080p@60/30fps, 720p@60/120fps slow-motion
-* **Media Format**: mov ; JPEG
-* **Connectivity:** Micro USB, HDMI
-* **Waterproof:** 30m (with case)
-
-## Conclusion
-
- While GoPro is widely recognized for unmatched qualities, advanced technological specifications, adaptation to accessories, and durability, several new cameras selling at a price range of below $100 are slowly emerging as key market competitors. At all circumstances, the customers are at a greater advantage of choosing simply the best.
-
- The above mentioned list of the top 6 cheapest cameras under $100 is based on the features, performance and recommendations of professional photography veterans. If you have user experience with any other camera in this price range that deserve to be in this list, please feel free to share your views in the comment section below.
-
- However, if you are interested in cameras within a higher range of $100-$200, read our article about the [best cameras within $100-$200](https://tools.techidaily.com/wondershare/filmora/download/).
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -630,3 +664,55 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-beyond-traditional-viewing-vr-movies-alteration/"><u>[New] Beyond Traditional Viewing  VR Movies Alteration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-breaking-the-barrier-acquiring-mass-tiktok-videos-easily/"><u>[New] Breaking the Barrier  Acquiring Mass TikTok Videos Easily</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-calendar-imprinting-techniques-in-photography/"><u>[New] Calendar Imprinting Techniques in Photography</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-capturing-slow-mo-magic-with-gopro-hero-10/"><u>[New] Capturing Slow-Mo Magic with GoPro Hero 10</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-discover-top-tier-ps3-games-on-your-pc-today-for-2024/"><u>[New] Discover Top-Tier PS3 Games on Your PC Today for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-venture-into-virtual-reality-with-top-mobile-headsets/"><u>[New] Venture Into Virtual Reality with Top Mobile Headsets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-audience-management-strategies-for-periscope/"><u>[Updated] Audience Management  Strategies for Periscope</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-building-effective-product-sponsor-relationships/"><u>[Updated] Building Effective Product-Sponsor Relationships</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capture-and-create-first-edits-in-lunapic-photo-editor/"><u>[Updated] Capture & Create  First Edits in LunaPic Photo Editor</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capture-and-crop-with-ios-top-iphone-apps-reviewed/"><u>[Updated] Capture & Crop with iOS  Top iPhone Apps Reviewed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capturing-vistas-with-the-high-end-z32x-monitor/"><u>[Updated] Capturing Vistas with the High-End Z32X Monitor</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-recommendations-top-8-free-srt-apps-reviewed/"><u>[Updated] Expert Recommendations  Top 8 Free SRT Apps Reviewed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-how-to-enhance-audibility-with-adjusted-obs-settings/"><u>[Updated] How to Enhance Audibility with Adjusted OBS Settings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beat-bringers-sourcing-premium-dj-visuals/"><u>[Updated] In 2024, Beat Bringers  Sourcing Premium DJ Visuals</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-restoring-your-obs-cameras-integrated-functionality/"><u>[Updated] In 2024, Restoring Your OBS Camera’s Integrated Functionality</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-hidden-details-in-asmr-recordings/"><u>[Updated] Unveiling Hidden Details in ASMR Recordings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-assessing-acid-pro-top-alternative-software/"><u>2024 Approved  Assessing ACID Pro  Top Alternative Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-audience-engagement-on-demand-top-5-mac-streaming-tools/"><u>2024 Approved  Audience Engagement On Demand  Top 5 Mac Streaming Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-4k-monitors-for-mac-the-ultimate-list/"><u>2024 Approved  Best 4K Monitors for Mac - The Ultimate List</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-video-making-smartphones-announced-here/"><u>2024 Approved  Best Video-Making Smartphones Announced Here</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-blueprints-for-successful-docu-screenplays/"><u>2024 Approved  Blueprints for Successful Docu-Screenplays</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-changing-up-the-sound-how-to-customize-your-iphone-tunes/"><u>2024 Approved  Changing Up the Sound  How to Customize Your iPhone Tunes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-interactive-escapes-top-10-virtual-accessories/"><u>2024 Approved  Interactive Escapes  Top 10 Virtual Accessories</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/2024-approved-18-best-tools-and-services-to-create-animated-videos-for-your-business/"><u>2024 Approved 18 Best Tools and Services to Create Animated Videos for Your Business</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beak-beat-boatwrights-for-2024/"><u>Beak Beat Boatwrights for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/benq-sw320-review-a-gateway-to-true-high-definition-for-2024/"><u>BenQ SW320 Review  A Gateway to True High Definition for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-5-samsung-gear-vr-experiences-for-2024/"><u>Best 5 Samsung Gear VR Experiences for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/free-and-paid-unveiling-the-top-10-essential-transcribing-tools-for-podcast-creators-for-2024/"><u>Free & Paid Unveiling the Top 10 Essential Transcribing Tools for Podcast Creators for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c02-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Nokia C02 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-apples-innovation-the-m1-max-clip-explained/"><u>In 2024, Apple's Innovation  The M1 Max Clip Explained</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-become-an-expert-at-multitasking-the-ffxp-way/"><u>In 2024, Become an Expert at Multitasking  The FFXP Way</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-choices-in-game-livestream-technology/"><u>In 2024, Best Choices in Game Livestream Technology</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-on-action-cameras-with-premium-mics/"><u>In 2024, Best On-Action Cameras with Premium Mics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-breaking-barriers-in-drone-races-and-top-5-innovative-fpv-units/"><u>In 2024, Breaking Barriers in Drone Races & Top 5 Innovative FPV Units</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-breaking-down-barriers-to-effective-airdrop-on-iosmacos/"><u>In 2024, Breaking Down Barriers to Effective AirDrop on iOS/macOS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-choosing-between-gopro-max-and-hero-11-top-cameras-compared/"><u>In 2024, Choosing Between GoPro Max and Hero 11  Top Cameras Compared</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-guard-your-camera-top-10-shields-reviewed/"><u>In 2024, Guard Your Camera - Top 10 Shields Reviewed</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-lava-yuva-2-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Lava Yuva 2 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-sony-xperia-1-v-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Sony Xperia 1 V Location | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-add-music-to-igtv/"><u>New Add Music to IGTV</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/the-top-8-tiktok-hacks-for-maximizing-income-for-2024/"><u>The Top 8 TikTok Hacks for Maximizing Income for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/thorough-examination-of-dji-inspire-1-for-2024/"><u>Thorough Examination of DJI Inspire 1 for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-6-best-4k-full-frame-camera-for-2024/"><u>Top 6 Best 4K Full Frame Camera for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/transforming-chaos-powerrename-for-files/"><u>Transforming Chaos: PowerRename for Files</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-pcmobile-mkv-viewer/"><u>Ultimate PC/Mobile MKV Viewer</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-premier-voice-modification-tools-to-enhance-silent-recording-experience/"><u>Updated In 2024, Premier Voice-Modification Tools to Enhance Silent Recording Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Vivo Y78+ | Dr.fone</u></a></li>
+</ul></div>

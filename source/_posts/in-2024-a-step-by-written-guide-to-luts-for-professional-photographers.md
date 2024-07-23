@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, A Step-By Written Guide to LUTs for Professional Photographers\""
-date: 2024-05-24T00:57:59.010Z
-updated: 2024-05-25T00:57:59.010Z
+date: 2024-07-22T11:16:33.775Z
+updated: 2024-07-23T11:16:33.775Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes In 2024, A Step-By Written Guide to LUTs for Professional Photographers\""
 excerpt: "\"This Article Describes In 2024, A Step-By Written Guide to LUTs for Professional Photographers\""
 keywords: "PhotoLUT Basics,LUT Essentials,ProPhotographyLUTs,ImageEnhancementTips,LUTsForProfPhoto,ColorGradingLUTs,PhotographyColorCorrection"
-thumbnail: https://www.lifewire.com/thmb/Dp9islCb9GD3RtQaIU23WoKYMSs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-lgbt-movies-on-netflix-right-now-5069913-92c9bcd3792548908be32c420bc4fa27.jpg
+thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997cdcaec1704f07c09aed014e.jpg
 ---
 
 ## A Step-By Written Guide to LUTs for Professional Photographers
@@ -56,6 +56,9 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 
 1. Select the Adjustment Layer icon from the drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
 Choose Adjustment Layer
@@ -64,6 +67,9 @@ Choose Adjustment Layer
 2. The Properties inspector will appear. Window>Properties.
 3. Select Load 3D LUT. A list of LUTs that come with Photoshop will appear.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
 load 3d lut
@@ -74,6 +80,9 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
@@ -81,6 +90,9 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Here's the second one
 
 1. Open the LUT folder, which changes the version to your version.
@@ -95,6 +107,9 @@ Grow Together
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 Closing Thoughts:
@@ -105,6 +120,9 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 Closing Thoughts:
@@ -137,3 +155,51 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-mastering-solo-podcast-production-for-top-spots/"><u>[New] 2024 Approved  Mastering Solo Podcast Production for Top Spots</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-aerial-sovereign-unpacking-the-gopro-karma-system/"><u>[New] Aerial Sovereign  Unpacking the GoPro Karma System</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-androids-prime-collage-app-selection-overview/"><u>[New] Android's Prime Collage App Selection Overview</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-arctic-accolades-top-athletes-and-events/"><u>[New] Arctic Accolades  Top Athletes & Events</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-audioscapes-excellent-microphone-list/"><u>[New] Audioscape’s Excellent Microphone List</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-auditory-alchemy-for-instagram-content/"><u>[New] Auditory Alchemy for Instagram Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-awarded-top-12-camcorders-including-satellite-position-tracking/"><u>[New] Awarded Top 12 Camcorders Including Satellite Position Tracking</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-background-excision-tool-affinity-photo/"><u>[New] Background Excision Tool Affinity Photo</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-begin-animation-ease-in-transition/"><u>[New] Begin Animation  Ease-In Transition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-engaging-visual-hooks-a-guide-to-video-thumbnail-making-for-2024/"><u>[New] How to Create Engaging Visual Hooks  A Guide to Video Thumbnail Making for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-achieving-studio-quality-with-audacity/"><u>[Updated] Achieving Studio Quality with Audacity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-audio-excellence-with-windows-11-a-beginner-written-by-your-name/"><u>[Updated] Audio Excellence with Windows 11  A Beginner' Written by [Your Name]</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-benchmark-analysis-djis-drone-phantom-3/"><u>[Updated] Benchmark Analysis  DJI's Drone Phantom 3</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-imagery-capturing-drones-in-10-selection/"><u>[Updated] Best Imagery-Capturing Drones in #10 Selection</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-full-analysis-and-how-to-the-ultimate-picsart-experience/"><u>[Updated] Full Analysis and How-To  The Ultimate PicsArt Experience</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-horizontal-vs-vertical-deciding-the-right-face-for-vids/"><u>[Updated] Horizontal Vs. Vertical - Deciding the Right Face for Vids</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-quick-shot-guide-for-chromebook-users/"><u>[Updated] In 2024, Quick Shot Guide for Chromebook Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-top-4k-all-in-one-touch-screen-desktops/"><u>[Updated] Top 4K All-in-One Touch Screen Desktops</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-accessing-audio-at-no-cost-the-ultimate-list-of-8-mp3-seekers-android/"><u>2024 Approved  Accessing Audio at No Cost  The Ultimate List of 8 MP3 Seekers (Android)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-action-cam-showdown-2022-hero5-black-vs-ultra-30-streaming/"><u>2024 Approved  Action Cam Showdown 2022  Hero5 Black Vs. Ultra 30 Streaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-slide-show-software-selection-on-latest-iphones/"><u>2024 Approved  Best Slide Show Software Selection on Latest iPhones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-stabilized-gimbals-for-mobile-and-pro-cameras-unveiled/"><u>2024 Approved  Best Stabilized Gimbals for Mobile and Pro Cameras Unveiled</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-blueprint-for-effective-metaverse-engagement/"><u>2024 Approved  Blueprint for Effective Metaverse Engagement</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-meizu-21-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Meizu 21 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ahead-of-the-curve-professional-360-cams-reviewed-2023-edition-for-2024/"><u>Ahead of the Curve  Professional 360° Cams Reviewed - 2023 Edition for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/androidiphone-top-10-vr-gaming-picks-for-2024/"><u>Android/iPhone Top 10 VR Gaming Picks for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-of-the-best-10-timeless-family-vacation-films-for-2024/"><u>Best of the Best  10 Timeless Family Vacation Films for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-websites-for-downloading-skype-ringtone-for-2024/"><u>Best Websites For Downloading Skype Ringtone for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-in-class-real-time-broadcast-systems-for-2024/"><u>Best-in-Class Real-Time Broadcast Systems for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-realme-12-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Realme 12 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-narzo-60x-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Narzo 60x 5G</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-10-best-free-live-streaming-apps-for-android-and-iphone/"><u>In 2024, 10 Best Free Live Streaming Apps for Android and iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-straightforward-approach-to-image-distortion/"><u>In 2024, A Straightforward Approach to Image Distortion</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-accessing-trendsetting-background-images-for-tiktok/"><u>In 2024, Accessing Trendsetting Background Images for TikTok</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-of-the-best-8-cameras-for-top-streaming-experience/"><u>In 2024, Best of the Best  8 Cameras for Top Streaming Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-craft-your-own-cinematic-magic-making-slow-motion-video-from-photo-apps/"><u>In 2024, Craft Your Own Cinematic Magic  Making Slow Motion Video From Photo Apps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-leveraging-youtubes-ecosystem-for-financial-gain/"><u>In 2024, Leveraging YouTube's Ecosystem for Financial Gain</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-product-reviews-for-monetary-rewards-on-youtube/"><u>In 2024, Mastering Product Reviews for Monetary Rewards on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-perfect-your-skills-applying-radial-blur-in-photoshop-easily/"><u>In 2024, Perfect Your Skills  Applying Radial Blur in Photoshop Easily</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-hdr-and-4k-perfection-with-asus-proart-monitor/"><u>In 2024, Unveiling HDR & 4K Perfection with ASUS ProArt Monitor</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/launching-a-successful-stream-on-discord-essential-steps-revealed-for-2024/"><u>Launching a Successful Stream on Discord  Essential Steps Revealed for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ring-design-principles-essential-knowledge-of-yt-banners-and-art/"><u>Mastering Design Principles  Essential Knowledge of YT Banners & Art</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/professional-drone-selection-guide-top-5/"><u>Professional Drone Selection Guide (Top 5)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-7-free-apps-to-record-screens-of-budget-pcs/"><u>Top 7 Free Apps to Record Screens of Budget PCs</u></a></li>
+</ul></div>

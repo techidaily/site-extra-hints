@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Colors Unleashed  Practical Application of Color Theory\""
-date: 2024-05-24T01:18:31.829Z
-updated: 2024-05-25T01:18:31.829Z
+date: 2024-07-22T12:01:20.193Z
+updated: 2024-07-23T12:01:20.193Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Colors Unleashed: Practical Application of Color Theory\""
 excerpt: "\"This Article Describes [Updated] Colors Unleashed: Practical Application of Color Theory\""
 keywords: "Color Theories Applied,Color Usage Tips,Artistic Color Use,Color Theory Practice,Hues in Action,Palette Creation,Vivid Color Strategies"
-thumbnail: https://www.lifewire.com/thmb/vmRvggsBE9toSpXM8p1WS8O5Wjc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6-things-to-consider-before-buying-a-gaming-pc-5221042-8a79710a1e4549edbc357125123fb04e.jpg
+thumbnail: https://thmb.techidaily.com/290af97afad1802ce323c8e9ce6f1c1f031089327fdc749a381a84624fdbd2f2.jpg
 ---
 
 ## Colors Unleashed: Practical Application of Color Theory
@@ -28,18 +28,30 @@ Color theory consists of many elements that could fill a library on its own but 
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Color Harmony
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
@@ -54,6 +66,9 @@ The corners of the black rectangle land on what is known as tetradic complement 
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
@@ -64,6 +79,9 @@ As you can see from this example the base color for the scene is a dark blue/pur
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 By including this into your thought process when creating videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) you will achieve well balanced and harmonious content for your viewer to enjoy and create better engagement. It's not by chance these things happen though, it's through research and planning that the most iconic scenes and characters are created and this is just one small brick in the foundations of content creation. With practice this will become second nature to you and that is the main goal of this guide.
@@ -98,3 +116,63 @@ By including this into your thought process when creating videos with [Filmora](
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-original-cinematic-footage-assessment-and-substitutes/"><u>[New] 2024 Approved  Original Cinematic Footage Assessment & Substitutes</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-the-question-of-streaming-fb-moviesvideos-via-tv/"><u>[New] 2024 Approved  The Question of Streaming FB Movies/Videos via TV</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-practices-for-video-thumbnail-creation-in-the-digital-age-for-2024/"><u>[New] Best Practices for Video Thumbnail Creation in the Digital Age for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-expertly-curated-3ds-pc-reproduction-tools-for-2024/"><u>[New] Expertly Curated 3Ds PC Reproduction Tools for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-crafting-gifs-like-a-pro-industry-leaders-tools/"><u>[New] In 2024, Crafting GIFs Like a Pro  Industry Leaders' Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-expedite-your-social-media-presence-streamlined-video-upload-methods-for-instagram-desktop/"><u>[New] In 2024, Expedite Your Social Media Presence  Streamlined Video Upload Methods for Instagram Desktop</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-snap-worthy-success-logging-galaxy-gaming-stories/"><u>[New] Snap-Worthy Success  Logging Galaxy Gaming Stories</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-ultimate-how-to-for-advanced-snapchat-image-tweaks/"><u>[Updated] 2024 Approved  The Ultimate How-To for Advanced Snapchat Image Tweaks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-cutting-edge-editing-solutions-just-for-vimeo/"><u>[Updated] Cutting-Edge Editing Solutions Just for Vimeo</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-perfect-posts-enhance-videos-before-sharing-on-instagram/"><u>[Updated] Perfect Posts  Enhance Videos Before Sharing on Instagram</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-top-10-plugin-recommendations-for-an-unmatched-discord-experience/"><u>[Updated] Top 10 Plugin Recommendations for an Unmatched Discord Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-loom-reel-detailed-guide-to-screen-capture/"><u>2024 Approved  The Loom Reel  Detailed Guide to Screen Capture</u></a></li>
+<li><a href="https://facebook.techidaily.com/beyond-screens-re-evaluating-facebooks-user-count/"><u>Beyond Screens: Re-Evaluating Facebook’s User Count</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-iphone-se-2022-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone SE (2022) Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/hacks-to-dodge-digital-lessons-at-home/"><u>Hacks to Dodge Digital Lessons at Home</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/high-definition-war-av1-vs-vp9-codecs-comparison/"><u>High-Definition War  Av1 vs VP9 Codecs Comparison</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-block-spotifys-unrequested-podcast-episodes/"><u>How to Block Spotify's Unrequested Podcast Episodes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-motorola-moto-g84-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Motorola Moto G84 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-channel-your-inner-metaverse-wit/"><u>How to Channel Your Inner Metaverse Wit</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-convert-live-photo-to-video/"><u>How to Convert Live Photo to Video</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-xiaomi-13-ultra-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Xiaomi 13 Ultra Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-infuse-prayerful-melodies-on-your-phone/"><u>How to Infuse Prayerful Melodies on Your Phone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-make-amazing-slow-motion-video-on-android-easily/"><u>How to Make Amazing Slow Motion Video on Android Easily</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-broken-iphone-12-pro-screen-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Data from Broken iPhone 12 Pro Screen | Stellar</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock iPhone 11 Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/humor-hacks-a-compendium-of-top-meme-makers/"><u>Humor Hacks  A Compendium of Top Meme Makers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/iconic-after-effects-techniques-for-impressive-titles/"><u>Iconic After Effects Techniques for Impressive Titles</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-nokia-c12-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Nokia C12 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-capturing-the-heart-of-sims-innovative-techniques-for-recording-realistic-gameplay/"><u>In 2024, Capturing the Heart of Sims  Innovative Techniques for Recording Realistic Gameplay</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/incorporating-picture-in-picture-in-browsing-with-edge/"><u>Incorporating Picture-In-Picture in Browsing with Edge</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-android-camera-apps/"><u>Innovative Android Camera Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-approaches-to-network-broadcast-with-vlc/"><u>Innovative Approaches to Network Broadcast with VLC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/inside-look-the-tech-behind-m1-max-clip/"><u>Inside Look  The Tech Behind M1 Max Clip</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/instant-collage-creation-tips-for-social-media-posts/"><u>Instant Collage Creation Tips for Social Media Posts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/lens-and-light-essential-camera-movements-every-novice-needs-for-2024/"><u>Lens & Light  Essential Camera Movements Every Novice Needs for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/make-time-lapse-video-on-macbook-complete-guide/"><u>Make Time-Lapse Video on MacBook Complete Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-the-art-of-cutting-with-vivacuts-full-review-2024/"><u>Master the Art of Cutting with VivaCut's Full Review 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/masterclass-guide-15-tripods-perfect-for-gopro/"><u>Masterclass Guide  15 Tripods Perfect for GoPro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/masterclass-in-digital-animation-the-art-of-creating-gifs/"><u>Masterclass in Digital Animation  The Art of Creating GIFs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/metaverse-and-multiverse-demystified-an-in-depth-guide/"><u>Metaverse and Multiverse Demystified  An In-Depth Guide</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-wondering-how-to-create-a-stunning-intro-video-with-kinemaster-here-are-the-simple-steps-to-use-kinemaster-to-design-your-intro-video-in-s/"><u>New 2024 Approved Wondering How to Create a Stunning Intro Video with KineMaster? Here Are the Simple Steps to Use KineMaster to Design Your Intro Video in Simple Steps</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-looking-for-the-best-way-to-create-stunning-video-animations-here-we-look-at-some-of-the-best-animated-video-maker-solutions-to-use-for-2024/"><u>New Looking for the Best Way to Create Stunning Video Animations? Here, We Look at some of the Best Animated Video Maker Solutions to Use for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/next-gen-ai-picture-perfection-software/"><u>Next-Gen AI Picture Perfection Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/no-budget-no-problem-the-finest-free-voice-alterer-for-valorant-players/"><u>No Budget? No Problem! The Finest Free Voice Alterer for Valorant Players</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/olympic-sprint-spotlight-year-2022/"><u>Olympic Sprint Spotlight  Year 2022</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfect-zoom-optimizing-kinemasters-viewer-engagement/"><u>Perfect Zoom  Optimizing Kinemaster's Viewer Engagement</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfecting-designs-a-guide-to-cutting-out-background-in-figma/"><u>Perfecting Designs  A Guide to Cutting Out Background in Figma</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/photographic-prowess-the-best-lens-choices-for-stunning-images-2024-edition/"><u>Photographic Prowess  The Best Lens Choices for Stunning Images, 2024 Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pilot-to-perfection-complete-review-of-dji-phantom-4/"><u>Pilot to Perfection  Complete Review of DJI Phantom 4</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quick-cash-on-reddit-here-are-13-ways-for-new-users/"><u>Quick Cash on Reddit? Here Are 13 Ways for New Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quick-tips-for-altering-video-speed-on-netflix-devices/"><u>Quick Tips for Altering Video Speed on Netflix Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/remote-screen-resizing-facility/"><u>Remote Screen Resizing Facility</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-critical-factors-for-upgrading-your-4k-lens-for-2024/"><u>The Critical Factors for Upgrading Your 4K Lens for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oneplus-open-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your OnePlus Open Phone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-powerpoint-supported-video-format-and-user-tips/"><u>Updated Powerpoint Supported Video Format and User Tips</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>updated The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+</ul></div>

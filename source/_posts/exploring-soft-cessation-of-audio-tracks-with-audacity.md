@@ -1,7 +1,7 @@
 ---
 title: "Exploring Soft Cessation of Audio Tracks with Audacity"
-date: 2024-06-18T19:43:56.555Z
-updated: 2024-06-19T19:43:56.555Z
+date: 2024-07-22T10:46:25.000Z
+updated: 2024-07-23T10:46:25.000Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,9 @@ You can easily apply professional fades to your audio files with Audacity fade o
 
 You may apply linear fades, a straightforward fade option, to any segment of your music. Alternatively, you might apply it to the full audio file. Linear fades come in two varieties. Fade-in and Fade-out are the two varieties. Any section of your audio that you apply a fade-in to will get muted and return to its original volume. Additionally, if you activate the fade-out feature in your audio, the audio will transition from its original volume to total quiet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ### **Steps to Use Linear Fade in/out:**
 
 To divide a track into several parts so you may apply a fade to a specific audio segment, press Cmd + I (or Ctrl + I).
@@ -34,12 +37,21 @@ In this example, we divided the clip at the eight-second mark and used the Time 
 
 By selecting the audio segment, you wish to fade out and selecting Effect > Fade Out, you may add a fade-out to the initial clip.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![liner fade in audacity](https://images.wondershare.com/filmora/article-images/2022/07/liner-fade-in-audacity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2\. Studio Fade Out
 
 This effect is shown by Audacity as a curve that resembles the letter S. It results in a very gentle fading. After the first boom, there is utter quiet. It's a sound that actually gives off the impression of fading away over time. Using the repeat last effect, you can quickly repeat this fading option. Additionally, Ctrl + R serves as the shortcut for the same.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **How to Use Studio Fade Out:**
 
 Choose your audio segment, go to the Effect menu, slide to the bottom, and pick Studio Fade Out to apply the effect.
@@ -55,6 +67,9 @@ A dialog box will show up on the screen when you choose the customizable fade op
 * Select Effect from the menu.
 * Select the variable fading option.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adjustable fade audio audacity](https://images.wondershare.com/filmora/article-images/2022/07/adjustable-fade-audio-audacity.jpg)
 
 ## Part 4\. Crossfades Audacity
@@ -87,6 +102,9 @@ Installing Filmora, a straightforward platform for starting to edit your audio a
 
 In the step that follows, we'll show you how to use this platform to fade in and out audio. To begin, open Filmora by clicking on the icon on your desktop or using the search bar.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![open filmora and import audio files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 By choosing the Video Editor option from the software's home screen, you may now investigate the basic principles of editing. This will bring up the main interface for Filmora. To import your music and video files, just choose the Import button from the software's main screen, as seen below:
@@ -95,6 +113,9 @@ By choosing the Video Editor option from the software's home screen, you may now
 
 You must drag the files into Filmora's timeline after importing your media files, as seen below. You may modify your media files using every tool in the timeline. To utilize Filmora's audio editor, just right-click on the specific audio file and choose "Edit Audio" from the list:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![open the audio editor in filmora](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 ##### Step4 Fade-in/fade-out audio
@@ -125,6 +146,9 @@ Installing Filmora, a straightforward platform for starting to edit your audio a
 
 In the step that follows, we'll show you how to use this platform to fade in and out audio. To begin, open Filmora by clicking on the icon on your desktop or using the search bar.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open filmora and import audio files](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
 By choosing the Video Editor option from the software's home screen, you may now investigate the basic principles of editing. This will bring up the main interface for Filmora. To import your music and video files, just choose the Import button from the software's main screen, as seen below:
@@ -133,12 +157,18 @@ By choosing the Video Editor option from the software's home screen, you may now
 
 You must drag the files into Filmora's timeline after importing your media files, as seen below. You may modify your media files using every tool in the timeline. To utilize Filmora's audio editor, just right-click on the specific audio file and choose "Edit Audio" from the list:
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open the audio editor in filmora](https://images.wondershare.com/filmora/guide/adjust-video-1.png)
 
 ##### Step4 Fade-in/fade-out audio
 
 The first step in this process is to learn how to use Filmora to start fading in and out your audio recordings. The best aspect of Filmora is how simple it is to employ these techniques from the timeline. To achieve this, focus on the audio file that you want to change in the timeline; after you've picked it, the two icons will show up above the audio file. Drag the first one to the desired duration for the audio fade-in option, as demonstrated:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![fade in or fade out audio](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 To finish the fade-out, click and drag the other icon in Filmora to the necessary duration. You may hear the music by playing the file within the timeline of the Filmora preview layout.
@@ -149,6 +179,9 @@ The last step consists of downloading your modified file to your PC and storing 
 
 ![export the modified file](https://images.wondershare.com/filmora/guide/get-started-with-filmora-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 You may access a variety of tools and services on the platform known as Audacity. You may have all of your recording requirements met here. Additionally, Audacity offers a variety of effects that may be used to improve your recordings and audio files. The fades’ function is used to provide your audio, or any specific area of your audio, various transitions. All of the tools we covered are really good choices. It basically comes down to choosing the one that works best for you; however, we do suggest [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) over Audacity since it is a lot more straightforward yet powerful tool.
@@ -177,3 +210,40 @@ You may access a variety of tools and services on the platform known as Audacity
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-android-and-ios-leaders-in-asmr-content/"><u>[New] Android & iOS Leaders in ASMR Content</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-3-easy-steps-for-masterful-image-grading-for-2024/"><u>[Updated] 3 Easy Steps for Masterful Image Grading for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-connecting-to-google-meet-laptop-plus-mobile/"><u>[Updated] Connecting to Google Meet  Laptop + Mobile</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-your-airborran-viewing-20-free-dji-drone-luts-offer/"><u>[Updated] Transform Your Airborran Viewing - 20 FREE DJI Drone LUTS Offer</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-droning-for-the-young-and-novice-top-picks/"><u>2024 Approved  Droning for the Young and Novice  Top Picks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-analysis-of-t5-eyes-exceptional-action-recording-for-2024/"><u>Full Analysis of T5 Eye's Exceptional Action Recording for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gif-mastery-10-key-elements-to-perfect-creation/"><u>GIF Mastery  10 Key Elements to Perfect Creation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/harnessing-customer-stories-for-brand-growth/"><u>Harnessing Customer Stories for Brand Growth</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/hasty-steps-creating-picture-assemblies-on-mac/"><u>Hasty Steps  Creating Picture Assemblies on Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-start-and-sustain-an-indie-podcast-hit/"><u>How to Start & Sustain an Indie Podcast Hit</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/iconic-discussions-in-history-top-10-on-reddit/"><u>Iconic Discussions in History - Top 10 on Reddit</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/identifying-key-windows-movie-maker-alternatives/"><u>Identifying Key Windows Movie Maker Alternatives</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/illuminating-insight-the-ultimate-guide-to-choosing-a-stunning-4k-screen/"><u>Illuminating Insight  The Ultimate Guide to Choosing a Stunning 4K Screen</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-apple-iphone-11-pro-max-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone 11 Pro Max Activation Lock</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-y200e-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo Y200e 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/inspirational-slide-shows-10-best-places-to-download-them-for-free/"><u>Inspirational Slide Shows  10 Best Places to Download Them For Free</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-lists-compelling-google-cardboard-vr-game-selections/"><u>Leading Lists  Compelling Google Cardboard VR Game Selections</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/listenleads-whats-better-than-dacast/"><u>ListenLeads  What's Better than DaCast?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-video-playback-speeds-in-minutes-not-hours/"><u>Master Video Playback Speeds in Minutes, Not Hours</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-aquatic-cinematography-with-these-7-essential-strategies/"><u>Mastering Aquatic Cinematography with These 7 Essential Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-moments-how-to-utilize-inshots-segmentation-power/"><u>Mastering Moments  How to Utilize Inshot's Segmentation Power</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-photo-color-reversal-techniques/"><u>Mastering Photo Color Reversal Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/meme-madness-the-iphone-edition/"><u>Meme Madness  The iPhone Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-firefoxs-picture-in-picture-capabilities/"><u>Navigating Firefox's Picture-in-Picture Capabilities</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-the-market-selecting-from-top-15-tripodsmounts/"><u>Navigating the Market  Selecting From Top 15 Tripods/Mounts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/nikons-bold-move-into-4k-with-the-innovative-j5-model/"><u>Nikon's Bold Move Into 4K with The Innovative J5 Model</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfect-playmates-childs-drone-selection-guide/"><u>Perfect Playmates  Child's Drone Selection Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/photoshop-stability-enhancement-essentiality/"><u>Photoshop Stability Enhancement - Essentiality</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pioneering-free-convertors-top-5-online-apps-for-gifs-to-videos/"><u>Pioneering Free Convertors  Top 5 Online Apps for GIFs to Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pivotal-ideas-in-tech-driven-story-weaving/"><u>Pivotal Ideas in Tech-Driven Story Weaving</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/srt-optimization-the-ultimate-performance-boosters-for-computers/"><u>SRT Optimization  The Ultimate Performance Boosters for Computers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/top-3-audio-amplifiers-boost-your-videos-and-streams-to-perfection-for-2024/"><u>Top 3 Audio Amplifiers Boost Your Videos and Streams to Perfection for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-wondering-how-to-make-a-perfect-love-video-to-express-your-love-for-your-special-one-and-share-with-the-world-here-are-the-best-love-video-makers-wi/"><u>Updated Wondering How to Make a Perfect Love Video to Express Your Love for Your Special One and Share with the World? Here Are the Best Love Video Makers with Music</u></a></li>
+</ul></div>

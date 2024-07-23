@@ -1,7 +1,7 @@
 ---
 title: "\"Crafting with Colors  Principles in Action for 2024\""
-date: 2024-05-24T02:35:29.336Z
-updated: 2024-05-25T02:35:29.336Z
+date: 2024-07-22T14:49:11.890Z
+updated: 2024-07-23T14:49:11.890Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Crafting with Colors: Principles in Action for 2024\""
 excerpt: "\"This Article Describes Crafting with Colors: Principles in Action for 2024\""
 keywords: "Craft & Color Basics,Colored Artistry Guide,Design Creativity Tips,DIY Crafts Essentials,Color Techniques Mastery,Creative Crafting Strategies,Interactive Craft Lessons"
-thumbnail: https://www.lifewire.com/thmb/crqf7aw9F6RC6VSVWVhQdSAcGQg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duet-c82ee94b39e24788bcfd51d1eea24288.jpg
+thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35913acbf3e4fc8c5af445646.jpg
 ---
 
 ## Crafting with Colors: Principles in Action
@@ -28,14 +28,23 @@ Color theory consists of many elements that could fill a library on its own but 
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Color Harmony
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
@@ -54,16 +63,25 @@ The corners of the black rectangle land on what is known as tetradic complement 
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
 As you can see from this example the base color for the scene is a dark blue/purple and using the analogous color of pink they created a point of interest within the scene that doesn't look out of place. This is a very good way to pull the viewers eyes towards something you want them to take in above all else.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 By including this into your thought process when creating videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) you will achieve well balanced and harmonious content for your viewer to enjoy and create better engagement. It's not by chance these things happen though, it's through research and planning that the most iconic scenes and characters are created and this is just one small brick in the foundations of content creation. With practice this will become second nature to you and that is the main goal of this guide.
@@ -98,3 +116,45 @@ By including this into your thought process when creating videos with [Filmora](
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-a-step-by-step-approach-for-creating-and-merging-stunning-hdr-photos/"><u>[New] A Step-by-Step Approach for Creating & Merging Stunning HDR Photos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-above-par-editing-software-for-ios-and-android-smartphones/"><u>[New] Above-Par Editing Software for iOS & Android Smartphones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-affordable-asmr-magic-quality-audio-on-a-budget/"><u>[New] Affordable ASMR Magic  Quality Audio on a Budget</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-android-in-virtual-reality-streamlining-the-viewing-experience/"><u>[New] Android in Virtual Reality  Streamlining the Viewing Experience</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-anime-based-short-clips-top-20-ideas-on-tiktok/"><u>[New] Anime-Based Short Clips  Top 20 Ideas on TikTok</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-how-much-do-podcasters-make/"><u>[New] How Much Do Podcasters Make?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-plex-vs-streaming-titanique/"><u>[New] In 2024, Plex vs Streaming Titanique</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-top-6-unobtrusive-applications-for-android-captures/"><u>[New] In 2024, Top 6 Unobtrusive Applications for Android Captures</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-video-freedom-top-8-tools-transforming-youtube-into-avis/"><u>[New] Video Freedom  Top 8 Tools Transforming YouTube Into Avis</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-streamlining-gameplay-logs-for-social-media-sharing/"><u>[Updated] 2024 Approved  Streamlining Gameplay Logs for Social Media Sharing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-detailed-look-at-sj7s-state-of-the-art-4k-action-video-gear/"><u>[Updated] A Detailed Look at SJ7’s State-of-the-Art 4K Action Video Gear</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-guide-to-recording-streams-discovering-the-best-7-approaches/"><u>[Updated] A Guide to Recording Streams  Discovering the Best 7 Approaches</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-achieving-windows-11-status-essential-improvements/"><u>[Updated] Achieving Windows 11 Status  Essential Improvements</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-behind-the-scenes-understanding-m1-technology/"><u>[Updated] Behind The Scenes  Understanding M1 Technology</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-picpinch-a-study-of-micro-recording-tools-for-2024/"><u>[Updated] PicPinch  A Study of Micro-Recording Tools for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-vocal-choirs-on-tiktoks-digital-stage/"><u>[Updated] Vocal Choirs on TikTok's Digital Stage</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-step-by-step-guide-turning-viral-soundtracks-into-personal-ringtones/"><u>2024 Approved  A Step-by-Step Guide  Turning Viral Soundtracks Into Personal Ringtones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-abletons-techniques-for-diminishing-sound-intensity/"><u>2024 Approved  Ableton's Techniques for Diminishing Sound Intensity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-action-camera-face-off-comparing-pro-3-models-on-market/"><u>2024 Approved  Action Camera Face-Off  Comparing Pro 3 Models on Market</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-action-packed-comparisons-gopro-vs-star-sj7/"><u>2024 Approved  Action-Packed Comparisons  GoPro Vs Star SJ7</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-the-ultimate-checklist-for-broadcasting-on-discord/"><u>2024 Approved  The Ultimate Checklist for Broadcasting on Discord</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/3-techniques-to-fix-iphone-hdr-blunders-in-premiere-pro-for-2024/"><u>3 Techniques to Fix iPhone HDR Blunders in Premiere Pro for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-beginners-guide-making-your-podcasts-rss-feed-for-2024/"><u>A Beginner's Guide  Making Your Podcast's RSS Feed for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/a-gamers-guide-easy-and-effective-ways-to-record-your-minecraft-games-macos-for-2024/"><u>A Gamer's Guide  Easy & Effective Ways to Record Your Minecraft Games (MacOS) for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-peek-at-the-cutting-edge-features-for-windows-users-for-2024/"><u>A Peek at the Cutting-Edge Features for Windows Users for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-list-film-preview-shorts-for-2024/"><u>A-List Film Preview Shorts for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/achieving-flawless-aerial-shots-the-best-gimbals-for-drones-for-2024/"><u>Achieving Flawless Aerial Shots  The Best Gimbals for Drones for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advancing-podcast-quality-best-visualizers-revealed-for-2024/"><u>Advancing Podcast Quality  Best Visualizers Revealed for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-4k-resolution-unveiled-in-chroma-focused-lenses/"><u>In 2024, 4K Resolution Unveiled in Chroma-Focused Lenses</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-5-step-plan-for-clearing-overexposed-iphone-hd-videos-using-premiere-pro/"><u>In 2024, 5 Step Plan for Clearing Overexposed iPhone HD Videos Using Premiere Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-action-camera-showdown-unmatched-seventh-lineup-wetproof/"><u>In 2024, Action Camera Showdown  Unmatched Seventh Lineup Wetproof</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-tips-for-proficient-use-of-vlcs-functions/"><u>In 2024, Advanced Tips for Proficient Use of VLC's Functions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-altitude-achievers-the-ultimate-long-duration-drones-top-10/"><u>In 2024, Altitude Achievers  The Ultimate Long Duration Drones (Top 10)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-how-to-add-fonts-to-after-effects/"><u>In 2024, How to Add Fonts to After Effects?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-samsung-galaxy-s23-fe-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Samsung Galaxy S23 FE Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pricing-framework-music-video-filming-costs/"><u>Pricing Framework  Music Video Filming Costs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/taking-the-plunge-your-guide-to-windows-11-upgrade/"><u>Taking the Plunge  Your Guide to Windows 11 Upgrade</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-samsung-galaxy-s23-fe-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Samsung Galaxy S23 FE for Parents | Dr.fone</u></a></li>
+</ul></div>

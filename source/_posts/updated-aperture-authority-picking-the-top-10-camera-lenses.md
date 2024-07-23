@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Aperture Authority  Picking the Top 10 Camera Lenses\""
-date: 2024-06-26T13:39:31.737Z
-updated: 2024-06-27T13:39:31.737Z
+date: 2024-07-22T12:12:51.703Z
+updated: 2024-07-23T12:12:51.703Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,9 @@ One of the first creative choices made during the photographic process is choosi
 
 Initially, while manufacturers like Canon, Fuji, Nikon, Olympus, Panasonic, and Sony expanded their line of native lenses for those formats, photographers were dependent on adapters to fit legacy lenses from brands like Canon and Nikon to the APS-C, full-frame, and micro four-thirds mirrorless cameras. Additionally, independent lens producers like Sigma and Tamron continue to be crucial in supplying the demands of photographers looking for the greatest camera lens. Let's start off!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. What should you look for when buying a lens?
 
 There are a number of factors to think about while looking for the best camera lens. Knowing how you'll use the lens is just as crucial as ensuring sure it's available and compatible with your camera's mount (or that an adapter is available). Are you trying to find the best portrait lens? Or perhaps you're looking for the best lens for landscape photography. Or maybe you prefer taking pictures of little objects, in which case you'll need a macro lens. There are (nearly) universal, all-encompassing circumstances, of course. Just keep in mind that neither the greatest lens for landscape photography nor the finest lens for astrophotography will inevitably be the ideal choice for macro photography.
@@ -36,6 +39,10 @@ In the absence of other factors, some minor extras like the presence of a lens h
 
 Focal length is one of the most important factors for picking the best camera lens and producing a nice photo while taking portraits of individuals or even very small groups. Generally speaking, a short telephoto lens is good, especially for tight compositions (headshots, waist level/head and shoulders, etc.)—an 85mm or 105mm, for instance. If you can't back up and shoot wide, you might want to go as wide as 70mm or 50mm for full-body and larger group images in order to minimize distortion.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Nikon Z 14-24mm f/2.8 S**
 
 The premium Z 14-24mm f/2.8 S lens, made for full-frame Nikon Z-series cameras, offers superb edge-to-edge sharpness for landscape photography. The aspherical lenses on the small lens are perfect for maintaining the sharpness of stars and city lights. Additionally, there are two ways to install filters: a slot for filter sheets and gels at the back and 112mm filters that may be screwed into the front.
@@ -58,6 +65,9 @@ The Sony FE 200-600mm f/5.6 has Sony's outstanding SteadyShot image stabilizatio
 
 Although you might need to increase the ISO to obtain a quick shutter speed, this lens is less expensive than other extreme telephoto lenses.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ### **Rokinon 14mm f/2.4**
 
 For a couple reasons, I chose the lesser-known Rokinon 14mm f/2.4 lens over the Sigma 14mm f/1.8\. First, it costs half as much ($800) and is substantially lighter (719 vs. 1170 grams). These two elements alone make this lens more appealing to many photographers.
@@ -66,6 +76,9 @@ Second, the Rokinon 14mm f/2.4 has outstanding image quality. When I used it, I 
 
 This is a fantastic option for shooting landscapes in addition to stars. Although it lacks autofocus, the 14mm focal length makes it either the best or second-best lens on our list in terms of image quality. And once more, the Sigma 14mm f/1.8, which is the closest rival in that sense, is twice as expensive.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **Tamron 15-30mm f/2.8**
 
 The Tamron 15-30mm f/2.8 is one of my favorite wide-angle lenses that I've ever used. Although it is weighty, the Nikon 14-24mm f/2.8 matches or even outperforms it in terms of overall image quality. It also comes with some contemporary features, such as vibration reduction and a front element that repels water. The telephoto range is where it loses some strength, like the Nikon (see our review), but even there it performs better than others.
@@ -74,6 +87,9 @@ The pricing is the actual incentive to get this lens instead. Additionally, ther
 
 Tamron lenses don't extend all the way to 14mm (closer to 15.5mm instead). Although the increase in focal length to 30mm is good, we believe that most of this lens' potential customers would be more interested in the wide end of things. Additionally, similar to the Nikon 14-24mm f/2.8, it doesn't come with built-in filter support, so if that's crucial to your photography, you'll need a hefty attachment.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Tamron 17-35mm f/2.8-4**
 
 This lens is a recent addition to our list, and several people have asked why I didn't include it in the comments. I've only lately had a chance to really test the Tamron 17-35mm f/2.8-4, and I think it's a great lens. First of all, it offers an excellent price of $600 and excellent image quality.
@@ -84,6 +100,9 @@ It is lightweight and has an f/2.8 maximum aperture, making it ideal for astroph
 
 It is sharper than all of the zooms on this list at 20mm, with the possible exception of the 14-30mm f/4\. And assuming you don't require the 14mm focal length for your Milky Way work, it's better than practically every lens above for astrophotography thanks to its f/1.8 aperture.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. What lenses are good for nighttime?
 
 Most photographers find nighttime photography challenging because this particular shooting circumstance frequently depends on your lens' capacity to pick up light. abundant light As a result, investing in the ideal equipment that makes the most of any available ambient light and illuminates your entire frame is essential for success.
@@ -116,6 +135,9 @@ Sharpness is second nature to this GM lens. Neon fringing can be prevented from 
 
 Among Nikonians, the Nikon AF Nikkor 50mm f/1.8 F-mount lens is a perennial favorite. This 50mm prime lens has an f/1.8 maximum wide aperture. The lens has an aperture ring, a focus distance indication, and a manual focus ring.Flares and ghosting are handled by the lens' Super Integrated Coating. The 50mm is versatile since it has a physical ring that regulates the aperture and a manual focusing ring.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## 4\. What are good micro lenses?
 
 Using the best macro lenses, photographers can make a little world full of hidden beauty visible. Macro lenses provide close-ups and magnification that would not be feasible without their specialized optical design, opening up a wide range of photographic opportunities for teeny-tiny plants and animals
@@ -140,12 +162,18 @@ One of two new Z-mount macro lenses is the MC 105mm from Nikon. There is also th
 
 A super-fast and very accurate autofocus mechanism, together with highly effective optical VR (Vibration Reduction) that can function in conjunction with the in - body stabilizers of Nikon's full-frame Z-series cameras, provide sublime image quality for both general shooting and extreme close-ups. A multi-function OLED display, a lens-function button and control ring that can be customized, an autofocus range limiter, as well as an electronically connected focus ring that permits ultra-fine adjustments, are all features of the handling exotica camera.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Nikon AF-S 105mm f/2.8 G IF ED VR Micro**
 
 This is Nikon's top-tier FX format macro lens, yet it also works well with DX cameras when photographing up close. It has a ring-type ultrasonic autofocus mechanism with entirely internal focusing, 3-stop VR II stabilization, and Nano Crystal coating, just like the 85mm DX lens in the group. The optical pathways of both lenses have 14 elements total, including one ED element.
 
 The 105mm has a greater diameter because FX format lenses must produce a larger image circle to cover the larger picture sensor. At the minimum focus setting, the working distance between the front of the lens and the subject is fairly similar to the DX lens at 14.5cm. Similar to the Sigma lens, the VR system is effective for usual shooting, although it performs less well for close-up shots than the hybrid stabilizers from Tamron and Canon.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. What are the price ranges?
 
 The price of a camera lens varies depending on the lens's quality. Beginner camera lenses range in price from $100 to $400\. The typical price of a camera lens ranges from $500 to $11,000 for professional photographers, while lenses cost between $200 and $700 for intermediate and advanced enthusiasts.
@@ -156,6 +184,9 @@ Lenses for cameras might be pricey, but they don't have to be. When you first be
 
 They won't score the highest on those technical tests, but they'll nonetheless produce fantastic pictures for a beginning photographer. Here are some examples of entry-level lens prices, which range from an average of $100 to $400.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Intermediates**
 
 Intermediate photographers have higher expectations for image quality and features than starting photographers, who are more like casual shooters. You'll pay a little more than the entry-level lenses, but not significantly more than for the better lenses. Here are some samples of typical lens pricing for advanced hobbyist photographers between $200 and $700.
@@ -164,10 +195,16 @@ Intermediate photographers have higher expectations for image quality and featur
 
 Even if you're not a professional photographer and don't shoot for hire, you might still desire the highest possible image quality. You ought to purchase professional lenses if your money permits. Pro lenses are the most expensive, offer the highest level of image quality, and frequently have the largest maximum lens apertures. You can see examples of camera lens prices for the lenses used by professional photographers in the table below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## The Bottom Line
 
 The price of a camera lens varies greatly and depends on your needs as a photographer. Due to the continuous popularity of utilizing a "real" camera with interchangeable lenses, you undoubtedly have many options nowadays.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Another query arises after taking a look at these new camera lens prices. Is it a smart idea to think about used camera lenses instead of brand-new ones. I've learned that it's a smart idea to take used lenses into account as well. That's it ![Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
@@ -198,3 +235,57 @@ Another query arises after taking a look at these new camera lens prices. Is it 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-11-useful-youtube-seo-tips-to-help-rank-your-video-high/"><u>[New] 2024 Approved  11 Useful YouTube SEO Tips to Help Rank Your Video High</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-maximizing-quality-in-ppt-recordings/"><u>[New] 2024 Approved  Maximizing Quality in PPT Recordings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-comprehensible-guide-to-wincams-bests/"><u>[Updated] 2024 Approved  The Comprehensible Guide to WinCams' Bests</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-initiate-an-impactful-live-stream-on-facebook-today/"><u>[Updated] In 2024, Initiate an Impactful Live Stream on Facebook Today</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-windows-10s-full-potential-with-zoom-services/"><u>[Updated] Unveiling Windows 10'S Full Potential with Zoom Services</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-itel-a05s-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Itel A05s without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/deciding-on-showcasing-your-off-facebook-journey/"><u>Deciding on Showcasing Your Off-Facebook Journey</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-why-filmora-captivates-your-heart/"><u>Discovering Why Filmora Captivates Your Heart</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dji-phantom-4-deep-dive-comprehensive-insights-and-reviews/"><u>DJI Phantom 4 Deep Dive  Comprehensive Insights & Reviews</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/echoes-of-music-in-video-landscapes/"><u>Echoes of Music in Video Landscapes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/economical-360-cameras-for-quality-videography/"><u>Economical 360° Cameras for Quality Videography</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-design-complimentary-cutting-edge-psd-texts/"><u>Elevate Design  Complimentary, Cutting-Edge PSD Texts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-edits-mastering-picart-backdrop-blanking/"><u>Elevate Your Edits  Mastering PicArt Backdrop Blanking</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-archives-for-3d-graffiti-fonts/"><u>Elite Archives for 3D Graffiti Fonts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-images-cache-websites/"><u>Elite Images Cache Websites</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-virtual-auditoriums/"><u>Elite Virtual Auditoriums</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-tips-for-adding-captions-and-text-in-microsoft-photos-app/"><u>Essential Tips for Adding Captions & Text in Microsoft Photos App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-editions-selecting-high-quality-blu-ray-players-freepaid/"><u>Expert Editions  Selecting High-Quality Blu-Ray Players (Free/Paid)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-the-core-inside-apples-m1-innovation/"><u>Exploring the Core  Inside Apple’s M1 Innovation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fading-fast-with-premiere-pro/"><u>Fading Fast with Premiere Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/first-choice-top-15-videography-power-tools/"><u>First Choice  Top 15 Videography Power Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/free-photography-tools-that-will-dazzle-you/"><u>Free Photography Tools That Will Dazzle You</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-imagination-to-shares-mastering-metaverse-memes/"><u>From Imagination to Shares  Mastering Metaverse Memes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/full-course-on-morphvox-converting-your-voice-professionally/"><u>Full Course on MorphVOX  Converting Your Voice Professionally</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/game-on-with-the-samsung-ue590-a-freesync-dream-tv-review/"><u>Game On with the Samsung UE590  A FreeSync Dream TV Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ghostly-lens-takedown-reviews/"><u>Ghostly Lens Takedown Reviews</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gimp-tutorial-mastering-filters-and-layers/"><u>GIMP Tutorial  Mastering Filters & Layers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/high-definition-dominance-premier-players-in-24/"><u>High Definition Dominance  Premier Players in '24</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-nubia-red-magic-9-proplus-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Nubia Red Magic 9 Pro+ Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/immersive-exploration-mastering-close-up-views-in-minecraft/"><u>Immersive Exploration  Mastering Close-Up Views in Minecraft</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-action-cams-with-exceptional-image-stability/"><u>In 2024, Premier Action Cams with Exceptional Image Stability</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/infinite-possibilities-with-ai-generating-viral-video-titles/"><u>Infinite Possibilities with AI  Generating Viral Video Titles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/iphone-picture-perfection-mastering-resolution-shifts/"><u>IPhone Picture Perfection  Mastering Resolution Shifts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/isolating-still-images-from-motion-in-windows-11-photos/"><u>Isolating Still Images From Motion in Windows 11 Photos</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-zte-blade-a73-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass ZTE Blade A73 5G FRP Without Computer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-voice-enhancement-programs-for-virtual-stars/"><u>Leading Voice Enhancement Programs for Virtual Stars</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/making-magic-mobile-best-phones-for-media-crafting/"><u>Making Magic Mobile  Best Phones for Media Crafting</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-movement-advanced-transition-techniques-with-kinemaster/"><u>Mastering Movement  Advanced Transition Techniques with Kinemaster</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-craft-selecting-the-top-5-web-based-title-makers/"><u>Mastering the Craft  Selecting the Top 5 Web-Based Title Makers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-video-craft-decoding-filmora-questions/"><u>Mastering Video Craft  Decoding Filmora Questions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-new-horizons-the-essence-of-vr-travel/"><u>Navigating New Horizons  The Essence of VR Travel</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-the-complexities-of-youtubes-subtitles-download-with-3-proven-techniques/"><u>Navigating the Complexities of YouTube's Subtitles  Download With 3 Proven Techniques</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-mac-video-editing-software-top-vsdc-alternatives/"><u>New Mac Video Editing Software Top VSDC Alternatives</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/on-the-go-gyroscopic-footage-smoother/"><u>On-the-Go Gyroscopic Footage Smoother</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/perfect-frame-rate-selection-a-guide-to-best-slow-motion-filmmaking-techniques/"><u>Perfect Frame Rate Selection  A Guide to Best Slow Motion Filmmaking Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/power-up-your-device-instantly-mastering-win-11s-double-clicked-apk-method/"><u>Power Up Your Device Instantly: Mastering Win 11'S Double-Clicked APK Method</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/switching-on-windows-11-for-automatic-hdr-mode-for-2024/"><u>Switching On Windows 11 for Automatic HDR Mode for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-motorola-g54-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Motorola G54 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-how-to-download-windows-movie-maker-for-free-tips-and-tricks/"><u>Updated In 2024, How to Download Windows Movie Maker for Free Tips and Tricks</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-record-super-slow-motion-videos-on-your-phone/"><u>Updated In 2024, How to Record Super Slow Motion Videos on Your Phone?</u></a></li>
+</ul></div>

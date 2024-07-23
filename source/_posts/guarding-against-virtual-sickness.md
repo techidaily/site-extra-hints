@@ -1,7 +1,7 @@
 ---
 title: "Guarding Against Virtual Sickness"
-date: 2024-05-24T01:24:25.935Z
-updated: 2024-05-25T01:24:25.935Z
+date: 2024-07-22T12:14:14.972Z
+updated: 2024-07-23T12:14:14.972Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Guarding Against Virtual Sickness"
 excerpt: "This Article Describes Guarding Against Virtual Sickness"
 keywords: "GuardingVirusPrevention,AntiSickVirtualThreats,SafeOnlineHealth,CyberWellnessProtection,VirtuallyIllDefense,SicknessGuardOnline,ViralDiseaseAvoidance"
-thumbnail: https://www.lifewire.com/thmb/AH9mqPzoPDVMP3GVRyEpC5WN6uM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/yandex_eng_logo-56a289a13df78cf772774ad4.png
+thumbnail: https://thmb.techidaily.com/4bc09bf00dd16476adc7181e127ad6390edb7499dd05b4708d5bc6f8d46016ec.png
 ---
 
 ## Guarding Against Virtual Sickness
@@ -26,6 +26,9 @@ thumbnail: https://www.lifewire.com/thmb/AH9mqPzoPDVMP3GVRyEpC5WN6uM=/400x300/fi
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10 ways to prevent Oculus Rift motion sickness
 
  While using your Oculus Rift development kits you need to take care of few little things in order to avoid getting any kind of sickness during your game. Although the factors vary from individual to individual since it is more of the bodily response rather than the design variation.
@@ -68,6 +71,9 @@ Follow @Benjamin Arango
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 10 ways to prevent Oculus Rift motion sickness
 
  While using your Oculus Rift development kits you need to take care of few little things in order to avoid getting any kind of sickness during your game. Although the factors vary from individual to individual since it is more of the bodily response rather than the design variation.
@@ -92,12 +98,18 @@ Follow @Benjamin Arango
 
 **10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## What Oculus have done to reduce motion sickness
 
  With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
 
  Since Oculus Rift DK1 came to the market, people were really unhappy with the sickness it gave to them. Oculus saw that issue as a big threat, and started to develop DK2 with a much better display. In the original DK1, Oculus Rift used the liquid crystal display (LCD) to display visual in its devices. LCD screen had been of very much advantage because of its brightness, geometric distortion, and less electricity consumption. But it still had been promoting to the sickness issue because of its sluggish motion time response. In replacement of LCD screens, Oculus Rift has introduced OLED (organic light emitting diode) screens which have proved to be a much better idea. Experiments of Oculus Rift with OLED screens have been successful so far in reducing motion sickness to its minimal. OLED has a much faster rate and thus much enhanced positional tracking.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -110,6 +122,9 @@ Follow @Benjamin Arango
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10 ways to prevent Oculus Rift motion sickness
 
  While using your Oculus Rift development kits you need to take care of few little things in order to avoid getting any kind of sickness during your game. Although the factors vary from individual to individual since it is more of the bodily response rather than the design variation.
@@ -140,6 +155,9 @@ Follow @Benjamin Arango
 
  Since Oculus Rift DK1 came to the market, people were really unhappy with the sickness it gave to them. Oculus saw that issue as a big threat, and started to develop DK2 with a much better display. In the original DK1, Oculus Rift used the liquid crystal display (LCD) to display visual in its devices. LCD screen had been of very much advantage because of its brightness, geometric distortion, and less electricity consumption. But it still had been promoting to the sickness issue because of its sluggish motion time response. In replacement of LCD screens, Oculus Rift has introduced OLED (organic light emitting diode) screens which have proved to be a much better idea. Experiments of Oculus Rift with OLED screens have been successful so far in reducing motion sickness to its minimal. OLED has a much faster rate and thus much enhanced positional tracking.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -214,3 +232,56 @@ Follow @Benjamin Arango
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-actionable-guide-xml-to-srt-conversion-techniques/"><u>[New] Actionable Guide  XMl-to-Srt Conversion Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-advanced-techniques-in-final-cut-pro/"><u>[New] Advanced Techniques in Final Cut Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-awesome-mac-mkv-decode-options/"><u>[New] Awesome Mac MKV Decode Options</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-no-cost-cross-platform-laptop-dvd-decoders/"><u>[New] Best No-Cost, Cross-Platform Laptop DVD Decoders</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-blend-into-black-premiere-pro-trick/"><u>[New] Blend Into Black  Premiere Pro Trick</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-cast-distribution-license-for-screen-viewing/"><u>[New] Cast Distribution License for Screen Viewing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-elevate-photo-beauty-with-top-10-iphoneandroid-stickers-apps-for-2024/"><u>[New] Elevate Photo Beauty with Top 10 iPhone/Android Stickers Apps for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-disappear-and-reappear-avoiding-shadowbans-on-tiktok/"><u>[New] In 2024, Disappear and Reappear  Avoiding Shadowbans on TikTok</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-pull-off-professional-video-edits-with-ken-burns-effect/"><u>[New] Pull Off Professional Video Edits with Ken Burns Effect</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10-best-camera-apps-for-iphone-x88-plus7-7-plus-free-and-paid/"><u>[Updated] 10 Best Camera Apps for iPhone X/8/8 Plus/7/ 7 Plus - Free & Paid</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10-best-microphones-for-action-cameras/"><u>[Updated] 10 Best Microphones for Action Cameras</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-achieve-flawless-audio-googles-uploading-system/"><u>[Updated] 2024 Approved  Achieve Flawless Audio  Google's Uploading System</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-comprehensible-guide-to-softening-sound-via-lumafusion/"><u>[Updated] A Comprehensible Guide to Softening Sound via Lumafusion</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-streamlined-approach-simplifying-film-projects-with-movie-maker/"><u>[Updated] A Streamlined Approach  Simplifying Film Projects with Movie Maker</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-action-filming-at-its-peak-garmin-virb-ultra-30-analysis/"><u>[Updated] Action Filming at Its Peak  Garmin VIRB Ultra 30 Analysis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-advanced-techniques-for-capturing-vr-content-on-iphone/"><u>[Updated] Advanced Techniques for Capturing VR Content on iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-androids-best-picks-for-dynamic-collage-designers/"><u>[Updated] Android's Best Picks for Dynamic Collage Designers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-are-we-impressed-the-full-on-evaluation-of-inshot-app/"><u>[Updated] Are We Impressed? The Full-On Evaluation of InShot App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-audiences-take-gopro-hero5-footage/"><u>[Updated] Audience's Take  GoPro Hero5 Footage</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-practices-in-converting-videos-for-twitter/"><u>[Updated] Best Practices in Converting Videos for Twitter</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-blur-your-images-soul-the-best-face-pixelation-techniques/"><u>[Updated] Blur Your Image's Soul  The Best Face Pixelation Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-boost-camera-output-retain-excellent-clarity/"><u>[Updated] Boost Camera Output, Retain Excellent Clarity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-apps-to-transform-vtuber-speech-patterns/"><u>[Updated] Ideal Apps to Transform Vtuber Speech Patterns</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-winning-strategy-top-9-windows-apps-for-animated-gif-mastery-for-2024/"><u>[Updated] Winning Strategy  Top 9 Windows Apps for Animated GIF Mastery for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-accelerated-adventures-fastest-flash-games-on-devices/"><u>2024 Approved  Accelerated Adventures  Fastest Flash Games on Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-ace-gpodcs-most-popular-shows/"><u>2024 Approved  Ace GPodC's Most Popular Shows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-no-cost-cross-platform-laptop-dvd-decoders/"><u>2024 Approved  Best No-Cost, Cross-Platform Laptop DVD Decoders</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-blending-binaries-digital-photographic-techniques/"><u>2024 Approved  Blending Binaries  Digital Photographic Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-breaking-language-barriers-with-these-top-20-video-translators/"><u>2024 Approved  Breaking Language Barriers with These Top 20 Video Translators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-breaking-the-myth-of-color-standards-z32x-reviewed/"><u>2024 Approved  Breaking the Myth of Color Standards  Z32X Reviewed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-understanding-absence-of-direct-messages/"><u>2024 Approved  Understanding Absence of Direct Messages</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-y78t-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo Y78t without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-practical-approach-to-zoom-meetings-for-2024/"><u>A Practical Approach to Zoom Meetings for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/achieve-flawless-display-setups-with-win11/"><u>Achieve Flawless Display Setups with Win11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/apk-journey-to-gaming-bliss-funimate-pro-guide-for-2024/"><u>APK Journey to Gaming Bliss  Funimate Pro Guide for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/balance-and-beauty-premier-photos-tripods-for-smartphones-for-2024/"><u>Balance and Beauty  Premier Photos Tripods for Smartphones for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boost-your-iphones-visual-impact-with-diy-photo-collage-methods-for-2024/"><u>Boost Your iPhone's Visual Impact with DIY Photo Collage Methods for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-comprehensive-introduction-to-color-grading-with-luts/"><u>In 2024, A Comprehensive Introduction to Color Grading with LUTs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-comprehensive-list-of-podcast-visualizers/"><u>In 2024, A Comprehensive List of Podcast Visualizers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-acknowledgments-galore-cost-effective-templates-here/"><u>In 2024, Acknowledgments Galore  Cost-Effective Templates Here</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-are-reviews-on-merchandise-streamed-for-cash/"><u>In 2024, Are Reviews on Merchandise Streamed for Cash?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-augmented-gaming-experience-the-top-8-list/"><u>In 2024, Augmented Gaming Experience  The Top 8 List</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-behind-the-scenes-with-intova-edge-x/"><u>In 2024, Behind the Scenes with Intova Edge X</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-12-motion-activated-cameras-featuring-location-tracking/"><u>In 2024, Best 12 Motion-Activated Cameras Featuring Location Tracking</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Tecno Phantom V Flip? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pioneering-the-future-workplace-through-virtual-tech/"><u>In 2024, Pioneering the Future Workplace Through Virtual Tech</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-unlock-filmora-13-editor-for-free-no-watermark-no-cost/"><u>New Unlock Filmora 13 Editor for Free No Watermark, No Cost</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-device-driver-deployment/"><u>Streamlined Device Driver Deployment</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-convert-instagram-videos-to-mp3-quick-and-easy-ways/"><u>Updated Convert Instagram Videos to MP3 Quick and Easy Ways</u></a></li>
+</ul></div>

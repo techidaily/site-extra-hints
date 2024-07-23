@@ -1,7 +1,7 @@
 ---
 title: "\"Cutting-Edge Techniques for Bypassing Obscuring Elements in Affinity Photo\""
-date: 2024-05-24T02:16:41.058Z
-updated: 2024-05-25T02:16:41.058Z
+date: 2024-07-22T14:08:28.776Z
+updated: 2024-07-23T14:08:28.776Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Cutting-Edge Techniques for Bypassing Obscuring Elements in Affinity Photo\""
 excerpt: "\"This Article Describes Cutting-Edge Techniques for Bypassing Obscuring Elements in Affinity Photo\""
 keywords: "VR Premiere Tips,VR Creation Adobe,Adobe VR Editing,Engaging VR Media,Tech in VR Content,Premiere Virtual Reality,Innovative VR Designs"
-thumbnail: https://www.lifewire.com/thmb/SEVu3EpdgfJYCTdu_cgCSA8kcdY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed-49937c026b71448bb5b21c5b6b4311b6.jpg
+thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002cdc0aa0e847be271477f189f.jpg
 ---
 
 ## Cutting-Edge Techniques for Bypassing Obscuring Elements in Affinity Photo
@@ -22,10 +22,16 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -34,14 +40,24 @@ Step1 In the first step, install the [Affinity Designer](https://affinity.serif.
 
 Now access the **Pixel Persona** section in the left corner of the software screen by clicking the **colored boxes** icon.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -50,6 +66,9 @@ Step4 Next, zoom in on your subject. Press & hold the ALT key on your keyboard, 
 
 Click the **"Refine"** option in the toolbar to open the **"Refine Selection"** menu. A red mask will be applied to your subject, giving you an idea of how your image will look once you remove the background. Zoom in and if any details are excluded, paint them over. Once you are satisfied, click **"Apply"** to save your changes.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![refining the outline around the image to remove background in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/refining-the-outline-around-the-image-to-remove-background-in-affinity-designer.png)
 
 Step5 In the last step, press the **"Delete"** key on your keyboard to remove the background, or click **"Edit"** and choose the **"Cut"** option.
@@ -143,6 +162,18 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -177,3 +208,62 @@ Hopefully, this article and video can help you create ideal images!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/90s-chuckles-dissecting-the-vhs-of-the-goofies/"><u>'90S Chuckles  Dissecting the VHS of The Goofies</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-how-to-create-an-instagram-business-account/"><u>[New] 2024 Approved  How to Create an Instagram Business Account</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-chroma-control-made-simple-with-these-11-expert-tips/"><u>[New] Chroma Control Made Simple with These 11 Expert Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-complete-review-and-tips-for-enhancing-images-with-facetune-2024/"><u>[New] Complete Review and Tips for Enhancing Images with Facetune 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-review-of-lg-bp350-display-technology-and-capabilities/"><u>[New] Comprehensive Review of LG BP350 Display Technology and Capabilities</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-summary-hero4-black-usage/"><u>[New] Comprehensive Summary  Hero4 Black Usage</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-exceptional-sounds-spotlight-on-the-best-mixers-for-podcasters/"><u>[New] Crafting Exceptional Sounds  Spotlight on the Best Mixers for Podcasters</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-maximizing-conversations-4-key-tips-for-hangouts-for-2024/"><u>[New] Maximizing Conversations  4 Key Tips for Hangouts for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ioneering-brands-spotlight-on-top-9-free-youtube-logos-craftors/"><u>[New] Pioneering Brands  Spotlight on Top 9 Free YouTube Logos Craftors</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-stream-capture-software-unraveler/"><u>[Updated] 2024 Approved  Stream Capture Software Unraveler</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-the-art-of-rebranding-online-expert-tips-for-transforming-your-tiktok-username/"><u>[Updated] 2024 Approved  The Art of Rebranding Online  Expert Tips for Transforming Your TikTok Username</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-bridging-the-gap-between-youtube-and-instagram-stories-effectively-for-2024/"><u>[Updated] Bridging the Gap Between YouTube & Instagram Stories Effectively for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-bringing-text-to-life-a-guide-to-dynamic-animation-methods-for-2024/"><u>[Updated] Bringing Text to Life  A Guide to Dynamic Animation Methods for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capturing-stardust-the-premier-10-sites-for-hdr-skyscapes/"><u>[Updated] Capturing Stardust  The Premier 10 Sites for HDR Skyscapes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-clocking-down-the-big-day-10-best-mobile-apps-revealed/"><u>[Updated] Clocking Down the Big Day  10 Best Mobile Apps Revealed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-data-deluge-infographics-on-youtubes-intriguing-insights-for-2024/"><u>[Updated] Data Deluge  Infographics on YouTube's Intriguing Insights for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-from-observing-to-involved-the-tiktok-life-journey-for-2024/"><u>[Updated] From Observing to Involved  The TikTok Life Journey for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leap-into-fitness-a-curated-selection-of-vr-treadmill-pros/"><u>[Updated] Leap Into Fitness  A Curated Selection of VR Treadmill Pros</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-essential-guide-to-making-youtube-thumbnails-for-mobile-storytellers/"><u>[Updated] The Essential Guide to Making YouTube Thumbnails for Mobile Storytellers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-top-10-cinematic-luts-for-video-editing/"><u>[Updated] Top 10 Cinematic Luts for Video Editing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/16-top-rated-avi-video-cutters-for-windows-mac-android-iphone-and-online/"><u>16 Top-Rated AVI Video Cutters for Windows, MAC, Android, iPhone, and Online</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-best-templates-no-cost-explore-premiere-pro-samples-free/"><u>2024 Approved  Best Templates, No Cost! Explore Premiere Pro Samples (FREE)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-collective-virtual-fun-in-the-metaverse/"><u>2024 Approved  Collective Virtual Fun in the Metaverse</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-combatting-iphones-difficulty-in-autofocusing/"><u>2024 Approved  Combatting iPhone's Difficulty in Autofocusing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-complete-premiere-pro-full-screen-insight/"><u>2024 Approved  Complete Premiere Pro Full Screen Insight</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-conquer-broadcasting-unite-obs-and-streamlabs-for-mac/"><u>2024 Approved  Conquer Broadcasting  Unite OBS & Streamlabs for Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-core-concepts-of-story-making/"><u>2024 Approved  Core Concepts of Story Making</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-crafting-a-superior-fpv-drone-setup-choosing-right-propellers/"><u>2024 Approved  Crafting a Superior FPV Drone Setup  Choosing Right Propellers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-dialogue-and-direction-in-film-scripts/"><u>2024 Approved  Crafting Dialogue and Direction in Film Scripts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-top-10-essential-disco-upgrades-for-peak-performance/"><u>2024 Approved  Top 10 Essential Disco Upgrades for Peak Performance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/6-metaverse-examples-to-help-you-have-a-deep-insight-about-it-useful/"><u>6 Metaverse Examples to Help You Have a Deep Insight About It [Useful]</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-guide-to-blurring-and-eliminating-photo-borders/"><u>A Guide to Blurring and Eliminating Photo Borders</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/aerial-excellence-with-mi-drone-a-high-quality-look/"><u>Aerial Excellence with MI Drone - A High-Quality Look</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ancient-artifacts-iphone-x-selfies/"><u>Ancient Artifacts – iPhone X Selfies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/apex-pcs-the-summit-of-desktop-technology/"><u>Apex PCs - The Summit of Desktop Technology</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/asmr-unraveled-enhancing-mental-wellness/"><u>ASMR Unraveled  Enhancing Mental Wellness</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audience-favourite-debate-which-is-better-black-gopro-or-sony-fdr-x1000v/"><u>Audience Favourite Debate  Which Is Better, Black GoPro or Sony FDR-X1000V?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cheap-yet-quality-top-cam-lows-for-2024/"><u>Cheap Yet Quality  Top Cam Lows for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/clear-video-ultimate-guide-to-good-cams-mics-for-2024/"><u>Clear Video  Ultimate Guide to Good Cams' Mics for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/clearer-anonymity-discreet-faces-deletion-for-2024/"><u>Clearer Anonymity  Discreet Faces Deletion for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-collection-for-collage-crafting-for-2024/"><u>Comprehensive Collection for Collage Crafting for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprelevant-listings-best-free-tools-to-watch-webm-videos-for-2024/"><u>Comprelevant Listings  Best Free Tools to Watch WebM Videos for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/convert-webm-to-mp3-the-best-tools-for-the-job/"><u>Convert WebM to MP3 The Best Tools for the Job</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-lowering-windows-acoustic-amplifiers/"><u>Guide to Lowering Windows Acoustic Amplifiers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-cost-cutting-options-for-purchasing-gopros/"><u>In 2024, Cost-Cutting Options for Purchasing GoPros</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-spectacular-time-lapses-from-gopro-hdrs/"><u>In 2024, Crafting Spectacular Time Lapses From GoPro HDRs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-success-steps-to-thriving-as-a-designer/"><u>In 2024, Crafting Success  Steps to Thriving as a Designer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-growth-hacking-tactics-boosting-youtube-view-count-dramatically/"><u>In 2024, Growth Hacking Tactics  Boosting YouTube View Count Dramatically</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-leading-virtual-realities-iphone-and-android-guide/"><u>In 2024, The Leading Virtual Realities  IPhone & Android Guide</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-the-ultimate-m4r-converter-primer-tips-and-tricks-to-keep-in-mind/"><u>In 2024, The Ultimate M4R Converter Primer Tips and Tricks to Keep in Mind</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/1713954148245-new-2024-approved-how-to-livestream-zoom-on-facebook/"><u>New 2024 Approved | How to Livestream Zoom on Facebook?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-top-5-li/"><u>New Unleash Your Creativity Top 5 Li</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oneplus-nord-ce-3-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Nord CE 3 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-motorola-moto-g14-by-fonelab-android-recover-data/"><u>Recover lost data from Motorola Moto G14</u></a></li>
+<li><a href="https://facebook.techidaily.com/unraveling-the-step-by-step-process-of-severing-spotify-and-fb-ties/"><u>Unraveling the Step-By-Step Process of Severing Spotify and FB Ties</u></a></li>
+</ul></div>

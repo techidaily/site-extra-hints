@@ -1,7 +1,7 @@
 ---
 title: "\"Luminous Lore of Video Production  Expert Insights\""
-date: 2024-05-24T02:06:40.329Z
-updated: 2024-05-25T02:06:40.329Z
+date: 2024-07-22T13:46:31.825Z
+updated: 2024-07-23T13:46:31.825Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Luminous Lore of Video Production: Expert Insights\""
 excerpt: "\"This Article Describes Luminous Lore of Video Production: Expert Insights\""
 keywords: "Light in Videography,Lore of Film Making,Video Pros' Wisdom,Professionals on Crafting,Filmmaking Mastery Guide,Expert Video Creation Insight,Production Knowledge Deep Dive"
-thumbnail: https://www.lifewire.com/thmb/CJ67ETb2O4uuEo78S2gUHwX4efQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheWolfAmongUsBigby-793544cded2749488ae1d20113d8d73a.jpg
+thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8f5029c9276b28fff4f6f7be.jpg
 ---
 
 ## Luminous Lore of Video Production: Expert Insights
@@ -22,6 +22,9 @@ Many people are wondering how to set up lighting for video shooting. While there
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1\. How-to Guide
 
 **_1) Preparation_**
@@ -46,12 +49,18 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ##### Step1 Set the Key Light
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
@@ -66,6 +75,14 @@ For this tutorial, we use Aperture 120d as the backlight and lift it up into the
 
 Practical lights appear on the camera to add some visual flair. It can be any light source that isn't meant for lighting the subject. For example, we use a green lamp to help our background pop as it casts a nice orange light on the back wall.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
@@ -90,8 +107,15 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Summary
 
 Hopefully, you learned something about lighting by taking a look at our setup. If you want to know and learn about other lighting tutorials, don’t hesitate to let us know in the comments.
@@ -126,3 +150,46 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-campaign-tactics-for-enhancing-health-awareness/"><u>[New] Campaign Tactics for Enhancing Health Awareness</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-capture-clear-movies-10-smartphones-with-excellent-video-ois/"><u>[New] Capture Clear Movies  10 Smartphones With Excellent Video OIS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-color-coding-mastery-the-most-essential-lightroom-luts-you-need-to-know/"><u>[New] Color Coding Mastery  The Most Essential Lightroom LUTs You Need to Know</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-compreehing-movavis-progress-an-in-depth-look-at-the-2024-edition/"><u>[New] Compreehing Movavi's Progress  An In-Depth Look at the 2024 Edition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-innovative-approaches-to-social-media-video-making/"><u>[New] In 2024, Innovative Approaches to Social Media Video Making</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unleash-potential-with-instagram-vids-formulating-an-effective-marketing-plan/"><u>[New] In 2024, Unleash Potential with Instagram Vids  Formulating an Effective Marketing Plan</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-understanding-the-essentials-of-firefox-split-screen-feature/"><u>[Updated] 2024 Approved  Understanding the Essentials of Firefox Split Screen Feature</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-cameras-to-capture-slow-motion-videos/"><u>[Updated] Best Cameras to Capture Slow Motion Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-boost-engagement-in-stories-tips-for-adding-smoothly-animated-text/"><u>[Updated] Boost Engagement in Stories  Tips for Adding Smoothly Animated Text</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-bringing-back-windows-photo-viewer-a-quick-guide-for-win-11-users/"><u>[Updated] Bringing Back Windows Photo Viewer  A Quick Guide for Win 11 Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-building-brand-authority-top-tips-for-novice-marketers-on-reddit/"><u>[Updated] Building Brand Authority  Top Tips for Novice Marketers on Reddit</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-camera-enthusiasts-spotlight-5-leading-slow-motion-tech/"><u>[Updated] Camera Enthusiasts' Spotlight  5 Leading Slow Motion Tech</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-choosing-spiritual-audio-for-your-cellphone/"><u>[Updated] Choosing Spiritual Audio for Your Cellphone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-chortlecove-app-where-laughter-thrives-online/"><u>[Updated] ChortleCove App - Where Laughter Thrives Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-chuckle-chasers-your-ultimate-list-of-funny-tools/"><u>[Updated] Chuckle Chasers  Your Ultimate List of Funny Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-color-grading-mastery-with-an-insight-into-lut-usage/"><u>[Updated] Color Grading Mastery with an Insight Into LUT Usage</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-clearer-sound-with-these-ipad-tips/"><u>[Updated] In 2024, Clearer Sound with These iPad Tips</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-safely-increase-your-tiktok-supporters-for-2024/"><u>[Updated] Safely Increase Your TikTok Supporters for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-chinas-low-cost-vr-solutions/"><u>2024 Approved  China's Low-Cost VR Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-choreographing-gripping-podcast-openings/"><u>2024 Approved  Choreographing Gripping Podcast Openings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-closer-than-ever-mastering-video-focus-on-videoleap/"><u>2024 Approved  Closer Than Ever  Mastering Video Focus on Videoleap</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-color-coding-mastery-the-most-essential-lightroom-luts-you-need-to-know/"><u>2024 Approved  Color Coding Mastery  The Most Essential Lightroom LUTs You Need to Know</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-concealment-techniques-securing-image-integrity/"><u>2024 Approved  Concealment Techniques  Securing Image Integrity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-capture-slow-motion-videos-with-gopro-hero-10/"><u>2024 Approved  How to Capture Slow Motion Videos with GoPro Hero 10?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/blitz-through-edits-with-windows-11-pro-tips-for-2024/"><u>Blitz Through Edits with Windows 11 Pro Tips for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/blur-your-images-soul-the-best-face-pixelation-techniques-for-2024/"><u>Blur Your Image's Soul  The Best Face Pixelation Techniques for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-realme-gt-neo-5-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Realme GT Neo 5 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/combat-firefox-video-lag-with-these-techniques-for-2024/"><u>Combat Firefox Video Lag with These Techniques for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-budgetclouds-vault-spaceful-large-data-sanctuary/"><u>In 2024, BudgetCloud's Vault  Spaceful Large Data Sanctuary</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-building-your-brand-creating-a-professional-podcast-feed/"><u>In 2024, Building Your Brand  Creating a Professional Podcast Feed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-capturing-the-world-from-above-in-stunning-hd-mi-drone-deep-dive/"><u>In 2024, Capturing the World From Above in Stunning HD - Mi Drone Deep Dive</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-obs-tutorial-capturing-every-moment-of-gameplay/"><u>In 2024, OBS Tutorial  Capturing Every Moment of Gameplay</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-step-up-your-mobile-filmmaking-with-these-9-must-have-tools/"><u>In 2024, Step Up Your Mobile Filmmaking with These 9 Must-Have Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/nightly-narratives-analyzing-video-based-storytelling-for-2024/"><u>Nightly Narratives  Analyzing Video-Based Storytelling for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-6-plus-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-find-n3-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Oppo Find N3 Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-mac-slideshow-creator-a-beginners-guide/"><u>Updated The Ultimate Mac Slideshow Creator A Beginners Guide</u></a></li>
+</ul></div>

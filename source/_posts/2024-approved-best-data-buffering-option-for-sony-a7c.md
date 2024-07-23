@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Best Data Buffering Option for Sony A7C\""
-date: 2024-05-24T00:30:04.366Z
-updated: 2024-05-25T00:30:04.366Z
+date: 2024-07-22T10:16:15.551Z
+updated: 2024-07-23T10:16:15.551Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes 2024 Approved: Best Data Buffering Option for Sony A7C\""
 excerpt: "\"This Article Describes 2024 Approved: Best Data Buffering Option for Sony A7C\""
 keywords: "Sony A7C Buffers Best,A7C Top Buffer Methods,Optimal Buffer A7C Choice,Sony A7C Ideal Buffering,Premium Buffer for Sony A7C,Excellent Buffer A7C Option,Leading Buffer Selection A7C"
-thumbnail: https://www.lifewire.com/thmb/CjhBnvJOq4UKhyjOd9LtaBPVVZA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Screenshot2024-01-17at12.29.10PM-07a5a954b4ea4170a3796e706afbda42.png
+thumbnail: https://thmb.techidaily.com/9fc617880b7f763c252c5a9e983583a15e0501d81b43be135b81d00ad4f84b19.png
 ---
 
 ## Best Data Buffering Option for Sony A7C
 
 # Best Memory Card for Sony A7S II
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,6 +33,9 @@ thumbnail: https://www.lifewire.com/thmb/CjhBnvJOq4UKhyjOd9LtaBPVVZA=/400x300/fi
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -67,6 +73,9 @@ thumbnail: https://www.lifewire.com/thmb/CjhBnvJOq4UKhyjOd9LtaBPVVZA=/400x300/fi
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -249,6 +258,9 @@ Follow @Max Wales
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -340,6 +352,9 @@ Follow @Max Wales
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -378,6 +393,9 @@ Follow @Max Wales
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -410,3 +428,45 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-10-best-drawing-apps-for-chromebook/"><u>[New] 10 Best Drawing Apps for Chromebook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-10-unlicensed-sounds-to-help-you-reach-zen-state/"><u>[New] 10 Unlicensed Sounds to Help You Reach Zen State</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-7-leading-mac-video-player-options/"><u>[New] 7 Leading Mac Video Player Options</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-accuracy-at-hand-editing-tiktoks-personal-info/"><u>[New] Accuracy at Hand  Editing TikTok's Personal Info</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-aerial-photography-revolution-with-mavic-pro/"><u>[New] Aerial Photography Revolution with Mavic Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-audience-favorites-screenplays-of-varied-genres/"><u>[New] Audience Favorites  Screenplays of Varied Genres</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-how-to-convert-avi-to-gif-on-windows-and-mac-with-filmora/"><u>[New] How to Convert AVI to GIF on Windows & Mac with Filmora</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-increase-your-tiktok-reach-with-these-trending-tags/"><u>[New] Increase Your TikTok Reach with These Trending Tags</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-seamless-web-converters-turning-your-gif-into-professional-video/"><u>[New] Seamless Web Converters Turning Your GIF Into Professional Video</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-snap-it-all-complimentary-android-recordings/"><u>[Updated] 2024 Approved  Snap It All  Complimentary Android Recordings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-benefits-vs-drawbacks-in-vr-technology/"><u>[Updated] Benefits vs Drawbacks in VR Technology</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-benq-sw320-monitor-review-a-leap-into-4k-territory/"><u>[Updated] BenQ SW320 Monitor Review  A Leap Into 4K Territory</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-camcorder-selections-for-snowboardingskiing/"><u>[Updated] Best Camcorder Selections for Snowboarding/Skiing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-routines-for-flawless-webinar-replays-for-2024/"><u>[Updated] Expert Routines for Flawless Webinar Replays for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-best-practices-for-boosting-srt-on-pc-and-macos-for-2024/"><u>10 Best Practices for Boosting SRT on PC & macOS for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-10-best-sites-to-buy-mystery-boxes/"><u>2024 Approved  10 Best Sites to Buy Mystery Boxes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-compreenas-guide-to-auto-and-advanced-camera-exposure-methods/"><u>2024 Approved  A Compreenas Guide to Auto and Advanced Camera Exposure Methods</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-compreous-guide-to-recording-and-securing-periscope-videos/"><u>2024 Approved  A Compreous Guide to Recording & Securing Periscope Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-accessible-alternatives-googles-simplicity-versus-samsungs-innovation/"><u>2024 Approved  Accessible Alternatives  Google's Simplicity Versus Samsung's Innovation</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-uncovering-the-power-players-top-10-youtubers-with-most-subs/"><u>2024 Approved  Uncovering the Power Players  Top 10 YouTubers with Most Subs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-xiaomi-13-ultra-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-step-by-step-guide-to-making-engaging-audio-promos-for-2024/"><u>A Step-by-Step Guide to Making Engaging Audio Promos for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/activatingdeactivating-picture-in-picture-feature-for-2024/"><u>Activating/Deactivating Picture-in-Picture Feature for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/adding-chapters-with-ease-a-detailed-youtube-video-editing-tutorial-for-2024/"><u>Adding Chapters with Ease  A Detailed YouTube Video Editing Tutorial for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/aviation-companions-the-drones-guide-to-following-for-2024/"><u>Aviation Companions  The Drone's Guide to Following for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-5-professional-drones-you-can-buy-for-2024/"><u>Best 5 Professional Drones You Can Buy for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-infinix-smart-8-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Infinix Smart 8</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-xcover-7-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Samsung Galaxy XCover 7 Phone with Broken Screen</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-8-best-5k-monitors-for-you/"><u>In 2024, 8 Best 5K Monitors for You</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-artful-animation-of-adventures-exploring-the-top-8-narrative-universities-top-8/"><u>In 2024, Artful Animation of Adventures  Exploring the Top 8 Narrative Universities (Top 8)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-audio-interpretation-software-zero-cost-version/"><u>In 2024, Audio Interpretation Software – Zero Cost Version</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-becoming-a-pro-in-spotify-ad-deals/"><u>In 2024, Becoming a Pro in Spotify Ad Deals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-mac-video-trims-top-6-picks-post-snow-leopard/"><u>In 2024, Best Mac Video Trims  Top 6 Picks Post-Snow Leopard</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-nubia-red-magic-9-proplus-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Nubia Red Magic 9 Pro+ Face Lock?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-setup-the-finest-4k-dslr-shoulder-rigs-reviewed/"><u>In 2024, Prime Setup  The Finest 4K DSLR Shoulder Rigs Reviewed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-secrets-of-whatsapp-audio-conversations/"><u>Unveiling the Secrets of WhatsApp Audio Conversations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/velocity-variation-for-vivid-visual-slideshows/"><u>Velocity Variation for Vivid Visual Slideshows</u></a></li>
+</ul></div>

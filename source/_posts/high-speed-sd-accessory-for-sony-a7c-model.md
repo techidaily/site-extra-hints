@@ -1,7 +1,7 @@
 ---
 title: "\"High-Speed SD Accessory for Sony A7C Model\""
-date: 2024-05-24T02:31:23.841Z
-updated: 2024-05-25T02:31:23.841Z
+date: 2024-07-22T14:40:22.906Z
+updated: 2024-07-23T14:40:22.906Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,10 @@ thumbnail: https://www.lifewire.com/thmb/30_UtySXFzg-c_agAsN_YiH3fWI=/400x300/fi
 
 # Best Memory Card for Sony A7S II
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -30,6 +34,9 @@ thumbnail: https://www.lifewire.com/thmb/30_UtySXFzg-c_agAsN_YiH3fWI=/400x300/fi
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -212,6 +219,9 @@ Follow @Max Wales
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -249,6 +259,9 @@ Follow @Max Wales
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -287,6 +300,9 @@ Follow @Max Wales
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -340,6 +356,9 @@ Follow @Max Wales
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -410,3 +429,42 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-beneath-the-surface-the-deeper-meanings-in-snapchat-symbols-for-2024/"><u>[New] Beneath the Surface  The Deeper Meanings in Snapchat Symbols for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-images-deciphered-your-source-hunting-companion/"><u>[Updated] Instagram Images Deciphered  Your Source Hunting Companion</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-compelling-visual-stories-with-ps-distortion-tools/"><u>2024 Approved  Crafting Compelling Visual Stories with PS Distortion Tools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-hd-video-essentials-understanding-pixel-density-and-more/"><u>2024 Approved HD Video Essentials Understanding Pixel Density and More</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024s-finest-camcorders-uncovered-expert-reviews/"><u>2024'S Finest Camcorders Uncovered – Expert Reviews</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-comprehensive-guide-to-crafting-stellar-podcast-sneak-peeks/"><u>A Comprehensive Guide to Crafting Stellar Podcast Sneak Peeks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-teachers-journey-through-multimedia-educational-practices/"><u>A Teacher’s Journey Through Multimedia Educational Practices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/action-cameras-showdown-gopro-hero5-black-clashes-with-yi-4ks-latest/"><u>Action Cameras Showdown  GoPro Hero5 Black Clashes with Yi 4K's Latest</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/adapt-images-to-any-size-on-your-iphone-instantly/"><u>Adapt Images to Any Size on Your iPhone Instantly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/become-a-master-at-crafting-engaging-podcast-content-techniques-and-samples/"><u>Become a Master at Crafting Engaging Podcast Content (Techniques & Samples)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-8-stability-tools-for-high-definition-cameras/"><u>Best 8 Stability Tools for High-Definition Cameras</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-asmr-microphones-with-amazing-performance-and-affordable-price/"><u>Best ASMR Microphones with Amazing Performance and Affordable Price</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/box-by-strategy-market-success-blueprints/"><u>Box by Strategy  Market Success Blueprints</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/closer-look-techniques-for-minecraft-exploration/"><u>Closer Look Techniques for Minecraft Exploration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comparative-evaluation-of-cost-effective-clouds/"><u>Comparative Evaluation of Cost-Effective Clouds</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/control-over-your-spotify-default-podcast-recommendations/"><u>Control Over Your Spotify Default Podcast Recommendations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-online-resources-for-picture-framing/"><u>Cutting-Edge Online Resources for Picture Framing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/data-delivery-blueprints-quick-tips-for-file-moves/"><u>Data Delivery Blueprints  Quick Tips for File Moves</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/download-youtube-tunes-with-these-10plus-no-cost-audio-crackers-for-2024/"><u>Download YouTube Tunes with These 10+ No-Cost Audio Crackers for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/drone-guide-for-the-thrifty-consumer-cost-effective-choices/"><u>Drone Guide for the Thrifty Consumer  Cost-Effective Choices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dynamic-visualizers-the-essential-podcast-list/"><u>Dynamic Visualizers  The Essential Podcast List</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/echoes-of-excellence-learning-the-art-of-fading-in-audition/"><u>Echoes of Excellence  Learning the Art of Fading in Audition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/economic-planning-for-your-upcoming-music-video/"><u>Economic Planning for Your Upcoming Music Video</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-gopro-filmmaking-programs/"><u>Elite GoPro Filmmaking Programs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhanced-analysis-of-extensive-cloud-services/"><u>Enhanced Analysis of Extensive Cloud Services</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-techniques-for-audio-recording-on-modern-windows/"><u>Essential Techniques for Audio Recording on Modern Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expanding-textual-arsenal-in-after-effects/"><u>Expanding Textual Arsenal in After Effects</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-guide-to-scripting-ae-plug-ins/"><u>Expert Guide to Scripting AE Plug-Ins</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-insights-adjusting-tempo-for-optimal-snapchat-viewing/"><u>Expert Insights  Adjusting Tempo for Optimal Snapchat Viewing</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-nokia-xr21-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Nokia XR21 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-a25-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy A25 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-oppo-reno-11-pro-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Oppo Reno 11 Pro 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Infinix Note 30i? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seafarers-choice-top-5-pro-fish-cameras/"><u>In 2024, Seafarer's Choice  Top 5 Pro-Fish Cameras</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-have-you-ever-used-premiere-pro-to-create-slow-motion-effects-this-article-will-provide-a-guide-on-producing-slow-motion-effects-by-using-adobe-/"><u>New In 2024, Have You Ever Used Premiere Pro to Create Slow-Motion Effects? This Article Will Provide a Guide on Producing Slow-Motion Effects by Using Adobe Premiere Pro</u></a></li>
+</ul></div>

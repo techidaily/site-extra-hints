@@ -1,7 +1,7 @@
 ---
 title: "\"A Prism of Design  From Theory to Practice\""
-date: 2024-06-18T19:44:48.659Z
-updated: 2024-06-19T19:44:48.659Z
+date: 2024-07-22T15:02:53.051Z
+updated: 2024-07-23T15:02:53.051Z
 tags: 
   - screen-recording
   - ai video
@@ -22,16 +22,25 @@ So, you've heard about color theory but don't know what it is or how to use it a
 
 If you are more selective with your colors in your videos or imagery the viewer will find this aesthetically pleasing and may be more engaged in your content. This includes anything from logo design all the way to props for your shot. When creating your videos within Filmora it is good practice to think about your composition in all aspects including color theory and with the guide hopefully you will have a better understanding of how you can influence your color palette.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is Color Theory
 
 Color theory consists of many elements that could fill a library on its own but for this guide we will focus on two key elements. The color wheel and color harmony. By understanding the color wheel and color harmony you can hand pick which colors to add or use in your pieces to create a well-balanced viewing experience which can help in viewer engagement and enjoyment.
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
@@ -40,6 +49,18 @@ As you can see, we have every color available in this wheel and they are arrange
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
@@ -50,6 +71,9 @@ The blue lines represent what is known as split contrasting colors and these wil
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## But How Do I Use This
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
@@ -64,6 +88,9 @@ As you can see from this example the base color for the scene is a dark blue/pur
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 By including this into your thought process when creating videos with [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) you will achieve well balanced and harmonious content for your viewer to enjoy and create better engagement. It's not by chance these things happen though, it's through research and planning that the most iconic scenes and characters are created and this is just one small brick in the foundations of content creation. With practice this will become second nature to you and that is the main goal of this guide.
@@ -97,3 +124,59 @@ By including this into your thought process when creating videos with [Filmora](
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-10-premium-text-tricks-for-videos/"><u>[New] 10 Premium Text Tricks for Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-5-prime-gif-to-video-conversion-services-no-download-required/"><u>[New] 5 Prime GIF to Video Conversion Services, No Download Required</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-50-best-free-photography-tools-for-the-web/"><u>[New] 50 Best Free Photography Tools for the Web</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-accelerated-learning-for-background-deletion-using-affinitys-toolkit/"><u>[New] Accelerated Learning for Background Deletion Using Affinity's Toolkit</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-accelerating-productivity-microsoft-azure-speech-recognition/"><u>[New] Accelerating Productivity  Microsoft Azure Speech Recognition</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-haul-vlogging-101-a-step-by-step-guide/"><u>[New] Haul Vlogging 101  A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-quick-steps-to-authenticate-your-youtube-login/"><u>[New] In 2024, Quick Steps to Authenticate Your YouTube Login</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/urning-views-into-revenue-mastering-youtubes-financial-landscape-for-2024/"><u>[New] Turning Views Into Revenue  Mastering YouTube's Financial Landscape for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10-best-free-image-hosting-sites/"><u>[Updated] 10 Best Free Image Hosting Sites</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-digital-media-seeker/"><u>[Updated] 2024 Approved  Digital Media Seeker</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-8-popular-oculus-rift-games-you-should-try/"><u>[Updated] 8 Popular Oculus Rift Games You Should Try</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-citizens-guide-to-c-span-video-downloads/"><u>[Updated] A Citizen's Guide to C-Span Video Downloads</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-step-by-step-guide-for-effective-use-of-luts-in-adobe-suite/"><u>[Updated] A Step-by-Step Guide for Effective Use of LUTs in Adobe Suite</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-accelerating-your-creative-process-a-guide-to-crafting-fast-google-collage-images/"><u>[Updated] Accelerating Your Creative Process  A Guide to Crafting Fast Google Collage Images</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-from-beginner-to-expert-the-complete-guide-to-slow-mo-in-tiktok-for-2024/"><u>[Updated] From Beginner to Expert  The Complete Guide to Slow Mo in TikTok for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-affordable-subscriber-boost-buy-and-sell-youtube-views/"><u>[Updated] In 2024, Affordable Subscriber Boost  Buy & Sell YouTube Views</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/12-leading-motion-capture-camcorders-now-with-global-positioning-for-2024/"><u>12 Leading Motion Capture Camcorders Now With Global Positioning for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-achieving-soft-sound-effects-in-audacity/"><u>2024 Approved  Achieving Soft Sound Effects in Audacity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-action-packed-with-sj7s-4k-capability-full-review-2023/"><u>2024 Approved  Action-Packed with SJ7's 4K Capability - Full Review 2023</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionizing-podcast-titles-leading-10-ai-generators/"><u>2024 Approved  Revolutionizing Podcast Titles  Leading 10 AI Generators</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-stunning-appraisal-and-alternative-suggestions/"><u>2024 Approved  Stunning Appraisal & Alternative Suggestions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/4k-lg-display-assessment-the-ultimate-31mu97-b-for-2024/"><u>4K LG Display Assessment  The Ultimate 31MU97-B for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-turn-a-tiktok-sound-into-your-ringtone-a-detailed-guidance/"><u>How To Turn A TikTok Sound Into Your Ringtone? A Detailed Guidance</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-iphone-13-mini-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T iPhone 13 mini with 3 Methods</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-12plus-ways-to-immerse-in-international-cricket-via-streaming/"><u>In 2024, 12+ Ways to Immerse in International Cricket via Streaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-24-hour-film-size-gb-measurement-guide/"><u>In 2024, 24-Hour Film Size  GB Measurement Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-28-exemplary-metaverse-experiences-for-in-depth-understanding/"><u>In 2024, 28 Exemplary Metaverse Experiences for In-Depth Understanding</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tips-on-how-skip-edgenuity-videos/"><u>In 2024, Tips on How Skip Edgenuity Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164156571-play-retro-psp-hits-with-ios-now/"><u>Play Retro PSP Hits with iOS Now</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-editors-edge-boost-your-tiktok-impact/"><u>The Editor's Edge  Boost Your TikTok Impact</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-essence-of-the-apple-m1-a-technological-marvel/"><u>The Essence of the Apple M1  A Technological Marvel</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-metaverse-meme-phenomenon-a-comprehensive-overview/"><u>The Metaverse Meme Phenomenon  A Comprehensive Overview</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-ultimate-collection-of-zero-cost-japanese-learning-tools/"><u>The Ultimate Collection of Zero-Cost Japanese Learning Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-supercharge-your-facebook-video-speed/"><u>The Ultimate Guide to Supercharge Your Facebook Video Speed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-vr-player-guide-unveiling-the-best-pc-streamers/"><u>The Ultimate VR Player Guide  Unveiling the Best PC Streamers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-10-online-photo-editing-tools-to-unblur-photos-effectively/"><u>Top 10 Online Photo Editing Tools to Unblur Photos Effectively</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-videography-equipment/"><u>Top Videography Equipment</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-selection-choosing-excellent-free-srt-translators/"><u>Ultimate Selection  Choosing Excellent FREE SRT Translators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleash-camera-potential-with-10-premium-freebies-and-personalized-purchase-choices/"><u>Unleash Camera Potential with 10 Premium Freebies & Personalized Purchase Choices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlock-your-tunes-curated-list-of-websites-for-youtuberingtones/"><u>Unlock Your Tunes  Curated List of Websites For YouTubeRingtones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-the-potential-of-drone-footage-through-editing/"><u>Unlocking the Potential of Drone Footage Through Editing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-the-secrets-of-premium-insta-tunes-a-complete-guide/"><u>Unlocking the Secrets of Premium Insta Tunes  A Complete Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveil-your-creative-potential-comprehensive-guide-to-powerdirector-pro/"><u>Unveil Your Creative Potential  Comprehensive Guide to PowerDirector Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-vr-future-latest-trends/"><u>Unveiling the VR Future  Latest Trends</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-from-sketch-to-screen-mastering-animation-drawing-with-the-top-7-software-for-2024/"><u>Updated From Sketch to Screen Mastering Animation Drawing with the Top 7 Software for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-convert-videos-into-high-quality-audio-the-10-best-tools-at-your-fingertips-free/"><u>Updated In 2024, Convert Videos Into High-Quality Audio - The 10 Best Tools at Your Fingertips (Free)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/videographers-freelancer-form/"><u>Videographer's Freelancer Form</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vocal-variety-ventures-in-free-fire-play/"><u>Vocal Variety Ventures in Free Fire Play</u></a></li>
+</ul></div>

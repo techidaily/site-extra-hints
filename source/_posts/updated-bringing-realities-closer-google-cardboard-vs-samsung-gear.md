@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Bringing Realities Closer  Google Cardboard Vs. Samsung Gear\""
-date: 2024-05-24T01:26:56.496Z
-updated: 2024-05-25T01:26:56.496Z
+date: 2024-07-22T12:19:38.696Z
+updated: 2024-07-23T12:19:38.696Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Bringing Realities Closer: Google Cardboard Vs. Samsung Gear\""
 excerpt: "\"This Article Describes [Updated] Bringing Realities Closer: Google Cardboard Vs. Samsung Gear\""
 keywords: "Google Cardboard Showdown,Samsung VR Comparison,Virtual Reality Headsets,Cardboard Vs. Gear,VR Technology Review,Gear to Cardboard Test,Gadget VR Performance"
-thumbnail: https://www.lifewire.com/thmb/Pc02X6UByoQd3JZSqe8i2ct8aeE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2021-12-17at1.09.03PM-76f8bca0f2f44a3987bca5104dbb7e35.png
+thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb6668830fc6d1ed96db57dfa6c.png
 ---
 
 ## Bringing Realities Closer: Google Cardboard Vs. Samsung Gear
@@ -32,6 +32,9 @@ thumbnail: https://www.lifewire.com/thmb/Pc02X6UByoQd3JZSqe8i2ct8aeE=/400x300/fi
 
  The Samsung Gear VR is the product that comes when you combine the expertise of the best Virtual Reality Company and the best smart phone brand in the world. Samsung Gear VR is a combined collaboration between Samsung and Oculus. This Virtual reality headset is made for only Samsung phones and retails around 100$ which is almost 5 times more than the Google cardboard. Gear VR is packed with functionality it has a very firm phone stand inside of which you can easily put any phone. It connects to your phone through the charging port and as soon as you connect the phone it starts the VR software in it. You can also control the volume and the zoom through this headset. You can also play many games on it through the Oculus app which is present on the app store for Gear VR only.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Samsung Gear VR
 
  Samsung just partnered with Oculus to bring you the Samsung Gear VR headset in 2014 and now the new Samsung Gear VR introduced with the Galaxy S7 is jam packed with new features that are ready to blow your mind. The new Gear is 19 percent lighter than the previous model so it doesn’t feel like a brick tied to your head. The straps are more elastic and give a better fit than the previous model, the padding around the eyes and nose gives a very comfortable grip. The new VR has a USB type c port you can also switch it micro USB to make it compatible with the older versions of Samsung phones.
@@ -44,6 +47,57 @@ thumbnail: https://www.lifewire.com/thmb/Pc02X6UByoQd3JZSqe8i2ct8aeE=/400x300/fi
 
  Google cardboard does not have any volume control options no flaps straps to attach the device directly on your head, the build quality is as poor as it can get. There are many downsides to the Google cardboard but if you look at its price you realize it is a pretty good deal for 20$ you are getting a VR headset who would’ve thought this was possible?
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Overview of Google Cardboard and Gear VR
+
+ Google’s Cardboard VR is one of the Google’s side projects, the projects that are not considered important and limited resources are given to them. This side project became an instant success for Google and has attracted customers all around the world costing only 20$ this is one of the cheapest headsets anyone can get in the market. The best thing about Google cardboard is that the design is open source and anyone can make one at home just by following few clear instructions. Google’s vision of technology to everyone is working and cardboard is one step towards their main goal.
+
+ The Samsung Gear VR is the product that comes when you combine the expertise of the best Virtual Reality Company and the best smart phone brand in the world. Samsung Gear VR is a combined collaboration between Samsung and Oculus. This Virtual reality headset is made for only Samsung phones and retails around 100$ which is almost 5 times more than the Google cardboard. Gear VR is packed with functionality it has a very firm phone stand inside of which you can easily put any phone. It connects to your phone through the charging port and as soon as you connect the phone it starts the VR software in it. You can also control the volume and the zoom through this headset. You can also play many games on it through the Oculus app which is present on the app store for Gear VR only.
+
+### Samsung Gear VR
+
+ Samsung just partnered with Oculus to bring you the Samsung Gear VR headset in 2014 and now the new Samsung Gear VR introduced with the Galaxy S7 is jam packed with new features that are ready to blow your mind. The new Gear is 19 percent lighter than the previous model so it doesn’t feel like a brick tied to your head. The straps are more elastic and give a better fit than the previous model, the padding around the eyes and nose gives a very comfortable grip. The new VR has a USB type c port you can also switch it micro USB to make it compatible with the older versions of Samsung phones.
+
+ The best part about the new Samsung Gear is the new lens that is clearer and gives a glare free view of the screen. Along with the new lens there are some more features in the Samsung Gear VR, You can plug in headphones in your phone and enjoy the whole VR experience with sound Samsung ahs specially made ports in the headset for it. Samsung has also introduced some buttons to change the volume of the device from the Gear itself. The previous versions had a problem that the lenses tend to mist up thus making you unable to see clearly but in this version the issue has been resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+### Google Cardboard
+
+ Google has been changing our concepts about technology for quite some time now and they are certainly succeeding in their mission. Google Cardboard is a product started by Google employees as a side project but it certainly became more than a side project. The main selling point of the Cardboard is that it is really cheap and everyone can afford one. Plus you don’t need a high end smart phone to work with cardboard it can work with any android phone. The Google cardboard VR is compatible with multiple phones and is really portable and these are its basic selling points. Other than that there are not many qualities in the headset it is just a cardboard holder that you have to hold with hand with lens in it.
+
+ Google cardboard does not have any volume control options no flaps straps to attach the device directly on your head, the build quality is as poor as it can get. There are many downsides to the Google cardboard but if you look at its price you realize it is a pretty good deal for 20$ you are getting a VR headset who would’ve thought this was possible?
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -74,6 +128,9 @@ Follow @Benjamin Arango
 
  Google cardboard does not have any volume control options no flaps straps to attach the device directly on your head, the build quality is as poor as it can get. There are many downsides to the Google cardboard but if you look at its price you realize it is a pretty good deal for 20$ you are getting a VR headset who would’ve thought this was possible?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -86,42 +143,18 @@ Follow @Benjamin Arango
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Overview of Google Cardboard and Gear VR
 
  Google’s Cardboard VR is one of the Google’s side projects, the projects that are not considered important and limited resources are given to them. This side project became an instant success for Google and has attracted customers all around the world costing only 20$ this is one of the cheapest headsets anyone can get in the market. The best thing about Google cardboard is that the design is open source and anyone can make one at home just by following few clear instructions. Google’s vision of technology to everyone is working and cardboard is one step towards their main goal.
 
  The Samsung Gear VR is the product that comes when you combine the expertise of the best Virtual Reality Company and the best smart phone brand in the world. Samsung Gear VR is a combined collaboration between Samsung and Oculus. This Virtual reality headset is made for only Samsung phones and retails around 100$ which is almost 5 times more than the Google cardboard. Gear VR is packed with functionality it has a very firm phone stand inside of which you can easily put any phone. It connects to your phone through the charging port and as soon as you connect the phone it starts the VR software in it. You can also control the volume and the zoom through this headset. You can also play many games on it through the Oculus app which is present on the app store for Gear VR only.
 
-### Samsung Gear VR
-
- Samsung just partnered with Oculus to bring you the Samsung Gear VR headset in 2014 and now the new Samsung Gear VR introduced with the Galaxy S7 is jam packed with new features that are ready to blow your mind. The new Gear is 19 percent lighter than the previous model so it doesn’t feel like a brick tied to your head. The straps are more elastic and give a better fit than the previous model, the padding around the eyes and nose gives a very comfortable grip. The new VR has a USB type c port you can also switch it micro USB to make it compatible with the older versions of Samsung phones.
-
- The best part about the new Samsung Gear is the new lens that is clearer and gives a glare free view of the screen. Along with the new lens there are some more features in the Samsung Gear VR, You can plug in headphones in your phone and enjoy the whole VR experience with sound Samsung ahs specially made ports in the headset for it. Samsung has also introduced some buttons to change the volume of the device from the Gear itself. The previous versions had a problem that the lenses tend to mist up thus making you unable to see clearly but in this version the issue has been resolved.
-
-### Google Cardboard
-
- Google has been changing our concepts about technology for quite some time now and they are certainly succeeding in their mission. Google Cardboard is a product started by Google employees as a side project but it certainly became more than a side project. The main selling point of the Cardboard is that it is really cheap and everyone can afford one. Plus you don’t need a high end smart phone to work with cardboard it can work with any android phone. The Google cardboard VR is compatible with multiple phones and is really portable and these are its basic selling points. Other than that there are not many qualities in the headset it is just a cardboard holder that you have to hold with hand with lens in it.
-
- Google cardboard does not have any volume control options no flaps straps to attach the device directly on your head, the build quality is as poor as it can get. There are many downsides to the Google cardboard but if you look at its price you realize it is a pretty good deal for 20$ you are getting a VR headset who would’ve thought this was possible?
-
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
-## Overview of Google Cardboard and Gear VR
-
- Google’s Cardboard VR is one of the Google’s side projects, the projects that are not considered important and limited resources are given to them. This side project became an instant success for Google and has attracted customers all around the world costing only 20$ this is one of the cheapest headsets anyone can get in the market. The best thing about Google cardboard is that the design is open source and anyone can make one at home just by following few clear instructions. Google’s vision of technology to everyone is working and cardboard is one step towards their main goal.
-
- The Samsung Gear VR is the product that comes when you combine the expertise of the best Virtual Reality Company and the best smart phone brand in the world. Samsung Gear VR is a combined collaboration between Samsung and Oculus. This Virtual reality headset is made for only Samsung phones and retails around 100$ which is almost 5 times more than the Google cardboard. Gear VR is packed with functionality it has a very firm phone stand inside of which you can easily put any phone. It connects to your phone through the charging port and as soon as you connect the phone it starts the VR software in it. You can also control the volume and the zoom through this headset. You can also play many games on it through the Oculus app which is present on the app store for Gear VR only.
-
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Samsung Gear VR
 
  Samsung just partnered with Oculus to bring you the Samsung Gear VR headset in 2014 and now the new Samsung Gear VR introduced with the Galaxy S7 is jam packed with new features that are ready to blow your mind. The new Gear is 19 percent lighter than the previous model so it doesn’t feel like a brick tied to your head. The straps are more elastic and give a better fit than the previous model, the padding around the eyes and nose gives a very comfortable grip. The new VR has a USB type c port you can also switch it micro USB to make it compatible with the older versions of Samsung phones.
@@ -166,3 +199,36 @@ Follow @Benjamin Arango
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-a-duel-of-viewers-google-cardboard-vs-samsung-vr/"><u>[New] A Duel of Viewers  Google Cardboard Vs. Samsung VR</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-action-sequence-mastery-selecting-gopros-best-cinematic-luts/"><u>[New] Action Sequence Mastery  Selecting GoPro's Best Cinematic LUTs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-advanced-audio-alliance-for-podcasters/"><u>[New] Advanced Audio Alliance for Podcasters</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-directly-stream-google-meet-youtube-edition-steps/"><u>[New] Directly Stream Google Meet - YouTube Edition Steps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-closer-look-at-the-monetization-mechanism-for-video-clips/"><u>[New] In 2024, A Closer Look at the Monetization Mechanism for Video Clips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-hearnow-podcast-and-speaker-assessment/"><u>[New] In 2024, HearNow  Podcast and Speaker Assessment</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-20-mindfulness-tracks-legal-and-copyright-free-downloads/"><u>[Updated] 20 Mindfulness Tracks  Legal and Copyright-Free Downloads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-conquering-export-errors-for-srt-in-premiere-pro/"><u>[Updated] Conquering Export Errors for SRT in Premiere Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/12-live-video-streaming-app-for-watching-and-streaming-videos-for-2024/"><u>12 Live Video Streaming App for Watching and Streaming Videos for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2023s-ideal-app-for-unmatched-intro-edits-on-various-gadgets-for-2024/"><u>2023’S Ideal App for Unmatched Intro Edits on Various Gadgets for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-top-10-curated-list-of-superior-vector-portals/"><u>2024 Approved  A Top 10 Curated List of Superior Vector Portals</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/5-best-finger-tech-for-virtual-reality-mastery-for-2024/"><u>5 Best Finger Tech for Virtual Reality Mastery for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ace-voice-changer-apps-for-your-mobile-device-for-2024/"><u>Ace Voice-Changer Apps for Your Mobile Device for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/aesthetic-clarity-the-ultimate-guide-to-the-top-15-gopro-luts-for-2024/"><u>Aesthetic Clarity  The Ultimate Guide to the Top 15 GOPRO LUTs for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/affordable-reliable-a-list-of-the-best-free-mobile-streamers-for-2024/"><u>Affordable, Reliable  A List of the Best Free Mobile Streamers for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/channel-your-inner-narrative-impactful-life-stories-yt-for-2024/"><u>Channel Your Inner Narrative  Impactful Life Stories YT for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ffmpeg-audio-review-can-ffmpeg-extract-audio-in-original-format-for-2024/"><u>FFmpeg Audio Review  Can FFmpeg Extract Audio in Original Format for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-26-metaverse-milestones-a-journey-into-virtual-realms/"><u>In 2024, 26 Metaverse Milestones  A Journey Into Virtual Realms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-8-useful-tool-to-pixelate-face-on-photo/"><u>In 2024, 8 Useful Tool to Pixelate Face on Photo</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-closer-examination-of-googles-ar-stickers-and-competitors/"><u>In 2024, A Closer Examination of Google's AR Stickers and Competitors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-tools-tweet-with-converted-videos/"><u>In 2024, Advanced Tools  Tweet with Converted Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-6s-plus-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 6s Plus Properly</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-top-8-multi-subtitles-translators-you-can-use-for-2024/"><u>New Top 8 Multi-Subtitles Translators You Can Use for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vr-readiness-your-space-and-tech-essentials/"><u>VR Readiness  Your Space and Tech Essentials</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/windows-8-video-editing-made-easy-with-movie-maker-tips-and-tricks/"><u>Windows 8 Video Editing Made Easy with Movie Maker Tips & Tricks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/wintry-wonderland-olympic-moments-from-beijing-2022/"><u>Wintry Wonderland  Olympic Moments From Beijing 2022</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/yuneec-typhoon-h-insights-drone-review-highlights/"><u>Yuneec Typhoon H Insights  Drone Review Highlights</u></a></li>
+</ul></div>

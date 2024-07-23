@@ -1,7 +1,7 @@
 ---
 title: "[New] 15 Masterpieces That Defined Stop Motion Artistry"
-date: 2024-05-24T01:05:21.540Z
-updated: 2024-05-25T01:05:21.540Z
+date: 2024-07-22T11:32:24.483Z
+updated: 2024-07-23T11:32:24.483Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [New] 15 Masterpieces That Defined Stop Motion Artistry"
 excerpt: "This Article Describes [New] 15 Masterpieces That Defined Stop Motion Artistry"
 keywords: "\"Stop-Motion Classics,Animation History,Timeless Anime Works,Pioneering Puppet Films,Animated Brilliance,Motion Art Legends,Static Storytelling Giants\""
-thumbnail: https://www.lifewire.com/thmb/q2YzogdKG5J-JDQw9ed7I5Iu49A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/full-frame-shot-of-speakers-1138109687-33289baddc314b44ae87abc2fc8060cd-e7bccad6d81244509ed97ddf557f89e4.jpg
+thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90367153732b7b65655c151cd.jpg
 ---
 
 ## 15 Masterpieces That Defined Stop Motion Artistry
@@ -40,6 +40,9 @@ Consuming Spirits is an animated movie about three residents who lead interconne
 
 ![consuming spirits](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. [Coraline](https://www.imdb.com/title/tt0327597/)
 
 Movie Name: Coraline
@@ -52,8 +55,14 @@ Quote: "When you're scared, but you still do it anyway, that's brave."
 
 Coraline is a film stop motion where an adventurous girl finds a secret door in her new house and knows some sinister secrets about the family.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![coraline](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. [Fantastic Mr. Fox](https://www.imdb.com/title/tt0432283/)
 
 Movie Name: Fantastic Mr. Fox
@@ -66,6 +75,9 @@ Quote: "You are, without a doubt, the five and a half most wonderful wild animal
 
 Fantastic Mr. Fox is an animated film about Mr. Fox, a family man who gets into his animal instincts and starts stealing. However, some farmers trap him as the story progresses.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fantastic mr.fox](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-3.jpg)
 
 ### 4\. [Wallace & Gromit: The Curse of the Were-Rabbit](https://www.imdb.com/title/tt0312004/)
@@ -80,8 +92,28 @@ Quote: "I'm sorry, Gromit—I know you're doing this for my good, but the fact i
 
 The famous animated stop motion film is about Lady Tottington and Wallace, who go on a mission to rescue their village from a beast destroying the plots.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![wellace & gromit in the curse of the were-rabbit](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ### 5\. [Early Man](https://www.imdb.com/title/tt4701724/)
 
 Movie Name: Early Man
@@ -94,6 +126,9 @@ Quote: "The age of stone is over. Long live the age of bronze."
 
 Early Man is yet another stop motion film that got considerable fame. The story is about Lord Nooth, who wishes to turn the land into a mine for his selfish gains. Dug and his sidekick has to fight against him.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![early man](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-5.jpg)
 
 ### 6\. [Kubo and Two Strings](https://www.imdb.com/title/tt4302938/)
@@ -108,8 +143,14 @@ Quote: "If you must blink, do it now."
 
 Kubo and Two Strings is one of the best stop motion films. The movie is about Kubo and his two strings, Monkey and Beetle. All three of them are expected to find a legendary suit of armor to defeat an evil spirit.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![kubo and two strings](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 7\. [My Life as a Zucchini](https://www.imdb.com/title/tt2321405/)
 
 Movie Name: My Life as a Zucchini
@@ -122,8 +163,14 @@ Quote: "We are all the same. There is nobody left to love us."
 
 My Life as a Zucchini is about an orphan who is sent to the orphanage where he learns how to make friends and trust.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![my life as a zucchini](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 8\. [Corpse Bride](https://www.imdb.com/title/tt0121164/)
 
 Movie Name: Corpse Bride
@@ -166,6 +213,9 @@ Mary and Max is a story about two unlikely people who befriended each other in a
 
 ![mary and max](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 11\. [ParaNorman](https://www.imdb.com/title/tt1623288/)
 
 Movie Name: ParaNorman
@@ -180,6 +230,9 @@ ParaNorman is a film stop motion with a fun supernatural story. Norman had a uni
 
 ![paranorman](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 12\. [Missing Link](https://www.imdb.com/title/tt6348138/)
 
 Movie Name: Missing Link
@@ -206,6 +259,9 @@ Quote: "Don't look so worried. I've sailed the seven seas, and I've never had an
 
 The movie The Pirates! In An Adventure With Scientists is about a Pirate Captain and his crew who want to win the Pirate of the Year Award. They have to travel to the Victorian land and pillage the booty.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the pirates in an adventure with scientists](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-13.jpg)
 
 ### 14\. [The Boxtrolls](https://www.imdb.com/title/tt0787474/)
@@ -220,6 +276,9 @@ Quote: "Where are the rivers of blood, and the mountains of bones? I was promise
 
 The Boxtrolls is an animated film stop motion where Eggs and Winnie befriend each other for a cause. They were expected to save the Boxtrolls from the evil eyes of the exterminator.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![the boxtrolls](https://images.wondershare.com/filmora/article-images/2021/stop-motion-films-14.jpg)
 
 ### 15\. [The LEGO](https://www.imdb.com/title/tt1490017/)
@@ -264,3 +323,44 @@ The creative industry needs to offer strong animation to bring the audience on t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-a-novices-approach-to-acquiring-picture-frames/"><u>[New] A Novice's Approach to Acquiring Picture Frames</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-detailed-process-of-saving-movies-on-various-os/"><u>[New] Detailed Process of Saving Movies on Various OS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-11-pros-of-perfect-color-balancing-mastery/"><u>[Updated] 11 Pros of Perfect Color Balancing Mastery</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-earning-as-a-video-game-geek/"><u>[Updated] 2024 Approved  Earning as a Video Game Geek</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-mastering-tiktok-identity-ultimate-profile-transformation-guide/"><u>[Updated] 2024 Approved  Mastering TikTok Identity  Ultimate Profile Transformation Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-6-video-styles-for-maximum-viewer-engagement/"><u>[Updated] 6 Video Styles for Maximum Viewer Engagement</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-accelerating-learning-in-lut-design/"><u>[Updated] Accelerating Learning in LUT Design</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-accelerating-or-decelerating-mastering-snapchats-timeline-controls/"><u>[Updated] Accelerating or Decelerating  Mastering Snapchat's Timeline Controls</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-bypassing-broken-tiktok-a-step-by-step-guide-for-2024/"><u>[Updated] Bypassing Broken TikTok  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-beginners-guide-to-video-equipment-selection/"><u>[Updated] The Beginner's Guide to Video Equipment Selection</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-essential-movie-snippets-for-editing-for-2024/"><u>10 Essential Movie Snippets for Editing for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-30-dynamic-metaverse-insights-with-arvr-themes/"><u>2024 Approved  30 Dynamic Metaverse Insights with AR/VR Themes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-35-hilarious-image-editing-software-for-smartphones-and-pcs/"><u>2024 Approved  35 Hilarious Image Editing Software for Smartphones & PCs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-comprehensive-guide-to-vr-travel-adventures/"><u>2024 Approved  A Comprehensive Guide to VR Travel Adventures</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-achieving-gentle-growth-of-silence-in-audio-production/"><u>2024 Approved  Achieving Gentle Growth of Silence in Audio Production</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-optimal-practices-for-archiving-interactive-online-workshops/"><u>2024 Approved  Optimal Practices for Archiving Interactive Online Workshops</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-precision-in-motion-select-smartphones-that-enhance-videography-effortlessly/"><u>2024 Approved  Precision in Motion  Select Smartphones that Enhance Videography Effortlessly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/explore-top-10-dynamic-picture-background-switchers/"><u>Explore Top 10 Dynamic Picture-Background Switchers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-demystifying-the-vectorscope-a-comprehensive-guide-for-premiere-pro-color-correction/"><u>In 2024, Demystifying the Vectorscope A Comprehensive Guide for Premiere Pro Color Correction</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 6s Plus?</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-secure-and-safe-interactions-a-list-of-trustworthy-chat-services-for-strangers/"><u>In 2024, Secure and Safe Interactions A List of Trustworthy Chat Services for Strangers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-13-pro-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 13 Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovation-unveiled-the-complete-moto-z2-review/"><u>Innovation Unveiled  The Complete Moto Z2 Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-ranking-for-vraction-cams-not-like-gopro/"><u>The Ultimate Ranking for VR/Action Cams, Not Like GoPro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-simplified-journey-for-metaverse-personas/"><u>The Ultimate Simplified Journey for Metaverse Personas</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-mobile-video-assembly-software-for-smartphones/"><u>Top Mobile Video Assembly Software for Smartphones</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-pickings-exceptional-business-strategy-gaming/"><u>Top Pickings  Exceptional Business Strategy Gaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transform-your-pubg-presence-with-new-sounds/"><u>Transform Your PUBG Presence with New Sounds</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-introductory-editor-software-devices/"><u>Ultimate Introductory Editor Software (Devices)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-luxury-cosmetics-series/"><u>Ultimate Luxury Cosmetics Series</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleash-the-full-potential-of-your-live-streams-using-onestream/"><u>Unleash the Full Potential of Your Live Streams Using OneStream</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-all-about-dji-inspire-2-today/"><u>Unlocking All About DJI Inspire 2 Today</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-mystery-of-free-graphic-imagery/"><u>Unveiling the Mystery of Free Graphic Imagery</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-10-essential-public-domain-image-resources-for-designers/"><u>Updated In 2024, 10 Essential Public Domain Image Resources for Designers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vivacut-masterclass-a-complete-editor-guide/"><u>VivaCut Masterclass  A Complete Editor Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/why-filmora-captivates-its-top-ten-creative-capabilities/"><u>Why Filmora Captivates  Its Top Ten Creative Capabilities</u></a></li>
+</ul></div>

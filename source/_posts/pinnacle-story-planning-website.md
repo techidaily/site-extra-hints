@@ -1,7 +1,7 @@
 ---
 title: "Pinnacle Story Planning Website"
-date: 2024-05-24T00:49:58.395Z
-updated: 2024-05-25T00:49:58.395Z
+date: 2024-07-22T10:59:11.914Z
+updated: 2024-07-23T10:59:11.914Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Pinnacle Story Planning Website"
 excerpt: "This Article Describes Pinnacle Story Planning Website"
 keywords: "Pinnacle Content Strategy,Storyboard Web Design,Narrative Site Planning,Digital Storytelling Hub,Engaging Plot Web Layout,Tale Crafting Website,Creative Writing Online Space"
-thumbnail: https://www.lifewire.com/thmb/JOg59vP6bm-7mGeyHmvkwgL2GHc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Cleaningrobotonlaptop_HuberandStarke_GettyImages-1448733073_EVANCROP-8ed67f08b9c4430db8e47c51fde78feb.jpg
+thumbnail: https://thmb.techidaily.com/d1c93d03f28bcd5dba090eaa199ea22428e61a4a76d990245599509aeb0bc8f2.jpg
 ---
 
 ## Pinnacle Story Planning Website
@@ -30,14 +30,24 @@ Why should you use screenplay software? To be taken seriously as a screenwriter,
 
 We've compiled a comprehensive list of script writing software and websites. Analyze these options, choose what works best for you, and begin writing your screenplay right away.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ### 1\. [The Black List Loglines.](https://blcklst.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![the black list loglines](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-1.jpg)
 
 To see what kinds of screenplays are gaining traction in Hollywood, read these loglines of screenplays that made the **Black List** \- an annual roundup of the best-unproduced screenplays in Hollywood.
 
 The archive goes back to 2005 and contains information on associated management companies.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### 2\. [Logline It.](https://logline.it/)
 
 ![logline it](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-2.jpg)
@@ -48,6 +58,9 @@ Logline This is the only scripting website we know of that is dedicated exclusiv
 
 ### 3\. [Nicholl Winners' Scripts & Formatting Sample.](https://www.oscars.org/nicholl/screenwriting-resources)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![nicholl winners' scripts and formatting sample](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-3.jpg)
 
 Want to see what a script good enough to win a Nicholl competition looks like? Here is a list of some of the past winners who will do so.
@@ -56,6 +69,9 @@ And if you're confused about script formatting, you can also download this PDF t
 
 ### 4\. [Screenwriting.io.](https://screenwriting.io/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![screenwriting.io](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-4.jpg)
 
 John August, the author of Go, Charlie's Angels, and Big Fish has created one of the best online screenwriting websites for answering basic questions about the craft and business of writing.
@@ -74,6 +90,9 @@ Let's go through them together.
 
 This is the first place I go for scripted stuff. They have an extensive catalog and have proven to be a valuable resource for researching film crews, actors, and trivia. IMSDB is equally useful for those looking for screenplays of all kinds and genres, which they have listed in categories.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![imsdb](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-5.jpg)
 
 ### 2\. [Go Into the Story](https://gointothestory.blcklst.com/)
@@ -82,14 +101,23 @@ This is the first place I go for scripted stuff. They have an extensive catalog 
 
 I'm a huge fan of Scott Myers. He gives everything to the writer. Go Into the Story is the official blog for The **_Black List,_** the screenwriting community known for its annual list of the top ten unproduced screenplays in Hollywood. There is always a bank of scripts that you can filter.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. [Simply Scripts](https://www.simplyscripts.com/)
 
 ![simply scripts](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-7.jpg)
 
 Simply Scripts has a large and diverse library that includes Tennessee Williams' plays, classics, and even non-English screenplays. It's also constantly updated, so the most recent scripts are always available.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### 4\. [Screenplays For You](https://sfy.ru/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![screenplays for you](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-8.jpg)
 
 Again, there is not much difference between these pages. You can search by genre here or alphabetically. They have it all.
@@ -104,6 +132,9 @@ The script database is another useful resource with a large selection of scripts
 
 ### 1\. [Go Into The Story](https://gointothestory.blcklst.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![go into the story](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-10.jpg)
 
 Run by Scott Myers, the Go into The Story blog has been named “Best of the Best” by Writer's Digest magazine.
@@ -112,16 +143,32 @@ It covers business, art, and the everyday problems of a writer.
 
 In addition to being an award-winning blog, Scott's blog is also one that we visit almost every day. It's a one-stop shop for interviews, advice, and answers to any reader questions.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. [John August](https://johnaugust.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![john august](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-11.jpg)
 
 Everyone seems to have advice about Hollywood, but who can you trust? John August is one of Hollywood's best screenwriters. He was nominated for an Academy Award for Big Fish and continues to work on major studio films such as Aladdin, Charlie and the Chocolate Factory and Charlie's Angels.
 
 John August's blog has become the place people go for screenwriting news and advice from someone who does it every day.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. [StudioBinder](https://www.studiobinder.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![studiobinder](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-12.jpg)
 
 Inspiration is half the battle in writing, but what if you hit writer's block and just can't move forward? The StudioBinder blog is dedicated to helping aspiring and experienced filmmakers achieve their dreams, but the StudioBinder platform is where you can shine.
@@ -158,6 +205,9 @@ It has since expanded to an online database where users can submit their scripts
 
 Users can adjust the white balance and dynamic range of their clips using the color tuning feature. The audio mixer feature allows you to change the audio of each track. The advanced text editor allows you to change the text's color, size, font, and even animation. The screen recording feature efficiently records the computer's screen and webcam. The video stabilization feature compensates for camera shake.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 To write a video script quickly, you should use templates, which are designed to force you to write the right things at the right time and place. There are numerous templates available, but these will allow you to complete almost any type of work that comes your way.
@@ -168,6 +218,9 @@ To write a video script quickly, you should use templates, which are designed to
 
 </article
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Conclusion
 
 To write a video script quickly, you should use templates, which are designed to force you to write the right things at the right time and place. There are numerous templates available, but these will allow you to complete almost any type of work that comes your way.
@@ -200,3 +253,57 @@ To write a video script quickly, you should use templates, which are designed to
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-dawns-judgment-new-ideas-for-2024/"><u>[New] Dawn’s Judgment  New Ideas for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-do-fake-followers-negatively-affect-your-brand/"><u>[New] Do Fake Followers Negatively Affect Your Brand?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-ultimate-vimeo-cutting-suite-revealed/"><u>[New] In 2024, Ultimate Vimeo Cutting Suite Revealed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gimbal-excellence-markets-top-choices/"><u>[Updated] Gimbal Excellence  Market's Top Choices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-activating-built-in-recorders-on-mate-and-p-series-phones-mate-1020-p2010/"><u>2024 Approved  Activating Built-In Recorders on Mate and P Series Phones (Mate 10/20; P20/10)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-all-about-youtube-tv-your-comprehensive-resource/"><u>2024 Approved  All About YouTube TV  Your Comprehensive Resource</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-top-picks-iphone-solutions-for-effective-image-watermarks/"><u>2024 Approved  Top Picks  IPhone Solutions for Effective Image Watermarks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ge-profit-per-million-youtube-viewers/"><u>Average Profit per Million YouTube Viewers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oppo-a1x-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Oppo A1x 5G</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/immerse-in-ideas-multitasking-activities-for-podcast-fans/"><u>Immerse in Ideas  Multitasking Activities for Podcast Fans</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/immersion-in-metaverse-leading-hmds-reviewed/"><u>Immersion in Metaverse  Leading HMDs Reviewed</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-elevate-your-brand-with-these-biz-channel-standouts/"><u>In 2024, Elevate Your Brand with These Biz Channel Standouts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-100-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor 100 Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-perfect-instruction-manual-for-wm6/"><u>In 2024, Perfect Instruction Manual for WM6</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-step-by-step-softening-audio-routine/"><u>In 2024, Step-by-Step Softening Audio Routine</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-motorola-moto-g84-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Motorola Moto G84 5G Phones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/inspiring-imagination-unveiling-top-6-nft-makers-for-artists/"><u>Inspiring Imagination  Unveiling Top 6 NFT Makers for Artists</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/investment-guidelines-for-effective-youtube-campaigns/"><u>Investment Guidelines for Effective YouTube Campaigns</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/kinemaster-advanced-perfecting-visual-continuity/"><u>Kinemaster Advanced  Perfecting Visual Continuity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/lens-legends-library-your-query-guide/"><u>Lens Legends' Library  Your Query Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leveraging-speech-recognition-in-googles-popular-docs-application/"><u>Leveraging Speech Recognition in Google's Popular Docs Application</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-the-art-of-visual-storytelling-with-top-text-techniques/"><u>Master the Art of Visual Storytelling with Top Text Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/meme-crafters-companion/"><u>Meme Crafter's Companion</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigate-new-walls-insiders-guide-to-wallpapers-in-win11/"><u>Navigate New Walls  Insider's Guide to Wallpapers in Win11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/on-the-go-cinematographers-essentials/"><u>On-the-Go Cinematographer’s Essentials</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/owning-your-sound-instagrams-ip-framework/"><u>Owning Your Sound  Instagram's IP Framework</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfecting-visual-storytelling-adding-context-to-your-pictures-through-text/"><u>Perfecting Visual Storytelling  Adding Context to Your Pictures Through Text</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pivotal-moments-in-video-edits-and-their-significance/"><u>Pivotal Moments in Video Edits and Their Significance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-drones-on-offer/"><u>Premium Drones on Offer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-live-screenbackscapes-2023/"><u>Premium Live Screenbackscapes 2023</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-top-8-selection-tripods-for-high-res-cameras/"><u>Premium Top 8 Selection  Tripods for High-Res Cameras</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/rise-to-the-top-mobile-youtubing-without-million-subscriber-status/"><u>Rise to the Top  Mobile YouTubing Without Million-Subscriber Status</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/securing-an-edge-how-to-successfully-install-windows-11/"><u>Securing an Edge  How to Successfully Install Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamline-your-soundwaves-moving-playlists-across-networks/"><u>Streamline Your Soundwaves  Moving Playlists Across Networks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamlining-windows-photos-experience-with-music-and-aesthetic-filters/"><u>Streamlining Windows Photos Experience with Music and Aesthetic Filters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/surfers-specs-top-action-camera-choices-2023/"><u>Surfers' Specs - Top Action Camera Choices 2023</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/syma-x5c-review-best-drone-for-beginner/"><u>Syma X5C Review  Best Drone for Beginner</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tackling-windows-files-swiftly-and-smartly/"><u>Tackling Windows Files Swiftly and Smartly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-art-of-auditory-alchemy-does-the-magic-voice-modifier-work-seek-alternates/"><u>The Art of Auditory Alchemy  Does the Magic Voice Modifier Work? Seek Alternates</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-complete-seo-strategy-for-podcast-growth/"><u>The Complete Seo Strategy for Podcast Growth</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-finest-unboxing-content-15-top-ranked-youtube-vids/"><u>The Finest Unboxing Content  15 Top-Ranked YouTube Vids</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-galaxy-s8-showdown-next-gen-in-4k-superiority/"><u>The Galaxy S8 Showdown  Next-Gen in 4K Superiority</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-pinnacle-of-artistry-highlighting-top-6-nft-creators/"><u>The Pinnacle of Artistry  Highlighting Top 6 NFT Creators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-seamless-storyteller-leveraging-inshot-for-elegant-transitions/"><u>The Seamless Storyteller  Leveraging Inshot for Elegant Transitions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-list-of-6-best-nft-platforms-for-artists/"><u>The Ultimate List of 6 Best NFT Platforms for Artists</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/thorough-examination-capturing-life-in-full-with-gear-360/"><u>Thorough Examination  Capturing Life in Full with Gear 360</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/thorough-investigation-into-simple-hdr-imaging/"><u>Thorough Investigation Into Simple HDR Imaging</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tips-for-removing-spotifys-auto-suggesting-podcasts/"><u>Tips for Removing Spotify's Auto-Suggesting Podcasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-6-hdmi-21-monitor/"><u>Top 6 HDMI 2.1 Monitor</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/unveiling-this-years-fresh-tiktok-hits/"><u>Unveiling This Year's Fresh TikTok Hits</u></a></li>
+</ul></div>

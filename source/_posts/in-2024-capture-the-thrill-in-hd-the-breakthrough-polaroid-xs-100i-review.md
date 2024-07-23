@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Capture the Thrill in HD - The Breakthrough Polaroid XS 100I Review\""
-date: 2024-05-24T00:40:28.847Z
-updated: 2024-05-25T00:40:28.847Z
+date: 2024-07-22T10:38:45.096Z
+updated: 2024-07-23T10:38:45.096Z
 tags: 
   - screen-recording
   - ai video
@@ -13,14 +13,103 @@ categories:
 description: "\"This Article Describes In 2024, Capture the Thrill in HD - The Breakthrough Polaroid XS 100I Review\""
 excerpt: "\"This Article Describes In 2024, Capture the Thrill in HD - The Breakthrough Polaroid XS 100I Review\""
 keywords: "\"Polaroid XS 100I Review,HD Camera Thrill Capture,Thrilling Breakthrough XS,High-Definition Polaroid,XS 100I Photography Guide,Polaroid XS Technology,Ultimate HD Photo Experience\""
-thumbnail: https://www.lifewire.com/thmb/6QFm0JDInxW-VZP-0F20SBxCPNY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/DawnMyers_0060_crop2-5d818de49e0947aa94cb451025957413.jpg
+thumbnail: https://thmb.techidaily.com/e90a41374ab8bcea029035e600ef5fff009cee16ec9e8eead9f3969598aefde0.jpg
 ---
 
 ## Capture the Thrill in HD - The Breakthrough Polaroid XS 100I Review
 
 # Polaroid XS 100i Action Camera Review
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ Polaroid has made an impressive comeback with its latest action camera unit: XS 100 Extreme Edition. Today it has grown as one of the most affordable action camera in market with all advanced features.
+
+ The article below includes detailed review of Polaroid XS 100i so that users can grab information about all added features of this product. Here we will talk about value, performance, usability, design and many more. It features attractive hardware shape along with intuitive software controls where wide angle lenses can work up to 170 degree range. You can record FULL GD videos under water with this device as it allows safe usage up to 30 feet. The sturdy shock absorbing box and advanced gyroscope sensor make it more useful for adventure sports lovers. In simple terms, Polaroid has launched something special for its users with all desired features in single unit.
+
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Complete Review for Polaroid XS 100i
+
+![Polaroid-XS-100-Extreme ](https://images.wondershare.com/filmora/article-images/polaroid-xs-100i-1.jpg)
+
+[Check price at Amazon](https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f
+)
+
+1. **Specs Table:**  
+| **Item name**            | **Polaroid XS 100i**                                         |                          |                                                                                                                                                                       |  
+| ------------------------ | ------------------------------------------------------------ | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |  
+| **Date available**       | **2015**                                                     |                          |                                                                                                                                                                       |  
+| **Price**                | **Official: $99.99**                                         |                          |                                                                                                                                                                       |  
+| **Manufacturer**         | **Polaroid (US)**                                            |                          |                                                                                                                                                                       |  
+| **Basic Specifications** |                                                              |                          |                                                                                                                                                                       |  
+| **Parameters**           | **Details**                                                  | **Parameters**           | **Details**                                                                                                                                                           |  
+| **Weight**               | 136 grams only                                               | **Shape**                | Bullet Type                                                                                                                                                           |  
+| **Memory**               | Micro SD/MicroSDHC up to 32GB                                | **Dimensions**           | 108 x 42 x 42 mm                                                                                                                                                      |  
+| **Max Image resolution** | Up to 16 MP                                                  | **Max Video resolution** | 1080p at 30 fps                                                                                                                                                       |  
+| **Battery**              | 1200MAH rechargeable battery that can record up to 2.5 hours | **Waterproof**           | Waterproof up to 30’/10m                                                                                                                                              |  
+| **Display**              | Not included                                                 | **Feature**              | Wi-Fi, App, G Sensor, Dual File Recording, Vibrates, Ultra Light, multi picture burst mode, auto power save option, camera orientation detection, USB charging option |
+2. **Pros and Cons:**  
+| Pros                                                  | Cons                                                                                     |  
+| ----------------------------------------------------- | ---------------------------------------------------------------------------------------- |  
+| Affordable way to get HD recording at 60 fps          | Its design feels less solid than some of its competitors                                 |  
+| Light weight                                          | It can't support 120 fps recording speed                                                 |  
+| Waterproof without a housing                          | Comes with inbuilt non-removable battery                                                 |  
+| Lots of accessories are included inside the box       | People have reported some trouble related to its uploading and synchronization abilities |  
+| The anti-vibration feature is excellent               | You will not find any backlight for display                                              |  
+| Impressive Audio Quality                              | Altimeter is also missing                                                                |  
+| Great HD video quality with long hour battery support |                                                                                          |
+3. **What is inside the Box?**  
+ Once your camera package reaches at your home, you will find these things inside:  
+   * The Polaroid XS-100i action Camera  
+   * Assorted Mounting Hardware  
+   * Handle Bar type Mount  
+   * Helmet Mount  
+   * Carrying Pouch  
+   * Secure String  
+   * HDMI Cable  
+   * USB cable
+4. **Design and Accessories:**  
+ This bullet shaped camera is designed with compact dimensions: Height as well as width goes up to 1.7 inches whereas overall weight is only 136 grams. Its body is designed with plastic material that stays waterproof up to 30 meters even without any additional housing arrangement. Also, you can take this camera to shoot footage in rough weather conditions like surf and sand etc. There is locking twist off type cap available on backside of camera that hides Mini USB port, Mini HDMI and MicroSDHC slot behind it so that they can stay protected during underwater shooting. A switch is provided for 720p recording mode selection. An indicating LED is added on the top side to display camera status. You will also find a power button on this device that assists in easy switching to recording mode.
+5. **Video and Photo:**  
+ Two preferred video recording mode in this camera allows shooting at 720p and 1080p where frame rate can be easily fixed to 30 fps. For 720p you can also switch to 60fps settings whereas 960p works fine with 30 fps rating. Stills can be easily captured at different resolution settings: 16MP, 5MP and 3MP. The shutter speed can be adjusted to 10fps in burst mode whereas it serves finer results with time lapse mode providing clicks at 60, 30, 10 and 5 second speed.  
+ Two preferred video recording mode in this camera allows shooting at 720p and 1080p where frame rate can be easily fixed to 30 fps. For 720p you can also switch to 60fps settings whereas 960p works fine with 30 fps rating. Stills can be easily captured at different resolution settings: 16MP, 5MP and 3MP. The shutter speed can be adjusted to 10fps in burst mode whereas it serves finer results with time lapse mode providing clicks at 60, 30, 10 and 5 second speed.
+6. **App and Wi-Fi:**  
+ Polaroid XS-100i is a Wi-Fi enabled device so it can be easily controlled from remote location with dedicated smartphone application. As this device lacks in display so you can enjoy easy previews from smart phone screen so that camera can be mounted at right angles. This application also provides easy controls to device settings. When you connect your camera to computer with the help of USB connectivity then it automatically loads a software to your computer for easy file sharing.
+
+## Recommend best video editing software for action camera users
+
+ If you want to take your video content to the next level with some video editing without being completely overwhelmed, you will definitely want to give Wondershare Filmora (originally Wondershare Video Editor) a try. The software offers a free trial period which allows you to try before buy. Well-designed intuitive interface enables anyone to master the program within minutes.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+7. **Battery and Memory:**  
+ This action camera comes with built in 120mAh battery so it cannot be removed and replaced with other. But the battery life is comparatively good as it can serve up to 2.5 hours. But remember that too avail this long hour assistance you need to keep your Wi-Fi switched off. The best part is that USB charging option is included so that you can recharge your camera to make it ready for the next shoot.  
+ On backside of this camera you will find slots of MicroSD card, Mini USB and for Mini HDMI connection. These slots are well protected from water by a lockable cover. The maximum allowed storage capacity goes up to 32GB that is pretty good for Full HD recording. You need to use camcorder media type flash card with this device.
+**Conclusion:**
+
+ If we consider the low price fact of Polaroid XS-100i then we must say that lost of features are embedded inside this affordable unit. The full HD setting will provide your crisp results if you are recording in good light conditions. The image orientation can be automatically corrected. As this device is waterproof and shockproof so it can serve with finer details to all adventure sports lovers. As the price tag is low enough so you are definitely going to spend less for such a impressive combination of features.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
 
 ##### Max Wales
 
@@ -84,6 +173,9 @@ thumbnail: https://www.lifewire.com/thmb/6QFm0JDInxW-VZP-0F20SBxCPNY=/400x300/fi
 
  If you want to take your video content to the next level with some video editing without being completely overwhelmed, you will definitely want to give Wondershare Filmora (originally Wondershare Video Editor) a try. The software offers a free trial period which allows you to try before buy. Well-designed intuitive interface enables anyone to master the program within minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 7. **Battery and Memory:**  
@@ -159,6 +251,9 @@ Follow @Max Wales
 6. **App and Wi-Fi:**  
  Polaroid XS-100i is a Wi-Fi enabled device so it can be easily controlled from remote location with dedicated smartphone application. As this device lacks in display so you can enjoy easy previews from smart phone screen so that camera can be mounted at right angles. This application also provides easy controls to device settings. When you connect your camera to computer with the help of USB connectivity then it automatically loads a software to your computer for easy file sharing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Recommend best video editing software for action camera users
 
  If you want to take your video content to the next level with some video editing without being completely overwhelmed, you will definitely want to give Wondershare Filmora (originally Wondershare Video Editor) a try. The software offers a free trial period which allows you to try before buy. Well-designed intuitive interface enables anyone to master the program within minutes.
@@ -172,6 +267,10 @@ Follow @Max Wales
 
  If we consider the low price fact of Polaroid XS-100i then we must say that lost of features are embedded inside this affordable unit. The full HD setting will provide your crisp results if you are recording in good light conditions. The image orientation can be automatically corrected. As this device is waterproof and shockproof so it can serve with finer details to all adventure sports lovers. As the price tag is low enough so you are definitely going to spend less for such a impressive combination of features.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -188,6 +287,9 @@ Follow @Max Wales
 
  The article below includes detailed review of Polaroid XS 100i so that users can grab information about all added features of this product. Here we will talk about value, performance, usability, design and many more. It features attractive hardware shape along with intuitive software controls where wide angle lenses can work up to 170 degree range. You can record FULL GD videos under water with this device as it allows safe usage up to 30 feet. The sturdy shock absorbing box and advanced gyroscope sensor make it more useful for adventure sports lovers. In simple terms, Polaroid has launched something special for its users with all desired features in single unit.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Complete Review for Polaroid XS 100i
 
 ![Polaroid-XS-100-Extreme ](https://images.wondershare.com/filmora/article-images/polaroid-xs-100i-1.jpg)
@@ -238,10 +340,16 @@ Follow @Max Wales
 6. **App and Wi-Fi:**  
  Polaroid XS-100i is a Wi-Fi enabled device so it can be easily controlled from remote location with dedicated smartphone application. As this device lacks in display so you can enjoy easy previews from smart phone screen so that camera can be mounted at right angles. This application also provides easy controls to device settings. When you connect your camera to computer with the help of USB connectivity then it automatically loads a software to your computer for easy file sharing.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Recommend best video editing software for action camera users
 
  If you want to take your video content to the next level with some video editing without being completely overwhelmed, you will definitely want to give Wondershare Filmora (originally Wondershare Video Editor) a try. The software offers a free trial period which allows you to try before buy. Well-designed intuitive interface enables anyone to master the program within minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 7. **Battery and Memory:**  
@@ -251,85 +359,9 @@ Follow @Max Wales
 
  If we consider the low price fact of Polaroid XS-100i then we must say that lost of features are embedded inside this affordable unit. The full HD setting will provide your crisp results if you are recording in good light conditions. The image orientation can be automatically corrected. As this device is waterproof and shockproof so it can serve with finer details to all adventure sports lovers. As the price tag is low enough so you are definitely going to spend less for such a impressive combination of features.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- Polaroid has made an impressive comeback with its latest action camera unit: XS 100 Extreme Edition. Today it has grown as one of the most affordable action camera in market with all advanced features.
-
- The article below includes detailed review of Polaroid XS 100i so that users can grab information about all added features of this product. Here we will talk about value, performance, usability, design and many more. It features attractive hardware shape along with intuitive software controls where wide angle lenses can work up to 170 degree range. You can record FULL GD videos under water with this device as it allows safe usage up to 30 feet. The sturdy shock absorbing box and advanced gyroscope sensor make it more useful for adventure sports lovers. In simple terms, Polaroid has launched something special for its users with all desired features in single unit.
-
-## Complete Review for Polaroid XS 100i
-
-![Polaroid-XS-100-Extreme ](https://images.wondershare.com/filmora/article-images/polaroid-xs-100i-1.jpg)
-
-[Check price at Amazon](https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B00F46UQ4K/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00F46UQ4K&linkId=6d1cf73dd040f47f4ac8a8a14ac9643f
-)
-
-1. **Specs Table:**  
-| **Item name**            | **Polaroid XS 100i**                                         |                          |                                                                                                                                                                       |  
-| ------------------------ | ------------------------------------------------------------ | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |  
-| **Date available**       | **2015**                                                     |                          |                                                                                                                                                                       |  
-| **Price**                | **Official: $99.99**                                         |                          |                                                                                                                                                                       |  
-| **Manufacturer**         | **Polaroid (US)**                                            |                          |                                                                                                                                                                       |  
-| **Basic Specifications** |                                                              |                          |                                                                                                                                                                       |  
-| **Parameters**           | **Details**                                                  | **Parameters**           | **Details**                                                                                                                                                           |  
-| **Weight**               | 136 grams only                                               | **Shape**                | Bullet Type                                                                                                                                                           |  
-| **Memory**               | Micro SD/MicroSDHC up to 32GB                                | **Dimensions**           | 108 x 42 x 42 mm                                                                                                                                                      |  
-| **Max Image resolution** | Up to 16 MP                                                  | **Max Video resolution** | 1080p at 30 fps                                                                                                                                                       |  
-| **Battery**              | 1200MAH rechargeable battery that can record up to 2.5 hours | **Waterproof**           | Waterproof up to 30’/10m                                                                                                                                              |  
-| **Display**              | Not included                                                 | **Feature**              | Wi-Fi, App, G Sensor, Dual File Recording, Vibrates, Ultra Light, multi picture burst mode, auto power save option, camera orientation detection, USB charging option |
-2. **Pros and Cons:**  
-| Pros                                                  | Cons                                                                                     |  
-| ----------------------------------------------------- | ---------------------------------------------------------------------------------------- |  
-| Affordable way to get HD recording at 60 fps          | Its design feels less solid than some of its competitors                                 |  
-| Light weight                                          | It can't support 120 fps recording speed                                                 |  
-| Waterproof without a housing                          | Comes with inbuilt non-removable battery                                                 |  
-| Lots of accessories are included inside the box       | People have reported some trouble related to its uploading and synchronization abilities |  
-| The anti-vibration feature is excellent               | You will not find any backlight for display                                              |  
-| Impressive Audio Quality                              | Altimeter is also missing                                                                |  
-| Great HD video quality with long hour battery support |                                                                                          |
-3. **What is inside the Box?**  
- Once your camera package reaches at your home, you will find these things inside:  
-   * The Polaroid XS-100i action Camera  
-   * Assorted Mounting Hardware  
-   * Handle Bar type Mount  
-   * Helmet Mount  
-   * Carrying Pouch  
-   * Secure String  
-   * HDMI Cable  
-   * USB cable
-4. **Design and Accessories:**  
- This bullet shaped camera is designed with compact dimensions: Height as well as width goes up to 1.7 inches whereas overall weight is only 136 grams. Its body is designed with plastic material that stays waterproof up to 30 meters even without any additional housing arrangement. Also, you can take this camera to shoot footage in rough weather conditions like surf and sand etc. There is locking twist off type cap available on backside of camera that hides Mini USB port, Mini HDMI and MicroSDHC slot behind it so that they can stay protected during underwater shooting. A switch is provided for 720p recording mode selection. An indicating LED is added on the top side to display camera status. You will also find a power button on this device that assists in easy switching to recording mode.
-5. **Video and Photo:**  
- Two preferred video recording mode in this camera allows shooting at 720p and 1080p where frame rate can be easily fixed to 30 fps. For 720p you can also switch to 60fps settings whereas 960p works fine with 30 fps rating. Stills can be easily captured at different resolution settings: 16MP, 5MP and 3MP. The shutter speed can be adjusted to 10fps in burst mode whereas it serves finer results with time lapse mode providing clicks at 60, 30, 10 and 5 second speed.  
- Two preferred video recording mode in this camera allows shooting at 720p and 1080p where frame rate can be easily fixed to 30 fps. For 720p you can also switch to 60fps settings whereas 960p works fine with 30 fps rating. Stills can be easily captured at different resolution settings: 16MP, 5MP and 3MP. The shutter speed can be adjusted to 10fps in burst mode whereas it serves finer results with time lapse mode providing clicks at 60, 30, 10 and 5 second speed.
-6. **App and Wi-Fi:**  
- Polaroid XS-100i is a Wi-Fi enabled device so it can be easily controlled from remote location with dedicated smartphone application. As this device lacks in display so you can enjoy easy previews from smart phone screen so that camera can be mounted at right angles. This application also provides easy controls to device settings. When you connect your camera to computer with the help of USB connectivity then it automatically loads a software to your computer for easy file sharing.
-
-## Recommend best video editing software for action camera users
-
- If you want to take your video content to the next level with some video editing without being completely overwhelmed, you will definitely want to give Wondershare Filmora (originally Wondershare Video Editor) a try. The software offers a free trial period which allows you to try before buy. Well-designed intuitive interface enables anyone to master the program within minutes.
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-7. **Battery and Memory:**  
- This action camera comes with built in 120mAh battery so it cannot be removed and replaced with other. But the battery life is comparatively good as it can serve up to 2.5 hours. But remember that too avail this long hour assistance you need to keep your Wi-Fi switched off. The best part is that USB charging option is included so that you can recharge your camera to make it ready for the next shoot.  
- On backside of this camera you will find slots of MicroSD card, Mini USB and for Mini HDMI connection. These slots are well protected from water by a lockable cover. The maximum allowed storage capacity goes up to 32GB that is pretty good for Full HD recording. You need to use camcorder media type flash card with this device.
-**Conclusion:**
-
- If we consider the low price fact of Polaroid XS-100i then we must say that lost of features are embedded inside this affordable unit. The full HD setting will provide your crisp results if you are recording in good light conditions. The image orientation can be automatically corrected. As this device is waterproof and shockproof so it can serve with finer details to all adventure sports lovers. As the price tag is low enough so you are definitely going to spend less for such a impressive combination of features.
-
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -362,3 +394,56 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-mp3-conversion-from-youtube-for-mac-users/"><u>[New] 2024 Approved  Effortless MP3 Conversion From YouTube for Mac Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-expert-analysis-vita-video-editor-full-insight/"><u>[New] 2024 Approved  Expert Analysis  Vita Video Editor - Full Insight</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-invest-in-your-health-these-10-best-yoga-streams-exist/"><u>[New] 2024 Approved  Invest in Your Health - These 10 Best Yoga Streams Exist</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-list-of-ios-solutions-to-play-your-favorite-psp-games/"><u>[New] 2024 Approved  The Ultimate List of iOS Solutions to Play Your Favorite PSP Games</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-ultimate-tiktok-playbook-driving-view-growth-and-engagement/"><u>[New] The Ultimate TikTok Playbook  Driving View Growth and Engagement</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-elevate-video-popularity-with-smart-thumbnails/"><u>[Updated] Elevate Video Popularity with Smart Thumbnails</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-photoshop-techniques-for-dynamic-realistic-text/"><u>2024 Approved  Photoshop Techniques for Dynamic, Realistic Text</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-picking-a-champion-in-video-software-vlcmx/"><u>2024 Approved  Picking a Champion in Video Software  VLC/MX</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-iphone-12-pro-max-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on iPhone 12 Pro Max</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-visual-journey-mastering-the-art-of-incorporating-text-into-images-on-pcmacos/"><u>A Visual Journey  Mastering the Art of Incorporating Text Into Images on PC/MacOS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/achieving-realistic-blur-on-images-using-photoshop-techniques/"><u>Achieving Realistic Blur on Images Using Photoshop Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/an-insiders-view-on-creating-effective-slug-lines/"><u>An Insider's View on Creating Effective Slug Lines</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/androids-lightroom-app-a-complete-evaluation/"><u>Android's Lightroom App  A Complete Evaluation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/basic-techniques-transforming-fishy-chatter-in-the-win-world/"><u>Basic Techniques  Transforming Fishy Chatter in the Win World</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boosting-visual-and-auditory-composition-with-custom-filters-and-melodies-windows-10-photos/"><u>Boosting Visual & Auditory Composition with Custom Filters & Melodies (Windows 10 Photos)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bring-your-photos-to-life-adding-radial-focus-effects-ps/"><u>Bring Your Photos to Life  Adding Radial Focus Effects PS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bsplayer-9-pro-top-choice-for-streaming/"><u>BSPlayer 9 Pro  Top Choice for Streaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/camera-kings-picks-selecting-the-very-best-6-4k-dslrs/"><u>Camera Kings' Picks  Selecting the Very Best 6 4K DSLRs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chime-chronicles-mastering-the-art-of-tamil-ringtones/"><u>Chime Chronicles  Mastering the Art of Tamil Ringtones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/closer-conversations-mastering-in-camera-precision/"><u>Closer Conversations  Mastering In-Camera Precision</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-techniques-for-iphones-in-virtual-space/"><u>Comprehensive Techniques for iPhones in Virtual Space</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-the-ideal-playlist-video-integration-on-youtube-platform/"><u>Crafting the Ideal Playlist  Video Integration on YouTube Platform</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/critically-acclaimed-top-8-oculus-rift-games/"><u>Critically Acclaimed  Top 8 Oculus Rift Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/effortless-mpeg-creation-from-youtube-content/"><u>Effortless MPEG Creation From YouTube Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-guide-to-creating-stunning-timelapses-using-gopro-software/"><u>Essential Guide to Creating Stunning Timelapses Using GoPro Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-steps-for-viewing-favorited-and-liked-youtube-interactions/"><u>Essential Steps for Viewing Favorited and Liked YouTube Interactions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-tactics-in-creating-convincing-testimonial-content/"><u>Essential Tactics in Creating Convincing Testimonial Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/examining-ffmpegs-commitment-to-authentic-audio-formats/"><u>Examining FFmpeg’s Commitment to Authentic Audio Formats</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/excellent-8-tripods-ideal-for-4k-camera-shooting/"><u>Excellent 8 Tripods Ideal for 4K Camera Shooting</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-collaborative-designs-the-best-free-and-paid-apps-in-videomosaic/"><u>Exploring Collaborative Designs  The Best Free & Paid Apps in Videomosaic</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/flight-in-the-smallest-form-a-compreenasive-look-at-dji-sparks-miniature-wonders/"><u>Flight in the Smallest Form  A Compreenasive Look at DJI Spark's Miniature Wonders</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-snapchat-to-youtube-uploading-pics/"><u>From Snapchat to YouTube  Uploading Pics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gopro-max-versus-hero-11-ultimate-review-guide/"><u>GoPro Max Versus Hero 11  Ultimate Review Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/grasping-periscope-is-it-free-registeration-process-explained/"><u>Grasping Periscope  Is It Free? Registeration Process Explained</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-use-windows-movie-maker-to-make-animation/"><u>How to Use Windows Movie Maker to Make Animation</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/image-editing-essentials-the-ultimate-guide-to-embedding-text-on-windows-and-macs/"><u>Image Editing Essentials  The Ultimate Guide to Embedding Text on Windows & Macs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-realme-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Realme</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-unleash-creativity-top-lightweight-video-editing-software-for-professionals/"><u>In 2024, Unleash Creativity Top Lightweight Video Editing Software for Professionals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/intellectual-arena-premier-knowledge-games/"><u>Intellectual Arena - Premier Knowledge Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/iview-harmony-ios-and-macos-slideshow-tool/"><u>IView Harmony  IOS & macOS Slideshow Tool</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/lifecast-your-show-a-basic-podcast-streaming-strategy/"><u>Lifecast Your Show  A Basic Podcast Streaming Strategy</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-your-message-memes-on-kapwing-pro/"><u>Master Your Message  Memes on Kapwing Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-close-up-shots-zooming-into-action-films/"><u>Mastering Close-Up Shots  Zooming Into Action Films</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-discretion-in-digital-artistry/"><u>Mastering Discretion in Digital Artistry</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastermakers-in-av-production-top-5-list/"><u>Mastermakers in AV Production  Top 5 List</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-audacity-crossfading-process-for-2024/"><u>Step-by-Step Audacity Crossfading Process for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-crafting-cohesive-soundscape-detailed-walkthrough-of-audio-normalization-in-davinci-resolve/"><u>Updated Crafting Cohesive Soundscape Detailed Walkthrough of Audio Normalization in DaVinci Resolve</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-the-best-voice-changer-for-youtubers-in-2024/"><u>What’s the Best Voice Changer for YouTubers, In 2024</u></a></li>
+</ul></div>

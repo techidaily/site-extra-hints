@@ -1,7 +1,7 @@
 ---
 title: "\"'Laughter Legends'  Reviewing Goofy in the VHS Era\""
-date: 2024-06-18T19:44:01.777Z
-updated: 2024-06-19T19:44:01.777Z
+date: 2024-07-22T13:27:24.043Z
+updated: 2024-07-23T13:27:24.043Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,18 @@ Simply add video effects on Video with [Filmora Video Effect Editor](https://too
 
 [Apply VHS Effect](https://tools.techidaily.com/wondershare/filmora/download/) [Apply VHS Effect](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -80,6 +92,9 @@ Such tapes became a valuable resource for film education and study. Film schools
 
 [Add VHS Effect](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -90,12 +105,18 @@ If you don't feel like applying in-built overlays from the 100+ collection of [V
 
 Launch Wondershare Filmora and open the “Stock Media” tab. Locate “Solid Colors” in the “Filmstock” section and drag the black image onto your project timeline. Adjust its duration as needed, and then open the "Effects" tab and type "VHS" in the search box. Choose the "VHS Distortion Bad" effect and drag it onto the timeline. Set the alpha value to 25 and press "OK." Proceed next to open the "Effects" tab and select the "VHS Distortion" effect. Place it on the previous layer and adjust its value to 35.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![add distortion effect and adjust](https://images.wondershare.com/filmora/article-images/2023/add-distortion-effect-and-adjust.jpg)
 
 ##### Step 2Add the VHS Rewind and Glitch Effect
 
 Drag and drop the "VHS Rewind" effect from the same tab onto the timeline. Further, place the effect over the previous layer and change its alpha value to 10\. Next, place the "Strong Glitch" effect over the previous layer, adjust its alpha value to 25, and click "OK."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add rewind and glitch](https://images.wondershare.com/filmora/article-images/2023/add-rewind-and-glitch.jpg)
 
 ##### Step 3Apply the Chromatic Aberration and VCR Distortion Effect
@@ -114,6 +135,9 @@ Proceed to drag and drop the "Glitch Distortion" effect and place it over the pr
 
 After finishing your editing, click on the Export button and export your video with the VHS effect to your desired format. By following these steps in Wondershare Filmora, you can easily add **an extreme Goofy movie VHS effect** to your video.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![export entire vhs preset](https://images.wondershare.com/filmora/article-images/2023/export-entire-vhs-preset.jpg)
 
 ## Conclusion
@@ -122,10 +146,16 @@ In conclusion, The Goofy Movie holds a special place in the hearts of 90s kids. 
 
 [Apply VHS Effect](https://tools.techidaily.com/wondershare/filmora/download/) [Apply VHS Effect](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![Wondershare Filmora 12](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 ## Part 2: How Was VHS Technology Used in Old Movies?
@@ -164,6 +194,23 @@ Such tapes became a valuable resource for film education and study. Film schools
 
 [Add VHS Effect](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 [![iOS](https://images.wondershare.com/assets/images-common/badges-apple.svg)](https://app.adjust.com/w06dr6m%5F19za1f6) [![Android](https://images.wondershare.com/assets/images-common/badges-google.svg)](https://app.adjust.com/w06dr6m%5F19za1f6)
 
 [Try It Free >>](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -174,12 +221,20 @@ If you don't feel like applying in-built overlays from the 100+ collection of [V
 
 Launch Wondershare Filmora and open the “Stock Media” tab. Locate “Solid Colors” in the “Filmstock” section and drag the black image onto your project timeline. Adjust its duration as needed, and then open the "Effects" tab and type "VHS" in the search box. Choose the "VHS Distortion Bad" effect and drag it onto the timeline. Set the alpha value to 25 and press "OK." Proceed next to open the "Effects" tab and select the "VHS Distortion" effect. Place it on the previous layer and adjust its value to 35.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add distortion effect and adjust](https://images.wondershare.com/filmora/article-images/2023/add-distortion-effect-and-adjust.jpg)
 
 ##### Step 2Add the VHS Rewind and Glitch Effect
 
 Drag and drop the "VHS Rewind" effect from the same tab onto the timeline. Further, place the effect over the previous layer and change its alpha value to 10\. Next, place the "Strong Glitch" effect over the previous layer, adjust its alpha value to 25, and click "OK."
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![add rewind and glitch](https://images.wondershare.com/filmora/article-images/2023/add-rewind-and-glitch.jpg)
 
 ##### Step 3Apply the Chromatic Aberration and VCR Distortion Effect
@@ -192,6 +247,9 @@ Continue to drag and place the "Chromatic Aberration" effect over the previous l
 
 Proceed to drag and drop the "Glitch Distortion" effect and place it over the previous layer. Also, adjust the alpha value of the effect to 30\. Continue to drag and drop the "Distort" effect to the timeline, and repeat the same process. However, set the following parameters Amplitude to 15, Frequency to 17, and “Opacity” to 0.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![add glitch distortion to preset](https://images.wondershare.com/filmora/article-images/2023/add-glitch-distortion-to-preset.jpg)
 
 ##### Step 5Export Your Edited Video
@@ -228,3 +286,48 @@ In conclusion, The Goofy Movie holds a special place in the hearts of 90s kids. 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-easily-downgrade-system-sound-on-macwindows-devices/"><u>[New] 2024 Approved  Easily Downgrade System Sound on Mac/Windows Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-integrating-video-content-bringing-youtube-into-powerpoint/"><u>[New] 2024 Approved  Integrating Video Content  Bringing YouTube Into PowerPoint</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-cross-media-content-flow-from-youtube-to-thirtyplus-others-for-2024/"><u>[Updated] Cross-Media Content Flow From YouTube to Thirty+ Others for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-scene-selection-mastery-livestreams/"><u>[Updated] In 2024, Scene Selection Mastery Livestreams</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-ultimate-list-of-best-most-affordable-recorders/"><u>[Updated] In 2024, The Ultimate List of Best, Most Affordable Recorders</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-discovering-and-demystifying-tiktoks-pfp-symbol/"><u>2024 Approved  Discovering and Demystifying TikTok's PFP Symbol</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/bite-size-broadcasting-battle-which-platform-dominates-in-shorter-videos/"><u>Bite-Size Broadcasting Battle  Which Platform Dominates in Shorter Videos?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cinematic-lighting-5-must-haves-for-streams/"><u>Cinematic Lighting  5 Must-Haves for Streams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/clipcrafter-window-edition/"><u>ClipCrafter Window Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensively-tackling-the-sony-fdr-x1000-action-gear/"><u>Comprehensively Tackling the Sony FDR-X1000 Action Gear</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/converting-spoken-words-to-text-in-powerpoint/"><u>Converting Spoken Words to Text in PowerPoint</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-cinematic-projects-utilizing-movie-maker-on-windows-8-pcs/"><u>Crafting Cinematic Projects  Utilizing Movie Maker on Windows 8 PCs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-visual-narratives-with-the-leading-frames/"><u>Crafting Visual Narratives with the Leading Frames</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dazzling-display-guide-for-android-videos/"><u>Dazzling Display Guide for Android Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/deciphering-the-process-of-bulk-downloads-from-tiktoks-treasure-trove/"><u>Deciphering the Process of Bulk Downloads From TikTok's Treasure Trove</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/detailed-insight-the-functionality-of-google-podcast-app/"><u>Detailed Insight  The Functionality of Google Podcast App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-the-quintessence-of-five-superior-slow-cams/"><u>Discovering the Quintessence of Five Superior Slow Cams</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/dissecting-workplace-messaging-apps-which-one-triumphs-slack-or-discord/"><u>Dissecting Workplace Messaging Apps  Which One Triumphs, Slack or Discord?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/distort-image-distance-worry-photo-editing-trick/"><u>Distort Image, Distance Worry  Photo Editing Trick</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/diy-collage-hacks-for-your-iphones-photo-gallery/"><u>DIY Collage Hacks for Your iPhone's Photo Gallery</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dynamic-contrasts-and-curved-edges-in-ps/"><u>Dynamic Contrasts and Curved Edges in PS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/effortless-audio-dimming-in-garageband-pro/"><u>Effortless Audio Dimming in Garageband Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevating-your-films-impact-with-additional-camera-work/"><u>Elevating Your Film's Impact with Additional Camera Work</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/engaging-content-the-ultimate-6-video-strategies/"><u>Engaging Content  The Ultimate 6 Video Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhance-visual-magnification-without-quality-loss/"><u>Enhance Visual Magnification without Quality Loss</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ensure-clarity-leading-downloader-software-for-youtubers/"><u>Ensure Clarity  Leading Downloader Software for YouTubers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/episode-excellence-optimal-launch-windows/"><u>Episode Excellence  Optimal Launch Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-free-windowsmac-video-players-ranked/"><u>Essential Free Windows/Mac Video Players Ranked</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-links-purchasing-youtube-tones-online/"><u>Essential Links  Purchasing YouTube Tones Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exclusive-list-of-premium-sound-recording-mics/"><u>Exclusive List of Premium Sound Recording Mics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exclusive-streaming-access-12-top-video-content-hours/"><u>Exclusive Streaming  Access 12 Top Video Content Hours</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-choices-best-vr-for-drones/"><u>Expert Choices  Best VR for Drones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-tips-on-blending-real-and-digital-environments-in-webcasts/"><u>Expert Tips on Blending Real and Digital Environments in Webcasts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-15-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 15 Pro | Stellar</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-heartfelt-cinematic-experiences-for-hopeful-hearts/"><u>In 2024, Heartfelt Cinematic Experiences for Hopeful Hearts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/nurturing-nature-in-valheim-top-seed-selection-tips/"><u>Nurturing Nature in Valheim  Top Seed Selection Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/phantom-3-face-off-apparition-4-unveiled/"><u>Phantom 3 Face-Off  Apparition 4 Unveiled</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-faster-file-transfers-with-utorrent-on-win-computers/"><u>Unlock Faster File Transfers with uTorrent on Win Computers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-the-magic-advanced-techniques-for-tiktok-videos-for-2024/"><u>Unlocking the Magic  Advanced Techniques for TikTok Videos for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-edit-videos-for-free-top-online-tools-and-software/"><u>Updated In 2024, Edit Videos for Free Top Online Tools and Software</u></a></li>
+</ul></div>

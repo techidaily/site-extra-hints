@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Apparition Camera Control Workshop"
-date: 2024-05-24T00:49:10.022Z
-updated: 2024-05-25T00:49:10.022Z
+date: 2024-07-22T10:57:26.407Z
+updated: 2024-07-23T10:57:26.407Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes In 2024, Apparition Camera Control Workshop"
 excerpt: "This Article Describes In 2024, Apparition Camera Control Workshop"
 keywords: "Phantom Cams Tutorial,GhostCam Control Workshop,Apparition Cam Tech Demo,Camera Spooky Control,Ghost Capture Guidance,Haunted Cam Workshop,Phantom Cams Training"
-thumbnail: https://www.lifewire.com/thmb/R2-79pKHffK3lHKoJbFyAk1CcLE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-642294667-5c8acc8146e0fb000177001f.jpg
+thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3884a2078035ea55eb60772c.jpg
 ---
 
 ## Apparition Camera Control Workshop
@@ -29,6 +29,9 @@ The use of a phantom super slow-motion camera has numerous benefits for both fil
 
 * [How to edit time-lapse video on a computer](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Use Phantom Slow Motion Camera
 
 Slow-motion recordings are very popular in today's society. This is because people can see and appreciate the world around them. People are also able to show off their skills in a new light. The Phantom camera is a great way to capture slow-motion recordings. There are many different ways to use the Phantom camera, but here are some tips on how to get started.
@@ -47,6 +50,9 @@ The camera will then capture the movement in slow motion, allowing you to see th
 
 ![shoot video with phantom camera](https://images.wondershare.com/filmora/article-images/2022/11/shoot-video-with-phantom-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Why do we need a phantom slow-motion camera?
 
 There are many reasons why someone might want or need to use a phantom slow-motion camera. For example, law enforcement officials can use them to capture footage of high-speed car chases or accidents. Scientists can use them to study fast-moving objects or phenomena. And sports enthusiasts can use them to study the movements of athletes and improve their performance.
@@ -102,12 +108,19 @@ You can easily install Filmora for free, after installing click on it three opti
 
 After creating a new project, there is an option to add media you can your the video which you want to edit.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![add media to library on filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-media-to-library-on-filmora.jpg)
 
 ##### Step3 Drop the media to timeline
 
 Drag and drop your videos on the timeline to start the editing. Once you placed your videos on timelines put the video header at the front.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag media into timeline filmora](https://images.wondershare.com/filmora/article-images/2022/11/drag-media-into-timeline-filmora.jpg)
 
 ##### Step4 Add titles, effects, and transitions to your video
@@ -158,6 +171,9 @@ Phantom cameras are the newest type of camera on the market that can capture slo
 
 One of the most popular ways to use a phantom slow-motion camera is to capture beautiful slow-motion footage of nature. This can be done by setting up the camera in a location where there is a lot of natural movement. The camera will then capture the movement in slow motion, allowing you to see the beauty of the movement that would otherwise be missed.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to create a time-lapse video on a phantom slow-motion camera
 
 A phantom slow-motion camera is a special type of camera that can be used to create time-lapse videos. Time-lapse videos are created by taking a series of photos or videos over a while and then playing them back at a faster speed. This gives the appearance of time moving faster or slower than it is. To create a time-lapse video using a phantom slow-motion camera, you will need the following:
@@ -171,6 +187,18 @@ Once you have all of the necessary equipment, you will need to set up your camer
 
 Depending on the length of the video you want to create, you may need to take thousands of pictures. Once you have all of the pictures, you will need to use a time-lapse video editing software to put them all together.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to edit time-lapse video on a computer
 
 If you've ever been to a nature preserve, you know that the best way to see it is with your own eyes. But what if you don't have time to go out and look at the wildlife? What if you're stuck in traffic or at work? What if there's a storm? Or what if it's dark out and you can't see anything?
@@ -199,6 +227,9 @@ In addition to being able to edit videos quickly and easily, Filmora also offers
 
 You can easily install Filmora for free, after installing click on it three options will appear but you have to select the first one which is Create a new project.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![open filmora and create a new project](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
 ##### Step2 Add some media to edit
@@ -211,18 +242,32 @@ After creating a new project, there is an option to add media you can your the v
 
 Drag and drop your videos on the timeline to start the editing. Once you placed your videos on timelines put the video header at the front.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![drag media into timeline filmora](https://images.wondershare.com/filmora/article-images/2022/11/drag-media-into-timeline-filmora.jpg)
 
 ##### Step4 Add titles, effects, and transitions to your video
 
 Filmora provides several titles, effects, and transitions. You can add them according to your needs. If you want to make a time-lapse video then you can copy your video and paste it on the end of the first video, so that you can make a time-lapse video. But if you add the dissolve transition between them then your video will become so smooth.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![add title and effects to video filmora](https://images.wondershare.com/filmora/article-images/2022/11/add-title-and-effects-to-video-filmora.jpg)
 
 ##### Step5 Export to your desktop
 
 When you want to save your video or share it on social media just click on the export button. It will provide you with different features like you can export your video on a desktop or where ever you want. You can export it in HD form.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![export to your desktop](https://images.wondershare.com/filmora/guide/overview-export-win-3.png)
 
 ## Conclusion
@@ -259,3 +304,68 @@ As filmmakers and video lovers, we have come up with some solid examples of time
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-simple-steps-for-looped-iphone-videos/"><u>[New] In 2024, Simple Steps for Looped iPhone Videos</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-jujutsu-kaisens-tiktok-fan-filled-fun/"><u>[Updated] 2024 Approved  Jujutsu Kaisen's TikTok  Fan-Filled Fun</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-enhancing-video-quality-with-right-lighting-for-2024/"><u>[Updated] Enhancing Video Quality with Right Lighting for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-delving-into-youtubes-digital-video-workshop/"><u>[Updated] In 2024, Delving Into YouTube's Digital Video Workshop</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-enhancing-social-media-presence-with-professional-slideshow-making/"><u>[Updated] In 2024, Enhancing Social Media Presence with Professional Slideshow Making</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-art-of-anticipation-elevating-the-unboxing-experience/"><u>[Updated] The Art of Anticipation  Elevating the Unboxing Experience</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-tecno-spark-20-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-capturing-your-laptop-simple-lenovo-steps/"><u>2024 Approved  Capturing Your Laptop  Simple Lenovo Steps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-oneplus-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/5-prime-fb-video-extractor-guide/"><u>5 Prime FB Video Extractor Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-concept-to-completion-utilizing-luts-effectively-in-premiere-pro/"><u>From Concept to Completion  Utilizing LUTs Effectively in Premiere Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-concepts-to-shares-your-guide-to-metaverse-meme-creation/"><u>From Concepts to Shares  Your Guide to Metaverse Meme Creation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-flat-to-framed-achieving-realistic-text-effects-in-photoshop/"><u>From Flat to Framed  Achieving Realistic Text Effects in Photoshop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/full-rotation-video-gear-for-social-media-broadcasts/"><u>Full Rotation Video Gear for Social Media Broadcasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gently-lower-sound-amplitude-tutorial/"><u>Gently Lower Sound Amplitude Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/guardianship-against-oculus-induced-discomfort/"><u>Guardianship Against Oculus-Induced Discomfort</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Tecno Pova 5? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-take-portrait-photo-with-old-iphone-x8-plus7-plus/"><u>How to Take Portrait Photo with Old iPhone X/8 Plus/7 Plus</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-samsung-galaxy-m14-4g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Samsung Galaxy M14 4G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/humor-hub-iphones-galore/"><u>Humor Hub  IPhones Galore</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-cutting-edge-or-just-another-app-discover-vida-inside-out/"><u>In 2024, Cutting Edge or Just Another App? Discover Vida Inside Out</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-digital-diaries-of-a-mini-guy-top-6-techniques-for-recording-games/"><u>In 2024, Digital Diaries of a Mini-Guy  Top 6 Techniques for Recording Games</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-and-fabulous-the-5-best-online-tone-generators-out-there/"><u>In 2024, Free and Fabulous The 5 Best Online Tone Generators Out There</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-from-novice-to-pro-expert-advice-on-youtube-to-mp3-conversion/"><u>In 2024, From Novice to Pro Expert Advice on YouTube to MP3 Conversion</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-motorola-edge-40-neo-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Motorola Edge 40 Neo without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-depth-analysis-of-googles-voice-to-text-capabilities/"><u>In-Depth Analysis of Google's Voice-to-Text Capabilities</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-techniques-in-picking-the-best-fpv-drone-propellers/"><u>Innovative Techniques in Picking the Best FPV Drone Propellers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/iphone-guide-engage-with-audio-content-seamlessly/"><u>IPhone Guide  Engage with Audio Content Seamlessly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ipodcast-exploration-techniques-with-the-iphone/"><u>IPodcast Exploration Techniques with the iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/key-methods-to-customize-song-speed-on-spotify/"><u>Key Methods to Customize Song Speed on Spotify</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-android-and-ios-timer-tools-reviewed-your-big-day-planners-must-haves/"><u>Leading Android & iOS Timer Tools Reviewed  Your Big Day Planner's Must-Haves</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-videography-programs-using-pictures-as-content/"><u>Leading Videography Programs Using Pictures as Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/makeup-trends-to-try-now/"><u>Makeup Trends to Try Now</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-microscopic-views-in-teams/"><u>Mastering the Microscopic Views in Teams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-vlc-mp4-and-various-format-conversion-techniques/"><u>Mastering VLC  MP4 & Various Format Conversion Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mixed-reality-blending-physical-and-virtual-worlds/"><u>Mixed Reality  Blending Physical and Virtual Worlds</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/no-fee-all-the-music-top-10-sites-for-coprwyfree-soundtracks/"><u>No Fee, All the Music  Top 10 Sites for Coprwyfree Soundtracks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pazeras-2024-audio-liberation-a-review-of-freedom-in-music/"><u>Pazera's 2024 Audio Liberation  A Review of Freedom in Music</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/photographers-choice-top-10-watermarks-software/"><u>Photographer's Choice  Top 10 Watermarks Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/photoshop-curves-decoded-a-beginners-guide/"><u>Photoshop Curves Decoded  A Beginner's Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/precision-workflow-tackling-backdrops-in-affinity-photo-to-perfection-for-2024/"><u>Precision Workflow  Tackling Backdrops in Affinity Photo to Perfection for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premier-17-software-selections-for-background-extraction/"><u>Premier 17 Software Selections for Background Extraction</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premier-transcription-tools-for-silent-input/"><u>Premier Transcription Tools for Silent Input</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-video-cameras-the-leading-list-2024-edition/"><u>Prime Video Cameras  The Leading List, 2024 Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/produce-playful-photoshopped-gifs-via-giphy/"><u>Produce Playful Photoshopped Gifs via Giphy</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/professionals-picks-best-10-no-price-cross-platform-photo-editing-software/"><u>Professionals' Picks  Best 10 No-Price, Cross-Platform Photo Editing Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionizing-workouts-the-best-vr-treadmill-choices/"><u>Revolutionizing Workouts  The Best VR Treadmill Choices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/secure-your-files-at-no-cost-the-best-free-1tbplus-cloud-storages/"><u>Secure Your Files at No Cost  The Best Free 1TB+ Cloud Storages</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/shed-price-chains-with-free-video-player-pcmac/"><u>Shed Price Chains with Free VIDEO Player (PC/Mac)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/simplified-techniques-for-correcting-profile-ages/"><u>Simplified Techniques for Correcting Profile Ages</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/skillful-tactics-for-procuring-image-archives/"><u>Skillful Tactics for Procuring Image Archives</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/smiles-in-screens-make-with-kapwing/"><u>Smiles in Screens  Make with Kapwing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/supercharge-your-yi-4k-videos-with-pro-gear/"><u>Supercharge Your YI 4K Videos with Pro Gear</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-apple-iphone-14-pro-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From Apple iPhone 14 Pro You Should Try Out</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-ultimate-guide-to-splitting-music-tracks-with-precision-for-2024/"><u>The Ultimate Guide to Splitting Music Tracks with Precision for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-demystifying-rap-breaking-down-genres-subgenres-and-iconic-moments/"><u>Updated In 2024, Demystifying Rap Breaking Down Genres, Subgenres, and Iconic Moments</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/wave-riders-picks-premium-action-cameras-2023/"><u>Wave Riders’ Picks  Premium Action Cameras 2023</u></a></li>
+<li><a href="https://facebook.techidaily.com/when-to-flip-the-friend-switch-on-facebook-insights-and-strategies/"><u>When to Flip the Friend Switch on Facebook: Insights and Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-a-detailed-settings-app-tour/"><u>Windows 11: A Detailed Settings App Tour</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Advanced Audio Softening Techniques for the Proficient User on Lumafusion"
-date: 2024-05-24T00:14:13.280Z
-updated: 2024-05-25T00:14:13.280Z
+date: 2024-07-22T09:42:19.943Z
+updated: 2024-07-23T09:42:19.943Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes [Updated] Advanced Audio Softening Techniques for the Proficient User on Lumafusion"
 excerpt: "This Article Describes [Updated] Advanced Audio Softening Techniques for the Proficient User on Lumafusion"
 keywords: "\"Advanced Audio Ease,Lumafusion Soundtech,Profi Audio Adjust,Lumafusion Audiotune,Soften Tech for Pros,Lumafusion AudioSoft,User-Friendly Audio\""
-thumbnail: https://www.lifewire.com/thmb/jjyTXsCeDSZStKW6OS6wwpHCcLo=/540x405/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1249645232-9755e2057d9b44a089bc7086603d8f4c.jpg
+thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc1c73b73894ec43a1b1c5c03.jpg
 ---
 
 ## Advanced Audio Softening Techniques for the Proficient User on Lumafusion
@@ -22,6 +22,9 @@ LumaFusion, a mobile video editing powerhouse with an intuitive LumaFusion music
 
 Video editors should give LumaFusion a try if they want to use its compact LumaFusion fade audio editing feature. And before diving in head first with more sophisticated tools, novices who wish to learn how to edit video should give it considerable consideration. From the iOS camera roll, a cloud service like Dropbox or Google Device, or a USB drive linked to an iPhone or iPad, you may edit images and videos in addition to editing fade out audio LumaFusion. Learn more about the process here.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## Part 1\. How to Fade Audio with LumaFusion
 
 There are several capabilities in Luma Fusion that make precise editing possible, including ones that we haven't seen in other mobile editing tools, such keyframing for all effects. Beginning filmmakers may use LumaFusion to discover their voice via editing. Their work may be moved to a desktop software after their abilities have grown on mobile. To start fading audio using Luma Fusion, follow these steps:
@@ -32,10 +35,16 @@ Step1 LumaFusion's default structure is comparable to that of many desktops edit
 
 Step2 LumaFusion allows for the automated synchronization of up to 12 camera sources and several audio tracks. When a clip is loaded into LumaFusion, touch on it to open it in the viewer and then adjust the start and finish points.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![edit sources luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/edit-sources-luma-fusion.jpg)
 
 Step3 From the choices, choose the Cross Dissolve (Fade) transition. The transition should be placed at the very end of your music channel timeline. Tap on the Help & Settings menu to do this action. Look for Transition under the Settings menu and edit it to the appropriate duration. If you do this, your transition won't take effect until you add it again.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![fade audio in luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/fade-audio-in-luma-fusion.jpg)
 
 Beyond simple editing, LumaFusion excels in enhancing projects with a wide variety of built-in effects, transitions, titles, and color correction. It also has a limited (but excellent) collection of royalty-free music. Finally, LumaFusion Project Packages are a terrific solution to regularly backup a project for security or to complete altering it. After choosing Export, choose the Project Package from the list.
@@ -76,6 +85,9 @@ In that window, you can select the MP3 format in the format customization box to
 
 ## Part 3\. Related FAQs about LumaFusion
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
@@ -84,6 +96,9 @@ Go to Clip Defaults to do that. You may change the Title and Transition lengths 
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### 3\. How to you split audio and video in LumaFusion?
 
 Within the timeline, tap anywhere and move the mouse left or right to divide a clip in half. The audio from your clip may then be separated in the timeline. To do so, choose the audio channel and then click the pencil-shaped edit button at the bottom of the screen. This will display a variety of choices, including tools for pan, distortion, and volume. The audio editing features in LumaFusion are virtually as spectacular as the visual options—and just as intimidating.
@@ -100,12 +115,18 @@ Now that you've downloaded the software's executable file, the next step is to i
 
 Drag and drop your sound recordings from the media library to the timeline at the bottom of the program when they have been successfully imported. You may now see your audio files inside the timeline, where you can easily crop the video or reduce the audio of the relevant audio file. You may utilize basic to sophisticated editing techniques inside the program. To choose the basic editor, just click on the video file within the timeline as shown below:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 ##### Step3 Apply Fade Effects
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 ##### Step4 Share and export
@@ -116,6 +137,10 @@ In that window, you can select the MP3 format in the format customization box to
 
 ## Part 3\. Related FAQs about LumaFusion
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
@@ -152,3 +177,61 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-optimize-media-storage-tips-and-tricks-for-mov-on-windows-pcs/"><u>[New] 2024 Approved  Optimize Media Storage  Tips & Tricks for .mov on Windows PCs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-action-spectacular-the-full-t5-camera-review/"><u>[New] Action Spectacular  The Full T5 Camera Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-advanced-android-photography-essentials/"><u>[New] Advanced Android Photography Essentials</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-airborne-vigils-the-most-durable-drone-fleet/"><u>[New] Airborne Vigils  The Most Durable Drone Fleet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-all-encompassing-review-djis-inspire-1-drone/"><u>[New] All-Encompassing Review  DJI's Inspire 1 Drone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-audio-excellence-with-windows-11-a-beginner-written-by-your-name/"><u>[New] Audio Excellence with Windows 11  A Beginner' Written by [Your Name]</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-budget-asmr-mic-stellar-sound-value/"><u>[New] Best Budget ASMR Mic  Stellar Sound Value</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-download-hassle-free-video-closures-here/"><u>[New] Exclusive  Download Hassle-Free Video Closures Here</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-gameplay-chronicles-proven-techniques-for-recording-your-sims-epic-saga-in-sims-4/"><u>[New] In 2024, Gameplay Chronicles  Proven Techniques for Recording Your Sim's Epic Saga in Sims 4</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-vlc-tips-revealing-unknown-features/"><u>[New] Master VLC Tips  Revealing Unknown Features</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-resetting-your-youtube-reputation/"><u>[New] Resetting Your YouTube Reputation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-sony-bdp-s3700-review/"><u>[New] Sony BDP- S3700 Review</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-top-7-free-apps-for-tiktok-creations-on-macos-devices-for-2024/"><u>[New] Top 7 Free Apps for TikTok Creations on MacOS Devices for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-2023s-best-free-dvd-players-for-windowsmac-pcs/"><u>[Updated] 2023'S Best Free DVD Players for Windows/Mac PCs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-insiders-guide-to-professional-vsco-usage/"><u>[Updated] 2024 Approved  The Insider's Guide to Professional VSCO Usage</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-professionals-primer-to-perfecting-picture-colors/"><u>[Updated] A Professional's Primer to Perfecting Picture Colors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-action-filming-elevated-in-depth-review-of-sj-cam-s6/"><u>[Updated] Action Filming Elevated  In-Depth Review of SJ-CAM S6</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-assessing-the-capabilities-of-yuneecs-typhoon-h-drone/"><u>[Updated] Assessing the Capabilities of Yuneec's Typhoon H Drone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-audio-enhancement-strategies-using-premiere-pro/"><u>[Updated] Audio Enhancement Strategies Using Premiere Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-behind-the-scenes-of-successful-onestream-livestreams/"><u>[Updated] Behind-the-Scenes of Successful OneStream Livestreams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-gopro-video-processing-apps/"><u>[Updated] Best GoPro Video Processing Apps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-how-to-add-stickers-to-instagram-story-and-post-in-2024/"><u>[Updated] How to Add Stickers to Instagram Story and Post, In 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-path-to-picsart-proficiency/"><u>[Updated] The Ultimate Path to PicsArt Proficiency</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-complete-overview-of-polarr-photo-editor/"><u>2024 Approved  A Complete Overview of Polarr Photo Editor</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-ai-driven-naming-tools-for-dynamic-podcast-titles/"><u>2024 Approved  AI-Driven Naming Tools for Dynamic Podcast Titles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-all-you-need-to-know-mastering-adobe-and-beyond-storage/"><u>2024 Approved  All You Need to Know  Mastering Adobe and Beyond Storage</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-audio-alchemy-excellent-picks-for-skype-ringtone-downloads/"><u>2024 Approved  Audio Alchemy  Excellent Picks for Skype Ringtone Downloads</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-celebrating-creators-top-notch-otu-designs/"><u>2024 Approved  Celebrating Creators  Top-Notch OTU Designs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-high-ranked-choices-ideal-online-spots-for-grab-snapchat-ringtone/"><u>2024 Approved  High-Ranked Choices  Ideal Online Spots for Grab Snapchat Ringtone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/behind-the-curtain-top-10-hidden-features-of-vlc-player-for-2024/"><u>Behind the Curtain  Top 10 Hidden Features of VLC Player for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-practices-for-reading-youtube-comments-for-2024/"><u>Best Practices for Reading YouTube Comments for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-real-time-stage-performances-for-2024/"><u>Best Real-Time Stage Performances for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-seconds-at-a-time-the-art-of-phantom-slow-motion/"><u>Capturing Seconds at a Time  The Art of Phantom Slow Motion</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-download-whatsapp-ringtone-and-customize-it-on-ios-and-android/"><u>How To Download WhatsApp Ringtone And Customize It On iOS And Android</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-guide-to-fine-tuning-your-google-meet-experience/"><u>In 2024, A Guide to Fine-Tuning Your Google Meet Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-acid-pro-revisited-exploring-equivalent-tools/"><u>In 2024, ACID Pro Revisited  Exploring Equivalent Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-all-you-need-to-know-about-podcast-funding/"><u>In 2024, All You Need To Know About Podcast Funding</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-bargain-ballbusters-learn-free-football-broadcast-techniques/"><u>In 2024, Bargain Ballbusters  Learn Free Football Broadcast Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-4k-gaming-laptops/"><u>In 2024, Best 4K Gaming Laptops</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-apps-and-programs-for-image-video-integration/"><u>In 2024, Best Apps and Programs for Image Video Integration</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-sony-xperia-10-v-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Sony Xperia 10 V FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7, Apples New iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-oculus-rift-htc-vive-and-ps-vr-which-is-the-best-for-gaming/"><u>In 2024, Oculus Rift, HTC Vive, and PS VR  Which Is the Best for Gaming?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-professional-audio-editing-made-easy-top-software-picks/"><u>New In 2024, Professional Audio Editing Made Easy Top Software Picks</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-in-2024-techniques-for-making-after-effects-2d-animation/"><u>New In 2024, Techniques for Making After Effects 2D Animation</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/1714192497704-new-want-to-turn-a-photo-into-a-cartoon-but-dont-know-how-here-are-some-of-the-best-online-websites-which-allow-you-to-turn-pictures-into-cartoons-without-d/"><u>New Want to Turn a Photo Into a Cartoon but Dont Know How? Here Are some of the Best Online Websites Which Allow You to Turn Pictures Into Cartoons without Downloading Any Software for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-xiaomi-redmi-note-12r-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-trio-of-drone-and-camera-gadgets-to-pick-from/"><u>Top Trio of Drone & Camera Gadgets to Pick From</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-list-low-cost-high-definition-cameras/"><u>Ultimate List  Low-Cost, High Definition Cameras</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleash-your-pcs-hidden-treasures-with-new-windows-10-games/"><u>Unleash Your PC’s Hidden Treasures with New Windows 10 Games</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleashing-fb-video-potential-with-speedy-insights/"><u>Unleashing FB Video Potential with Speedy Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlock-your-potential-a-comprehensive-guide-to-3d-lut-techniques/"><u>Unlock Your Potential  A Comprehensive Guide to 3D LUT Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unraveling-triller-its-distinctive-place-in-the-world-of-online-videos/"><u>Unraveling Triller  Its Distinctive Place in the World of Online Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vr-unveiled-understanding-the-digital-illusion/"><u>VR Unveiled  Understanding the Digital Illusion</u></a></li>
+</ul></div>

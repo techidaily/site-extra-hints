@@ -1,7 +1,7 @@
 ---
 title: "Amplify Imagery with Simple Grading Tricks"
-date: 2024-05-24T00:57:07.145Z
-updated: 2024-05-25T00:57:07.146Z
+date: 2024-07-22T11:14:41.127Z
+updated: 2024-07-23T11:14:41.127Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Amplify Imagery with Simple Grading Tricks"
 excerpt: "This Article Describes Amplify Imagery with Simple Grading Tricks"
 keywords: "Image Enhancement Basics,Basic Color Correction Tips,Gradient Adjustments Simplicity,Easy Picture Sharpening,Natural Skin Smoothing Tricks,Hue Balancing Techniques,Soft Focus Effects Guide"
-thumbnail: https://www.lifewire.com/thmb/bUgwWBmVwo2R1WJT-qkM52ppdCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-pencil-56a533763df78cf77286e0e0.png
+thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
 ## Amplify Imagery with Simple Grading Tricks
@@ -38,6 +38,9 @@ Below is information on Photoshop, a tool that some creators use for color gradi
 
 02 [3 Simple Ways to Color Grading in Photoshop](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## What is the difference between color grading and color correction?
 
 Did you even know there was a difference? Well, the answer is yes, and here is how they differ.
@@ -95,6 +98,11 @@ Photo filters allow you to quickly make changes to your content by using Photosh
 
 Here is how you do it:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ### 1\. Open the image
 
 You can do this by using your Photoshop device or selecting it from the program's library.
@@ -103,24 +111,61 @@ You can do this by using your Photoshop device or selecting it from the program'
 
 You will find this in the Adjustments layer of your Photoshop program. Kindly open the menu and select the Photo Filter option. Usually, it is located on the bottom right section of your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to color grade in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-2.jpg)
 
 ### 3\. Increase the color density of different colors
 
 Click the active color to open the color wheel. Additionally, you can preserve the brightness by leaving the maintain luminosity option checked. Please note some details will disappear depending on the density level.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ### 4\. Cycle between filters
 
 Cycle between different filters by checking the filters option from the same menu. You will find all filter presents from the dropdown menu as per the photo.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![how to color grade in ps](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-3.jpg)
 
 ### 4\. Add Layers
 
 You can add different layers to the image by clicking the New Adjustment Layer icon at the bottom of the Layers palette. You can make different adjustments by repeating the above process.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![color grade in ps - add layer](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-4.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Using Hue and Saturation
 
 You can also perform color grading in photoshop by making changes using the Hue and Saturation sliders. Here is how you can access them.
@@ -172,6 +217,9 @@ III. You can switch the colors by clicking the main color box to activate the co
 
 IV. The paint tool offers you different brushes depending on the function. For example, you have a healing brush that repairs pixels and blends them seamlessly with the rest.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 **●** As you can see photoshop color grading is a simple process that results in stunning pictures when you use it correctly. Additionally, you have tons of presets available to simplify your work. An important point to consider is to keep things minimal. Keep checking with us regularly for more insights on how to create quality content with different color correction software.
@@ -231,6 +279,9 @@ Both processes are essential to creating quality content and vary among creators
 * Furthermore, you use color correction and color grading to indicate the importance of some scene sections. For example, news briefs are usually brighter than the rest of the shot, especially when displaying important messages, such as breaking news.
 * Finally, you do photoshop cinematic color grading to ensure consistency in your photos. Weather is unpredictable and can cause your scenes to vary dramatically. For example, some sections of your location may not receive similar lighting. As such, you can make those sections brighter through color grading in photoshop.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## 3 Simple Ways to Color Grading in Photoshop
 
 Below are 3 simple ways to color grade in Photoshop.
@@ -263,14 +314,23 @@ Click the active color to open the color wheel. Additionally, you can preserve t
 
 Cycle between different filters by checking the filters option from the same menu. You will find all filter presents from the dropdown menu as per the photo.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![how to color grade in ps](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Add Layers
 
 You can add different layers to the image by clicking the New Adjustment Layer icon at the bottom of the Layers palette. You can make different adjustments by repeating the above process.
 
 ![color grade in ps - add layer](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Using Hue and Saturation
 
 You can also perform color grading in photoshop by making changes using the Hue and Saturation sliders. Here is how you can access them.
@@ -281,6 +341,9 @@ You can also perform color grading in photoshop by making changes using the Hue 
 4. A menu will open, where you select Hue/Saturation.
 5. Use the sliders to color grade and color correct your photo.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![color grade in ps - using hue and saturation](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-5.jpg)
 
 Here is how each adjustment affects your photo:
@@ -289,6 +352,9 @@ Here is how each adjustment affects your photo:
 * Saturation: Changes here affect the density of the color you choose. For example, sliding it left makes the color less dense, giving you the most transparent shade.
 * Lightness: The slider affects how bright the color you choose will appear. Sliding it extremely left will make it very dark.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Using Paint
 
 Paint is another simple way to color correct and color grade in Photoshop. Additionally, it leaves feeling like an artist if you do it correctly. You can opt for this method if you want to:
@@ -338,10 +404,17 @@ Below is information on Photoshop, a tool that some creators use for color gradi
 
 02 [3 Simple Ways to Color Grading in Photoshop](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## What is the difference between color grading and color correction?
 
 Did you even know there was a difference? Well, the answer is yes, and here is how they differ.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Color Grading
 
 Color grading photoshop refers to the final process of content creation. It involves subtle tweaks to your photos to make them more stylish. Some of your reasons may include:
@@ -405,14 +478,23 @@ You will find this in the Adjustments layer of your Photoshop program. Kindly op
 
 ![how to color grade in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Increase the color density of different colors
 
 Click the active color to open the color wheel. Additionally, you can preserve the brightness by leaving the maintain luminosity option checked. Please note some details will disappear depending on the density level.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 4\. Cycle between filters
 
 Cycle between different filters by checking the filters option from the same menu. You will find all filter presents from the dropdown menu as per the photo.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![how to color grade in ps](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-3.jpg)
 
 ### 4\. Add Layers
@@ -431,6 +513,9 @@ You can also perform color grading in photoshop by making changes using the Hue 
 4. A menu will open, where you select Hue/Saturation.
 5. Use the sliders to color grade and color correct your photo.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![color grade in ps - using hue and saturation](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-5.jpg)
 
 Here is how each adjustment affects your photo:
@@ -439,6 +524,9 @@ Here is how each adjustment affects your photo:
 * Saturation: Changes here affect the density of the color you choose. For example, sliding it left makes the color less dense, giving you the most transparent shade.
 * Lightness: The slider affects how bright the color you choose will appear. Sliding it extremely left will make it very dark.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Using Paint
 
 Paint is another simple way to color correct and color grade in Photoshop. Additionally, it leaves feeling like an artist if you do it correctly. You can opt for this method if you want to:
@@ -472,6 +560,9 @@ III. You can switch the colors by clicking the main color box to activate the co
 
 IV. The paint tool offers you different brushes depending on the function. For example, you have a healing brush that repairs pixels and blends them seamlessly with the rest.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 **●** As you can see photoshop color grading is a simple process that results in stunning pictures when you use it correctly. Additionally, you have tons of presets available to simplify your work. An important point to consider is to keep things minimal. Keep checking with us regularly for more insights on how to create quality content with different color correction software.
@@ -488,6 +579,9 @@ Below is information on Photoshop, a tool that some creators use for color gradi
 
 02 [3 Simple Ways to Color Grading in Photoshop](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What is the difference between color grading and color correction?
 
 Did you even know there was a difference? Well, the answer is yes, and here is how they differ.
@@ -508,6 +602,9 @@ Color grading photoshop refers to the final process of content creation. It invo
 
 For example, tweaking your Instagram photo with a retro color scheme is color grading. You can achieve this by using photoshop cinematic color grading.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Color Correction
 
 Color correction refers to the fixes you make when creating your content. It focuses on making changes relevant to your target audience. You can do this during production from the device. For example, you can adjust your camera’s exposure when shooting your stills. As such, they appear more natural and unprocessed.
@@ -531,10 +628,17 @@ Both processes are essential to creating quality content and vary among creators
 * Furthermore, you use color correction and color grading to indicate the importance of some scene sections. For example, news briefs are usually brighter than the rest of the shot, especially when displaying important messages, such as breaking news.
 * Finally, you do photoshop cinematic color grading to ensure consistency in your photos. Weather is unpredictable and can cause your scenes to vary dramatically. For example, some sections of your location may not receive similar lighting. As such, you can make those sections brighter through color grading in photoshop.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 3 Simple Ways to Color Grading in Photoshop
 
 Below are 3 simple ways to color grade in Photoshop.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### 1\. Using Photo Filter
 
 Photo filters allow you to quickly make changes to your content by using Photoshop’s presets. Some of the reasons for using it include:
@@ -545,6 +649,9 @@ Photo filters allow you to quickly make changes to your content by using Photosh
 
 Here is how you do it:
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Open the image
 
 You can do this by using your Photoshop device or selecting it from the program's library.
@@ -555,6 +662,9 @@ You will find this in the Adjustments layer of your Photoshop program. Kindly op
 
 ![how to color grade in photoshop](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Increase the color density of different colors
 
 Click the active color to open the color wheel. Additionally, you can preserve the brightness by leaving the maintain luminosity option checked. Please note some details will disappear depending on the density level.
@@ -563,6 +673,9 @@ Click the active color to open the color wheel. Additionally, you can preserve t
 
 Cycle between different filters by checking the filters option from the same menu. You will find all filter presents from the dropdown menu as per the photo.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how to color grade in ps](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-3.jpg)
 
 ### 4\. Add Layers
@@ -571,6 +684,9 @@ You can add different layers to the image by clicking the New Adjustment Layer i
 
 ![color grade in ps - add layer](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ### 2\. Using Hue and Saturation
 
 You can also perform color grading in photoshop by making changes using the Hue and Saturation sliders. Here is how you can access them.
@@ -581,6 +697,10 @@ You can also perform color grading in photoshop by making changes using the Hue 
 4. A menu will open, where you select Hue/Saturation.
 5. Use the sliders to color grade and color correct your photo.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![color grade in ps - using hue and saturation](https://images.wondershare.com/filmora/article-images/2022/03/photoshop-color-grading-5.jpg)
 
 Here is how each adjustment affects your photo:
@@ -650,3 +770,55 @@ IV. The paint tool offers you different brushes depending on the function. For e
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/voiding-storage-woes-removing-youtube-media/"><u>[New] Avoiding Storage Woes  Removing YouTube Media</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-guide-webp-to-jpg-conversion-secrets/"><u>[New] Comprehensive Guide  WebP to JPG Conversion Secrets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-corporate-crown-best-cloud-keepers/"><u>[New] Corporate Crown  Best Cloud Keepers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-correcting-gopros-fish-eye-distortion-techniques/"><u>[New] Correcting GoPro's Fish Eye Distortion Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-consumer-connection-reimagining-receiving/"><u>[New] Crafting Consumer Connection  Reimagining Receiving</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-simplified-guide-to-implementing-speech-transcription-in-powerpoint-for-2024/"><u>[New] Simplified Guide to Implementing Speech Transcription in PowerPoint for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-step-by-step-to-effortless-iphone-screen-recording/"><u>[New] Step-by-Step to Effortless IPhone Screen Recording</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-conquer-iphone-podcast-downloads-a-step-by-step-guidebook/"><u>[Updated] Conquer iPhone Podcast Downloads – A Step-by-Step Guidebook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-constructing-emotional-resonance-trailer-sound-selection-guide/"><u>[Updated] Constructing Emotional Resonance  Trailer Sound Selection Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-unique-photos-with-ps-distortions/"><u>[Updated] Crafting Unique Photos with PS Distortions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-createcinema-win8-edition/"><u>[Updated] CreateCinema Win8 Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-ultimate-editing-strategies-for-viral-tiktoks/"><u>10 Ultimate Editing Strategies for Viral TikToks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-commanders-crusade-revealing-the-best-of-7-total-war-sagas/"><u>2024 Approved  Commanders' Crusade  Revealing the Best of 7 Total War Sagas</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprerancial-free-imagery-tips-and-tricks/"><u>2024 Approved  Comprerancial Free Imagery  Tips and Tricks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-copyright-free-gaming-scores-the-10-leading-sources/"><u>2024 Approved  Copyright-Free Gaming Scores – The 10 Leading Sources</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-an-affordable-diy-google-vr-system-at-home/"><u>2024 Approved  Crafting an Affordable DIY Google VR System at Home</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-the-futures-past-digital-conversion-for-timeless-images/"><u>2024 Approved  Crafting the Future's Past  Digital Conversion for Timeless Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-hero-series-advance-from-4-to-5/"><u>2024 Approved  The Hero Series Advance From 4 to 5</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-ultimate-list-of-premier-video-capture-apps/"><u>2024 Approved  Ultimate List of Premier Video Capture Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/25plus-best-practices-for-crafting-witty-metaverse-visual-jokes/"><u>25+ Best Practices for Crafting Witty Metaverse Visual Jokes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/aerial-shooting-essentials/"><u>Aerial Shooting Essentials</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/amc-explorer-ghost-drift-cam-analysis/"><u>AMC Explorer  Ghost Drift Cam Analysis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/app-reception-a-comprehensive-scrutiny/"><u>App Reception  A Comprehensive Scrutiny</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/becoming-a-broadcast-pro-zooming-into-youtube-live-success/"><u>Becoming a Broadcast Pro  Zooming Into YouTube Live Success</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/behind-the-scenes-of-360-degree-media/"><u>Behind the Scenes of 360-Degree Media</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-practices-zooming-into-fb-live-excellence/"><u>Best Practices  Zooming Into FB Live Excellence</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-value-shooters-with-full-spherical-capture/"><u>Best Value Shooters with Full Spherical Capture</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/big-sur-readiness-system-and-hardware-guide/"><u>Big Sur Readiness  System & Hardware Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boost-communication-capabilities-from-skype-to-zoom/"><u>Boost Communication Capabilities  From Skype to Zoom</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boost-your-photography-game-complimentary-basics-plus-expandable-paid-lut-options/"><u>Boost Your Photography Game  Complimentary Basics + Expandable Paid LUT Options</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bridging-gaps-preventing-video-holds-in-photoshoots/"><u>Bridging Gaps  Preventing Video Holds in Photoshoots</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-buzz-with-your-own-podcast-channel/"><u>Building Buzz with Your Own Podcast Channel</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/camera-companion-dilemma-polaroid-cube-or-gopro-hero-edition/"><u>Camera Companion Dilemma  Polaroid Cube or GoPro Hero Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capture-the-skyline-horizontal-photos-in-a-phone/"><u>Capture the Skyline  Horizontal Photos in a Phone</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-a25-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy A25 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-xs-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone XS to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-best-practices-for-6-trendy-mc-houses/"><u>In 2024, Best Practices for 6 Trendy MC Houses</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-xs-max-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone XS Max with a Broken Screen?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-guide-understanding-google-podcasts/"><u>In 2024, Comprehensive Guide  Understanding Google Podcasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-copyrighted-chords-navigating-music-uploads-to-insta/"><u>In 2024, Copyrighted Chords  Navigating Music Uploads to Insta</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-cozy-living-areas-with-daylight/"><u>In 2024, Crafting Cozy Living Areas with Daylight</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-professional-visual-narratives-with-lut-usage-in-premiere/"><u>In 2024, Crafting Professional Visual Narratives with LUT Usage in Premiere</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-gt-5-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme GT 5 Pro Lock Screen Password</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-with-a-mask-on-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro with a Mask On</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-inalterable-action-plan-to-expunge-youtube-shorts/"><u>In 2024, Inalterable Action Plan to Expunge YouTube Shorts</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-perfecting-your-soundtracks-in-audacity-by-cutting-out-noise/"><u>In 2024, Perfecting Your Soundtracks in Audacity by Cutting Out Noise</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mirror-your-gameplay-today/"><u>Mirror Your Gameplay Today</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Bend and Shape Your Text with 3D Effects in Illustrator"
-date: 2024-05-24T02:24:04.277Z
-updated: 2024-05-25T02:24:04.277Z
+date: 2024-07-22T14:24:33.028Z
+updated: 2024-07-23T14:24:33.028Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Bend and Shape Your Text with 3D Effects in Illustrator"
 excerpt: "This Article Describes Bend and Shape Your Text with 3D Effects in Illustrator"
 keywords: "Illustrators 3D Effects,Text Shaping 3D,3D Text Design,Sculpted Text Illustration,Shape Text with Illustrator,3D Effect Text Transformation,Create 3D Text Artwork"
-thumbnail: https://www.lifewire.com/thmb/ah4_0eKD-1BSjgdgHucINGUZWPA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/used-macbook-pro-1bf2b0a99ae8480ca8ab3d79384ddfb9.jpg
+thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb919eddcfabef3a341868406.jpg
 ---
 
 ## Bend and Shape Your Text with 3D Effects in Illustrator
@@ -38,6 +38,9 @@ Step1 Open the program and start a new project.
 
 Step2 Click on the **Type tool** and click anywhere on your blank canvas. Then, type in your text—type in anything you want.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![type tool illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-type-tool.png)
 
 Step3 Now, look at the bottom-right corner of the program. Find the **Font** settings and change your font type and size to anything you want.
@@ -46,6 +49,9 @@ Step3 Now, look at the bottom-right corner of the program. Find the **Font** set
 
 Step4 Next, choose any color you want for your text from the panel on the screen's left side. Just remember to click on your text first before you start changing colors.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change color](https://images.wondershare.com/filmora/article-images/adobe-illustrator-color.png)
 
 Step5 Align the text to make it easier to edit and move around the canvas later. Just click on it and then click on the three buttons in the image below. This section is located at the bottom-right corner of the screen.
@@ -54,10 +60,16 @@ Step5 Align the text to make it easier to edit and move around the canvas later.
 
 Step6 Up next, you need to turn on your 3D Effects panel if it still needs to be activated. To do this, click on **Window** → **3D and Materials.** Then, look at the right side of the screen, and you will see the panel pop up.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turn on three d panel](https://images.wondershare.com/filmora/article-images/adobe-illustrator-3d-materials-window.png)
 
 Step7 Click on the box icon on the right side of the screen and select **“Extrude”** This will instantly transform your text into a 3D model.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turn text into three d](https://images.wondershare.com/filmora/article-images/adobe-illustrator-panel.png)
 
 Step8 Now, all left to do is experiment with the settings in this panel and adjust how you want your 3D text to look. You can adjust its width, rotation, presets, angle, perspective, and so on. Just play around with the settings until you find your ideal result.
@@ -66,6 +78,9 @@ Step8 Now, all left to do is experiment with the settings in this panel and adju
 
 Step9 Finally, it's time to export the image, and you're all done.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Alternative Way to Create 3D Text Animation
 
 You might not believe it, but there's an even more accessible and less expensive way to create 3D text effects. You can use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Compared to Illustrator, Filmora is much better for beginners and more affordable.
@@ -84,10 +99,16 @@ Step1 Download Filmora and run the program. Once it opens, click on **New Projec
 
 Step2 Head to the **Titles** tab and search for the **“3D Illustration**” title. Then, drag it into the Timeline. You can also find several other 3D titles. If you like another one better, drag that one instead of the one we mentioned here.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
@@ -110,6 +131,9 @@ Step1 Download Filmora and run the program. Once it opens, click on **New Projec
 
 Step2 Head to the **Titles** tab and search for the **“3D Illustration**” title. Then, drag it into the Timeline. You can also find several other 3D titles. If you like another one better, drag that one instead of the one we mentioned here.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
@@ -120,6 +144,9 @@ Step4 Finally, import a video in Filmora and drag it under the text into the Tim
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Both programs will get the job done if you use Adobe Illustrator or Filmora for your 3D text effect. The main difference is that it will be easier with Filmora. The choice is yours. Have fun!
@@ -148,3 +175,52 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-expert-endorsed-tools-for-improving-your-windows-video-edits/"><u>[New] In 2024, Expert-Endorsed Tools for Improving Your Windows Video Edits</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-zoom-optimization-coordinating-remote-gatherings/"><u>[New] Zoom Optimization  Coordinating Remote Gatherings</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-expert-insights-maximizing-engagement-with-hashtags-on-instagram-for-2024/"><u>[Updated] Expert Insights  Maximizing Engagement with Hashtags on Instagram for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-disconnect-watch-stay-ahead-for-2024/"><u>[Updated] Instagram Disconnect Watch  Stay Ahead for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mixing-video-sequences-with-blend-mode-expertise-for-2024/"><u>[Updated] Mixing Video Sequences with Blend Mode Expertise for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-spirited-speeches-how-to-make-instagram-text-come-alive/"><u>2024 Approved  Spirited Speeches  How to Make Instagram Text Come Alive</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-unlimited-cloud-storage-service-recommendations/"><u>Best Unlimited Cloud Storage Service Recommendations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/crafting-a-united-front-brand-integrations-on-youtube-platform/"><u>Crafting a United Front  Brand Integrations on YouTube Platform</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixing-windows-10-res-scale-faults/"><u>Fixing Windows 10 Res Scale Faults</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-simplify-your-screen-with-smart-edits-on-heavy-duty-tiktoks/"><u>In 2024, Simplify Your Screen with Smart Edits on Heavy-Duty TikToks</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-the-ultimate-blueprint-for-earning-money-on-tiktok-8-strategies/"><u>In 2024, The Ultimate Blueprint for Earning Money on TikTok (8 Strategies)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-tiktoks-best-practices-for-engaging-ad-content-and-influential-examples/"><u>In 2024, TikTok's Best Practices for Engaging Ad Content and Influential Examples</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-7-sites-for-swapping-outringtone-files-on-snapchat/"><u>In 2024, Top 7 Sites for Swapping Outringtone Files on Snapchat</u></a></li>
+<li><a href="https://games-able.techidaily.com/journey-through-the-best-of-indie-game-realms/"><u>Journey Through the Best of Indie Game Realms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/proven-methods-to-elevate-your-filmora-editing-skills/"><u>Proven Methods to Elevate Your Filmora Editing Skills</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quintessential-underwater-accessories-for-gopro/"><u>Quintessential Underwater Accessories for Gopro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/real-time-vr-hardware-analysis/"><u>Real-Time VR Hardware Analysis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionizing-the-way-we-see-toolwiz-apps-full-review-2023/"><u>Revolutionizing the Way We See  Toolwiz App's Full Review, 2023</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/rise-to-fame-on-instagram-top-9-strategies-revealed/"><u>Rise to Fame on Instagram  Top 9 Strategies Revealed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/seamless-transitions-elevating-your-drone-footage/"><u>Seamless Transitions  Elevating Your Drone Footage</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/secrets-of-speed-instant-background-cleanse-techniques/"><u>Secrets of Speed  Instant Background Cleanse Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/seeking-the-8-pinnacle-of-androids-collaborative-video-collage-tools/"><u>Seeking the #8 Pinnacle of Android's Collaborative Video Collage Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/share-the-laughter-mastering-kinemaster/"><u>Share the Laughter  Mastering KineMaster</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sharp-as-a-razor-toptools-to-unblur-and-enhance-images-online/"><u>Sharp as a Razor  #TopTools to Unblur & Enhance Images Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sharpening-your-minecraft-landscapes/"><u>Sharpening Your Minecraft Landscapes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sky-high-storages-expert-recommendations/"><u>Sky-High Storages  Expert Recommendations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/snappy-cinema-stories-to-supercharge-edits/"><u>Snappy Cinema Stories to Supercharge Edits</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sonic-shifts-for-strategic-victories-in-free-fire/"><u>Sonic Shifts for Strategic Victories in Free Fire</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sony-a6400-video-failure-what-to-do-next/"><u>Sony A6400 Video Failure  What To Do Next?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/speed-meets-strategy-key-moments-at-the-games/"><u>Speed Meets Strategy  Key Moments at the Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-guide-to-lut-mastery/"><u>Step-by-Step Guide to LUT Mastery</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/summers-best-10-nostalgic-films-for-the-whole-family/"><u>Summer's Best 10 Nostalgic Films for the Whole Family</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tailoring-content-the-importance-of-aspect-ratios/"><u>Tailoring Content  The Importance of Aspect Ratios</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-art-of-converting-photographs-into-cinematic-videography-with-pixiz/"><u>The Art of Converting Photographs Into Cinematic Videography with Pixiz</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-audiovisual-experience-elevated-mastering-audio-blending-in-audacity/"><u>The Audiovisual Experience Elevated  Mastering Audio Blending in Audacity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-complete-mac-users-bible-to-srt-alteration/"><u>The Complete Mac User's Bible to SRT Alteration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-essentials-of-professional-editing-in-gopro-studio/"><u>The Essentials of Professional Editing in GoPro Studio</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-fast-track-to-zooming-proficiency/"><u>The Fast Track to Zooming Proficiency</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-insider-secrets-of-incorporating-captions-and-titles-into-video-clips/"><u>The Insider Secrets of Incorporating Captions & Titles Into Video Clips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-key-to-staying-put-mastering-6-viewer-friendly-genres/"><u>The Key to Staying Put  Mastering 6 Viewer-Friendly Genres</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-handbook-for-hosting-zoom-events-on-youtube/"><u>The Ultimate Handbook for Hosting Zoom Events on YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/timeless-shots-perfecting-the-art-of-date-placement-in-pictures/"><u>Timeless Shots  Perfecting the Art of Date Placement in Pictures</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/timeless-tones-a-compendium-of-quality-sound-sites/"><u>Timeless Tones  A Compendium of Quality Sound Sites</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-tier-aerial-vehicles-sold-here/"><u>Top-Tier Aerial Vehicles Sold Here</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/understanding-360-degree-and-virtual-reality-cinematography/"><u>Understanding 360-Degree and Virtual Reality Cinematography</u></a></li>
+</ul></div>

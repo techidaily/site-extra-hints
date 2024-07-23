@@ -1,7 +1,7 @@
 ---
 title: "\"Ghostly Horizons  Video Tech Update\""
-date: 2024-05-24T02:25:35.978Z
-updated: 2024-05-25T02:25:35.978Z
+date: 2024-07-22T14:27:50.415Z
+updated: 2024-07-23T14:27:50.415Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes Ghostly Horizons: Video Tech Update\""
 excerpt: "\"This Article Describes Ghostly Horizons: Video Tech Update\""
 keywords: "Ghost Vids Update,Haunting Videos,Horizon Horror,Spooky Tech News,Spectral Video Updates,Eerie Technological Insight,Phantom Screening"
-thumbnail: https://www.lifewire.com/thmb/9XoHJzt8ZnNyam3jHqzXVgxBSfs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/ScreenShot2022-02-11at1.22.45PM-02505fa8dc964c87bedbbce2c59bfd32.png
+thumbnail: https://thmb.techidaily.com/e82cf746d7129d54494e27c7a2ced91643ff65f2f3b23f8677650a8fb00dc7f5.png
 ---
 
 ## Ghostly Horizons: Video Tech Update
 
 # Drift Innocations Ghost-S Action Camera Review
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -107,6 +110,10 @@ thumbnail: https://www.lifewire.com/thmb/9XoHJzt8ZnNyam3jHqzXVgxBSfs=/400x300/fi
 
  What’s more, it has all the features you will need to make you feel like a pro. Simple editing functionalities like trimming, cropping, merging, adjusting speed, fast or slow motion, mosaic etc. will meet most of your demands. Besides all that, advanced features like split screen, green screen, filters&overlay effects, together with hundreds of licensed music, motion elements, transiton effects etc will definitely turn your video into something extraordinary with the least amount of effort. Check to video below to get an overview of this gorgeous video editing program:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
@@ -129,6 +136,9 @@ Follow @Max Wales
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Complete Review for Drift Ghost-S
 
 #### **Specs table:**
@@ -202,6 +212,9 @@ Follow @Max Wales
 
  What’s more, it has all the features you will need to make you feel like a pro. Simple editing functionalities like trimming, cropping, merging, adjusting speed, fast or slow motion, mosaic etc. will meet most of your demands. Besides all that, advanced features like split screen, green screen, filters&overlay effects, together with hundreds of licensed music, motion elements, transiton effects etc will definitely turn your video into something extraordinary with the least amount of effort. Check to video below to get an overview of this gorgeous video editing program:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
@@ -224,6 +237,9 @@ Follow @Max Wales
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Complete Review for Drift Ghost-S
 
 #### **Specs table:**
@@ -297,8 +313,14 @@ Follow @Max Wales
 
  What’s more, it has all the features you will need to make you feel like a pro. Simple editing functionalities like trimming, cropping, merging, adjusting speed, fast or slow motion, mosaic etc. will meet most of your demands. Besides all that, advanced features like split screen, green screen, filters&overlay effects, together with hundreds of licensed music, motion elements, transiton effects etc will definitely turn your video into something extraordinary with the least amount of effort. Check to video below to get an overview of this gorgeous video editing program:
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -315,6 +337,9 @@ Follow @Max Wales
 
  Ghost S follows the same design as that of HD Ghost and its bullet shaped model assists athletes in easy scene recording. The overall weight of this device is 5.9 ounces so it can be easily paired with goggles or strapped over helmet. The 2 inch LCD screen is protected with Gorilla Glass protection and the wide angle lens can cover views up to 160 degree. You will have plenty of mounting options with Drift Ghost-S device and it always stays safe with quick connect clip. Further, this device can be easily controlled from Wi-Fi remote and the outstanding combination of audio and video make it significantly stunning and fragile camera.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![drift-ghost-s-image](https://images.wondershare.com/filmora/article-images/drift-innocations-ghost-s-1.jpg)
 
 [Check price at Amazon](https://www.amazon.com/gp/product/B00GJRCPRO/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00GJRCPRO&linkId=02d9f7ab2afeae8b2f0e96dcd1f5f44b)
@@ -426,3 +451,50 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-camera-buying-simplified-a-starters-guide-23-updates/"><u>[New] Camera Buying Simplified – A Starter’s Guide '23 Updates</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-camera-editing-showdown-hero-vs-cubes-battle-of-the-screens/"><u>[New] Camera Editing Showdown  Hero Vs. Cube's Battle of the Screens</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-captivating-imagery-assemblies-your-lifelong-collection/"><u>[New] Captivating Imagery Assemblies  Your Lifelong Collection</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-capturing-the-echoes-of-yesteryears-scanning-and-storing-vintage-prints/"><u>[New] Capturing the Echoes of Yesteryears  Scanning and Storing Vintage Prints</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comparative-study-samsung-vs-traditional-photo-tools/"><u>[New] Comparative Study  Samsung vs Traditional Photo Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-acid-pro-evaluation-and-alternative-software/"><u>[New] Comprehensive ACID Pro Evaluation & Alternative Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-coordinated-audio-visual-grouping-space/"><u>[New] Coordinated Audio-Visual Grouping Space</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-innovating-storytelling-editing-and-uploading-immersive-360-content-on-youtube/"><u>[New] Innovating Storytelling  Editing and Uploading Immersive 360° Content on YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-clear-sight-steady-shot-fighting-the-mist-in-your-footage/"><u>[Updated] Clear Sight, Steady Shot  Fighting the Mist in Your Footage</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-compile-of-premier-iphone-camera-apps-for-pro-photographers/"><u>[Updated] Compile of Premier iPhone Camera Apps for Pro Photographers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-conquer-the-vr-world-your-first-vr-adventure/"><u>[Updated] Conquer the VR World  Your First VR Adventure</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-selective-selection-best-bands-for-ringtones/"><u>[Updated] Selective Selection  Best Bands for Ringtones</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-transformative-tiktok-editing-three-ways-to-alter-video-borders-for-2024/"><u>[Updated] Transformative TikTok Editing  Three Ways to Alter Video Borders for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleash-marketing-potential-with-unpacked-plans/"><u>[Updated] Unleash Marketing Potential with Unpacked Plans</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-secret-windows-11-tips-and-tricks/"><u>10 Secret Windows 11 Tips and Tricks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-charting-uncharted-territories-with-jaunt-vr/"><u>2024 Approved  Charting Uncharted Territories with Jaunt VR</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-ae-titles-with-maximum-impression/"><u>2024 Approved  Crafting AE Titles with Maximum Impression</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-your-media-best-ios-players-for-phones-and-tablets/"><u>2024 Approved  Master Your Media  Best iOS Players for Phones & Tablets</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-swift-transition-from-tiktok-creations-to-fb/"><u>2024 Approved  Swift Transition  From TikTok Creations to FB</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-comprehensive-list-of-the-best-6-microphones-for-video-hosts/"><u>A Comprehensive List of the Best 6 Microphones for Video Hosts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-review-of-the-goofy-movie-vhs/"><u>A Review of The Goofy Movie VHS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-step-by-step-guide-to-engaging-video-blog-plots/"><u>A Step-by-Step Guide to Engaging Video Blog Plots</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/achieve-unmatched-visuals-the-ultimate-guide-to-video-enhancer-22/"><u>Achieve Unmatched Visuals  The Ultimate Guide to Video Enhancer 2.2</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/action-plan-seamless-transcoding-from-xmlssattml-to-srt/"><u>Action Plan  Seamless Transcoding From XML/SSA/TTML to SRT</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/avoiding-common-drone-purchase-mistakes-a-checklist/"><u>Avoiding Common Drone Purchase Mistakes  A Checklist</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-practices-in-finding-quality-photo-and-video-banners/"><u>Best Practices in Finding Quality Photo & Video Banners</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cloud-marketplace-dissecting-cost-structures/"><u>Cloud Marketplace  Dissecting Cost Structures</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/compelling-content-the-most-attractive-6-video-types/"><u>Compelling Content  The Most Attractive 6 Video Types</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-lookup-experience-the-world-in-virtual-reality-for-2024/"><u>Comprehensive Lookup  Experience the World in Virtual Reality for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/conquer-kinemaster-efficient-use-plus-top-online-gaming-platforms-reviewed-for-2024/"><u>Conquer KineMaster  Efficient Use + Top Online Gaming Platforms Reviewed for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-spark-10c-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/harmonizing-sight-and-sound-effective-methods-for-audio-pairing-in-android-video-production/"><u>Harmonizing Sight and Sound Effective Methods for Audio Pairing in Android Video Production</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-find-x6-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Oppo Find X6 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-6-plus-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 6 Plus to iPhone | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-building-unique-instagram-profile-thumbnails/"><u>In 2024, Building Unique Instagram Profile Thumbnails</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-complete-digest-exploring-google-podcast-apps-essence/"><u>In 2024, Complete Digest  Exploring Google Podcast App's Essence</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-scrutiny-of-xstream-video-hubs-features/"><u>In 2024, Comprehensive Scrutiny of XStream Video Hub's Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crack-the-code-of-tinders-elite-profiles-with-these-tricks/"><u>In 2024, Crack the Code of Tinder's Elite Profiles with These Tricks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-an-impressive-executive-summary-for-stakeholder-engagement/"><u>In 2024, Crafting an Impressive Executive Summary for Stakeholder Engagement</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-create-nfts-a-straightforward-no-fuss-approach/"><u>In 2024, Create NFTs  A Straightforward, No Fuss Approach</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/joyful-journeys-the-ultimate-list-of-familial-classics/"><u>Joyful Journeys  The Ultimate List of Familial Classics</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-here-are-some-of-the-best-free-and-paid-split-screen-video-editors-and-makers-that-you-can-use-online-and-offline/"><u>New 2024 Approved Here Are some of the Best Free and Paid Split-Screen Video Editors and Makers that You Can Use Online and Offline</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-premiere-on-linux-no-problem-top-10-alternative-video-editors-for-2024/"><u>New Premiere on Linux? No Problem! Top 10 Alternative Video Editors for 2024</u></a></li>
+</ul></div>

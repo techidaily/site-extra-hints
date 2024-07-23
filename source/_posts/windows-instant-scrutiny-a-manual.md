@@ -1,7 +1,7 @@
 ---
 title: "\"Window's Instant Scrutiny  A Manual\""
-date: 2024-05-24T01:29:07.558Z
-updated: 2024-05-25T01:29:07.558Z
+date: 2024-07-22T12:24:28.696Z
+updated: 2024-07-23T12:24:28.696Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes Window's Instant Scrutiny: A Manual\""
 excerpt: "\"This Article Describes Window's Instant Scrutiny: A Manual\""
 keywords: "Windows Vigilance Guide,Immediate Window Analysis,Windows Insight Tutorial,Quick Windows Audit,Windows Security Checker,Instant Window Review,Rapid Window Scan Manual"
-thumbnail: https://www.lifewire.com/thmb/yHkyJCv7NzcrTvyeTs0p9AD-mYQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/BigBlue_SolarCharges_28WSolarCharger_HeroSquare-9219cf80ed144cd98846e86006478f65.jpg
+thumbnail: https://thmb.techidaily.com/2e9cfa327b9759eb425968540a827a94cde4fe4ea34aa4ab5faa41249fabd55a.jpg
 ---
 
 ## Window's Instant Scrutiny: A Manual
 
 Windows operating system comes with an inbuilt file preview feature embedded in Explorer. This feature lets you preview documents and images before uploading them on apps like Skype, Facebook, and more. But what happens if you want to preview videos, audio, spreadsheets, ZIP, and more? In that case, install **QuickLook for Windows**. So, what exactly is **QuickLook for Windows 10,** and where can you get this app? For answers and more, read to the end.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## Part 1: Download Quick Look App on Microsoft Store
 
 If your computer is always handling documents, spreadsheets, PDFs, presentations, images, and other files, it’s probably time to install **QuickLook for Mac** and Windows. This intelligent program lets you quickly preview files without opening them on separate apps. Just think of it as the “file viewer” feature on Windows File Explorer, which allows you to view files before loading online or opening them on local apps. Of course, this can help you know which app can open the file and if it’s the correct file to open.
@@ -30,12 +33,18 @@ Below is how to install and use QuickLook by Paddy Xu:
 
 Step1 Open Microsoft Store and search for QuickLook. Make sure you select the option published by Paddy Xu.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![search for quicklook for windows on Microsoft store](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-1.jpg)
 
 Step2 Once you find QuickLook, click “Get it” to download and install the app in your Windows operating system. At around 60MB, installing this preview app should be quick and easy.
 
 Step3 After successfully installing QuickLook, head to File Explorer and select any file you want to preview. Press the “Space” bar on your keyboard to view the file.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![preview video on quicklook for windows](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-2.jpg)
 
 Unfortunately, you won’t preview the content inside the document file. Instead, you’ll only see details like the file type/format, size, image name, and more. You can also directly choose the opening app. As for videos and audio, the media file will automatically play on the QuickLook media player. But don’t fret because the following section will teach you to read your documents, presentations, PDFs, and other files on QuickLook without opening the file.
@@ -48,6 +57,9 @@ So, without wasting time, let’s go through the steps to download the QuickLook
 
 Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and then navigate to Releases. Click the latest version.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
 
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
@@ -56,6 +68,9 @@ Step2 Scroll down and download the .msi file. After downloading the installation
 
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![install quicklook for windows plugins](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-5.jpg)
 
 Step4 After a successful installation, find the file you want to preview and select it. Then, tap the space bar to preview the files. And remember, browse ZIP files to view all content.
@@ -84,6 +99,9 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 This guidepost is another testament that your PC has massive hidden abilities. With QuickLook for Windows, you can preview any document, image, or media file with a single click. And don’t forget to install the QuickLook plugins from GitHub to unlock the program’s full potential.
@@ -118,3 +136,47 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-step-by-step-recording-google-voice-conversations/"><u>[New] 2024 Approved  Step-by-Step  Recording Google Voice Conversations</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-getting-involved-in-the-global-village-facebook/"><u>[New] Getting Involved in the Global Village (Facebook)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-elevate-your-channel-hit-the-10000-view-mark-fast/"><u>[New] In 2024, Elevate Your Channel  Hit the 10,000 View Mark Fast!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-expert-guide-to-instagram-video-sizing/"><u>[Updated] 2024 Approved  Expert Guide to Instagram Video Sizing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-hashtag-heroes-twitters-trending-talk-for-2024/"><u>[Updated] Hashtag Heroes  Twitter's Trending Talk for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-archive-snaps-on-iphoneandroid-from-snapchat/"><u>[Updated] In 2024, How To Archive Snaps on iPhone/Android From Snapchat</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-top-15-screen-recorder-software-for-modern-windows/"><u>[Updated] In 2024, Top 15 Screen Recorder Software for Modern Windows</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-navigating-the-highest-rated-pixel-soundtracks-online/"><u>[Updated] Navigating the Highest-Rated Pixel Soundtracks Online</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-handbook-on-recording-notes-by-sound/"><u>2024 Approved  Comprehensive Handbook on Recording Notes by Sound</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/5-groundbreaking-advice-points-from-successful-marketers-online/"><u>5 Groundbreaking Advice Points From Successful Marketers Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/5-premier-drone-engines-to-supercharge-your-qxp/"><u>5 Premier Drone Engines to Supercharge Your QXP</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-filmmakers-essentials-the-quintessential-5-camera-strategies/"><u>A Filmmaker's Essentials  The Quintessential 5 Camera Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-visual-guide-to-excellent-collage-making/"><u>A Visual Guide to Excellent Collage Making</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/accelerating-powerpoint-visuals-for-smooth-viewings/"><u>Accelerating PowerPoint Visuals for Smooth Viewings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/action-cam-aesthetics-top-15-high-impact-gopro-lut-choices/"><u>Action Cam Aesthetics  Top 15 High-Impact GOPRO LUT Choices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/amplifying-online-videos-best-5-tools-and-tricks/"><u>Amplifying Online Videos  Best 5 Tools & Tricks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/apex-creative-workspace-report-in-depth-studio-analysis-2023/"><u>Apex Creative Workspace Report  In-Depth Studio Analysis, 2023</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-steadicams-for-dsrl-filming/"><u>Best Steadicams for DSRL Filming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-writers-workshop-online/"><u>Best Writer’s Workshop Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/blackout-brilliance-minute-edition/"><u>Blackout Brilliance  Minute Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boosting-visual-impact-the-11-best-practices-for-color-workflow/"><u>Boosting Visual Impact  The 11 Best Practices for Color Workflow</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/camera-powerhouse-selecting-the-10-best-4k-phones/"><u>Camera Powerhouse  Selecting the 10 Best 4K Phones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cant-see-only-cursor-a6400-issue/"><u>Can't See, Only Cursor! - A6400 Issue</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/captivating-collections-frames-and-organizers-of-the-future/"><u>Captivating Collections  Frames & Organizers of the Future</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capture-and-safeguard-periscope-videos-effectively/"><u>Capture & Safeguard Periscope Videos Effectively</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/clearsky-top-notch-photo-background-cleaner/"><u>ClearSky  Top-Notch Photo Background Cleaner</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/command-your-tech-not-money-needed/"><u>Command Your Tech, Not Money Needed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/connectivity-and-convenience-integrating-zoom-into-your-xbox-experience/"><u>Connectivity & Convenience  Integrating Zoom Into Your Xbox Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creating-a-streamlined-podcast-rss-feed-structure-for-2024/"><u>Creating a Streamlined Podcast RSS Feed Structure for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/deciding-on-showcasing-your-off-facebook-journey/"><u>Deciding on Showcasing Your Off-Facebook Journey</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/deciphering-the-secrets-to-your-personalized-tiktok-code/"><u>Deciphering the Secrets to Your Personalized TikTok Code</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-why-filmora-captivates-your-heart/"><u>Discovering Why Filmora Captivates Your Heart</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dji-phantom-4-deep-dive-comprehensive-insights-and-reviews/"><u>DJI Phantom 4 Deep Dive  Comprehensive Insights & Reviews</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/echoes-of-music-in-video-landscapes/"><u>Echoes of Music in Video Landscapes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/economical-360-cameras-for-quality-videography/"><u>Economical 360° Cameras for Quality Videography</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/everything-that-you-need-to-know-about-video-montages-ideas-techniqu/"><u>Everything That You Need to Know About Video Montages- Ideas, Techniqu</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-11-pro-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone 11 Pro From Your Apple ID</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-how-to-use-adjustment-layer-in-final-cut-pro/"><u>In 2024, How to Use Adjustment Layer in Final Cut Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/overcome-hd-blockades-streaming-success-with-secure-browsers/"><u>Overcome HD Blockades  Streaming Success with Secure Browsers</u></a></li>
+</ul></div>

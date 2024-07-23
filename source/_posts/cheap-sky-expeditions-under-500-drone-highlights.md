@@ -1,7 +1,7 @@
 ---
 title: "\"Cheap Sky Expeditions  Under $500 Drone Highlights\""
-date: 2024-05-24T02:19:41.929Z
-updated: 2024-05-25T02:19:41.929Z
+date: 2024-07-22T14:15:03.903Z
+updated: 2024-07-23T14:15:03.903Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,9 @@ thumbnail: https://www.lifewire.com/thmb/eRUoYjIdPYpsHU3OIFdv1QRa_5A=/210x138/fi
 
 # Top 5 Affordable Drones under $500
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -28,6 +31,9 @@ thumbnail: https://www.lifewire.com/thmb/eRUoYjIdPYpsHU3OIFdv1QRa_5A=/210x138/fi
 
  Finding the right drone for your needs is not always easy, especially when the price ranges vary so much. You usually find that there are people that are prepared to pay through the nose for the latest technology (usually those that use for business purposes) and the people that are just dipping their toes in the world of drones and video capture that want affordable drones that they won't be too heartbroken about should it crash. There's little middle ground where you can get quality at a price you can afford, however there are a few gems out there that give you the best of both worlds for drones under $500\. We have done the hard work so you don't have to and found drones cheap enough for all with great specifications for each all types of enthusiasts.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Top 6 affordable drones under $500
 
 | Product                               | Price   | Flight time | video resolution | Fliying range |
@@ -41,6 +47,14 @@ thumbnail: https://www.lifewire.com/thmb/eRUoYjIdPYpsHU3OIFdv1QRa_5A=/210x138/fi
 
 #### DJI Phantom 3 Standard - Best drone under $500
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dji phantom 3 standard](https://images.wondershare.com/filmora/article-images/dji-phantom-3-standard.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B013U0F6EQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013U0F6EQ&linkId=7eb3c6ed8291356e6acb86c74ddca833
@@ -61,6 +75,9 @@ thumbnail: https://www.lifewire.com/thmb/eRUoYjIdPYpsHU3OIFdv1QRa_5A=/210x138/fi
 
 #### Parrot Bebop - Best quadcopters for learning aerial photography and videography
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![parrot bebop](https://images.wondershare.com/filmora/article-images/parrot-bebop.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01K4U4O9S/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01K4U4O9S&linkId=559bfd9a35c5117ca75942a267175750
@@ -205,6 +222,9 @@ Follow @Max Wales
 
 #### Parrot Bebop - Best quadcopters for learning aerial photography and videography
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![parrot bebop](https://images.wondershare.com/filmora/article-images/parrot-bebop.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01K4U4O9S/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01K4U4O9S&linkId=559bfd9a35c5117ca75942a267175750
@@ -261,6 +281,9 @@ Follow @Max Wales
 
 #### UPair One Drone with 4K Camera Bundle
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upair one drone with 4k camera bundle](https://images.wondershare.com/filmora/article-images/upair-one-drone-with-4k-camera-bundle.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01M0YYO87/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M0YYO87&linkId=d3373098f24af25a42abdd84a32e0366
@@ -302,6 +325,9 @@ Follow @Max Wales
 * 2D Flight Time: 8 to 9mins
 * 3D Flight Time: 5mins
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -349,6 +375,9 @@ Follow @Max Wales
 
 #### Parrot Bebop - Best quadcopters for learning aerial photography and videography
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![parrot bebop](https://images.wondershare.com/filmora/article-images/parrot-bebop.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01K4U4O9S/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01K4U4O9S&linkId=559bfd9a35c5117ca75942a267175750
@@ -370,6 +399,13 @@ Follow @Max Wales
 
 #### Yuneec Breeze - The ultimate selfie drone for new and experienced pilots
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![yuneec breeze](https://images.wondershare.com/filmora/article-images/yuneec-breeze.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01LANE77M/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LANE77M&linkId=36ad7237fd26bf3cb5012480c0e0957a
@@ -396,6 +432,9 @@ Follow @Max Wales
 
 #### 3DR Solo - Best Drone for GoPro
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![3dr solo](https://images.wondershare.com/filmora/article-images/3dr-solo.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=6e3a0783ff748b66e7ccc673543bde8f
@@ -405,6 +444,9 @@ Follow @Max Wales
 
 #### UPair One Drone with 4K Camera Bundle
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![upair one drone with 4k camera bundle](https://images.wondershare.com/filmora/article-images/upair-one-drone-with-4k-camera-bundle.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01M0YYO87/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M0YYO87&linkId=d3373098f24af25a42abdd84a32e0366
@@ -423,6 +465,9 @@ Follow @Max Wales
 
 #### Walkera F210 3D Edition - Best racing drone
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![walkera f210 3d edition](https://images.wondershare.com/filmora/article-images/walkera-f210-3d-edition.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01EW0EPU4/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01EW0EPU4&linkId=4c6a236382213dec0668e4971adfb53a
@@ -460,6 +505,9 @@ Follow @Max Wales
 
  Finding the right drone for your needs is not always easy, especially when the price ranges vary so much. You usually find that there are people that are prepared to pay through the nose for the latest technology (usually those that use for business purposes) and the people that are just dipping their toes in the world of drones and video capture that want affordable drones that they won't be too heartbroken about should it crash. There's little middle ground where you can get quality at a price you can afford, however there are a few gems out there that give you the best of both worlds for drones under $500\. We have done the hard work so you don't have to and found drones cheap enough for all with great specifications for each all types of enthusiasts.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Top 6 affordable drones under $500
 
 | Product                               | Price   | Flight time | video resolution | Fliying range |
@@ -493,6 +541,9 @@ Follow @Max Wales
 
 #### Parrot Bebop - Best quadcopters for learning aerial photography and videography
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![parrot bebop](https://images.wondershare.com/filmora/article-images/parrot-bebop.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01K4U4O9S/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01K4U4O9S&linkId=559bfd9a35c5117ca75942a267175750
@@ -540,6 +591,9 @@ Follow @Max Wales
 
 #### 3DR Solo - Best Drone for GoPro
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![3dr solo](https://images.wondershare.com/filmora/article-images/3dr-solo.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZPM7BOG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZPM7BOG&linkId=6e3a0783ff748b66e7ccc673543bde8f
@@ -622,3 +676,39 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-trending-tweet-tales-twitters-top-10-video-hits/"><u>[New] 2024 Approved  Trending Tweet Tales  Twitter's Top 10 Video Hits</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-trending-triumphs-your-guide-to-the-top-tiktok-game-frenzy/"><u>[Updated] 2024 Approved  Trending Triumphs  Your Guide to the Top TikTok Game Frenzy</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-ultimate-viewership-chart-twitters-top-10-videos/"><u>[Updated] In 2024, The Ultimate Viewership Chart  Twitter's Top 10 Videos</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-cutting-edge-computing-select-the-optimal-device-for-video-editing/"><u>2024 Approved  Cutting Edge Computing  Select the Optimal Device for Video Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-harmonizing-visuals-and-audio-in-unboxing-videos/"><u>2024 Approved  Harmonizing Visuals & Audio in Unboxing Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-samsung-galaxy-m34-frp-bypass-by-drfone-android/"><u>About Samsung Galaxy M34 FRP Bypass</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/escaping-youtube-ranked-list-of-27-alternative-streaming-services/"><u>Escaping YouTube  Ranked List of 27 Alternative Streaming Services</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oppo-reno-11-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Oppo Reno 11 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-fixing-inactive-obs-video-inputs/"><u>In 2024, Fixing Inactive OBS Video Inputs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-silencing-background-noise-in-obs-feeds/"><u>In 2024, Silencing Background Noise in OBS Feeds</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-art-of-attracting-more-youtube-admirers/"><u>Mastering the Art of Attracting More YouTube Admirers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-windows-movie-maker-for-animated-clips/"><u>Mastering Windows Movie Maker for Animated Clips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-your-iphone-step-by-step-guide-to-podcast-acquisition/"><u>Mastering Your iPhone  Step-by-Step Guide to Podcast Acquisition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/most-popular-oculus-rift-experiences-for-gamers/"><u>Most Popular Oculus Rift Experiences for Gamers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-magix-movie-editor-secrets-perfecting-audio-fusion-in-your-clips/"><u>New 2024 Approved Magix Movie Editor Secrets Perfecting Audio Fusion in Your Clips</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-unleash-your-creativity-best-sony-vegas-alternatives-for-windows-video-creators-for-2024/"><u>New Unleash Your Creativity Best Sony Vegas Alternatives for Windows Video Creators for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/no-pay-all-gain-the-fcp-freedom-guide/"><u>No Pay, All Gain  The FCP Freedom Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimal-devices-for-photogrammetric-movies/"><u>Optimal Devices for Photogrammetric Movies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/overcome-noisy-calls-solutions-for-zoom-audio-issues/"><u>Overcome Noisy Calls  Solutions for Zoom Audio Issues</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/palette-perfection-the-colorists-manual/"><u>Palette Perfection  The Colorist's Manual</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pinnacle-workshop-moniker-composer/"><u>Pinnacle Workshop Moniker Composer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-playlist-manager-for-android-users/"><u>Premium Playlist Manager for Android Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-10-converters-free-apps-for-efficient-srt-file-transformations/"><u>Prime 10 Converters  FREE Apps for Efficient SRT File Transformations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/proven-strategies-for-effective-phone-note-taking/"><u>Proven Strategies for Effective Phone Note-Taking</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quick-quirks-of-professional-photo-editing/"><u>Quick Quirks of Professional Photo Editing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ranking-the-greats-top-15-stop-motion-masterpieces/"><u>Ranking the Greats - Top 15 Stop Motion Masterpieces</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/reignite-your-gaming-experience-free-voice-transformation-for-valorant-lovers/"><u>Reignite Your Gaming Experience  Free Voice Transformation for Valorant Lovers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revamp-your-talk-with-cloud-top-5-online-voice-altering-services-for-chrome-os/"><u>Revamp Your Talk with Cloud  Top 5 Online Voice Altering Services for Chrome OS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/room-arrangement-for-immersive-vr-experience/"><u>Room Arrangement for Immersive VR Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/samsung-gear-360-top-alternative-cameras-2023-edition/"><u>Samsung Gear 360  Top Alternative Cameras 2023 Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/scalable-and-stylish-type-in-ae-with-top-choices/"><u>Scalable and Stylish Type in AE with Top Choices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/scripted-temporal-displacements-in-film-production/"><u>Scripted Temporal Displacements in Film Production</u></a></li>
+</ul></div>

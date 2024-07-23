@@ -1,7 +1,7 @@
 ---
 title: "Green Settings in Cinematic Production"
-date: 2024-05-24T02:25:36.533Z
-updated: 2024-05-25T02:25:36.533Z
+date: 2024-07-22T14:27:51.653Z
+updated: 2024-07-23T14:27:51.653Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Green Settings in Cinematic Production"
 excerpt: "This Article Describes Green Settings in Cinematic Production"
 keywords: "\"Eco-Friendly Film Set,Sustainable Cinema,Green Production Scenes,Eco Cinematography,Film Eco Practices,Sustainable Movie Sets,Environmental Filming Methods\""
-thumbnail: https://www.lifewire.com/thmb/R8mQYHSyvIG9KhbxaCWoxTwRczE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/Remotecontrol-dd51ae399bd54bd4adccca5d9d446195.jpg
+thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab49f48ed06a998718358fad4.jpg
 ---
 
 ## Green Settings in Cinematic Production
@@ -24,6 +24,9 @@ Videography and filmmaking require manipulative techniques to make things look r
 
 The green screen is the underlying background for post-production effects in video making. Cinematography has developed: advanced technology is applicable in editing and customizing effects via “computer-generated imagery” (CGI). The CGI is the main tool facilitating video manipulation; however, the green screen is the aiding factor. CGI is not possible without green-screen effects. And this is why green screen templates are inevitable for all video makers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![green screen](https://images.wondershare.com/filmora/article-images/2022/07/green_screen.jpg)
 
 Green screen templates are ready-made effects free for use and downloadable. Unlike advanced videography, green screen templates do not require installation or a combination of software. You can use green-screen effects even from Filmora: an online video and image facilitating website.
@@ -34,6 +37,9 @@ Advantages of green screen templates include easy application, smooth editing, b
 
 Green screen templates are available on reliable sources (for example, Filmora); you can create your green background yourself. The best way to use green screen templates is to apply ready-made templates on a platform; however, there are conditions where the right green template you want is unavailable. In this case, you must create the green screen video yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.1 Download green screen templates
 
 Downloading a suitable green screen template is the first thing to do. Ensure the green screen template fits the original video you want to overlay. Visit a template source, search “green screen” from the search space and select the right video that best represents your need/original video.
@@ -52,16 +58,28 @@ Import the two videos on Filmora: background and green screen; the background vi
 
 * Click on “new file” and create a new program on Filmora. Ensure you save the program as you proceed. Click on “file” then “import file” from the upper right corner of the display screen. Select the videos from your computer (ensure you save them in a separate folder for easy location).
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![create a new program on filmora](https://images.wondershare.com/filmora/guide/place-green-screen-background-videos.jpg)
 
 * You will see two tracks on the Filmora edit page: drag and paste the background video into the first track, and drag the green screen into the second track. Proceed to the Chroma key: right click on the “green screen” option on the menu and select “green screen.” You can also activate the edit panel by double clicking on the “green screen video” you imported.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.3 Set the green screen edit panel
 
 The edit panel option opens upon activating the panel; the edit panel option includes color, offset, edge thickness, alpha tolerance, edge feather, and tolerance. Each feature contributes directly to your final result. Offset, tolerance, and alpha channel affect the video clarity; edge thickness and edge feather affect the edge appearance: shadow, transparency, and edges.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![set the green screen edit panel](https://images.wondershare.com/filmora/guide/green-screen-overlay-video-chroma-key-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.4 Background positioning
 
 You have to position the background video on the green screen: the green screen will disappear, and the ground video will replace the green overlay. All the applications you added in 2.3 will appear. That is, transparency, movements, and video manipulation will be saved. Lastly, you should save your work.
@@ -76,6 +94,9 @@ For example, the edit panel option includes color, offset, edge thickness, alpha
 
 Filmstock, via the editor, gives you access to advanced settings and manipulation. You can create different effects aside from the standard green screen templates and background overlay. Filmstock allows you to save your work easily; you do not need an extra fee to use the program. Although you need to install [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) on your computer, Filmstoc contains ready-made free green screen templates for download.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![filmsstock home page](https://images.wondershare.com/filmora/article-images/2022/07/filmstock-green.jpg)
 
 1. [**Videezy**](https://www.videezy.com/free-video/green-screen)
@@ -88,6 +109,9 @@ Although Filmstock has an editor, Videezy only supplies green screen templates f
 
 Kapwing is similar to Filmstock because it permits customization and free green screen download. Many advantages align with a “download“ and “edit“ platform like Kapwing. Customization is another effect allowing you to edit an existing green screen video. Kapwing is easy to use – the drag and drop feature is enough to maximize the platform for excellent videography production
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![kapwing green screen](https://images.wondershare.com/filmora/article-images/2022/07/kapwing.jpg)
 
 1. [**Pikbest**](https://pikbest.com/)
@@ -118,16 +142,28 @@ Using a green screen template for your project outweighs other processes. Howeve
 
 * You will see two tracks on the Filmora edit page: drag and paste the background video into the first track, and drag the green screen into the second track. Proceed to the Chroma key: right click on the “green screen” option on the menu and select “green screen.” You can also activate the edit panel by double clicking on the “green screen video” you imported.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### 2.3 Set the green screen edit panel
 
 The edit panel option opens upon activating the panel; the edit panel option includes color, offset, edge thickness, alpha tolerance, edge feather, and tolerance. Each feature contributes directly to your final result. Offset, tolerance, and alpha channel affect the video clarity; edge thickness and edge feather affect the edge appearance: shadow, transparency, and edges.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set the green screen edit panel](https://images.wondershare.com/filmora/guide/green-screen-overlay-video-chroma-key-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.4 Background positioning
 
 You have to position the background video on the green screen: the green screen will disappear, and the ground video will replace the green overlay. All the applications you added in 2.3 will appear. That is, transparency, movements, and video manipulation will be saved. Lastly, you should save your work.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Best green screen templates
 
 1. [**Filmstock**](https://filmstock.wondershare.com/collection/green-screen-template.html?p=1)
@@ -164,6 +200,9 @@ Mixkit has one of the best green screen descriptions, allowing you to locate the
 
 ![mixkit green screen](https://images.wondershare.com/filmora/article-images/2022/07/mixkit.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 Using a green screen template for your project outweighs other processes. However, finding the right template suitable for your project may be challenging. The list of template makers above gives you an upper hand in finding or creating the right template for your next project.
@@ -196,3 +235,37 @@ Using a green screen template for your project outweighs other processes. Howeve
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-free-screenshot-and-recording-made-simple-for-android-users/"><u>[New] 2024 Approved  Free Screenshot & Recording Made Simple for Android Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-leading-tools-for-extracting-fb-videos-top-5/"><u>[New] 2024 Approved  Leading Tools for Extracting FB Videos - TOP 5</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-ios-video-editor-apps-top-10-best-to-know-for-2024/"><u>[New] Essential iOS Video Editor Apps  Top 10 Best to Know for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-tomtoms-next-gen-adventure-cameras-the-bandit-review/"><u>[New] In 2024, TomTom’s Next-Gen Adventure Cameras  The Bandit Review</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-team-harmony-and-efficiency-8-recommended-facebook-timers-for-2024/"><u>[New] Team Harmony and Efficiency  8 Recommended Facebook Timers for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-watchers-whispers-essential-websites-for-got-sound-files/"><u>[Updated] 2024 Approved  The Watchers' Whispers  Essential Websites for GoT Sound Files</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-streamline-your-twitterscape-with-these-pc-tips-for-2024/"><u>[Updated] Streamline Your Twitterscape with These PC Tips for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-potential-the-best-6-for-nft-artistry/"><u>[Updated] Unlocking Potential  The Best 6 for NFT Artistry</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-in-depth-assessment-gopro-silver-hero4-sliver/"><u>2024 Approved  In-Depth Assessment  GoPro Silver Hero4 Sliver</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/connect-with-stars-write-inspiring-biographies-on-whatsapp/"><u>Connect with Stars – Write Inspiring Biographies on WhatsApp</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-connectivity-with-metaverse-strategies/"><u>Crafting Connectivity with Metaverse Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-20-non-protected-pubg-images/"><u>Cutting-Edge 20 Non-Protected PUBG Images</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/determining-peak-listener-engagement-days/"><u>Determining Peak Listener Engagement Days</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/disappear-red-eye-effect-on-iphone-images-at-no-charge/"><u>Disappear Red Eye Effect on iPhone Images at No Charge</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-the-finest-free-srt-translation-tools/"><u>Discovering the Finest FREE SRT Translation Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/diy-iphone-photography-learn-to-smudge-images-on-no-budget/"><u>DIY iPhone Photography  Learn to Smudge Images on No Budget</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/droning-for-the-young-and-novice-top-picks/"><u>Droning for the Young and Novice  Top Picks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-focus-zoom-expertise-in-google-meet/"><u>Enhancing Focus  Zoom Expertise in Google Meet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enlarged-pictures-maintaining-high-quality-standards/"><u>Enlarged Pictures  Maintaining High-Quality Standards</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-guide-windows-movie-maker-60-configuration/"><u>Expert Guide  Windows Movie Maker 6.0 Configuration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-insights-switching-from-webp-to-jpg-format/"><u>Expert Insights  Switching From WebP to JPG Format</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-the-peak-tv-service-providers-comparative-insights/"><u>Explore the Peak TV Service Providers  Comparative Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-the-very-best-in-ios-video-playback-tools/"><u>Explore the Very Best in iOS Video Playback Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-better-video-encoding-av1s-challenge-to-vp9/"><u>Exploring Better Video Encoding  AV1's Challenge to VP9</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exquisite-note-taking-experience-on-mematic/"><u>Exquisite Note-Taking Experience on Mematic</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/frames-to-fabulous-the-ultimate-list-of-photo-plugins/"><u>Frames to Fabulous  The Ultimate List of Photo Plugins</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-feedback-to-fanbase-the-video-journey/"><u>From Feedback to Fanbase  The Video Journey</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-spoken-words-to-written-text-ppt-innovation-guide/"><u>From Spoken Words to Written Text  PPT Innovation Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gopro-showdown-full-review-and-ratings/"><u>GoPro Showdown  Full Review and Ratings</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-v27e-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo V27e to Laptop Without USB | Dr.fone</u></a></li>
+</ul></div>

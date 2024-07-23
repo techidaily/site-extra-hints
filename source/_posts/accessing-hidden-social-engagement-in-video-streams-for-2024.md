@@ -1,7 +1,7 @@
 ---
 title: "Accessing Hidden Social Engagement in Video Streams for 2024"
-date: 2024-06-26T13:39:58.245Z
-updated: 2024-06-27T13:39:58.245Z
+date: 2024-07-22T15:03:42.605Z
+updated: 2024-07-23T15:03:42.605Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,9 @@ People can watch, like, share, comment on, and upload videos using the YouTube s
 * Users can follow or subscribe to other YouTube channels.
 * To arrange videos and combine them together, make playlists.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Why Use YouTube?
 
 YouTube is the second-largest web browser after Google. Every minute, YouTube receives more than 100 hours of video. Whether you're disseminating information to students or marketing activities, it's among the most significant ways to reach a large audience. Some of the benefits of YouTube are listed below.
@@ -63,6 +66,9 @@ Given how many students have smartphones, video is an excellent medium for conne
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 ## How to See Liked Comments on YouTube?
@@ -85,14 +91,25 @@ Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
 Step2 Scroll down a little bit and click the **More** button.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
@@ -111,6 +128,9 @@ Now you will see the videos you liked or disliked and also the comments you like
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![likes comment received](https://images.wondershare.com/filmora/article-images/2022/11/likes-comment-received.jpg)
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
@@ -179,18 +199,32 @@ But, if you want to retrace the videos you commented on and the videos/comments 
 
 Step1 Click on your Google Account icon and find **Your data in YouTube**.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![find your data in youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-your-data-in-youtube.jpg)
 
 Step2 Scroll down a little bit and click the **More** button.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![your youtube dashboard more](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-dashboard-more.jpg)
 
 Step3 Click the **Comments** section.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![click comments your youtube dashboard](https://images.wondershare.com/filmora/article-images/2022/11/click-comments-your-youtube-dashboard.jpg)
 
 Now you will see your comment history, including the date when you commented on a certain video and also the exact comment you posted.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![your youtube comments date](https://images.wondershare.com/filmora/article-images/2022/11/your-youtube-comments-date.jpg)
 
 To see videos/comments you liked or disliked, please follow these steps as continuation:
@@ -201,10 +235,16 @@ Step4 In the **Google My Activity** tab, click **Other activity**.
 
 Step5 Scroll down and find **Comment Likes and Dislikes on YouTube** section. Click **View Comment Likes and Dislikes**.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![your comment likes and dislikes](https://images.wondershare.com/filmora/article-images/2022/11/your-comment-likes-and-dislikes.jpg)
 
 Now you will see the videos you liked or disliked and also the comments you liked or disliked, including the date when you liked or disliked the video/comment.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![date likes videos youtube](https://images.wondershare.com/filmora/article-images/2022/11/date-likes-videos-youtube.jpg)
 
 This article tells you that you can't see who liked or disliked a comment, but you can see how many likes or dislikes a comment got. Then go to any video you want, scroll down to the comment section, and see how many likes or dislikes a comment received.
@@ -213,6 +253,9 @@ This article tells you that you can't see who liked or disliked a comment, but y
 
 In this image, the following comments only got likes and no dislikes. That is why there are just written numbers on the like button and on the dislike button there are none.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Respond to Comments
 
 Don't ignore someone who has questioned you or written you a heartfelt note. Keep the conversation (and engagement) going by responding to comments.
@@ -280,3 +323,45 @@ Additionally, video creators can manually highlight commenters to mark them for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-10-best-screenshot-enhancers-iphoneandroid-sticker-magic/"><u>[New] 10 Best Screenshot Enhancers  IPhone/Android Sticker Magic</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-10-ultimate-high-res-4k-mirrorless-cams/"><u>[New] 10 Ultimate High-Res 4K Mirrorless Cams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-50plus-best-text-techniques-in-film-making/"><u>[New] 50+ Best Text Techniques in Film-Making</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-compreenas-guide-to-leveraging-ps-background-erasure-for-professional-results/"><u>[New] A Compreenas Guide to Leveraging PS Background Erasure for Professional Results</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-journey-through-colors-leading-tutorials-for-grading-and-correction/"><u>[New] A Journey Through Colors  Leading Tutorials for Grading & Correction</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-conquering-low-light-with-iphones-advanced-hdr-techniques/"><u>[Updated] Conquering Low Light with iPhone’s Advanced HDR Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-essential-iphone-photo-layout-principles-for-2024/"><u>10 Essential iPhone Photo Layout Principles for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-ultimate-virtual-worlds-for-party-gaming-for-2024/"><u>10 Ultimate Virtual Worlds for Party Gaming for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2023s-premier-action-cameras-for-ocean-thrills-for-2024/"><u>2023'S Premier Action Cameras for Ocean Thrills for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-step-by-step-approach-to-lut-application-in-ae/"><u>2024 Approved  A Step-by-Step Approach to LUT Application in AE</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-from-amateur-to-expert-audio-normalization-mastery-with-davinci-resolve/"><u>2024 Approved From Amateur to Expert Audio Normalization Mastery with DaVinci Resolve</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/action-camera-showdown-our-top-7-4k-picks-for-2024/"><u>Action Camera Showdown  Our Top 7 4K Picks for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/are-influencer-marketing-tactics-on-youtube-effective-for-long-term-success-for-2024/"><u>Are Influencer Marketing Tactics on YouTube Effective for Long-Term Success for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-windows-7-sound-output-with-updated-drivers/"><u>Boost Windows 7 Sound Output with Updated Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/ending-windows-10-screen-flip-mishap/"><u>Ending Windows 10 Screen Flip Mishap</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-refresh-and-revitalize-your-tiktok-persona/"><u>How To Refresh & Revitalize Your TikTok Persona</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-10-must-try-facial-editors-on-iphones-and-samsungs/"><u>In 2024, 10 Must-Try Facial Editors on iPhones and Samsungs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-closer-look-at-immersive-virtual-reality-tech/"><u>In 2024, A Closer Look at Immersive Virtual Reality Tech</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-comprehensible-list-of-the-leading-5-online-title-innovators/"><u>In 2024, A Comprehensible List of The Leading 5 Online Title Innovators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-deep-dive-prodigious-polarrs-editing-capabilities/"><u>In 2024, A Deep Dive  Prodigious Polarr's Editing Capabilities</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-15-plus-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone 15 Plus GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-xcover-6-pro-tactical-editionfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy XCover 6 Pro Tactical EditionFRP Lock</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-t2-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo T2 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-guide-top-10-intriguing-zooid-entries/"><u>In 2024, Ultimate Guide  Top 10 Intriguing Zooid Entries</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-maximize-your-reach-optimal-aspect-ratios-for-social-media-platforms/"><u>New Maximize Your Reach Optimal Aspect Ratios for Social Media Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transforming-brands-with-language-mastery-techniques/"><u>Transforming Brands with Language Mastery Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tricks-to-faster-periscope-live-feeds/"><u>Tricks to Faster Periscope Live Feeds</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/troubleshooting-tips-fixing-srt-from-premiere-freeze/"><u>Troubleshooting Tips  Fixing SRT From Premiere Freeze</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleash-creativity-the-premier-apps-for-picture-framing/"><u>Unleash Creativity  The Premier Apps for Picture Framing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleash-your-potential-on-telegram-a-comprehensive-marketing-guide/"><u>Unleash Your Potential on Telegram  A Comprehensive Marketing Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlock-your-creative-potential-top-10-free-photo-editors-for-mac-and-windows/"><u>Unlock Your Creative Potential  Top 10 Free Photo Editors for Mac & Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-asmrs-wellness-boost-for-you/"><u>Unlocking ASMR's Wellness Boost for You</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-professional-hdr-magic-in-adobes-photoshop/"><u>Unveiling Professional HDR Magic in Adobe's Photoshop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/virtual-wit-wizardry/"><u>Virtual Wit Wizardry</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/visual-learning-tips-for-video-editing-in-schools/"><u>Visual Learning  Tips for Video Editing in Schools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/vlc-media-recording-evaluation/"><u>VLC Media Recording Evaluation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/voice-command-technology-for-efficient-ppt-creation/"><u>Voice Command Technology for Efficient PPT Creation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/wondershare-photo-story-platinum/"><u>Wondershare Photo Story Platinum</u></a></li>
+</ul></div>

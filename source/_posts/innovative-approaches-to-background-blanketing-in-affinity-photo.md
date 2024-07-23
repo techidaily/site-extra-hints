@@ -1,7 +1,7 @@
 ---
 title: "Innovative Approaches to Background Blanketing in Affinity Photo"
-date: 2024-05-24T01:50:57.930Z
-updated: 2024-05-25T01:50:57.930Z
+date: 2024-07-22T13:12:09.847Z
+updated: 2024-07-23T13:12:09.847Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Innovative Approaches to Background Blanketing in Affinity Photo"
 excerpt: "This Article Describes Innovative Approaches to Background Blanketing in Affinity Photo"
 keywords: "Microscope Cinematics,Innovation in Microfilm,Film Techniques Micro,Novel Microscreening,Cinema at a Mini Scale,Advanced Microfilmmaking,Creative Micro Cinemagraphs"
-thumbnail: https://www.lifewire.com/thmb/PxQk0VwRv0aQS4nhoLTXFk73Cjc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/friends-using-their-smartphones-to-find-the-right-way-picjumbo-com-b7a48b5a7c7147e5b4f4e306245df52a.jpg
+thumbnail: https://thmb.techidaily.com/8a3dcbc1949f8fc1125959e7981cf826a5c632863c20a3e0bedcec7b541e0029.jpg
 ---
 
 ## Innovative Approaches to Background Blanketing in Affinity Photo
@@ -22,6 +22,9 @@ Affinity Photo is an image editor developed by Serif Ltd. in 2009 and is used by
 
 No matter you are a professional content creator or a newbie, we'll be discussing how to remove background in Affinity Photo. Let's explore how to use the good editing tool to be free of the stressful editing process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## How to Remove Affinity Photo to Remove Image's Background
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
@@ -34,6 +37,10 @@ Step1 In the first step, install the [Affinity Designer](https://affinity.serif.
 
 Now access the **Pixel Persona** section in the left corner of the software screen by clicking the **colored boxes** icon.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
@@ -42,6 +49,9 @@ Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and 
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -56,6 +66,9 @@ Step5 In the last step, press the **"Delete"** key on your keyboard to remove th
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -81,6 +94,9 @@ Step5 In this last step, you must deselect the outline around your subject. For 
 
 Finally, click **"File"** and select the **"Export"** option from the drop-down menu. Then, in the Export Settings menu, choose PNG and click **"Export"** to save your file on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** To save your image with a transparent background, do not export it in JPG file format.
@@ -119,12 +135,18 @@ And if you have any interests in finding free images to expand your resource, yo
 
 Hopefully, this article and video can help you create ideal images!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## The Best Alternative of Affinity Photo
 
 Since Affinity Photo is a desktop software available for a one-time purchase of $40.99, you might be looking for an online free alternative if you need more space or can afford the subscription fee.
 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -177,3 +199,45 @@ Hopefully, this article and video can help you create ideal images!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-7-comedy-youtube-video-ideas-that-funny-people-can-try/"><u>[New] 7 Comedy YouTube Video Ideas That Funny People Can Try</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-guide-to-top-5-free-windows-screen-recorders/"><u>[New] Comprehensive Guide to Top 5 Free Windows Screen Recorders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-engaging-content-creation-in-vlogging-scripts/"><u>[New] Mastering Engaging Content Creation in Vlogging Scripts</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-next-big-thing-in-viral-videos-will-likeeclipse-tiktoks-rise-for-2024/"><u>[New] Next Big Thing in Viral Videos  Will LikeEclipse TikTok's Rise for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-ultimate-guide-to-mobile-snapchat-recording/"><u>[Updated] 2024 Approved  The Ultimate Guide to Mobile Snapchat Recording</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comparing-gopro-and-yi-4k-cams-new-insights-on-high-speed-cameras/"><u>[Updated] Comparing GoPro and Yi 4K Cams  New Insights on High-Speed Cameras</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-complete-visual-field-review-with-cam/"><u>[Updated] Complete Visual Field Review with Cam</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensively-tackling-the-sony-fdr-x1000-action-gear/"><u>[Updated] Comprehensively Tackling the Sony FDR-X1000 Action Gear</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-gentle-sound-declines-with-logic-pro/"><u>[Updated] Crafting Gentle Sound Declines with Logic Pro</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-daily-digital-deluge-youtubes-prime-videos-ranked-1-10/"><u>[Updated] Daily Digital Deluge  YouTube's Prime Videos Ranked #1-10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-chat-room-to-screen-step-by-step-google-meet-youtube-streams/"><u>[Updated] From Chat Room to Screen  Step-by-Step Google Meet YouTube Streams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-blueprint-for-subtitle-distribution-on-tiktok-and-twitch/"><u>2024 Approved  Comprehensive Blueprint for Subtitle Distribution on TikTok and Twitch</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-review-of-slomo-video-capture-tool/"><u>2024 Approved  Comprehensive Review of SloMo Video Capture Tool</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-s-top-picks-professional-4k-video-editing-software-revealed/"><u>2024 Approved S Top Picks Professional 4K Video Editing Software Revealed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024s-best-cameras-unveiled-high-quality-videography/"><u>2024'S Best Cameras Unveiled - High-Quality Videography</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/5-essential-steps-to-create-viral-titles-online/"><u>5 Essential Steps to Create Viral Titles Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/add-shimmer-to-photos-illustrators-motion-blur-guide/"><u>Add Shimmer to Photos  Illustrator's Motion Blur Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/alliance-of-creativity-brands-and-youtubes-fusion/"><u>Alliance of Creativity  Brands and YouTube's Fusion</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/apex-elite-comprehensive-4k-touch-desktops/"><u>Apex Elite  Comprehensive 4K Touch Desktops</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/become-a-vr-trailblazer-with-your-mobile-device/"><u>Become a VR Trailblazer with Your Mobile Device</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-mobile-gif-apps-roundup-for-latest-phones/"><u>Best Mobile GIF Apps Roundup for Latest Phones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/brief-bliss-in-photo-collage-crafting-the-google-way/"><u>Brief Bliss in Photo Collage Crafting - The Google Way</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/broadcast-battle-obs-against-wirecast/"><u>Broadcast Battle  OBS Against Wirecast</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/complete-instruction-manual-for-telegram-desktop/"><u>Complete Instruction Manual for Telegram Desktop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-a-winning-live-broadcast-essentials-and-strategies-for-2024/"><u>Crafting a Winning Live Broadcast  Essentials and Strategies for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-striking-podcast-brand-identity-a-visual-guide-for-2024/"><u>Crafting Striking Podcast Brand Identity  A Visual Guide for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-the-perfect-tiktok-unbox-video-a-viewership-guide/"><u>Crafting the Perfect TikTok Unbox Video  A Viewership Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cropping-photos-why-does-imovie-adjust-video-sizes/"><u>Cropping Photos  Why Does iMovie Adjust Video Sizes?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-editing-mastering-photo-distortions-in-ps/"><u>Cutting-Edge Editing  Mastering Photo Distortions in PS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/finding-friends-films-and-snapshots-on-the-social-web-for-2024/"><u>Finding Friends’ Films & Snapshots on the Social Web for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-retro-with-fcp-simple-vhs-effect-techniques/"><u>Get Retro with FCP Simple VHS Effect Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-on-iphone-xs-max-5-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover deleted pictures on iPhone XS Max? 5 Best Solutions | Stellar</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-remove-iphone-13-mini-sim-lock-by-drfone-ios/"><u>How to Remove iPhone 13 mini SIM Lock?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-fs-view-strategies-for-premiere-pro/"><u>In 2024, Comprehensive FS View Strategies for Premiere Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-craft-digital-laughter-kapwing-meme-maker/"><u>In 2024, Craft Digital Laughter – Kapwing Meme Maker</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafted-perfection-transforming-pics-into-words-with-apps/"><u>In 2024, Crafted Perfection  Transforming Pics Into Words with Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-visual-narratives-with-premium-text-tools-in-ae/"><u>In 2024, Crafting Visual Narratives with Premium Text Tools in AE</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-slow-mo-magic-a-step-by-step-guide-to-kapwing/"><u>New Create Slow-Mo Magic A Step-by-Step Guide to Kapwing</u></a></li>
+</ul></div>

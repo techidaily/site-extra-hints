@@ -1,7 +1,7 @@
 ---
 title: "Grasping the Nuances in YouTube Viewer Reactions"
-date: 2024-05-24T01:16:06.613Z
-updated: 2024-05-25T01:16:06.613Z
+date: 2024-07-22T11:56:02.157Z
+updated: 2024-07-23T11:56:02.157Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Grasping the Nuances in YouTube Viewer Reactions"
 excerpt: "This Article Describes Grasping the Nuances in YouTube Viewer Reactions"
 keywords: "YouTube Reaction Analysis,Viewer Feedback Insights,Engagement Patterns on Youtube,Subscriber Response Study,Video Content Interpretation,Audience Emotion Tracking,Viewers' Sentiment Metrics"
-thumbnail: https://www.lifewire.com/thmb/o6McDSuDeFqDIE6DY0HYBnmGSPc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/shutterstock_426191389-599c5f019abed500113e8932.jpg
+thumbnail: https://thmb.techidaily.com/c6ed4dd6078fc00a4ccdd98c0ceccdb558ca50f259a821b95bf9be5b46566a3f.jpg
 ---
 
 ## Grasping the Nuances in YouTube Viewer Reactions
@@ -28,6 +28,9 @@ Unfortunately, when it comes to comment, YouTube can be a little clunky and time
 
 Want to become the master of moderation? Read on for everything you need to know about comments on YouTube, and get that conversation going. This is another article to help you make the best out of your YouTube channel.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What is YouTube Comment
 
 YouTube comments are an opportunity for the site's 1.7 million unique monthly visitors to share what they love, hate or simply must troll. It's like the internet own personal Thunderdome, but while it can be a place for negativity, YouTube comments can also be a powerful opportunity for positive community building and engagement.
@@ -72,10 +75,16 @@ To manage your comments on YouTube using a PC, the operating system does not mat
 
 Step1 Open your chosen browser, head to YouTube, then sign in to your Google/YouTube account if not already signed in.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
 Step3 From the drop down menu, select “History”.
@@ -88,6 +97,9 @@ Step5 To edit your comment, click on the “vertical ellipsis” (three vertical
 
 Step6 Make the necessary edits and choose “Save”.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Highlighted Comments and Replies on YouTube
 
 Among the comments you see on a video, you might notice some that YouTube has labeled “Highlighted Comment.” that label is specific to you, and only appears in your comments list. YouTube that you have a particular interest in a section of comments.
@@ -112,8 +124,14 @@ Retrieve a comment so that you can share it with others outside of YouTube.
 
 Comments history also contains the link to the video where you've left the comment along with the date and time when the comment was made. Clicking on this link will open the video page with your comment highlighted at the top of the comment section.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -150,3 +168,47 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/editing-essentials-rectify-faded-iphone-hdr-with-4-key-techniques-in-premiere-pro/"><u>[Editing Essentials] Rectify Faded iPhone HDR with 4 Key Techniques in Premiere Pro</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-leveraging-snapchat-for-professional-networking-and-sales/"><u>[New] 2024 Approved  Leveraging Snapchat for Professional Networking & Sales</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-digital-dialogue-mastery-connecting-with-viewers-flawlessly/"><u>[New] In 2024, Digital Dialogue Mastery  Connecting with Viewers Flawlessly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-media-techniques-for-mp3-extraction/"><u>[Updated] 2024 Approved  Instagram Media  Techniques for Mp3 Extraction</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-choreographed-ice-winter-olympics-highlights/"><u>[Updated] Choreographed Ice  Winter Olympics Highlights</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-tips-for-crafting-the-perfect-discord-profile-picture/"><u>[Updated] Tips for Crafting the Perfect Discord Profile Picture</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-best-volume-normalizers-how-to-normalize-audio-in-videos/"><u>2024 Approved Best Volume Normalizers How to Normalize Audio in Videos?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/a-new-dawn-for-music-creation-a-compilation-of-the-most-promising-ai-composers/"><u>A New Dawn for Music Creation A Compilation of the Most Promising AI Composers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/amplifying-your-videos-music-integration-on-win11/"><u>Amplifying Your Videos  Music Integration on Win11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/apex-design-studio-examination/"><u>Apex Design Studio Examination</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-bargain-4k-camera-deals/"><u>Best Bargain 4K Camera Deals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-binary-boundaries-metaverse-vs-multiverse/"><u>Beyond Binary Boundaries  Metaverse V/S Multiverse</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-the-cloudline-in-your-backyard-the-revolutionary-dji-spark-unveiled/"><u>Capturing the Cloudline in Your Backyard  The Revolutionary DJI Spark Unveiled</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/clear-your-face-to-face-video-hurdles-with-9-strategies-for-browsers/"><u>Clear Your Face-to-Face Video Hurdles with 9 Strategies for Browsers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/craft-your-narrative-implementing-inshot-transitions-professionally/"><u>Craft Your Narrative  Implementing Inshot Transitions Professionally</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-harmonious-mixes-the-audacity-crossfade-method/"><u>Crafting Harmonious Mixes  The Audacity Crossfade Method</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-top-notch-gopro-cinematography-step-by-step-for-2024/"><u>Crafting Top-Notch GoPro Cinematography  Step by Step for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/deciphering-snss-hdr-capabilities-and-comparisons/"><u>Deciphering SNS's HDR Capabilities and Comparisons</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/deep-dive-into-the-capabilities-of-yis-4k-hero/"><u>Deep Dive Into the Capabilities of YI's 4K Hero</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-content-iphones-and-podcasts/"><u>Discovering Content  IPhones and Podcasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/diving-into-benqs-bl2711u-a-professional-4k-monitor-analysis/"><u>Diving Into BenQ’s BL2711U - A Professional 4K Monitor Analysis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/drone-tech-present-implementation-and-future-vision/"><u>Drone Tech  Present Implementation & Future Vision</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/effective-ways-to-extend-gopro-battery-use/"><u>Effective Ways to Extend GoPro Battery Use</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevating-your-role-a-guide-to-exceptional-interviews/"><u>Elevating Your Role  A Guide to Exceptional Interviews</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-cameras-excelling-in-stability-perfect-for-action/"><u>Elite Cameras Excelling in Stability, Perfect for Action</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-selection-6-unmatched-tools-for-pristine-signature-edits/"><u>Elite Selection - 6 Unmatched Tools for Pristine Signature Edits</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-selection-of-10-camcorders-with-image-stability/"><u>Elite Selection of 10 Camcorders with Image Stability</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/eternal-skies-leading-long-duration-flight-drones/"><u>Eternal Skies  Leading Long-Duration Flight Drones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ethereal-3-encounter-spectre-4-ascends/"><u>Ethereal 3 Encounter  Spectre 4 Ascends</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exceptional-aspects-of-inexpensive-asmr-microphones/"><u>Exceptional Aspects of Inexpensive ASMR Microphones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-tips-for-navigating-the-telegram-online-experience/"><u>Expert Tips for Navigating the Telegram Online Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-free-animation-methods-onlineoffline/"><u>Exploring Free Animation Methods  Online/Offline</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exquisite-stop-motion-cinema-top-15-picks/"><u>Exquisite Stop-Motion Cinema - Top 15 Picks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Asus ROG Phone 7 Ultimate.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-x100-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from X100?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-15-pro-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone 15 Pro? Find the Best Solution Here</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-navigating-the-world-of-mp4-edits-on-apple-devices/"><u>In 2024, Navigating the World of MP4 Edits on Apple Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-next-gen-hd-video-transcription-app/"><u>In 2024, Next-Gen HD Video Transcription App</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-top-10-online-tools-to-turn-photos-into-videos/"><u>New In 2024, Top 10 Online Tools to Turn Photos Into Videos</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-uncovering-the-roars-of-legends-the-ultimate-collection-of-monster-audio/"><u>Updated In 2024, Uncovering the Roars of Legends The Ultimate Collection of Monster Audio</u></a></li>
+</ul></div>

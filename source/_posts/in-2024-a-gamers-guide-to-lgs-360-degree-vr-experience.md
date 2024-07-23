@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, A Gamer's Guide to LG's 360-Degree VR Experience\""
-date: 2024-05-24T01:41:01.378Z
-updated: 2024-05-25T01:41:01.378Z
+date: 2024-07-22T12:50:37.754Z
+updated: 2024-07-23T12:50:37.754Z
 tags: 
   - screen-recording
   - ai video
@@ -13,13 +13,16 @@ categories:
 description: "\"This Article Describes In 2024, A Gamer's Guide to LG's 360-Degree VR Experience\""
 excerpt: "\"This Article Describes In 2024, A Gamer's Guide to LG's 360-Degree VR Experience\""
 keywords: "\"VR Gaming Basics,LG VR Headset Review,360-Degree VR Games,LG OLED VR Experience,Virtual Reality Tech Guide,Immersive VR Play,Gaming in 360 Degrees\""
-thumbnail: https://www.lifewire.com/thmb/8JVTYE2c8KwSjdVqXKNOdeyAbEk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-163487467-d8687e19afcd430eaaabf62c550177a6.jpg
+thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e63ca3e1151548a8f471104b.jpg
 ---
 
 ## A Gamer's Guide to LG's 360-Degree VR Experience
 
 # LG 360 VR Headset Review
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -28,6 +31,108 @@ thumbnail: https://www.lifewire.com/thmb/8JVTYE2c8KwSjdVqXKNOdeyAbEk=/400x300/fi
 
 ## First Impression of LG 360 VR
 
+### Design of LG 360 VR
+
+ The 360 VR does not look like other headsets present in the market and in this occurrence, this is not a good feature. Certainly, it is tough, maybe terrible even, to make someone look cool while having a VR headset on their head. But with the design of 360 VR, it is quite sure that engineers have made no attempt to resolve this issue. The headset sports a look similar to what common in the 1980s imagined a futuristic invention would look like. It actually looks like a product with a low-cost, NHS-prescribed article for modifying poor vision.
+
+### Accessories of LG 360 VR
+
+ Since it is connected via USB Type-C connector, so the company provides it with the package. The adjustable lenses and their covers are present. A 3.5 mm jack is also present on the headset for the headphones which are also provided. Well, many other necessary things are also provided with.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Product Packaging of LG 360 VR
+
+ Well, the packaging is quite simple as all the other products of LG. It comes in a simple box will all the accessories in it. It is okay to say that the packaging is safe, but should be dealt with care, in the end, it is a delicate product. Everything looks good until it is inside the box.
+
+### How to Set up LG 360 VR headset
+
+* First of all, connect the USB connector of the headset on to your smartphone. It will take a few minutes. When the headset is on, the screen of your phone will become off, and now you can use your phone as a touchpad.
+* The headset will not work normally when it is connected to the LG G5 phone if you have connected LG Hi-Fi plus, LG CAM Plus or any other device that is not of the G5 module.
+* The LG 360 VR turns off if your phone remains idle without playing any video or application for a minimum of 15 minutes in order to save the battery of your phone.
+* Other than that, the headset will connect to the phone if the battery of your phone is too low or the phone is too hot.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
+### LG 360 VR Performance
+
+ When you ponder that it is the LG G5 phone that is actually doing all the work in terms of actually driving the 360 VR's practices, you would at least assume steady performance. We know that the G5 is one of the most influential smartphones present in the market, including an Adreno 530 GPU, Snapdragon 820 and a 4GB RAM. Unfortunately, the first experience with the 360 VR’s performance is unsatisfactory to say the minimum. Having a 920 x 720 resolution per eye, this headset provides a much lower resolution rate as compared to all other virtual reality headsets present in the market. Although using it is a rollercoaster ride through various mixed experiences.
+
+## Key features of the LG 360 VR headset
+
+* It has 1.88 inches IPS LCD display.
+* The PPE resolution is 920 x 720.
+* The PPI is 639.
+* It consists of adjustable lenses.
+* It has field-of-view of 80 degrees.
+* It is connected via USB Type-C.
+* A headphone jack of 3.5mm
+* A 6-axis proximity sensor is also present.
+* It weighs 116g
+* It’s an LG product.
+* Price is $220 approx.
+
+##### Pros
+
+* It can be a good option if you are using LG G5.
+* It can be something than nothing.
+* It can be a good gift to someone you don’t like.
+
+##### Cons
+
+* Its design is very poor.
+* It does not work properly
+* It is uncomfortable to wear
+* It is very expensive as compared to other headsets.
+* It also does not have any special apps to install
+* You can not experience the VR properly.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Comparison of Samsung Gear VR and LG 360 VR
+
+| |  LG 360 VR  | Samsung Gear VR                         |                                                                         |
+| ------------- | --------------------------------------- | ----------------------------------------------------------------------- |
+| Connection    | Via a USB-C cable                       | Via a Micro-USB connector                                               |
+| Dimensions    | 164.1x185.6x45.9mm with arms protracted | 92.6x201.9x116.4 mm                                                     |
+| Weight        | 134.4g                                  | 318g, 171g with phone                                                   |
+| Compatibility | Works with LG G5                        | Works with Samsung Galaxy S6, S6 Edge, S6 Edge+, Note 5, S7 and S7 Edge |
+| Resolution    | 960x720 pixels at 693ppi                | 1,280x1,440 pixels, at 518-577ppi also depends on phone                 |
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+### More about LG 360 VR headset
+
+ LG 360 VR is a virtual reality device designed by LG. It was actually released with LG G5 and used to promote this phone. LG 360 VR has an internal built-in display, unlike the Gear VR designed by Samsung, which also provides a unit plugging for power directly to the phone. The headset can be controlled from the smartphone screen by just tapping and swiping. LG, however, designed this device to enjoy the virtual reality experience, but the device is not up to the mark. If you haven’t bought this device yet, it is highly advised not to buy this one. It is not a very good design and its performance is also not very good.
+
+ However, with a cost of around $200 to $220, LG 360 VR is a very expensive device with a doubly cost of Samsung Gear VR. In addition to that, it only is compatible with LG G5\. Now, it was better if, with this price and compatibility of just one, 360 VR provided a better experience, but it is not a good device to use.
+
+ In crux, LG’s this device isn't somewhat you'd want to attire in public, and when you ponder that one of the assistances of a mobile headset is that you are not tied to a luxurious gaming rig, LG certainly should have put in some more energy when it comes to the design of 360 VR. If we are going to turn out to be a realm of VR zombies with headsets continually tied to our skulls, then we would probably want those units which let us live in style.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+Benjamin Arango
+
+Benjamin Arango is a writer and a lover of all things video.
+
+Follow @Benjamin Arango
+
+##### Benjamin Arango
+
+ Mar 27, 2024• Proven solutions
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## First Impression of LG 360 VR
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ### Design of LG 360 VR
 
  The 360 VR does not look like other headsets present in the market and in this occurrence, this is not a good feature. Certainly, it is tough, maybe terrible even, to make someone look cool while having a VR headset on their head. But with the design of 360 VR, it is quite sure that engineers have made no attempt to resolve this issue. The headset sports a look similar to what common in the 1980s imagined a futuristic invention would look like. It actually looks like a product with a low-cost, NHS-prescribed article for modifying poor vision.
@@ -90,6 +195,9 @@ thumbnail: https://www.lifewire.com/thmb/8JVTYE2c8KwSjdVqXKNOdeyAbEk=/400x300/fi
 | Compatibility | Works with LG G5                        | Works with Samsung Galaxy S6, S6 Edge, S6 Edge+, Note 5, S7 and S7 Edge |
 | Resolution    | 960x720 pixels at 693ppi                | 1,280x1,440 pixels, at 518-577ppi also depends on phone                 |
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### More about LG 360 VR headset
 
  LG 360 VR is a virtual reality device designed by LG. It was actually released with LG G5 and used to promote this phone. LG 360 VR has an internal built-in display, unlike the Gear VR designed by Samsung, which also provides a unit plugging for power directly to the phone. The headset can be controlled from the smartphone screen by just tapping and swiping. LG, however, designed this device to enjoy the virtual reality experience, but the device is not up to the mark. If you haven’t bought this device yet, it is highly advised not to buy this one. It is not a very good design and its performance is also not very good.
@@ -116,6 +224,9 @@ Follow @Benjamin Arango
 
  The 360 VR does not look like other headsets present in the market and in this occurrence, this is not a good feature. Certainly, it is tough, maybe terrible even, to make someone look cool while having a VR headset on their head. But with the design of 360 VR, it is quite sure that engineers have made no attempt to resolve this issue. The headset sports a look similar to what common in the 1980s imagined a futuristic invention would look like. It actually looks like a product with a low-cost, NHS-prescribed article for modifying poor vision.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Accessories of LG 360 VR
 
  Since it is connected via USB Type-C connector, so the company provides it with the package. The adjustable lenses and their covers are present. A 3.5 mm jack is also present on the headset for the headphones which are also provided. Well, many other necessary things are also provided with.
@@ -131,10 +242,16 @@ Follow @Benjamin Arango
 * The LG 360 VR turns off if your phone remains idle without playing any video or application for a minimum of 15 minutes in order to save the battery of your phone.
 * Other than that, the headset will connect to the phone if the battery of your phone is too low or the phone is too hot.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ### LG 360 VR Performance
 
  When you ponder that it is the LG G5 phone that is actually doing all the work in terms of actually driving the 360 VR's practices, you would at least assume steady performance. We know that the G5 is one of the most influential smartphones present in the market, including an Adreno 530 GPU, Snapdragon 820 and a 4GB RAM. Unfortunately, the first experience with the 360 VR’s performance is unsatisfactory to say the minimum. Having a 920 x 720 resolution per eye, this headset provides a much lower resolution rate as compared to all other virtual reality headsets present in the market. Although using it is a rollercoaster ride through various mixed experiences.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Key features of the LG 360 VR headset
 
 * It has 1.88 inches IPS LCD display.
@@ -164,6 +281,9 @@ Follow @Benjamin Arango
 * It also does not have any special apps to install
 * You can not experience the VR properly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### Comparison of Samsung Gear VR and LG 360 VR
 
 | |  LG 360 VR  | Samsung Gear VR                         |                                                                         |
@@ -182,6 +302,9 @@ Follow @Benjamin Arango
 
  In crux, LG’s this device isn't somewhat you'd want to attire in public, and when you ponder that one of the assistances of a mobile headset is that you are not tied to a luxurious gaming rig, LG certainly should have put in some more energy when it comes to the design of 360 VR. If we are going to turn out to be a realm of VR zombies with headsets continually tied to our skulls, then we would probably want those units which let us live in style.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -196,6 +319,9 @@ Follow @Benjamin Arango
 
 ## First Impression of LG 360 VR
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Design of LG 360 VR
 
  The 360 VR does not look like other headsets present in the market and in this occurrence, this is not a good feature. Certainly, it is tough, maybe terrible even, to make someone look cool while having a VR headset on their head. But with the design of 360 VR, it is quite sure that engineers have made no attempt to resolve this issue. The headset sports a look similar to what common in the 1980s imagined a futuristic invention would look like. It actually looks like a product with a low-cost, NHS-prescribed article for modifying poor vision.
@@ -204,6 +330,9 @@ Follow @Benjamin Arango
 
  Since it is connected via USB Type-C connector, so the company provides it with the package. The adjustable lenses and their covers are present. A 3.5 mm jack is also present on the headset for the headphones which are also provided. Well, many other necessary things are also provided with.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Product Packaging of LG 360 VR
 
  Well, the packaging is quite simple as all the other products of LG. It comes in a simple box will all the accessories in it. It is okay to say that the packaging is safe, but should be dealt with care, in the end, it is a delicate product. Everything looks good until it is inside the box.
@@ -215,10 +344,16 @@ Follow @Benjamin Arango
 * The LG 360 VR turns off if your phone remains idle without playing any video or application for a minimum of 15 minutes in order to save the battery of your phone.
 * Other than that, the headset will connect to the phone if the battery of your phone is too low or the phone is too hot.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### LG 360 VR Performance
 
  When you ponder that it is the LG G5 phone that is actually doing all the work in terms of actually driving the 360 VR's practices, you would at least assume steady performance. We know that the G5 is one of the most influential smartphones present in the market, including an Adreno 530 GPU, Snapdragon 820 and a 4GB RAM. Unfortunately, the first experience with the 360 VR’s performance is unsatisfactory to say the minimum. Having a 920 x 720 resolution per eye, this headset provides a much lower resolution rate as compared to all other virtual reality headsets present in the market. Although using it is a rollercoaster ride through various mixed experiences.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Key features of the LG 360 VR headset
 
 * It has 1.88 inches IPS LCD display.
@@ -248,6 +383,18 @@ Follow @Benjamin Arango
 * It also does not have any special apps to install
 * You can not experience the VR properly.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Comparison of Samsung Gear VR and LG 360 VR
 
 | |  LG 360 VR  | Samsung Gear VR                         |                                                                         |
@@ -266,90 +413,9 @@ Follow @Benjamin Arango
 
  In crux, LG’s this device isn't somewhat you'd want to attire in public, and when you ponder that one of the assistances of a mobile headset is that you are not tied to a luxurious gaming rig, LG certainly should have put in some more energy when it comes to the design of 360 VR. If we are going to turn out to be a realm of VR zombies with headsets continually tied to our skulls, then we would probably want those units which let us live in style.
 
-![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-Benjamin Arango
-
-Benjamin Arango is a writer and a lover of all things video.
-
-Follow @Benjamin Arango
-
-##### Benjamin Arango
-
- Mar 27, 2024• Proven solutions
-
-## First Impression of LG 360 VR
-
-### Design of LG 360 VR
-
- The 360 VR does not look like other headsets present in the market and in this occurrence, this is not a good feature. Certainly, it is tough, maybe terrible even, to make someone look cool while having a VR headset on their head. But with the design of 360 VR, it is quite sure that engineers have made no attempt to resolve this issue. The headset sports a look similar to what common in the 1980s imagined a futuristic invention would look like. It actually looks like a product with a low-cost, NHS-prescribed article for modifying poor vision.
-
-### Accessories of LG 360 VR
-
- Since it is connected via USB Type-C connector, so the company provides it with the package. The adjustable lenses and their covers are present. A 3.5 mm jack is also present on the headset for the headphones which are also provided. Well, many other necessary things are also provided with.
-
-### Product Packaging of LG 360 VR
-
- Well, the packaging is quite simple as all the other products of LG. It comes in a simple box will all the accessories in it. It is okay to say that the packaging is safe, but should be dealt with care, in the end, it is a delicate product. Everything looks good until it is inside the box.
-
-### How to Set up LG 360 VR headset
-
-* First of all, connect the USB connector of the headset on to your smartphone. It will take a few minutes. When the headset is on, the screen of your phone will become off, and now you can use your phone as a touchpad.
-* The headset will not work normally when it is connected to the LG G5 phone if you have connected LG Hi-Fi plus, LG CAM Plus or any other device that is not of the G5 module.
-* The LG 360 VR turns off if your phone remains idle without playing any video or application for a minimum of 15 minutes in order to save the battery of your phone.
-* Other than that, the headset will connect to the phone if the battery of your phone is too low or the phone is too hot.
-
-### LG 360 VR Performance
-
- When you ponder that it is the LG G5 phone that is actually doing all the work in terms of actually driving the 360 VR's practices, you would at least assume steady performance. We know that the G5 is one of the most influential smartphones present in the market, including an Adreno 530 GPU, Snapdragon 820 and a 4GB RAM. Unfortunately, the first experience with the 360 VR’s performance is unsatisfactory to say the minimum. Having a 920 x 720 resolution per eye, this headset provides a much lower resolution rate as compared to all other virtual reality headsets present in the market. Although using it is a rollercoaster ride through various mixed experiences.
-
-## Key features of the LG 360 VR headset
-
-* It has 1.88 inches IPS LCD display.
-* The PPE resolution is 920 x 720.
-* The PPI is 639.
-* It consists of adjustable lenses.
-* It has field-of-view of 80 degrees.
-* It is connected via USB Type-C.
-* A headphone jack of 3.5mm
-* A 6-axis proximity sensor is also present.
-* It weighs 116g
-* It’s an LG product.
-* Price is $220 approx.
-
-##### Pros
-
-* It can be a good option if you are using LG G5.
-* It can be something than nothing.
-* It can be a good gift to someone you don’t like.
-
-##### Cons
-
-* Its design is very poor.
-* It does not work properly
-* It is uncomfortable to wear
-* It is very expensive as compared to other headsets.
-* It also does not have any special apps to install
-* You can not experience the VR properly.
-
-### Comparison of Samsung Gear VR and LG 360 VR
-
-| |  LG 360 VR  | Samsung Gear VR                         |                                                                         |
-| ------------- | --------------------------------------- | ----------------------------------------------------------------------- |
-| Connection    | Via a USB-C cable                       | Via a Micro-USB connector                                               |
-| Dimensions    | 164.1x185.6x45.9mm with arms protracted | 92.6x201.9x116.4 mm                                                     |
-| Weight        | 134.4g                                  | 318g, 171g with phone                                                   |
-| Compatibility | Works with LG G5                        | Works with Samsung Galaxy S6, S6 Edge, S6 Edge+, Note 5, S7 and S7 Edge |
-| Resolution    | 960x720 pixels at 693ppi                | 1,280x1,440 pixels, at 518-577ppi also depends on phone                 |
-
-### More about LG 360 VR headset
-
- LG 360 VR is a virtual reality device designed by LG. It was actually released with LG G5 and used to promote this phone. LG 360 VR has an internal built-in display, unlike the Gear VR designed by Samsung, which also provides a unit plugging for power directly to the phone. The headset can be controlled from the smartphone screen by just tapping and swiping. LG, however, designed this device to enjoy the virtual reality experience, but the device is not up to the mark. If you haven’t bought this device yet, it is highly advised not to buy this one. It is not a very good design and its performance is also not very good.
-
- However, with a cost of around $200 to $220, LG 360 VR is a very expensive device with a doubly cost of Samsung Gear VR. In addition to that, it only is compatible with LG G5\. Now, it was better if, with this price and compatibility of just one, 360 VR provided a better experience, but it is not a good device to use.
-
- In crux, LG’s this device isn't somewhat you'd want to attire in public, and when you ponder that one of the assistances of a mobile headset is that you are not tied to a luxurious gaming rig, LG certainly should have put in some more energy when it comes to the design of 360 VR. If we are going to turn out to be a realm of VR zombies with headsets continually tied to our skulls, then we would probably want those units which let us live in style.
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -382,3 +448,37 @@ Follow @Benjamin Arango
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-a-comprehensible-guide-on-saving-instagram-story-content/"><u>[New] A Comprehensible Guide on Saving Instagram Story Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-a-convenient-compilation-finding-your-yt-comments-for-2024/"><u>[New] A Convenient Compilation  Finding Your YT Comments for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-behind-the-colorscape-a-look-at-hps-z32-x/"><u>[New] Behind the Colorscape  A Look at HP’s Z32 X</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-online-places-for-youtube-video-growth/"><u>[New] Best Online Places for YouTube Video Growth</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-streamlining-your-video-creation-ootd-on-a-mac/"><u>[Updated] 2024 Approved  Streamlining Your Video Creation  OOTD on a Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-audiophiles-pathway-selecting-video-audio/"><u>[Updated] Audiophile's Pathway  Selecting Video Audio</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-15-listeners-broadcasting-spaces/"><u>[Updated] Best 15 Listeners' Broadcasting Spaces</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-routes-to-collecting-visual-content/"><u>[Updated] Best Routes to Collecting Visual Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-yt-storytellers-for-enthralling-viewing-experience/"><u>[Updated] Best YT Storytellers for Enthralling Viewing Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-blurring-backgrounds-a-visual-hideaway-guide/"><u>[Updated] Blurring Backgrounds  A Visual Hideaway Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-9plus-ingenious-methods-for-online-cricket-viewing/"><u>[Updated] Unveiling 9+ Ingenious Methods for Online Cricket Viewing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-augmenting-flight-top-11-must-have-drone-accessories/"><u>2024 Approved  Augmenting Flight  Top 11 Must-Have Drone Accessories</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-benq-bl2711u-a-journey-through-professional-4k-display-tech/"><u>2024 Approved  BenQ BL2711U - A Journey Through Professional 4K Display Tech</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-eight-high-res-cinematography-systems/"><u>2024 Approved  Best Eight High-Res Cinematography Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-free-design-resources-in-after-effects-land/"><u>2024 Approved  Best Free Design Resources in After Effects Land</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-blueprinting-breathtaking-film-prologues/"><u>2024 Approved  Blueprinting Breathtaking Film Prologues</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-boost-your-imagery-title-placement-techniques-on-video-clips-with-photos/"><u>2024 Approved  Boost Your Imagery  Title Placement Techniques on Video Clips with Photos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beijings-frigid-triumph-in-winter-sports-2022-for-2024/"><u>Beijing's Frigid Triumph in Winter Sports, 2022 for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-mobile-and-desktop-mkv-software-for-2024/"><u>Best Mobile and Desktop MKV Software for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-engagement-on-youtube-by-adding-emojis-for-2024/"><u>Boost Engagement on YouTube by Adding Emojis for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/converting-youtube-audio-securely-master-3-proven-techniques/"><u>Converting YouTube Audio Securely  Master 3 Proven Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ng-edge-gadgets-for-elite-gamers/"><u>Cutting-Edge Gadgets for Elite Gamers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-vivo-x-flip-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo X Flip Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-audacitys-toolkit-for-exceptional-sound-recording/"><u>In 2024, Audacity's Toolkit for Exceptional Sound Recording</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-audience-peak-hours-crafting-release-dates/"><u>In 2024, Audience Peak Hours  Crafting Release Dates</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-microphone-combinations-for-superior-4k-audio-and-visuals/"><u>In 2024, Best Microphone Combinations for Superior 4K Audio and Visuals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-unsung-free-speech-to-text-apps-for-your-mac/"><u>In 2024, Best Unsung Free Speech-to-Text Apps for Your Mac</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-invisible-time-recording-expertise/"><u>In 2024, Invisible Time Recording Expertise</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-evolution-of-video-from-sdr-to-the-era-of-high-dynamic-range-for-2024/"><u>The Evolution of Video  From SDR to the Era of High Dynamic Range for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-unlock-maximum-engagement-how-to-resize-videos-for-social-media-success/"><u>Updated 2024 Approved Unlock Maximum Engagement How to Resize Videos for Social Media Success</u></a></li>
+</ul></div>

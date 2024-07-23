@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Advanced Text Tools & AE Plug-Ins\""
-date: 2024-05-24T02:15:52.685Z
-updated: 2024-05-25T02:15:52.685Z
+date: 2024-07-22T14:06:45.449Z
+updated: 2024-07-23T14:06:45.449Z
 tags: 
   - screen-recording
   - ai video
@@ -13,21 +13,30 @@ categories:
 description: "\"This Article Describes In 2024, Advanced Text Tools & AE Plug-Ins\""
 excerpt: "\"This Article Describes In 2024, Advanced Text Tools & AE Plug-Ins\""
 keywords: "\"Advanced Text Editing,AE Plugin Utilities,Text Enhancement Tools,Professional Text Aids,Extended Editor Features,Text Processor Add-Ons,High-End Writing Aids\""
-thumbnail: https://www.lifewire.com/thmb/-KuBjE_aYHQLnZOwvudepWv8DCg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1298709235-a050b193bcc846d9b90a48fb875b492d.jpg
+thumbnail: https://thmb.techidaily.com/3e4359dd584ef6e6b8909874d88727d66b87bd9dc8bc7dbf15b341990bd1a4b9.jpg
 ---
 
 ## Advanced Text Tools & AE Plug-Ins
 
 Adobe After Effects remains one of the most powerful ways to edit videos. One of the main reasons users find it so useful is the ability to customize the video editing process by adding different kinds of plugins to the program. If you are looking to add unique and fancy text to the video you are working on, then these text plugins for After Effects will come in handy.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## TextDelay
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
 
 TextDelay is a native plugin, meaning that you will find it already installed on After Effects. As the name suggests, you can use TextDelay to delay any other text transformations that you may add to the text and it allows you to delay these transformations by word, line, or even character. It comes with a range selector that allows you to have precise control over which characters can get the effect.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## TextExploder
 
 Link: <https://aescripts.com/textexploder/>
@@ -44,6 +53,13 @@ If you want to effectively use the After Effects expressions even if you are not
 
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## TextBox
 
 Link: <https://aescripts.com/textbox/>
@@ -52,14 +68,23 @@ If you want to create the perfect shape behind your text, then TextBox is a good
 
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Font Manager
 
 Link: <https://aescripts.com/font-manager/>
 
 Font Manager is an After Effects text plugin that is useful when creating and working with animated typefaces. You can use it to create the most complex animated text graphics in just a few simple clicks. You will also find it very familiar to use as the user interface is similar to the Character Panel in After Effects.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Cartoon Moblur
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
@@ -68,10 +93,16 @@ This is the most ideal plugin to choose when you want to add motion trail to the
 
 ![cartoon moblur plugin](https://images.wondershare.com/filmora/article-images/2022/07/cartoon-moblur-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Shadow Studio
 
 If you are looking for shadow styles that will go very well with your project, Shadow Studio is a good plugin to get. It offers you a wide variety of shadow styles including radial, inner, soft, and long shadows. Most people find it an easier and more affordable way to add soft shadows as compared to traditional methods like raytracing. It is also quite easy to use, meaning that shadow effects that would take hours to complete can be done in a matter of minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
 
 ## Texts Animation Bundle
@@ -96,6 +127,9 @@ Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
 
 This is another great text animation bundle with different options for just about any kind of project. But unlike other plugin bundles that only have a few effects to choose from, Text Library has thousands of templates to choose from. Once you have selected the template that you would like to use, you also get the option to customize the template to suit your project. You can customize the text, size, duration of the animation, and color. It is easy to use and is constantly updated to introduce even more templates with each update.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
 
 ## Conclusion
@@ -132,3 +166,44 @@ On its own After Effects comes with so many post-production effects and features
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-breakthrough-techniques-for-building-intricate-iphone-photo-collages/"><u>[New] Breakthrough Techniques for Building Intricate iPhone Photo Collages</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-calculating-cost-for-shooting-a-song-in-cinematic-style/"><u>[New] Calculating Cost for Shooting A Song in Cinematic Style</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-capture-still-shots-from-video-using-photos-on-windows-10/"><u>[New] Capture Still Shots From Video Using Photos on Windows 10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-cinemas-best-bites-for-video-editors/"><u>[New] Cinema's Best Bites for Video Editors</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-ensuring-authenticity-of-your-youtube-account-for-2024/"><u>[New] Ensuring Authenticity of Your YouTube Account for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exquisite-drone-fleet-the-pinnacle-of-visual-artistry/"><u>[New] Exquisite Drone Fleet  The Pinnacle of Visual Artistry</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-software-practices-for-transforming-pictures-into-films/"><u>[Updated] Best Software Practices for Transforming Pictures Into Films</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-better-balance-drones-7-leading-gimbals/"><u>[Updated] Better Balance  Drone's 7 Leading Gimbals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-big-sur-basics-system-and-hardware-checklist/"><u>[Updated] Big Sur Basics  System & Hardware Checklist</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-building-your-brand-on-instagram-the-top-9-actions-of-industry-stars/"><u>[Updated] Building Your Brand on Instagram  The Top 9 Actions of Industry Stars</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capturing-the-moment-expert-tips-for-amazing-android-slow-mo-videos/"><u>[Updated] Capturing the Moment  Expert Tips for Amazing Android Slow Mo Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-cinematic-cadence-top-cameras-for-elegant-slow-movement/"><u>[Updated] Cinematic Cadence  Top Cameras for Elegant Slow Movement</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-essential-techniques-for-vimeo-video-submission-from-mmc/"><u>[Updated] Essential Techniques for Vimeo Video Submission From MMC</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-screenshot-expertise-checker/"><u>[Updated] In 2024, ScreenShot Expertise Checker</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-superior-sonic-collectors-for-seminars/"><u>[Updated] In 2024, Superior Sonic Collectors for Seminars</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-your-search-securing-cool-images-at-pexels/"><u>[Updated] Master Your Search  Securing Cool Images at Pexels</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-bridging-silent-images-and-vocal-melodies/"><u>2024 Approved  Bridging Silent Images and Vocal Melodies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-brilliant-backdrops-using-light-to-enchant-audiences/"><u>2024 Approved  Brilliant Backdrops  Using Light to Enchant Audiences</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-calm-tales-on-screen-analyzing-parent-child-bedtime-videos/"><u>2024 Approved  Calm Tales on Screen  Analyzing Parent-Child Bedtime Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-compact-cost-free-livestreaming-solutions-listed-in-a-nutshell/"><u>2024 Approved  Compact, Cost-Free LiveStreaming Solutions Listed in a Nutshell</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-10-dynamic-image-backdrops-for-video-editing/"><u>2024 Approved  Top 10 Dynamic Image Backdrops for Video Editing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-the-power-of-any-video-with-these-free-online-editors/"><u>2024 Approved  Unlock the Power of Any Video With These Free Online Editors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/blueprint-of-unique-recording-gadgets-for-2024/"><u>Blueprint of Unique Recording Gadgets for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bridging-worlds-fusing-photos-into-majestic-tiles-for-2024/"><u>Bridging Worlds  Fusing Photos Into Majestic Tiles for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/champion-complimentary-timer-tech-for-2024/"><u>Champion Complimentary Timer Tech for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/complete-assessment-exploring-dji-inspire-1-for-2024/"><u>Complete Assessment  Exploring DJI Inspire 1 for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fresh-start-with-qualcomm-wireless-card-driver-installation/"><u>Fresh Start with Qualcomm Wireless Card Driver Installation</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/songs-to-symphony-building-a-cohesive-youtube-playlist-on-webapp-for-2024/"><u>From Songs to Symphony  Building a Cohesive YouTube Playlist on Web/App for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How To Use Special Features - Virtual Location On Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comparing-digital-dimensions-metaverse-and-multiverse/"><u>In 2024, Comparing Digital Dimensions  Metaverse & Multiverse</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-6-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 6 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/innovative-recording-solutions-for-dynamic-ppts-webcam-edition/"><u>Innovative Recording Solutions for Dynamic PPTs, Webcam Edition</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ry-in-captioning-a-youtube-creators-handbook/"><u>Mastery in Captioning  A YouTube Creator's Handbook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/ultimate-speed-strategy-for-facebook-video-uploads-and-downloads/"><u>Ultimate Speed Strategy for Facebook Video Uploads & Downloads</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/voice-memo-mastery-for-ios-users-step-by-step/"><u>Voice Memo Mastery for iOS Users Step-by-Step</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"Pigments & Perceptions  Mastering Image Colorization\""
-date: 2024-05-24T01:45:14.599Z
-updated: 2024-05-25T01:45:14.599Z
+date: 2024-07-22T12:59:41.305Z
+updated: 2024-07-23T12:59:41.305Z
 tags: 
   - screen-recording
   - ai video
@@ -13,15 +13,22 @@ categories:
 description: "\"This Article Describes Pigments & Perceptions: Mastering Image Colorization\""
 excerpt: "\"This Article Describes Pigments & Perceptions: Mastering Image Colorization\""
 keywords: "Colorize Images,Pigment Art,Color Enhancement,Image Coloring,Perceptual Shades,Image Palette,Masterful Hueing"
-thumbnail: https://www.lifewire.com/thmb/_ESCKrGf4KscxAma5r8uuPRFQ3I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/przemyslaw-marczynski-oCfkSnqZ0SI-unsplash-5f1aa0ae780b4fcbb38dfee122b9e552.jpg
+thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e64473e58f7a002cd7e0675d8bb.jpg
 ---
 
 ## Pigments & Perceptions: Mastering Image Colorization
 
 Everyone in the video editing world is full of lively and beautiful colors — just like the world we live in every day. But, if you've ever shot any film on a smartphone or a digital camera, you've probably observed the colors you see in real life don't always match up to what you want to see on your screen. In this article, you will grasp how and when to use the color grading process by stylizing the color scheme of your footage and its importance in your everyday film and video projects.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![color grading panel filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-panel-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## What is Color Grading?
 
 Color grading is the video editing process wherein grading (arranging) colors in a video or film to give them a stylistic look. It is different from Color correction because color correction is the process of correcting (fixing) colors in a video or a film as a way to get them back to what they should look like for your project or output.
@@ -62,16 +69,25 @@ Kindly see the details and steps on how to engage in color grading and color cor
 
 Then select the New Project to create a new project file and click Import to find and load your videos in local folders or portable media devices to the local media library. This software also allows you to add files with drag and drop. Then put them on the timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![put video to filmora cd](https://images.wondershare.com/filmora/article-images/2022/08/put-video-to-filmora-cd.jpg)
 
 ##### Step2There are 2 ways to color your video in Wondershare Filmora
 
 Advanced Color Tools icon – click the Advanced Color Tools icon in the toolbar to enter the advanced color tools window, where you can apply the preset templates or adjust the color coarsely. It is suggested to start with Presets for beginners, which will save you much time.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![advanced color tools filmora](https://images.wondershare.com/filmora/article-images/2022/08/advanced-color-tools-filmora.jpg)
 
 Color Panel Window - to perform color correction in Wondershare Filmora, switch to the Color tab. You can modify the white balance, saturation, tint, contrast, temperature, and brightness and apply 3D LUT immediately and quickly in this editing panel. You see the output in the Preview window.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![edit color grading video fx](https://images.wondershare.com/filmora/article-images/2022/08/edit-color-grading-video-fx.jpg)
 
 **Contrast**: is the variance in luminance or color that makes an object identifiable. By modifying this setting, control the dissimilarity in color and brightness in contrary parts of the video image.
@@ -98,10 +114,16 @@ Here, there are two options to select: The Color correction. It offers different
 
 First, you need to select the specific video portion you want to change the color. Just click the scissor icon or what we call split tool. In this case, I split the 2nd video when I zoom in on the subject.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![split video into clips fx](https://images.wondershare.com/filmora/article-images/2022/08/split-video-into-clips-fx.jpg)
 
 * And I selected the end portion of the video. After that, choose the part of the video.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![selected end portion video filmora](https://images.wondershare.com/filmora/article-images/2022/08/selected-end-portion-video-filmora.jpg)
 
 ##### Step3Apply the color correction preset that you want then click ok
@@ -130,6 +152,10 @@ You can modify the temperature, tint, white balance, contrast, saturation, and b
 
 Click the button Advanced at the lower corner, then the color grading window will pop up, and you can explore your settings and options.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![color grading with filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-with-filmora.jpg)
 
 **Color Histogram**
@@ -200,3 +226,41 @@ Overall, Color grading is the process of video editing to have an excellent look
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-compreehing-movavis-progress-an-in-depth-look-at-the-2024-edition/"><u>[New] Compreehing Movavi's Progress  An In-Depth Look at the 2024 Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-conceptualizing-and-realizing-a-podcast-rss-strategy/"><u>[New] Conceptualizing and Realizing a Podcast RSS Strategy</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/xclusive-guide-10-immersive-youtube-vr-films-for-2024/"><u>[New] Exclusive Guide  10 Immersive YouTube VR Films for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fading-out-the-louder-end-techniques-using-lumafusion/"><u>[New] Fading Out the Louder End  Techniques Using Lumafusion</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-the-art-of-closeup-essential-filmmaking-tips-for-2024/"><u>[New] Mastering the Art of Closeup  Essential Filmmaking Tips for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-choosing-spiritual-audio-for-your-cellphone/"><u>[Updated] Choosing Spiritual Audio for Your Cellphone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-chortlecove-app-where-laughter-thrives-online/"><u>[Updated] ChortleCove App - Where Laughter Thrives Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-chuckle-chasers-your-ultimate-list-of-funny-tools/"><u>[Updated] Chuckle Chasers  Your Ultimate List of Funny Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-color-grading-mastery-with-an-insight-into-lut-usage/"><u>[Updated] Color Grading Mastery with an Insight Into LUT Usage</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-cash-flow-chart-launching-a-successful-podcast/"><u>[Updated] Comprehensive Cash Flow Chart  Launching a Successful Podcast</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-craft-perfection-transforming-your-vhs-graphics-online/"><u>[Updated] Craft Perfection  Transforming Your VHS Graphics Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-compelling-narratives-with-wmm-and-animation-techniques/"><u>[Updated] Crafting Compelling Narratives with WMM and Animation Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-concealment-techniques-securing-image-integrity/"><u>2024 Approved  Concealment Techniques  Securing Image Integrity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-spectacular-time-lapses-from-gopro-hdrs/"><u>2024 Approved  Crafting Spectacular Time Lapses From GoPro HDRs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-the-ultimate-documentary-experience/"><u>2024 Approved  Crafting the Ultimate Documentary Experience</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-dont-let-lag-hold-you-back-top-8-fast-video-editing-software/"><u>2024 Approved Dont Let Lag Hold You Back Top 8 Fast Video Editing Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-systems-for-tracking-human-manoeuvres/"><u>Advanced Systems for Tracking Human Manoeuvres</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/affordable-asmr-magic-quality-audio-on-a-budget/"><u>Affordable ASMR Magic  Quality Audio on a Budget</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ai-naming-power-the-top-ten-podcast-renamers/"><u>AI Naming Power  The Top Ten Podcast Renamers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audio-visual-harmony-in-digital-photos/"><u>Audio-Visual Harmony in Digital Photos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/auditory-aesthetics-combining-sound-and-images-on-insta/"><u>Auditory Aesthetics  Combining Sound and Images on Insta</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/combat-firefox-video-lag-with-these-techniques-for-2024/"><u>Combat Firefox Video Lag with These Techniques for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-digital-worlds-the-essential-software-list-for-animators-for-2024/"><u>Crafting Digital Worlds  The Essential Software List for Animators for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-precise-time-indicators-in-youtubes-for-2024/"><u>Crafting Precise Time Indicators in YouTubes for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/four-approaches-to-airing-fb-live-on-tv-channels/"><u>Four Approaches to Airing FB Live on TV Channels</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-7-plus-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 7 Plus? How to Fix it?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-core-ideas-behind-online-story-crafting/"><u>In 2024, Core Ideas Behind Online Story Crafting</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-stunning-slideshows-on-iphone-series-13/"><u>In 2024, Crafting Stunning Slideshows on iPhone Series 13</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-11-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-want-to-clone-voices-in-real-time-explore-these-github-repositories/"><u>In 2024, Want to Clone Voices in Real-Time? Explore These GitHub Repositories</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/make-a-statement-with-these-online-photo-and-video-collage-tools-for-2024/"><u>Make a Statement with These Online Photo and Video Collage Tools for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-make-videos-like-a-pro-on-mac-top-rated-video-makers/"><u>New Make Videos Like a Pro on Mac Top-Rated Video Makers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-art-of-time-stopping-freeze-frame-techniques-for-stunning-videos/"><u>New The Art of Time-Stopping Freeze Frame Techniques for Stunning Videos</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-2024-approved-how-to-make-photo-motion-effect-online/"><u>Updated 2024 Approved How to Make Photo Motion Effect Online?</u></a></li>
+</ul></div>

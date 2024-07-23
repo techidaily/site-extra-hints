@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Audiovisual Harmony  Perfecting Voiceover in Videos\""
-date: 2024-05-24T01:01:11.431Z
-updated: 2024-05-25T01:01:11.431Z
+date: 2024-07-22T11:23:22.613Z
+updated: 2024-07-23T11:23:22.613Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Audiovisual Harmony: Perfecting Voiceover in Videos\""
 excerpt: "\"This Article Describes [Updated] Audiovisual Harmony: Perfecting Voiceover in Videos\""
 keywords: "\"Voiceover Balance,Audio-Visual Sync,Video Narration,Clear Speech Art,Sound Quality Improve,Harmonized Dialogue,Voice Clarity Tips\""
-thumbnail: https://www.lifewire.com/thmb/ptOMVF2coNQ3xHDjYSJNiDTf5gY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/search-error-e0cf43ae96b248189eb82768561c2087.png
+thumbnail: https://thmb.techidaily.com/fdb6c6b05c78c0b2bd4cfb049b84f9ca3dab160f0d2036dc5a1ad2aa416dd2a4.png
 ---
 
 ## Audiovisual Harmony: Perfecting Voiceover in Videos
@@ -42,18 +42,31 @@ For the purpose of this article, I will be using the term “voiceover and “na
 
 But here's the good news: the way you add either option is the same in Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![add either option](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to add narration
 
 So the easiest way to add narration is directly to a project. The benefit of this is that you can record your narration inside Filmora while you watch the preview of your edited video.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![add narration to project](https://images.wondershare.com/filmora/guide/stt-tts-srt-09.png)
 
 A good example of this would be narrating a story on top of some still images and video clips from a recent vacation. (In most cases you would want to turn off the sound of the video clip, or at least use ducking to help the viewer focus on the narration.)
 
 You put the playhead where you want to start recording and hit the microphone icon under the preview window.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![hit microphone icon](https://images.wondershare.com/filmora/guide/stt-tts-srt-08.png)
 
 A 3-second countdown will pop up and start recording immediately after this countdown.
@@ -80,6 +93,9 @@ Practice adding it to your videos to see how it adds depth and dimension to your
 
 It can also help make a connection with your audience because you can be relating to the images on the screen as they watch them. This is effective in building your YouTube audience.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Always use a good mic
 
 When adding voiceover or narration to your project, be sure to use a good USB microphone. A good quality sound will elevate your entire project and just requires a little planning.
@@ -88,6 +104,9 @@ When adding voiceover or narration to your project, be sure to use a good USB mi
 
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Should you use narration in your next project?
 
 The best way to learn something is by doing it. So the next time you record a video, think about how you could augment your video project with narration.
@@ -126,3 +145,60 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-12-best-free-video-players-and-apps-for-pc-and-mobile-device/"><u>[New] 12 Best Free Video Players and Apps for PC and Mobile Device</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-pro-tips-grab-your-chromebooks-screen-with-these-4-hacks/"><u>[New] 2024 Approved  Pro Tips  Grab Your Chromebook's Screen with These 4 Hacks</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-step-into-the-arena-joining-lives-on-tiktok/"><u>[New] 2024 Approved  Step Into the Arena  Joining Lives on TikTok</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-8-superb-tablet-titans-to-take-your-photo-editing-skills-further/"><u>[New] 8 Superb Tablet Titans to Take Your Photo Editing Skills Further</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-deeper-look-at-vivas-video-capabilities/"><u>[New] A Deeper Look at Viva's Video Capabilities</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-glimpse-into-virtual-frontiers-with-jaunt-vr/"><u>[New] A Glimpse Into Virtual Frontiers with Jaunt VR</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-action-cams-for-aspiring-filmmakers-2023-edition/"><u>[New] Action Cams for Aspiring Filmmakers - 2023 Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-an-insiders-view-on-creating-effective-slug-lines/"><u>[New] An Insider's View on Creating Effective Slug Lines</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-android-technique-transpose-digital-media-order/"><u>[New] Android Technique  Transpose Digital Media Order</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-androids-best-artistic-tools-top-10-creative-graphics-apps/"><u>[New] Android's Best Artistic Tools  Top 10 Creative Graphics Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-are-feedbacks-on-items-monetized-in-videos/"><u>[New] Are Feedbacks on Items Monetized in Videos?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10-must-have-features-for-optimal-free-srt-tools/"><u>[Updated] 10 Must-Have Features for Optimal Free SRT Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-livestream-quality-decision-opt-for-streamlabs-or-obs/"><u>[Updated] 2024 Approved  Livestream Quality Decision  Opt for Streamlabs or OBS?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-comprehensive-review-of-the-hp-envy-27s-4k-tech/"><u>[Updated] A Comprehensive Review of the HP Envy 27'S 4K Tech</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-adjusting-stream-velocity-in-netflix/"><u>[Updated] Adjusting Stream Velocity in Netflix</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-an-encyclopedia-on-hand-pose-identification-systems/"><u>[Updated] An Encyclopedia on Hand Pose Identification Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-android-video-from-end-to-beginning/"><u>[Updated] Android Video  From End to Beginning</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-apex-palette-adjuster/"><u>[Updated] Apex Palette Adjuster</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-tos-for-immersive-nba-livestream-watching/"><u>[Updated] How-To's for Immersive NBA Livestream Watching</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-supercharge-your-status-top-8-apps-for-boosting-facebook-popularity/"><u>[Updated] In 2024, Supercharge Your Status  Top 8 Apps for Boosting Facebook Popularity</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-previewed-activities-on-facebook-are-you-exposed/"><u>[Updated] Previewed Activities on Facebook  Are You Exposed?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitterscape-treasury-your-one-stop-shop-for-tweeted-gifs-for-2024/"><u>[Updated] Twitterscape Treasury  Your One-Stop Shop for Tweeted GIFs for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/12-amazing-websites-for-free-stock-photos-for-2024/"><u>12 Amazing Websites for Free Stock Photos for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-accompanying-audio-whatsapp-statement-boost/"><u>2024 Approved  Accompanying Audio  WhatsApp Statement Boost</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-addressing-distorted-media-on-youtube-platform/"><u>2024 Approved  Addressing Distorted Media on YouTube Platform</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-zoom-strategies-for-clarity-in-web-meetings/"><u>2024 Approved  Advanced Zoom Strategies for Clarity in Web Meetings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-are-we-impressed-the-full-on-evaluation-of-inshot-app/"><u>2024 Approved  Are We Impressed? The Full-On Evaluation of InShot App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-learn-everything-about-3d-lut-creator-and-mobile-app/"><u>2024 Approved  Learn Everything About 3D LUT Creator & Mobile App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/6-leading-nft-makers-elevating-artist-expression-for-2024/"><u>6 Leading NFT Makers Elevating Artist Expression for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/aerial-duels-unleashed-dji-spark-vs-gopro-black-session-for-2024/"><u>Aerial Duels Unleashed  DJi Spark vs GoPro Black Session for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/androids-best-speed-up-your-slow-video-for-2024/"><u>Android's Best  Speed Up Your Slow Video for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/apply-photo-motion-blur-in-adobe-photoshop-for-2024/"><u>Apply Photo Motion Blur in Adobe Photoshop for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-step-by-step-guide-to-google-photos-mastery/"><u>In 2024, A Step-by-Step Guide to Google Photos Mastery</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-14-design-techniques-for-text-animation/"><u>In 2024, Advanced 14 Design Techniques for Text Animation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-ae-text-excellence-discover-our-best-10-ideas/"><u>In 2024, AE Text Excellence  Discover Our Best 10 Ideas</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-all-encompassing-review-djis-inspire-1-drone/"><u>In 2024, All-Encompassing Review  DJI's Inspire 1 Drone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-audiences-choice-top-8-best-for-uhd-blu-ray/"><u>In 2024, Audience's Choice  Top 8 Best for UHD Blu-Ray</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-audio-calls-tracker-iphone-voice-memo/"><u>In 2024, Audio Calls Tracker  IPhone Voice Memo</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-driving-traffic-to-long-form-videos-via-shorts/"><u>In 2024, Driving Traffic to Long-Form Videos via Shorts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-frame-fastness-mastering-time-lapse-shots-with-samsung/"><u>In 2024, Frame Fastness  Mastering Time-Lapse Shots with Samsung</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fundamental-techniques-converting-visual-media-on-pinterest-to-mp3s/"><u>In 2024, Fundamental Techniques  Converting Visual Media on Pinterest To MP3s</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-tips-for-effective-mov-file-saving-on-windows-11/"><u>In 2024, Tips for Effective MOV File Saving on Windows 11</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-top-6-video-dubbing-tools-for-hilarious-edits/"><u>In 2024, Top 6 Video Dubbing Tools for Hilarious Edits</u></a></li>
+<li><a href="https://windows11.techidaily.com/redirecting-to-file-explorer-from-onedrive-menu/"><u>Redirecting to File Explorer From OneDrive Menu</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-sculpting-the-visual-narrative-a-composers-approach-to-transition-craftsmanship/"><u>Updated 2024 Approved Sculpting the Visual Narrative A Composers Approach to Transition Craftsmanship</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/visionarys-guide-top-5-slow-motion-tech/"><u>Visionary's Guide  Top 5 Slow-Motion Tech</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/visual-velocity-time-lapse-photography-with-samsung-gear/"><u>Visual Velocity  Time-Lapse Photography with Samsung Gear</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vivid-verdant-sets-unlock-your-film-potential-with-free-templates/"><u>Vivid Verdant Sets  Unlock Your Film Potential with Free Templates</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vr-liftoff-top-peripherals-and-their-impacts/"><u>VR Liftoff - Top Peripherals & Their Impacts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/your-step-by-step-apk-to-funimate-play/"><u>Your Step-by-Step APK to Funimate Play</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/zenithaiphotonix-reimagining-image-artistry/"><u>ZenithAiPhotonix  Reimagining Image Artistry</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/zipping-outcomes-turning-into-subrip-text-files/"><u>Zipping Outcomes  Turning Into SubRip Text Files</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"Windows Inspection  Rapid Execution Procedures\""
-date: 2024-06-09T20:52:04.988Z
-updated: 2024-06-10T20:52:04.988Z
+date: 2024-07-22T10:50:33.695Z
+updated: 2024-07-23T10:50:33.695Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,9 @@ Below is how to install and use QuickLook by Paddy Xu:
 
 Step1 Open Microsoft Store and search for QuickLook. Make sure you select the option published by Paddy Xu.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![search for quicklook for windows on Microsoft store](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-1.jpg)
 
 Step2 Once you find QuickLook, click “Get it” to download and install the app in your Windows operating system. At around 60MB, installing this preview app should be quick and easy.
@@ -40,6 +43,9 @@ Step3 After successfully installing QuickLook, head to File Explorer and select 
 
 Unfortunately, you won’t preview the content inside the document file. Instead, you’ll only see details like the file type/format, size, image name, and more. You can also directly choose the opening app. As for videos and audio, the media file will automatically play on the QuickLook media player. But don’t fret because the following section will teach you to read your documents, presentations, PDFs, and other files on QuickLook without opening the file.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Get the App on GitHub
 
 If you can’t find QuickLook on Microsoft Store for one reason or another, download the program from GitHub. It’s an open-source community where millions of software developers converge to distribute and share their work. Here, you can download and install multiple desktop programs and plugins for free. However, you must be a registered member to contribute any content.
@@ -48,6 +54,9 @@ So, without wasting time, let’s go through the steps to download the QuickLook
 
 Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and then navigate to Releases. Click the latest version.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
 
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
@@ -56,12 +65,23 @@ Step2 Scroll down and download the .msi file. After downloading the installation
 
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![install quicklook for windows plugins](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-5.jpg)
 
 Step4 After a successful installation, find the file you want to preview and select it. Then, tap the space bar to preview the files. And remember, browse ZIP files to view all content.
 
 **Pro tip**: We recommend installing the QuickLook OfficeViewer plugin to rip open your Office files and view the content inside. This method is recommended if you haven’t installed Microsoft Office on your PC. However, you might notice that the OfficeViewer plugin isn’t supported on your Windows PC. So to install OfficeViewer, select the file and click the space bar to preview it on QuickLook. Then, tap the “Click here to install this plugin” button. Now restart QuickLook and view all your office documents without opening them on their respective programs.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: Should We Expect Built-in Quick Look on Windows in the Future?
 
 Mac users have enjoyed the powerful QuickLook capabilities for at least 15 years. But are we going to see QuickLook coming to Windows 10/11 anytime soon? According to sources, plans are already underway to add this feature to Microsoft Windows and rename it Peek. After selecting a file on Explorer, simply tap the Shift + Space bar to preview the content. Like the macOS version, you can preview PDFs, Excels, Words, images, videos, audio, and pretty much anything.
@@ -84,6 +104,9 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 This guidepost is another testament that your PC has massive hidden abilities. With QuickLook for Windows, you can preview any document, image, or media file with a single click. And don’t forget to install the QuickLook plugins from GitHub to unlock the program’s full potential.
@@ -118,3 +141,45 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-ai-powered-frame-refactoring-suite/"><u>[New] AI-Powered Frame Refactoring Suite</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-find-your-inner-peace-with-tiktoks-best-country-tracks/"><u>[New] Find Your Inner Peace with TikTok's Best Country Tracks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-detailed-insights-into-camstudio-capture-functionality/"><u>[Updated] 2024 Approved  Detailed Insights Into CamStudio Capture Functionality</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/conduct-a-symphony-on-the-ppt-stage-for-2024/"><u>Conduct a Symphony on the PPT Stage for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-oneplus-ace-2-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass OnePlus Ace 2 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-6s-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6s Plus without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfect-your-iphone-writings-and-movies-with-optimal-tools/"><u>In 2024, Perfect Your iPhone' Writings & Movies With Optimal Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-pixels-to-perfection-youtubes-beauty-color-techniques/"><u>In 2024, Pixels to Perfection  Youtube's Beauty Color Techniques</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-transform-your-photos-into-engaging-mac-slideshows-with-ezvid/"><u>In 2024, Transform Your Photos Into Engaging Mac Slideshows with Ezvid</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-ultimate-screener-tech-the-choice-of-top-youtube-creators/"><u>In 2024, Ultimate Screener Tech  The Choice of Top YouTube Creators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-art-of-zip-to-srt-conversion/"><u>Mastering the Art of Zip to Srt Conversion</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/maximizing-engagement-a-pathway-to-higher-subscriber-numbers/"><u>Maximizing Engagement  A Pathway to Higher Subscriber Numbers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mememakerpro-visual-laughter-factory/"><u>MemeMakerPro  Visual Laughter Factory</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-through-the-world-of-ar-stickers-highlighting-google/"><u>Navigating Through the World of AR Stickers, Highlighting Google</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-through-video-editing-delight-filmoras-core-traits/"><u>Navigating Through Video Editing Delight  Filmora's Core Traits</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-6-best-voice-changers-for-chromebook-deserve-a-try/"><u>New 2024 Approved 6 Best Voice Changers for Chromebook Deserve a Try</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-final-cut-pro-tutorial-rotate-video-180-with-these-easy-steps/"><u>New 2024 Approved Final Cut Pro Tutorial Rotate Video 180° with These Easy Steps</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-split-audio-from-a-video-in-adobe-premiere-pro-step-by-step/"><u>New Split Audio From a Video in Adobe Premiere Pro Step by Step</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/picture-perfect-in-the-sky-discover-infinite-complimentary-and-paid-cloud-repositories/"><u>Picture Perfect in the Sky  Discover Infinite, Complimentary, & Paid Cloud Repositories</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pioneering-panoramic-photography-gear/"><u>Pioneering Panoramic Photography Gear</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/podcast-spotlight-listen-and-like-instantly/"><u>Podcast Spotlight  Listen and Like Instantly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-20-opening-melodies-in-animation/"><u>Prime 20 Opening Melodies in Animation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quantum-leap-in-photography-understanding-hdr/"><u>Quantum Leap in Photography  Understanding HDR</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionize-your-augmented-reality-graphics-using-custom-luts/"><u>Revolutionize Your Augmented Reality Graphics Using Custom LUTs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionizing-reality-superior-rift-players-evaluation/"><u>Revolutionizing Reality  Superior Rift Players Evaluation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sdr-vs-hdri-elevating-your-content-with-advanced-color-techniques/"><u>SDR Vs. HDRI  Elevating Your Content with Advanced Color Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/secure-value-discovering-the-top-7-artwork-to-nft-services/"><u>Secure Value  Discovering the Top 7 Artwork-to-NFT Services</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/securing-a-spot-on-apples-listings/"><u>Securing a Spot on Apple's Listings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/side-by-side-hero4-vs-hero5-analysis/"><u>Side by Side  Hero4 vs Hero5 Analysis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/skys-best-friends-top-11-drone-gear-for-phantom/"><u>Sky's Best Friends  Top 11 Drone Gear for Phantom</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/smooth-privacy-tear-away-facial-features/"><u>Smooth Privacy  Tear Away Facial Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/snapshot-sophistication-editing-to-dazzle/"><u>Snapshot Sophistication  Editing to Dazzle</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/spark-interest-with-animated-text-a-guide-for-instagram-storytellers/"><u>Spark Interest with Animated Text  A Guide for Instagram Storytellers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamline-your-twitter-videos-with-pro-convertors/"><u>Streamline Your Twitter Videos with Pro Convertors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/summit-build-lab-examination/"><u>Summit Build Lab Examination</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/superior-5-camera-background-modification-utilities/"><u>Superior 5 Camera Background Modification Utilities</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-apple-iphone-13-pro-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile Apple iPhone 13 Pro Before the Plan Expires</u></a></li>
+</ul></div>

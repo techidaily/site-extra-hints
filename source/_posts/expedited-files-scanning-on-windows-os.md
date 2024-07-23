@@ -1,7 +1,7 @@
 ---
 title: "Expedited Files Scanning on Windows OS"
-date: 2024-05-24T01:08:57.739Z
-updated: 2024-05-25T01:08:57.739Z
+date: 2024-07-22T11:40:19.445Z
+updated: 2024-07-23T11:40:19.445Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Expedited Files Scanning on Windows OS"
 excerpt: "This Article Describes Expedited Files Scanning on Windows OS"
 keywords: "Windows File Scan Quickly,Accelerated Windows Scanning,Fast Windows File Checkup,Rapid Windows File Analysis,Windows OS File Expediting,Speedy Files on Windows,Swift Windows Scanning Method"
-thumbnail: https://www.lifewire.com/thmb/XWiPQnVjiU8XjENHTS5xr_2oft4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/HBOMax-026fc6ed11044c39bbf2ee96a4fd91ff.jpg
+thumbnail: https://thmb.techidaily.com/560da63c54300a3a876ba2cfdab00c7431c7174d8c1f2c53836ffd296ae56332.jpg
 ---
 
 ## Expedited Files Scanning on Windows OS
@@ -30,16 +30,25 @@ Below is how to install and use QuickLook by Paddy Xu:
 
 Step1 Open Microsoft Store and search for QuickLook. Make sure you select the option published by Paddy Xu.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![search for quicklook for windows on Microsoft store](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-1.jpg)
 
 Step2 Once you find QuickLook, click “Get it” to download and install the app in your Windows operating system. At around 60MB, installing this preview app should be quick and easy.
 
 Step3 After successfully installing QuickLook, head to File Explorer and select any file you want to preview. Press the “Space” bar on your keyboard to view the file.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![preview video on quicklook for windows](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-2.jpg)
 
 Unfortunately, you won’t preview the content inside the document file. Instead, you’ll only see details like the file type/format, size, image name, and more. You can also directly choose the opening app. As for videos and audio, the media file will automatically play on the QuickLook media player. But don’t fret because the following section will teach you to read your documents, presentations, PDFs, and other files on QuickLook without opening the file.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: Get the App on GitHub
 
 If you can’t find QuickLook on Microsoft Store for one reason or another, download the program from GitHub. It’s an open-source community where millions of software developers converge to distribute and share their work. Here, you can download and install multiple desktop programs and plugins for free. However, you must be a registered member to contribute any content.
@@ -52,6 +61,9 @@ Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and
 
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![install the quicklook for windows msi](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-4.jpg)
 
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
@@ -62,6 +74,10 @@ Step4 After a successful installation, find the file you want to preview and sel
 
 **Pro tip**: We recommend installing the QuickLook OfficeViewer plugin to rip open your Office files and view the content inside. This method is recommended if you haven’t installed Microsoft Office on your PC. However, you might notice that the OfficeViewer plugin isn’t supported on your Windows PC. So to install OfficeViewer, select the file and click the space bar to preview it on QuickLook. Then, tap the “Click here to install this plugin” button. Now restart QuickLook and view all your office documents without opening them on their respective programs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Part 3: Should We Expect Built-in Quick Look on Windows in the Future?
 
 Mac users have enjoyed the powerful QuickLook capabilities for at least 15 years. But are we going to see QuickLook coming to Windows 10/11 anytime soon? According to sources, plans are already underway to add this feature to Microsoft Windows and rename it Peek. After selecting a file on Explorer, simply tap the Shift + Space bar to preview the content. Like the macOS version, you can preview PDFs, Excels, Words, images, videos, audio, and pretty much anything.
@@ -84,6 +100,9 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 This guidepost is another testament that your PC has massive hidden abilities. With QuickLook for Windows, you can preview any document, image, or media file with a single click. And don’t forget to install the QuickLook plugins from GitHub to unlock the program’s full potential.
@@ -118,3 +137,43 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-pure-capture-suite-ads-free-version/"><u>[New] 2024 Approved  Pure Capture Suite  Ads-Free Version</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-best-practices-in-fb-advertising-leading-video-trends/"><u>[New] Best Practices in FB Advertising  Leading Video Trends</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-connect-play-and-share-the-essentials-of-xbox-zoom/"><u>[New] Connect, Play and Share  The Essentials of Xbox Zoom</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-perfecting-your-shoot-selecting-quality-equipment/"><u>[New] Perfecting Your Shoot  Selecting Quality Equipment</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-access-all-audio-extracted-top-free-youtube-to-mp3-converter-guide-for-2024/"><u>[Updated] Access All Audio Extracted  Top Free YouTube to MP3 Converter Guide for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-finance-analysis-launching-a-podcasts-cost/"><u>[Updated] Comprehensive Finance Analysis  Launching a Podcast's Cost</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-srt-to-xmlssa-transformation-guide/"><u>[Updated] Comprehensive SRT to XML/SSA Transformation Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-flawless-free-download-of-youtube-video-covers-no-hurdles-in-2024/"><u>[Updated] Flawless Free Download of YouTube Video Covers - No Hurdles, In 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-mastering-mobile-screen-recording-in-snapchat/"><u>[Updated] In 2024, Mastering Mobile  Screen Recording in Snapchat</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-blueprint-for-youtube-educational-video-success-stories/"><u>[Updated] The Blueprint for YouTube Educational Video Success Stories</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unleash-speed-edit-windows-11-photos-like-a-pro-for-2024/"><u>[Updated] Unleash Speed  Edit Windows 11 Photos Like a Pro for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/30-probing-into-the-metaverse-key-ventures-deciphered/"><u>30 Probing Into the Metaverse  Key Ventures Deciphered</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/5-best-apps-blending-visual-storytelling-and-music/"><u>5 Best Apps Blending Visual Storytelling & Music</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-complete-overview-regulating-snapchats-video-velocity/"><u>A Complete Overview  Regulating Snapchat's Video Velocity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-step-by-step-guide-to-acquiring-elite-instagram-soundtracks-and-building-perfect-alarms/"><u>A Step-by-Step Guide to Acquiring Elite Instagram Soundtracks and Building Perfect Alarms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/adding-dimension-to-text-in-adobe-illustrator/"><u>Adding Dimension to Text in Adobe Illustrator</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/apply-stunning-radial-blur-to-enhance-digital-images/"><u>Apply Stunning Radial Blur to Enhance Digital Images</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/artistic-anomaly-top-10-unique-affordable-mac-drawers-free/"><u>Artistic Anomaly  Top 10 Unique, Affordable Mac Drawers (Free)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-audio-equipment-matched-with-4k-cameras/"><u>Best Audio Equipment Matched with 4K Cameras</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/build-a-custom-vr-device-diy-google-cardboard-guide/"><u>Build a Custom VR Device  DIY Google Cardboard Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-analysis-bublcams-360-vision/"><u>Comprehensive Analysis  Bublcam's 360 Vision</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-insights-on-simplified-hdr-processing/"><u>Comprehensive Insights on Simplified HDR Processing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprerante-guide-to-sierras-cloud-file-accessibility/"><u>Comprerante Guide to Sierra's Cloud File Accessibility</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cost-effective-cumulus-vault-for-colossal-archives/"><u>Cost-Effective Cumulus Vault for Colossal Archives</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crystal-lens-clearness-avoiding-videography-haze/"><u>Crystal Lens Clearness  Avoiding Videography Haze</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/customizing-iphone-tones-a-step-by-step-guide/"><u>Customizing iPhone Tones  A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discover-comprehensive-mac-art-app-selection/"><u>Discover Comprehensive Mac Art App Selection</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dive-deep-into-dreamy-asmr-scenarios-for-rest/"><u>Dive Deep Into Dreamy ASMR Scenarios for Rest</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2020-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2020) without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-13-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-pro-max-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 Pro Max to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-breathtaking-image-mosaics-step-by-step/"><u>In 2024, Crafting Breathtaking Image Mosaics Step-by-Step</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-mastering-audio-visual-integration-how-to-add-audio-to-video-using-premiere-pro/"><u>In 2024, Mastering Audio-Visual Integration How to Add Audio to Video Using Premiere Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-nikon-d500-reviewed-a-4k-photo-enthusiasts-dream/"><u>In 2024, Nikon D500 Reviewed  A 4K Photo Enthusiast's Dream</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/no-expense-required-remove-coffee-stains-from-iphone-photos/"><u>No Expense Required  Remove Coffee Stains From iPhone Photos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redefine-task-manager-welcome-panel-in-windows-11/"><u>Redefine Task Manager Welcome Panel in Windows 11</u></a></li>
+</ul></div>

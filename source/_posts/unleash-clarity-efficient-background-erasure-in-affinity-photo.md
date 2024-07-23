@@ -1,7 +1,7 @@
 ---
 title: "\"Unleash Clarity  Efficient Background Erasure in Affinity Photo\""
-date: 2024-05-24T00:47:21.341Z
-updated: 2024-05-25T00:47:21.341Z
+date: 2024-07-22T10:53:33.067Z
+updated: 2024-07-23T10:53:33.067Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes Unleash Clarity: Efficient Background Erasure in Affinity Photo\""
 excerpt: "\"This Article Describes Unleash Clarity: Efficient Background Erasure in Affinity Photo\""
 keywords: "\"Photo Erase Tech,Easy Photo Blur,Digital Shutter Silence,Clearer Imagery,Noise-Free Pictures,Quick Background Wipe,HDR Erase Method\""
-thumbnail: https://www.lifewire.com/thmb/rOP6RPwYPYGU4Gfqy_MXLAKHwIo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/this-is-too-stressful-1195222010-b89ca79861814454a37e0cab3e9d0719.jpg
+thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e896428761bc70aaa3b066e45.jpg
 ---
 
 ## Unleash Clarity: Efficient Background Erasure in Affinity Photo
@@ -26,6 +26,10 @@ No matter you are a professional content creator or a newbie, we'll be discussin
 
 Affinity Photo is a simple and easy-to-use editing software, and you can remove a background in it under two scenarios: remove a white or a busy background.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### How to Erase a White Background in Affinity Designer
 
 To erase a white background in Affinity Designer, do these steps:
@@ -34,14 +38,23 @@ Step1 In the first step, install the [Affinity Designer](https://affinity.serif.
 
 Now access the **Pixel Persona** section in the left corner of the software screen by clicking the **colored boxes** icon.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![accessing the pixel persona in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-pixel-persona-in-affinity-designer.png)
 
 Step2 Go to the **"Layers"** tab in the right pane, right-click your layer, and disable **"Lock."** Now right-click on your layer again, and select **"Rasterize"** to enable editing of specific parts of the image.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![unlocking the image layer in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/unlocking-the-image-layer-in-affinity-designer.png)
 
 Step3 To make a selection around your subject, first enable the **"Snap To Edges"** and **"Soft Edges"** feature from the top toolbar. This will help you automatically detect the edges and give it a more tapered finish.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![enabling snap to edges and soft edges in affinity designer](https://images.wondershare.com/filmora/article-images/2023/03/enabling-snap-to-edges-and-soft-edges-in-affinity-designer.png)
 
 Set your brush size using your keyboard's **left** and **right bracket** keys. Now, manually make a selection around your subject and white edges in the image as precisely as possible.
@@ -56,6 +69,9 @@ Step5 In the last step, press the **"Delete"** key on your keyboard to remove th
 
 Now, hit **"Control+D"** to deselect the selection. Alternatively, you can click **"Select"** in the top toolbar and choose the **"Deselect"** option. Finally, you can export your file using the **"File" > "Export"** option.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Remove a Busy Background in Affinity Designer
 
 If you want to remove a busy background of an image in the Affinity Designer software, follow these steps carefully:
@@ -91,6 +107,9 @@ Since Affinity Photo is a desktop software available for a one-time purchase of 
 
 Therefore, we recommend using [Wondershare PixCut](https://pixcut.wondershare.com/), an advanced AI-based online tool developed by[Wondershare Technology.](https://www.wondershare.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare pixcut for removing image background](https://images.wondershare.com/filmora/article-images/2023/03/wondershare-pixcut-for-removing-image-background.png)
 
 Editing experts recommend Wondershare PixCut as the best alternative to many editing problems. An AI-powered automatic editing tool, this software has quicker solutions for you when it comes to removing an image's background. Some of its many benefits are:
@@ -109,6 +128,10 @@ Editing experts recommend Wondershare PixCut as the best alternative to many edi
 * Paid and customized accounts for premium benefits.
 * Customized categories that include e-commerce, car dealership, social media, graphic designing, personal, and marketing use.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 This article discusses **removing a background in Affinity Photo**, whether the image has a white or a busy BG.
@@ -177,3 +200,53 @@ Hopefully, this article and video can help you create ideal images!
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unveiling-top-rated-video-recorders-for-windows/"><u>[New] 2024 Approved  Unveiling Top-Rated Video Recorders for Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-guide-to-vsco-camera-app/"><u>[Updated] Comprehensive Guide to VSCO Camera App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-the-perfect-blend-in-minutes-with-picshot/"><u>[Updated] Crafting the Perfect Blend in Minutes with Picshot</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-masterful-3d-design-best-animation-software-selection/"><u>[Updated] In 2024, Masterful 3D Design  Best Animation Software Selection</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-co-branded-narratives-for-youtube-audiences/"><u>2024 Approved  Crafting Co-Branded Narratives for YouTube Audiences</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-compelling-online-presentations-using-zoom-for-youtube-broadcasts/"><u>2024 Approved  Crafting Compelling Online Presentations  Using Zoom for YouTube Broadcasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-create-meme-with-imgflip/"><u>2024 Approved  Create Meme with Imgflip</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-transitions-techniques-for-audios/"><u>Advanced Transitions Techniques for Audios</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/agile-quick-windows-picture-sorter/"><u>Agile Quick Windows Picture Sorter</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/aural-alchemy-the-essence-of-crossfade-techniques/"><u>Aural Alchemy  The Essence of Crossfade Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beginners-top-8-camera-options-35mm-to-pands/"><u>Beginner’s Top 8 Camera Options (35Mm to P&S)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-electrolytes-for-hero5-authentic-and-3rd-party-companies/"><u>Best Electrolytes for Hero5 - Authentic & 3Rd Party Companies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boost-your-broadcast-three-steps-to-successful-youtube-streaming/"><u>Boost Your Broadcast  Three Steps to Successful YouTube Streaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capture-lifes-moments-flawlessly-phones-with-superior-image-stabilizing-tech/"><u>Capture Life's Moments Flawlessly  Phones with Superior Image Stabilizing Tech</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-time-live-photo-journey-to-video-vista/"><u>Capturing Time  Live Photo Journey to Video Vista</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cinematic-expertise-top-15-innovative-gopro-action-cam-look-ups/"><u>Cinematic Expertise  Top 15 Innovative GoPro Action Cam Look-Ups</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-guide-youtube-to-mpeg-transcoding/"><u>Comprehensive Guide  YouTube to MPEG Transcoding</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-compelling-visual-stories-with-engaging-voices/"><u>Crafting Compelling Visual Stories With Engaging Voices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creating-effective-fb-fundraising-posts/"><u>Creating Effective FB Fundraising Posts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creating-nfts-made-simple-a-starters-manual/"><u>Creating NFTs Made Simple  A Starter's Manual</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/decoding-the-art-of-backdrop-cleansing-in-figma-design/"><u>Decoding the Art of Backdrop Cleansing in Figma Design</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/demystifying-the-process-of-high-dynamic-range-in-photoshop/"><u>Demystifying the Process of High Dynamic Range in Photoshop</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/device-based-digital-recording-pcmac-plus-phone-edition/"><u>Device-Based Digital Recording  PC/Mac + Phone Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-new-ways-beyond-magix-acid-pro/"><u>Discovering New Ways Beyond Magix ACID Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ditching-xsplit-ideal-splitting-software/"><u>Ditching XSplit  Ideal Splitting Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/easy-tips-to-create-a-funny-meme/"><u>Easy Tips to Create a Funny Meme</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-vlogging-top-handhree-stabilizer-recommendations/"><u>Elevate Vlogging  Top Handhree Stabilizer Recommendations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-images-top-10-grid-organizers/"><u>Elevate Your Images  Top 10 Grid Organizers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevating-your-filmmaking-skills-on-the-windows-10-platform/"><u>Elevating Your Filmmaking Skills on the Windows 10 Platform</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevating-zoom-picture-quality-practical-suggestions/"><u>Elevating Zoom Picture Quality  Practical Suggestions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/eliminate-jitters-stabilizing-techniques-for-gopro-video/"><u>Eliminate Jitters  Stabilizing Techniques for GoPro Video</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enabling-pip-a-compreenas-guide-for-ios-macos-users/"><u>Enabling PIP  A Compreenas Guide for iOS, macOS Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhance-your-images-focus-and-blur-pro-tips/"><u>Enhance Your Images  Focus & Blur Pro Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-motorola-moto-g14-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Motorola Moto G14</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-boosting-your-snapstreak-essential-tips-and-tricks/"><u>In 2024, Boosting Your Snapstreak  Essential Tips and Tricks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-converting-moments-into-memorable-gifs/"><u>In 2024, Converting Moments Into Memorable GIFs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-cost-outline-for-composing-sounds-to-screen-titles/"><u>In 2024, Cost Outline for Composing Sounds to Screen-Titles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-a-harmonic-narrative-adding-youtube-music-to-vids/"><u>In 2024, Crafting a Harmonic Narrative  Adding YouTube Music to Vids</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-memorable-titles-a-comprehensible-ae-approach/"><u>In 2024, Crafting Memorable Titles  A Comprehensible AE Approach</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-iphone-6s-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For iPhone 6s</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimizing-your-fb-live-on-zoom-stream/"><u>In 2024, Optimizing Your FB Live on Zoom Stream</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-personal-emblem-creation-fashioning-an-exaggerated-self/"><u>In 2024, Personal Emblem Creation  Fashioning an Exaggerated Self</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-through-your-new-laptops-m1-max-clips/"><u>Navigating Through Your New Laptop's M1 Max Clips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/premium-video-starters-the-best-16-to-skyrocket-view-counts-for-2024/"><u>Premium Video Starters  The Best 16 to Skyrocket View Counts for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-zero-distraction-viewing-stripping-down-your-videos-acoustic-layers/"><u>Updated In 2024, Zero Distraction Viewing Stripping Down Your Videos Acoustic Layers</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-mastering-facebook-live-your-complete-guide-to-successful-streaming/"><u>Updated Mastering Facebook Live Your Complete Guide to Successful Streaming</u></a></li>
+</ul></div>

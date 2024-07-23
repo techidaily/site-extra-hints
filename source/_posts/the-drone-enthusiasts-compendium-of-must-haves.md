@@ -1,7 +1,7 @@
 ---
 title: "\"The Drone Enthusiast's Compendium of Must-Haves\""
-date: 2024-06-18T19:44:13.992Z
-updated: 2024-06-19T19:44:13.992Z
+date: 2024-07-22T12:21:21.622Z
+updated: 2024-07-23T12:21:21.622Z
 tags: 
   - screen-recording
   - ai video
@@ -28,16 +28,111 @@ thumbnail: https://thmb.techidaily.com/8357b168f14ad6299dbc663fee70693f53617c625
 
  Drone lovers always love to collect accessories that can improve performance of their drones. And the good news is that market is full of such collections and you can buy these accessories of parts at very cheap price. These additional parts are a kind of innovative extras for your drone and if you organize them properly with your system then they can soon provide impressive results. Here are few details about some of the best accessories that can enhance your flight experience with whole new appearance of your drone.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10 Must Have Drone Accessories/ Parts for Building your Own Drone
 
 #### 1. FPV System
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/fpv-system.jpg)
 
  FPV is abbreviation for First Person View. It is possible to connect your drone camera to remote device via Wi-Fi connection and then you can monitor all activities on LCD panel attached to that remote. One can also connect camera output directly to smart phone and then content can be streamed on real time basis. This feature is really useful for aerial photographers and videographers because it helps them to view all the shots properly and pre adjustments can be applied with ease. If you are thinking to enhance your experience further then one can buy [FPV Goggles](https://tools.techidaily.com/wondershare/filmora/download/).
 
 #### 2.Camera
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.wondershare.com/filmora/article-images/cameras-for-uav.jpg)
+
+ Drone is an entertaining unit but it can also work like a real time spy when a camera is attached on its top. It will help you to record every detail on the way and users can view everything on their smart phones using FPV technology. Most of the drones offer cameras with 1080p resolution capabilities whereas few advanced ones can be adjusted to 4K resolution levels and details can also be reduced to 720p for few applications. Note that, when a camera is mounted on drone then it increases overall weight of the system so it will naturally reduce the overall flight time.
+
+#### 3.3 Axis Gimbal
+
+![](https://images.wondershare.com/filmora/article-images/3-axis-gimbal.jpg)
+
+ There is no doubt to say that [Gimbals](https://tools.techidaily.com/wondershare/filmora/download/) are a smart addition to the world of drones that occupy camera units on the top. These gimbals help to stabilize camera footage even during harsh weather conditions. Once you get your gimbals installed with drone camera then you can expect shake free, vibration free and stable video from camera. Drones commonly have two types of gimbal adjustments: it can be either two axis type of it can be 3-axis type. Both have different impact on shooting where 3-axis is naturally a better choice for higher level of stabilization and it is useful for professional videographers.
+
+#### 4.Battery
+
+![](https://images.wondershare.com/filmora/article-images/batteries-for-drone.jpg)
+
+[Batteries](https://tools.techidaily.com/wondershare/filmora/download/) help drones to gain power for their actions. The overall flight time of a drone actually depends upon its battery thus it is considered as one of the most essential accessory for drone enthusiast. Generally, drone packages come with additional batteries when you have ordered a unit with removable batteries otherwise you need to take a break every time to get this battery charged. A drone pilot is always happy to see his drone battery full as it leads to biggest pleasure in air but one must have proper arrangements for discharged batteries.
+
+#### 5.Landing Pad
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
+![](https://images.wondershare.com/filmora/article-images/landing-pand-for-drones.jpg)
+
+ Many professional drone users love to install additional landing pads to their drones as it helps to make landing movement much smoother. It is like an additional physical space between ground and drone that keeps it safe from damage while landing fast on ground from huge height. These landing gears use to absorb shock at the time of landing and naturally minimized the chances of drone damage. But the disadvantage is that it adds up some weight to this structure and causes some reduction in overall flight time. Prefer to pick a landing gear that is made up of carbon fiber material as it uses to have more strength to weight ratio.
+
+#### 6.Transmitter/Controller
+
+ If you want to use your drone for professional aerial videography or photography then it is essential to have specially designed controllers or transmitters. When you have to switch from auto pilot mode to manual mode then this controller will help you to organise flight in much better manner. These transmitters provide additional control over flights when you drone is in the air. Most of the drones include these controllers in basic package whereas for others you need to buy additional from stores.
+
+#### 7.Propeller Guards
+
+![](https://images.wondershare.com/filmora/article-images/propeller-guards.jpg)
+
+ Here is one more essential accessory for your drone; these propeller guards are more useful to those users who organize drone fights in air with friends. These guards help to protect propellers installed on a drone unit at the time of crashes or collisions. They are essential for ensuring long life of a drone unit.
+
+#### 8.Extra Propellers
+
+ As we already considered the important of propellers for drone units as they use to protect propellers but in case if somehow your propellers suffer a damage then you may need to replace them with new one. It is good to think smart and always stay ready with additional pair of propellers for your device. They are very affordable accessories and can be easily ordered online. The best part is that you can easily replace your propellers with do it yourself procedures and your drone will soon be ready to take a flight in air.
+
+#### 9.Micro Cards
+
+ Micro SD cards that are used for drones use to be same as that of other common memory cards that we all have in our smart phones. If you have a camera type drone then it is essential to have a memory card installed inside your unit where footage can be saved at the time of recording. All drones possess different memory card handling capabilities so you need to check their specifications before buying a new one. Prefer to pick one with class 10 rating to have impressive results and better compatibility. Generally the file size of 4K recorded footage will be much higher as compared to 720p recording so your memory card must be capable enough to handle that size.
+
+#### 10.Carrying Case
+
+![](https://images.wondershare.com/filmora/article-images/carrying-case-for-drone.jpg)
+
+ Drones are not just a toy, this is a big investment for your passion thus one needs to make proper arrangements to keep it safe. One of the most important tasks that every drone lover use to do is buy a good quality case of protective housing for their drone where it can reside safely. We are not talking about a normal polybag or backpack rather you need to spend one a bag that is specially designed for drones and can keep all essential accessories safely inside. Even, it must be capable enough to carry those big propellers.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ Drone lovers always love to collect accessories that can improve performance of their drones. And the good news is that market is full of such collections and you can buy these accessories of parts at very cheap price. These additional parts are a kind of innovative extras for your drone and if you organize them properly with your system then they can soon provide impressive results. Here are few details about some of the best accessories that can enhance your flight experience with whole new appearance of your drone.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 10 Must Have Drone Accessories/ Parts for Building your Own Drone
+
+#### 1. FPV System
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.wondershare.com/filmora/article-images/fpv-system.jpg)
+
+ FPV is abbreviation for First Person View. It is possible to connect your drone camera to remote device via Wi-Fi connection and then you can monitor all activities on LCD panel attached to that remote. One can also connect camera output directly to smart phone and then content can be streamed on real time basis. This feature is really useful for aerial photographers and videographers because it helps them to view all the shots properly and pre adjustments can be applied with ease. If you are thinking to enhance your experience further then one can buy [FPV Goggles](https://tools.techidaily.com/wondershare/filmora/download/).
+
+#### 2.Camera
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/cameras-for-uav.jpg)
 
  Drone is an entertaining unit but it can also work like a real time spy when a camera is attached on its top. It will help you to record every detail on the way and users can view everything on their smart phones using FPV technology. Most of the drones offer cameras with 1080p resolution capabilities whereas few advanced ones can be adjusted to 4K resolution levels and details can also be reduced to 720p for few applications. Note that, when a camera is mounted on drone then it increases overall weight of the system so it will naturally reduce the overall flight time.
@@ -66,6 +161,88 @@ thumbnail: https://thmb.techidaily.com/8357b168f14ad6299dbc663fee70693f53617c625
 
 #### 7.Propeller Guards
 
+![](https://images.wondershare.com/filmora/article-images/propeller-guards.jpg)
+
+ Here is one more essential accessory for your drone; these propeller guards are more useful to those users who organize drone fights in air with friends. These guards help to protect propellers installed on a drone unit at the time of crashes or collisions. They are essential for ensuring long life of a drone unit.
+
+#### 8.Extra Propellers
+
+ As we already considered the important of propellers for drone units as they use to protect propellers but in case if somehow your propellers suffer a damage then you may need to replace them with new one. It is good to think smart and always stay ready with additional pair of propellers for your device. They are very affordable accessories and can be easily ordered online. The best part is that you can easily replace your propellers with do it yourself procedures and your drone will soon be ready to take a flight in air.
+
+#### 9.Micro Cards
+
+ Micro SD cards that are used for drones use to be same as that of other common memory cards that we all have in our smart phones. If you have a camera type drone then it is essential to have a memory card installed inside your unit where footage can be saved at the time of recording. All drones possess different memory card handling capabilities so you need to check their specifications before buying a new one. Prefer to pick one with class 10 rating to have impressive results and better compatibility. Generally the file size of 4K recorded footage will be much higher as compared to 720p recording so your memory card must be capable enough to handle that size.
+
+#### 10.Carrying Case
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
+![](https://images.wondershare.com/filmora/article-images/carrying-case-for-drone.jpg)
+
+ Drones are not just a toy, this is a big investment for your passion thus one needs to make proper arrangements to keep it safe. One of the most important tasks that every drone lover use to do is buy a good quality case of protective housing for their drone where it can reside safely. We are not talking about a normal polybag or backpack rather you need to spend one a bag that is specially designed for drones and can keep all essential accessories safely inside. Even, it must be capable enough to carry those big propellers.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ Drone lovers always love to collect accessories that can improve performance of their drones. And the good news is that market is full of such collections and you can buy these accessories of parts at very cheap price. These additional parts are a kind of innovative extras for your drone and if you organize them properly with your system then they can soon provide impressive results. Here are few details about some of the best accessories that can enhance your flight experience with whole new appearance of your drone.
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 10 Must Have Drone Accessories/ Parts for Building your Own Drone
+
+#### 1. FPV System
+
+![](https://images.wondershare.com/filmora/article-images/fpv-system.jpg)
+
+ FPV is abbreviation for First Person View. It is possible to connect your drone camera to remote device via Wi-Fi connection and then you can monitor all activities on LCD panel attached to that remote. One can also connect camera output directly to smart phone and then content can be streamed on real time basis. This feature is really useful for aerial photographers and videographers because it helps them to view all the shots properly and pre adjustments can be applied with ease. If you are thinking to enhance your experience further then one can buy [FPV Goggles](https://tools.techidaily.com/wondershare/filmora/download/).
+
+#### 2.Camera
+
+![](https://images.wondershare.com/filmora/article-images/cameras-for-uav.jpg)
+
+ Drone is an entertaining unit but it can also work like a real time spy when a camera is attached on its top. It will help you to record every detail on the way and users can view everything on their smart phones using FPV technology. Most of the drones offer cameras with 1080p resolution capabilities whereas few advanced ones can be adjusted to 4K resolution levels and details can also be reduced to 720p for few applications. Note that, when a camera is mounted on drone then it increases overall weight of the system so it will naturally reduce the overall flight time.
+
+#### 3.3 Axis Gimbal
+
+![](https://images.wondershare.com/filmora/article-images/3-axis-gimbal.jpg)
+
+ There is no doubt to say that [Gimbals](https://tools.techidaily.com/wondershare/filmora/download/) are a smart addition to the world of drones that occupy camera units on the top. These gimbals help to stabilize camera footage even during harsh weather conditions. Once you get your gimbals installed with drone camera then you can expect shake free, vibration free and stable video from camera. Drones commonly have two types of gimbal adjustments: it can be either two axis type of it can be 3-axis type. Both have different impact on shooting where 3-axis is naturally a better choice for higher level of stabilization and it is useful for professional videographers.
+
+#### 4.Battery
+
+![](https://images.wondershare.com/filmora/article-images/batteries-for-drone.jpg)
+
+[Batteries](https://tools.techidaily.com/wondershare/filmora/download/) help drones to gain power for their actions. The overall flight time of a drone actually depends upon its battery thus it is considered as one of the most essential accessory for drone enthusiast. Generally, drone packages come with additional batteries when you have ordered a unit with removable batteries otherwise you need to take a break every time to get this battery charged. A drone pilot is always happy to see his drone battery full as it leads to biggest pleasure in air but one must have proper arrangements for discharged batteries.
+
+#### 5.Landing Pad
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.wondershare.com/filmora/article-images/landing-pand-for-drones.jpg)
+
+ Many professional drone users love to install additional landing pads to their drones as it helps to make landing movement much smoother. It is like an additional physical space between ground and drone that keeps it safe from damage while landing fast on ground from huge height. These landing gears use to absorb shock at the time of landing and naturally minimized the chances of drone damage. But the disadvantage is that it adds up some weight to this structure and causes some reduction in overall flight time. Prefer to pick a landing gear that is made up of carbon fiber material as it uses to have more strength to weight ratio.
+
+#### 6.Transmitter/Controller
+
+ If you want to use your drone for professional aerial videography or photography then it is essential to have specially designed controllers or transmitters. When you have to switch from auto pilot mode to manual mode then this controller will help you to organise flight in much better manner. These transmitters provide additional control over flights when you drone is in the air. Most of the drones include these controllers in basic package whereas for others you need to buy additional from stores.
+
+#### 7.Propeller Guards
+
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/propeller-guards.jpg)
 
  Here is one more essential accessory for your drone; these propeller guards are more useful to those users who organize drone fights in air with friends. These guards help to protect propellers installed on a drone unit at the time of crashes or collisions. They are essential for ensuring long life of a drone unit.
@@ -108,6 +285,9 @@ Follow @Max Wales
 
 #### 2.Camera
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/cameras-for-uav.jpg)
 
  Drone is an entertaining unit but it can also work like a real time spy when a camera is attached on its top. It will help you to record every detail on the way and users can view everything on their smart phones using FPV technology. Most of the drones offer cameras with 1080p resolution capabilities whereas few advanced ones can be adjusted to 4K resolution levels and details can also be reduced to 720p for few applications. Note that, when a camera is mounted on drone then it increases overall weight of the system so it will naturally reduce the overall flight time.
@@ -120,12 +300,18 @@ Follow @Max Wales
 
 #### 4.Battery
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/batteries-for-drone.jpg)
 
 [Batteries](https://tools.techidaily.com/wondershare/filmora/download/) help drones to gain power for their actions. The overall flight time of a drone actually depends upon its battery thus it is considered as one of the most essential accessory for drone enthusiast. Generally, drone packages come with additional batteries when you have ordered a unit with removable batteries otherwise you need to take a break every time to get this battery charged. A drone pilot is always happy to see his drone battery full as it leads to biggest pleasure in air but one must have proper arrangements for discharged batteries.
 
 #### 5.Landing Pad
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/landing-pand-for-drones.jpg)
 
  Many professional drone users love to install additional landing pads to their drones as it helps to make landing movement much smoother. It is like an additional physical space between ground and drone that keeps it safe from damage while landing fast on ground from huge height. These landing gears use to absorb shock at the time of landing and naturally minimized the chances of drone damage. But the disadvantage is that it adds up some weight to this structure and causes some reduction in overall flight time. Prefer to pick a landing gear that is made up of carbon fiber material as it uses to have more strength to weight ratio.
@@ -136,6 +322,9 @@ Follow @Max Wales
 
 #### 7.Propeller Guards
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/propeller-guards.jpg)
 
  Here is one more essential accessory for your drone; these propeller guards are more useful to those users who organize drone fights in air with friends. These guards help to protect propellers installed on a drone unit at the time of crashes or collisions. They are essential for ensuring long life of a drone unit.
@@ -150,146 +339,9 @@ Follow @Max Wales
 
 #### 10.Carrying Case
 
-![](https://images.wondershare.com/filmora/article-images/carrying-case-for-drone.jpg)
-
- Drones are not just a toy, this is a big investment for your passion thus one needs to make proper arrangements to keep it safe. One of the most important tasks that every drone lover use to do is buy a good quality case of protective housing for their drone where it can reside safely. We are not talking about a normal polybag or backpack rather you need to spend one a bag that is specially designed for drones and can keep all essential accessories safely inside. Even, it must be capable enough to carry those big propellers.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- Drone lovers always love to collect accessories that can improve performance of their drones. And the good news is that market is full of such collections and you can buy these accessories of parts at very cheap price. These additional parts are a kind of innovative extras for your drone and if you organize them properly with your system then they can soon provide impressive results. Here are few details about some of the best accessories that can enhance your flight experience with whole new appearance of your drone.
-
-## 10 Must Have Drone Accessories/ Parts for Building your Own Drone
-
-#### 1. FPV System
-
-![](https://images.wondershare.com/filmora/article-images/fpv-system.jpg)
-
- FPV is abbreviation for First Person View. It is possible to connect your drone camera to remote device via Wi-Fi connection and then you can monitor all activities on LCD panel attached to that remote. One can also connect camera output directly to smart phone and then content can be streamed on real time basis. This feature is really useful for aerial photographers and videographers because it helps them to view all the shots properly and pre adjustments can be applied with ease. If you are thinking to enhance your experience further then one can buy [FPV Goggles](https://tools.techidaily.com/wondershare/filmora/download/).
-
-#### 2.Camera
-
-![](https://images.wondershare.com/filmora/article-images/cameras-for-uav.jpg)
-
- Drone is an entertaining unit but it can also work like a real time spy when a camera is attached on its top. It will help you to record every detail on the way and users can view everything on their smart phones using FPV technology. Most of the drones offer cameras with 1080p resolution capabilities whereas few advanced ones can be adjusted to 4K resolution levels and details can also be reduced to 720p for few applications. Note that, when a camera is mounted on drone then it increases overall weight of the system so it will naturally reduce the overall flight time.
-
-#### 3.3 Axis Gimbal
-
-![](https://images.wondershare.com/filmora/article-images/3-axis-gimbal.jpg)
-
- There is no doubt to say that [Gimbals](https://tools.techidaily.com/wondershare/filmora/download/) are a smart addition to the world of drones that occupy camera units on the top. These gimbals help to stabilize camera footage even during harsh weather conditions. Once you get your gimbals installed with drone camera then you can expect shake free, vibration free and stable video from camera. Drones commonly have two types of gimbal adjustments: it can be either two axis type of it can be 3-axis type. Both have different impact on shooting where 3-axis is naturally a better choice for higher level of stabilization and it is useful for professional videographers.
-
-#### 4.Battery
-
-![](https://images.wondershare.com/filmora/article-images/batteries-for-drone.jpg)
-
-[Batteries](https://tools.techidaily.com/wondershare/filmora/download/) help drones to gain power for their actions. The overall flight time of a drone actually depends upon its battery thus it is considered as one of the most essential accessory for drone enthusiast. Generally, drone packages come with additional batteries when you have ordered a unit with removable batteries otherwise you need to take a break every time to get this battery charged. A drone pilot is always happy to see his drone battery full as it leads to biggest pleasure in air but one must have proper arrangements for discharged batteries.
-
-#### 5.Landing Pad
-
-![](https://images.wondershare.com/filmora/article-images/landing-pand-for-drones.jpg)
-
- Many professional drone users love to install additional landing pads to their drones as it helps to make landing movement much smoother. It is like an additional physical space between ground and drone that keeps it safe from damage while landing fast on ground from huge height. These landing gears use to absorb shock at the time of landing and naturally minimized the chances of drone damage. But the disadvantage is that it adds up some weight to this structure and causes some reduction in overall flight time. Prefer to pick a landing gear that is made up of carbon fiber material as it uses to have more strength to weight ratio.
-
-#### 6.Transmitter/Controller
-
- If you want to use your drone for professional aerial videography or photography then it is essential to have specially designed controllers or transmitters. When you have to switch from auto pilot mode to manual mode then this controller will help you to organise flight in much better manner. These transmitters provide additional control over flights when you drone is in the air. Most of the drones include these controllers in basic package whereas for others you need to buy additional from stores.
-
-#### 7.Propeller Guards
-
-![](https://images.wondershare.com/filmora/article-images/propeller-guards.jpg)
-
- Here is one more essential accessory for your drone; these propeller guards are more useful to those users who organize drone fights in air with friends. These guards help to protect propellers installed on a drone unit at the time of crashes or collisions. They are essential for ensuring long life of a drone unit.
-
-#### 8.Extra Propellers
-
- As we already considered the important of propellers for drone units as they use to protect propellers but in case if somehow your propellers suffer a damage then you may need to replace them with new one. It is good to think smart and always stay ready with additional pair of propellers for your device. They are very affordable accessories and can be easily ordered online. The best part is that you can easily replace your propellers with do it yourself procedures and your drone will soon be ready to take a flight in air.
-
-#### 9.Micro Cards
-
- Micro SD cards that are used for drones use to be same as that of other common memory cards that we all have in our smart phones. If you have a camera type drone then it is essential to have a memory card installed inside your unit where footage can be saved at the time of recording. All drones possess different memory card handling capabilities so you need to check their specifications before buying a new one. Prefer to pick one with class 10 rating to have impressive results and better compatibility. Generally the file size of 4K recorded footage will be much higher as compared to 720p recording so your memory card must be capable enough to handle that size.
-
-#### 10.Carrying Case
-
-![](https://images.wondershare.com/filmora/article-images/carrying-case-for-drone.jpg)
-
- Drones are not just a toy, this is a big investment for your passion thus one needs to make proper arrangements to keep it safe. One of the most important tasks that every drone lover use to do is buy a good quality case of protective housing for their drone where it can reside safely. We are not talking about a normal polybag or backpack rather you need to spend one a bag that is specially designed for drones and can keep all essential accessories safely inside. Even, it must be capable enough to carry those big propellers.
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- Drone lovers always love to collect accessories that can improve performance of their drones. And the good news is that market is full of such collections and you can buy these accessories of parts at very cheap price. These additional parts are a kind of innovative extras for your drone and if you organize them properly with your system then they can soon provide impressive results. Here are few details about some of the best accessories that can enhance your flight experience with whole new appearance of your drone.
-
-## 10 Must Have Drone Accessories/ Parts for Building your Own Drone
-
-#### 1. FPV System
-
-![](https://images.wondershare.com/filmora/article-images/fpv-system.jpg)
-
- FPV is abbreviation for First Person View. It is possible to connect your drone camera to remote device via Wi-Fi connection and then you can monitor all activities on LCD panel attached to that remote. One can also connect camera output directly to smart phone and then content can be streamed on real time basis. This feature is really useful for aerial photographers and videographers because it helps them to view all the shots properly and pre adjustments can be applied with ease. If you are thinking to enhance your experience further then one can buy [FPV Goggles](https://tools.techidaily.com/wondershare/filmora/download/).
-
-#### 2.Camera
-
-![](https://images.wondershare.com/filmora/article-images/cameras-for-uav.jpg)
-
- Drone is an entertaining unit but it can also work like a real time spy when a camera is attached on its top. It will help you to record every detail on the way and users can view everything on their smart phones using FPV technology. Most of the drones offer cameras with 1080p resolution capabilities whereas few advanced ones can be adjusted to 4K resolution levels and details can also be reduced to 720p for few applications. Note that, when a camera is mounted on drone then it increases overall weight of the system so it will naturally reduce the overall flight time.
-
-#### 3.3 Axis Gimbal
-
-![](https://images.wondershare.com/filmora/article-images/3-axis-gimbal.jpg)
-
- There is no doubt to say that [Gimbals](https://tools.techidaily.com/wondershare/filmora/download/) are a smart addition to the world of drones that occupy camera units on the top. These gimbals help to stabilize camera footage even during harsh weather conditions. Once you get your gimbals installed with drone camera then you can expect shake free, vibration free and stable video from camera. Drones commonly have two types of gimbal adjustments: it can be either two axis type of it can be 3-axis type. Both have different impact on shooting where 3-axis is naturally a better choice for higher level of stabilization and it is useful for professional videographers.
-
-#### 4.Battery
-
-![](https://images.wondershare.com/filmora/article-images/batteries-for-drone.jpg)
-
-[Batteries](https://tools.techidaily.com/wondershare/filmora/download/) help drones to gain power for their actions. The overall flight time of a drone actually depends upon its battery thus it is considered as one of the most essential accessory for drone enthusiast. Generally, drone packages come with additional batteries when you have ordered a unit with removable batteries otherwise you need to take a break every time to get this battery charged. A drone pilot is always happy to see his drone battery full as it leads to biggest pleasure in air but one must have proper arrangements for discharged batteries.
-
-#### 5.Landing Pad
-
-![](https://images.wondershare.com/filmora/article-images/landing-pand-for-drones.jpg)
-
- Many professional drone users love to install additional landing pads to their drones as it helps to make landing movement much smoother. It is like an additional physical space between ground and drone that keeps it safe from damage while landing fast on ground from huge height. These landing gears use to absorb shock at the time of landing and naturally minimized the chances of drone damage. But the disadvantage is that it adds up some weight to this structure and causes some reduction in overall flight time. Prefer to pick a landing gear that is made up of carbon fiber material as it uses to have more strength to weight ratio.
-
-#### 6.Transmitter/Controller
-
- If you want to use your drone for professional aerial videography or photography then it is essential to have specially designed controllers or transmitters. When you have to switch from auto pilot mode to manual mode then this controller will help you to organise flight in much better manner. These transmitters provide additional control over flights when you drone is in the air. Most of the drones include these controllers in basic package whereas for others you need to buy additional from stores.
-
-#### 7.Propeller Guards
-
-![](https://images.wondershare.com/filmora/article-images/propeller-guards.jpg)
-
- Here is one more essential accessory for your drone; these propeller guards are more useful to those users who organize drone fights in air with friends. These guards help to protect propellers installed on a drone unit at the time of crashes or collisions. They are essential for ensuring long life of a drone unit.
-
-#### 8.Extra Propellers
-
- As we already considered the important of propellers for drone units as they use to protect propellers but in case if somehow your propellers suffer a damage then you may need to replace them with new one. It is good to think smart and always stay ready with additional pair of propellers for your device. They are very affordable accessories and can be easily ordered online. The best part is that you can easily replace your propellers with do it yourself procedures and your drone will soon be ready to take a flight in air.
-
-#### 9.Micro Cards
-
- Micro SD cards that are used for drones use to be same as that of other common memory cards that we all have in our smart phones. If you have a camera type drone then it is essential to have a memory card installed inside your unit where footage can be saved at the time of recording. All drones possess different memory card handling capabilities so you need to check their specifications before buying a new one. Prefer to pick one with class 10 rating to have impressive results and better compatibility. Generally the file size of 4K recorded footage will be much higher as compared to 720p recording so your memory card must be capable enough to handle that size.
-
-#### 10.Carrying Case
-
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/carrying-case-for-drone.jpg)
 
  Drones are not just a toy, this is a big investment for your passion thus one needs to make proper arrangements to keep it safe. One of the most important tasks that every drone lover use to do is buy a good quality case of protective housing for their drone where it can reside safely. We are not talking about a normal polybag or backpack rather you need to spend one a bag that is specially designed for drones and can keep all essential accessories safely inside. Even, it must be capable enough to carry those big propellers.
@@ -326,3 +378,50 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-a-curated-compilation-of-online-videoaudio-magicians/"><u>[New] A Curated Compilation of Online Video/Audio Magicians</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-action-replay-gopro-hero5-black-meets-hero4-silver-edition/"><u>[New] Action Replay  GoPro Hero5 Black Meets Hero4 Silver Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-alternatives-to-windows-traditional-video-editing/"><u>[New] Alternatives to WIndows' Traditional Video Editing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-android-essentials-for-immersive-video-and-vr-content/"><u>[New] Android Essentials for Immersive Video and VR Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-androids-favorite-is-pickup-superior-to-other-photo-editors/"><u>[New] Android’s Favorite  Is PickUp Superior to Other Photo Editors?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-aquatic-videography-evolved-top-camcorders-of-the-year/"><u>[New] Aquatic Videography Evolved - Top Camcorders of the Year</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-practices-for-dynamic-and-dramatic-ae-titles/"><u>[New] Best Practices for Dynamic and Dramatic AE Titles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-screens-ever-the-ultimate-top-ten/"><u>[New] Best Screens Ever – The Ultimate Top Ten</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-adopting-nature-positive-policies-in-urban-governance/"><u>[New] In 2024, Adopting Nature-Positive Policies in Urban Governance</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instaboomtown-building-community-with-loop-videos-for-2024/"><u>[New] InstaBoomtown  Building Community with Loop Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-achieving-top-quality-on-youtube-video-enhancement-fundamentals/"><u>[Updated] 2024 Approved  Achieving Top Quality on YouTube  Video Enhancement Fundamentals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-complete-breakdown-lg-bp350-monitors-specifications-and-reviews/"><u>[Updated] A Complete Breakdown  LG BP350 Monitor's Specifications and Reviews</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-achieve-peak-performance-zooms-6-webcam-picks/"><u>[Updated] Achieve Peak Performance  Zoom's #6 Webcam Picks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-achieving-muted-audibility-with-effortless-fading-in-lumafusion/"><u>[Updated] Achieving Muted Audibility with Effortless Fading in Lumafusion</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-advanced-color-techniques-incorporating-luts-for-cinematic-flair/"><u>[Updated] Advanced Color Techniques  Incorporating Luts for Cinematic Flair</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-advanced-strategies-for-removing-background-in-figma/"><u>[Updated] Advanced Strategies for Removing Background in Figma</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-aerial-duels-unleashed-dji-spark-vs-gopro-black-session/"><u>[Updated] Aerial Duels Unleashed  DJi Spark vs GoPro Black Session</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-avoid-download-hassle-top-5-online-converters-for-gif-to-video/"><u>[Updated] Avoid Download Hassle  Top 5 Online Converters for GIF to Video</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-behind-the-scenes-with-vlc-player-features/"><u>[Updated] Behind the Scenes with VLC Player Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-8-websites-where-you-can-download-free-3d-text-psdfiles/"><u>[Updated] Best 8 Websites Where You Can Download Free 3D Text PSDFiles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-choices-for-livestreaming-made-simple-mac-edition/"><u>[Updated] Best Choices for Livestreaming Made Simple - Mac Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-guide-to-creative-use-of-supplementary-footage-b-roll/"><u>2024 Approved  A Guide to Creative Use of Supplementary Footage (B-Roll)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-androids-photo-editor-showdown-can-pickup-claim-victory/"><u>2024 Approved  Android's Photo Editor Showdown  Can PickUp Claim Victory?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-of-the-best-select-photovideo-makers-with-musical-accents/"><u>2024 Approved  Best of the Best  Select Photo/Video Makers with Musical Accents</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-software-bundles-for-animation-modelers/"><u>2024 Approved  Best Software Bundles for Animation Modelers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-entertainment-incorporating-subtitles-into-wmp/"><u>2024 Approved  Streamline Entertainment  Incorporating Subtitles Into WMP</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-streamlining-video-aesthetics-blur-background-in-microsoft-teams/"><u>2024 Approved  Streamlining Video Aesthetics  Blur Background in Microsoft Teams</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>3 Things You Must Know about Fake Snapchat Location On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-step-by-step-guide-to-writing-slug-lines-for-2024/"><u>A Step-by-Step Guide to Writing Slug Lines for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ai-driven-video-title-strategy-for-maximum-impact-for-2024/"><u>AI-Driven Video Title Strategy for Maximum Impact for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/balancing-act-lowering-audio-levels-for-2024/"><u>Balancing Act  Lowering Audio Levels for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-applications-for-transforming-photo-content-into-video-for-2024/"><u>Best Applications for Transforming Photo Content Into Video for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-iphone-selfie-gear-the-ultimate-compilation-8-for-2024/"><u>Best iPhone Selfie Gear - The Ultimate Compilation (#8) for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-scripting-solutions-for-ae-for-2024/"><u>Best Scripting Solutions for AE for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-find-n3-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo Find N3 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Identify missing drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-step-by-step-guide-to-memetic-marvels-essential-strategies-for-gif-makers/"><u>In 2024, A Step-by-Step Guide to Memetic Marvels  Essential Strategies for GIF Makers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-androids-elite-selection-of-collage-apps/"><u>In 2024, Android's Elite Selection of Collage Apps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oneplus-12r-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on OnePlus 12R Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y78t-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y78t to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-image-retrieval-on-pexels-a-step-by-step-guide-for-2024/"><u>Mastering Image Retrieval on Pexels  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-easy-steps-to-loop-youtube-videos-on-iphone/"><u>New 2024 Approved Easy Steps to Loop YouTube Videos on iPhone</u></a></li>
+</ul></div>

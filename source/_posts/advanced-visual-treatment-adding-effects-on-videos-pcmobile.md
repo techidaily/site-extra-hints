@@ -1,7 +1,7 @@
 ---
 title: "\"Advanced Visual Treatment  Adding Effects on Videos (PC/Mobile)\""
-date: 2024-07-05T22:49:03.523Z
-updated: 2024-07-06T22:49:03.523Z
+date: 2024-07-22T15:04:30.963Z
+updated: 2024-07-23T15:04:30.963Z
 tags: 
   - screen-recording
   - ai video
@@ -60,12 +60,18 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
 ##### Step1 Go to Projects, Effect and Choose Filter
 
 Open the Projects and go to the Effect tab, then choose the Filter you want to add and add it to your project.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![filmora filters](https://images.wondershare.com/filmora/guide/filters-1.png)
 
 ##### Step2 Select your Choice of Filter
@@ -84,6 +90,9 @@ Once you finish adding filters, use the Export button to save the video by selec
 
 Finally, you know how to put a filter to a video with Filmora, an easy-to-do software.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2 Apps to put filters on video
 
 ### How to add a filter to videos on iPhone
@@ -104,6 +113,9 @@ More so, you can also add a filter to your video on iPhone without using any ext
 
 ##### Step3 Click on the outside filter to apply the filter. After done, export and save the filtered video on your iOS device and share it on social media
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How can you add a filter to video on Android
 
 Kinemaster has proven to be the best app for Android users to put filters on videos with its turns of great video filters, loaded with powerful tools, and easy to use. Its store also provides music, font, transition, sticker, clips, graphics, and many video enhancers updated weekly. It also allows you to export in 4k 2160p video at 30fps and share it on social media applications like Facebook, Instagram, and YouTube.
@@ -112,6 +124,9 @@ Kinemaster can also be a boon for iOS device users to add beautiful filters for 
 
 ### How to add filters to videos in Kinemaster
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![kinemaster android filter video](https://images.wondershare.com/filmora/article-images/2022/03/kinemaster.jpg)
 
 ##### Step1 Download Kinemaster on your Android phone and open it
@@ -136,6 +151,9 @@ For many video lovers, adding a video filter helps enhance your movie. But it se
 
 03 [xxxxxves](#Part 3)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1 Add filter to video on PC
 
 Here are two ways to add a filter on video:
@@ -206,8 +224,14 @@ Kinemaster has proven to be the best app for Android users to put filters on vid
 
 Kinemaster can also be a boon for iOS device users to add beautiful filters for their videos to enhance video visibility. Therefore, it is both an Android and iOS video editor application.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ### How to add filters to videos in Kinemaster
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![kinemaster android filter video](https://images.wondershare.com/filmora/article-images/2022/03/kinemaster.jpg)
 
 ##### Step1 Download Kinemaster on your Android phone and open it
@@ -232,6 +256,9 @@ For many video lovers, adding a video filter helps enhance your movie. But it se
 
 03 [xxxxxves](#Part 3)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1 Add filter to video on PC
 
 Here are two ways to add a filter on video:
@@ -242,6 +269,9 @@ Here are two ways to add a filter on video:
 
 However, an editor for a video filter is easier to get than buying a professional video camera filter, especially when you know video editing. There are many video filter editors on the Internet, but today we will discuss a fully functional video editing software known as a Filmora video editor. It is effortless for a beginner or semi-pro and works on (Windows or Mac) PC. With thousands of unique filters and effects, Filmora can be your one-stop-shop, an answer to how to add aesthetic filters to videos.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to put a filter to a video in Filmora
 
 Therefore, this section will guide you on adding a filter to a video using Filmora video editing software. Filmora allows you to add as many filter to your video as you want. There are three basic steps to add filter to a video:
@@ -276,6 +306,9 @@ Once you finish adding filters, use the Export button to save the video by selec
 
 Finally, you know how to put a filter to a video with Filmora, an easy-to-do software.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2 Apps to put filters on video
 
 ### How to add a filter to videos on iPhone
@@ -328,6 +361,18 @@ For many video lovers, adding a video filter helps enhance your movie. But it se
 
 03 [xxxxxves](#Part 3)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1 Add filter to video on PC
 
 Here are two ways to add a filter on video:
@@ -354,6 +399,9 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 Open the Projects and go to the Effect tab, then choose the Filter you want to add and add it to your project.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora filters](https://images.wondershare.com/filmora/guide/filters-1.png)
 
 ##### Step2 Select your Choice of Filter
@@ -374,6 +422,10 @@ Finally, you know how to put a filter to a video with Filmora, an easy-to-do sof
 
 ## Part 2 Apps to put filters on video
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ### How to add a filter to videos on iPhone
 
 For those using iOS devices, you can easily add a red filter on videos with the built-in video editor known as iMovie. This video editing iOS app allows you to create movies in Hollywood style using free filters. Aside from adding filters to your video, this video editor also allows you to apply unique themes, sound effects, trailer template, apply background, customize the text to your video, and add sound effects.
@@ -392,14 +444,23 @@ More so, you can also add a filter to your video on iPhone without using any ext
 
 ##### Step3 Click on the outside filter to apply the filter. After done, export and save the filtered video on your iOS device and share it on social media
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How can you add a filter to video on Android
 
 Kinemaster has proven to be the best app for Android users to put filters on videos with its turns of great video filters, loaded with powerful tools, and easy to use. Its store also provides music, font, transition, sticker, clips, graphics, and many video enhancers updated weekly. It also allows you to export in 4k 2160p video at 30fps and share it on social media applications like Facebook, Instagram, and YouTube.
 
 Kinemaster can also be a boon for iOS device users to add beautiful filters for their videos to enhance video visibility. Therefore, it is both an Android and iOS video editor application.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to add filters to videos in Kinemaster
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![kinemaster android filter video](https://images.wondershare.com/filmora/article-images/2022/03/kinemaster.jpg)
 
 ##### Step1 Download Kinemaster on your Android phone and open it
@@ -433,3 +494,43 @@ Kinemaster can also be a boon for iOS device users to add beautiful filters for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-countdown-configuration-in-obs-for-streamers-and-filmmakers/"><u>[New] 2024 Approved  Countdown Configuration in OBS for Streamers and Filmmakers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-palette-in-balance-implementing-theoretical-knowledge/"><u>[New] A Palette in Balance  Implementing Theoretical Knowledge</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-basic-techniques-transforming-fishy-chatter-in-the-win-world/"><u>[New] Basic Techniques  Transforming Fishy Chatter in the Win World</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-beat-the-best-substitutes-for-samsungs-vr-camera-gear-360/"><u>[New] Beat the Best  Substitutes for Samsung's VR Camera Gear 360</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-drone-racing-all-you-need-to-know-and-5-best-fpv-racing-drones/"><u>[New] Drone Racing  All You Need to Know and 5 Best FPV Racing Drones</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-bypass-software-for-youtube-downloads/"><u>[New] In 2024, Bypass Software for YouTube Downloads</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-the-best-gopro-accessories/"><u>[New] The Best GoPro Accessories</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-step-by-step-approach-to-selecting-advanced-360-cameras/"><u>[Updated] A Step-by-Step Approach to Selecting Advanced 360 Cameras</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-amplify-visual-appeal-in-tiktok-clips/"><u>[Updated] Amplify Visual Appeal in TikTok Clips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-authenticity-through-customer-produced-videos/"><u>[Updated] Authenticity Through Customer-Produced Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-becoming-a-true-connoisseur-of-srt-text-creation/"><u>[Updated] Becoming a True Connoisseur of SRT Text Creation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beginning-zoom-video-calls-on-android-devices/"><u>[Updated] Beginning Zoom Video Calls on Android Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-drone-buddies-kids-most-enjoyed-toy-companions/"><u>[Updated] Best Drone Buddies  Kids' Most Enjoyed Toy Companions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-editors-on-smartphones-for-dji-footage-excellence/"><u>[Updated] Best Editors on Smartphones for DJi Footage Excellence</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-most-popular-and-praised-prime-originals-on-twitter-for-2024/"><u>[Updated] The Most Popular & Praised Prime Originals on Twitter for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-in-class-slideshow-maker-xi-to-x-series-iphones/"><u>2024 Approved  Best-in-Class Slideshow Maker  XI to X Series iPhones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/artful-alterations-crafting-distorted-images-to-dazzle-for-2024/"><u>Artful Alterations  Crafting Distorted Images to Dazzle for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/avoiding-motion-illusions-tips-for-vr-users-for-2024/"><u>Avoiding Motion Illusions  Tips for VR Users for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-12-pro-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone 12 Pro Max Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/fixing-obscured-content-on-youtube-platform-for-2024/"><u>Fixing Obscured Content on YouTube Platform for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-c51-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p55t-phone-without-google-account-by-drfone-android/"><u>How to Unlock Itel P55T Phone without Google Account?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-showcase-of-excellence-the-best-9-platforms-for-accessing-3d-font-innovations/"><u>In 2024, A Showcase of Excellence  The Best 9 Platforms for Accessing 3D Font Innovations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-achieve-excellence-in-zoom-videos-using-key-conversion-techniques/"><u>In 2024, Achieve Excellence in Zoom Videos Using Key Conversion Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-adaptive-speaking-methods-in-free-fire/"><u>In 2024, Adaptive Speaking Methods in Free Fire</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-text-finessing-guide/"><u>In 2024, Advanced Text Finessing Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-audience-experience-top-cameras-to-capture-live-music/"><u>In 2024, Audience Experience  Top Cameras to Capture Live Music</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-aurora-vs-traditional-hdr-the-battle-for-best-quality/"><u>In 2024, Aurora vs Traditional HDR  The Battle for Best Quality</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-embracing-authenticity-in-video-marketing-through-clients-words/"><u>In 2024, Embracing Authenticity in Video Marketing Through Clients' Words</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-excellent-free-webcam-video-snapper-app/"><u>In 2024, Excellent Free Webcam Video Snapper App</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Spy on Text Messages from Computer & Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-mastering-the-art-of-de-echoing-audio-simple-proven-techniques/"><u>In 2024, Mastering the Art of De-Echoing Audio Simple, Proven Techniques</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-using-track-matte-and-tracking-in-adobe-after-effects-reviewing-all-possibilities/"><u>In 2024, Using Track Matte and Tracking in Adobe After Effects Reviewing All Possibilities</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/strategic-giants-identifying-the-prime-7-total-war-battles-for-2024/"><u>Strategic Giants  Identifying the Prime 7 Total War Battles for 2024</u></a></li>
+</ul></div>

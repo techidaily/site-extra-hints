@@ -1,7 +1,7 @@
 ---
 title: "Choosing Between Podcast and YouTube for Content Delivery for 2024"
-date: 2024-05-24T01:14:07.035Z
-updated: 2024-05-25T01:14:07.035Z
+date: 2024-07-22T11:51:34.286Z
+updated: 2024-07-23T11:51:34.286Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "This Article Describes Choosing Between Podcast and YouTube for Content Delivery for 2024"
 excerpt: "This Article Describes Choosing Between Podcast and YouTube for Content Delivery for 2024"
 keywords: "Podcast Vs. YouTube,Audio Content Choice,Streaming Platforms Selection,Content Distribution Methods,Media Channel Optimization,Digital Broadcasting Preference,Video Vs. Audio Delivery"
-thumbnail: https://www.lifewire.com/thmb/uPaLVwxbvMfcPdG68RijLj_eON0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/unnamed-bd03be35e2934c6a955a7022f4319123.png
+thumbnail: https://thmb.techidaily.com/c03221180f24d051697c535d192c12a06104e76b7456b6ffbc01667561900748.png
 ---
 
 ## Choosing Between Podcast and YouTube for Content Delivery
@@ -24,6 +24,9 @@ One reason to use Spotify for podcasts is that it's a global platform, meaning y
 
 Spotify is a popular platform, so listeners will likely discover your podcast through them. Putting out a video on YouTube is more work than creating a podcast; however, it may be rewarding. Read and find which one is the best!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## A Brief Overview of Podcast vs. YouTube
 
 There's no denying that YouTube is one of the most popular online platforms. Millions of people use it daily to watch videos on everything from current events to how-to guides.
@@ -50,6 +53,9 @@ On the other hand, YouTube will require more attention to detail while working o
 | Editing process                                            | Not that difficult                                                                                                                                    | More complicated                                                                                                                                                                                                                   |
 | Monetization                                               | AdvertisingSell subscriptionsMerchandisingSponsored episodesGiveawayAffiliate                                                                         | YouTube Partner ProgrammeSponsored videosMerchandisingGiveawayAffiliate                                                                                                                                                            |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## What Is the Difference Between Podcasts and YouTube?
 
 Podcasts and YouTube are popular audio/video platforms for uploading and consuming content. However, they both have their unique benefits and drawbacks. Here's a quick rundown of the critical differences between podcasts and YouTube.
@@ -64,6 +70,9 @@ On the downside, podcasts generally don't have the same production value as YouT
 
 YouTube also offers a more diverse range of content than podcasts since anyone can upload a video. However, YouTube videos can be much more explanatory than podcasts, making them less convenient to consume.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![writing a good description with tags will help get views](https://images.wondershare.com/filmora/article-images/2023/01/podcast-vs-youtube-3.jpg)
 
 ## Can You Transform a Podcast Into a YouTube Video or Vice Versa?
@@ -84,6 +93,9 @@ Lastly, you may present a podcast on your webcam and record the video and audio 
 
 And if you have a podcast that's doing well, you can create a YouTube video series based on it. Alternatively, if you have a popular YouTube channel, you can create a podcast based on your videos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Are the Pros & Cons of a YouTube Channel and Podcast Episode
 
 **Pros and Cons of a YouTube video:**
@@ -147,6 +159,9 @@ To Start YouTube:
 * Know how to market your YouTube videos using various platforms
 * Network with people in the industry for work collaborations
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Cost of Startup
 
 Equipment for Podcast:
@@ -177,6 +192,9 @@ Editing software – $30 to $200
 
 The total cost of the startup: **$200 to $700**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Workflow for Making a YouTube Video & Podcast
 
 Workflow for YouTube:
@@ -233,20 +251,37 @@ If you are stuck in the editing stage for one episode of your podcasts or a vlog
 
 Step1 Download and open Filmora on your PC or Mac. You can "Create a New Project" to start.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![get familiar with the filmora interface to edit projects](https://images.wondershare.com/filmora/guide/open-wondershare-filmora.jpg)
 
 Step2 The editing interface you'll see when you open Filmora. Import your clips or audio files that need to be edited via the media panel.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![an easy editing interface on filmora](https://images.wondershare.com/filmora/guide/full-feature-interface.jpg)
 
 Step3 There are a lot of features and resources for your video, and audio editing, like audio effects, AI audio stretch, auto reframe, audio visualizers, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![you can use various tools and save video or audio after editing](https://images.wondershare.com/filmora/guide/project-setting.jpg)
 
 Step4 After editing, you can head to the export button. Save your file into the local folders or directly share them on social media.
 
 ![you can access all old projects on the software](https://images.wondershare.com/filmora/guide/open-recent-file.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### Monetization
 
 You can monetize your YouTube videos and podcast episodes in a few different ways. One way is to use Google AdSense. With AdSense, you can place ad units on your videos and earn money based on the traffic your videos generate.
@@ -267,6 +302,9 @@ This number is at 2.1 billion monthly active users for YouTube based all around 
 
 Talking about ads, 80% of podcast listeners believe product ads in a podcast lead to purchase. YouTube also has massive ad growth of 5% ad revenue growth to $7.3 billion in the second quarter of 2022.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## Opportunities & Challenges for Podcasts and YouTube
 
 There are many opportunities and challenges for creating podcasts and YouTube videos. Podcasts can be a great way to share your knowledge and stories with others while also building an audience.
@@ -310,6 +348,9 @@ On the downside, podcasts generally don't have the same production value as YouT
 
 YouTube also offers a more diverse range of content than podcasts since anyone can upload a video. However, YouTube videos can be much more explanatory than podcasts, making them less convenient to consume.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![writing a good description with tags will help get views](https://images.wondershare.com/filmora/article-images/2023/01/podcast-vs-youtube-3.jpg)
 
 ## Can You Transform a Podcast Into a YouTube Video or Vice Versa?
@@ -330,6 +371,10 @@ Lastly, you may present a podcast on your webcam and record the video and audio 
 
 And if you have a podcast that's doing well, you can create a YouTube video series based on it. Alternatively, if you have a popular YouTube channel, you can create a podcast based on your videos.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## What Are the Pros & Cons of a YouTube Channel and Podcast Episode
 
 **Pros and Cons of a YouTube video:**
@@ -445,6 +490,9 @@ Workflow for Podcast:
 5. Upload the podcast to Spotify or any other platform.
 6. Market your podcast and drive listeners from your socials.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Editing Process
 
 YouTube:
@@ -483,10 +531,16 @@ Step1 Download and open Filmora on your PC or Mac. You can "Create a New Project
 
 Step2 The editing interface you'll see when you open Filmora. Import your clips or audio files that need to be edited via the media panel.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![an easy editing interface on filmora](https://images.wondershare.com/filmora/guide/full-feature-interface.jpg)
 
 Step3 There are a lot of features and resources for your video, and audio editing, like audio effects, AI audio stretch, auto reframe, audio visualizers, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![you can use various tools and save video or audio after editing](https://images.wondershare.com/filmora/guide/project-setting.jpg)
 
 Step4 After editing, you can head to the export button. Save your file into the local folders or directly share them on social media.
@@ -503,6 +557,9 @@ You can also use your YouTube channel and podcast to drive your website or blog 
 
 Whatever approach you take, make sure that you are providing value to your audience. For example, if your videos and podcasts are helpful and informative, people will be more likely to watch and listen, and you'll be more likely to monetize your content successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Podcast vs. YouTube: What Are the Current Industry Trends
 
 The current industry trends for podcasts vs. YouTube are different. To know which is better, podcast or YouTube, you may have to learn about the statistics. Podcasts are seeing a resurgence in popularity, while YouTube is still the top video site in the world. About 383.7 million podcast listeners globally as of November 2022.
@@ -513,6 +570,9 @@ This number is at 2.1 billion monthly active users for YouTube based all around 
 
 Talking about ads, 80% of podcast listeners believe product ads in a podcast lead to purchase. YouTube also has massive ad growth of 5% ad revenue growth to $7.3 billion in the second quarter of 2022.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Opportunities & Challenges for Podcasts and YouTube
 
 There are many opportunities and challenges for creating podcasts and YouTube videos. Podcasts can be a great way to share your knowledge and stories with others while also building an audience.
@@ -566,3 +626,47 @@ If you prefer to create playful and exciting content, then vlogs might be more y
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-bridging-the-gap-between-facebook-videos-and-apple-tv-compatibility/"><u>[New] 2024 Approved  Bridging the Gap Between Facebook Videos and Apple TV Compatibility</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-elevated-practices-to-record-computer-display-with-tv-broadcasts/"><u>[New] In 2024, Elevated Practices to Record Computer Display with TV Broadcasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-mobile-media-best-phones-reviewed/"><u>[New] Mastering Mobile Media  Best Phones Reviewed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-real-time-recording-rivals-obs-and-shadowtoolkit/"><u>[New] Real-Time Recording Rivals  OBS & ShadowToolKit</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-financial-framework-of-youtube-snippet-creation/"><u>[New] The Financial Framework of YouTube Snippet Creation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-daily-digest-guidelines-tips-for-successful-vlogs/"><u>[Updated] 2024 Approved  Daily Digest Guidelines  Tips for Successful Vlogs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-compreenas-guide-to-designing-a-compelling-rss-feed/"><u>[Updated] A Compreenas Guide to Designing a Compelling RSS Feed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-accelerate-audio-playback-on-spotify-safely-and-effectively/"><u>[Updated] Accelerate Audio Playback on Spotify Safely & Effectively</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-ace-your-adventures-with-gopro-tips/"><u>[Updated] Ace Your Adventures with GoPro Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-aerial-vehicles-a-taxonomy/"><u>[Updated] Aerial Vehicles  A Taxonomy</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-amplify-detail-top-tips-for-shooting-up-closer-with-videoleap/"><u>[Updated] Amplify Detail  Top Tips for Shooting Up Closer with VideoLeap</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-boost-production-value-with-free-sfx-libraries/"><u>[Updated] Boost Production Value with Free SFX Libraries</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-photo-backdrop-alternatives-list/"><u>[Updated] Leading Photo Backdrop Alternatives List</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-must-do-tasks-for-enhanced-podcast-experience/"><u>[Updated] Must-Do Tasks for Enhanced Podcast Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-avi-files-into-gifs-with-filmora-on-windowsmacos/"><u>[Updated] Transform AVI Files Into GIFs with Filmora on Windows/MacOS</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-online-retailers-specialized-in-personalized-boxed-gifts-for-2024/"><u>10 Online Retailers Specialized in Personalized Boxed Gifts for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/100-working-method-for-adding-link-to-tiktok-bio-for-2024/"><u>100%% Working Method for Adding Link to TikTok Bio for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-ace-your-laughs-kinemaster-for-top-memes/"><u>2024 Approved  Ace Your Laughs  KineMaster for Top Memes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-addressing-the-lack-of-novelty-in-virtual-reality/"><u>2024 Approved  Addressing the Lack of Novelty in Virtual Reality</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-auditory-interface-excellence-for-podcasters/"><u>2024 Approved  Auditory Interface Excellence  For Podcasters</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-solve-invisible-frames-in-video-capture-software/"><u>2024 Approved  Solve Invisible Frames in Video Capture Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/24-revolutionary-metaverse-concepts-explored-diligently-for-2024/"><u>24 Revolutionary Metaverse Concepts Explored Diligently for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/360-degree-cameras-vs-3d-cameras-what-are-the-differences-in-2024/"><u>360 Degree Cameras Vs 3D Cameras  What Are the Differences, In 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-roadmap-to-reigning-in-the-realm-of-social-media-management-smm-for-2024/"><u>A Roadmap to Reigning in the Realm of Social Media Management (SMM) for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/android-time-lapse-techniques-elevate-your-videos-for-2024/"><u>Android Time-Lapse Techniques  Elevate Your Videos for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audio-engineering-basics-embrace-adobes-fading-techniques-for-2024/"><u>Audio Engineering Basics  Embrace Adobe’s Fading Techniques for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conquering-outlook-crashed-with-simple-solutions-windows-edition/"><u>Conquering Outlook Crashed with Simple Solutions, Windows Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-2023-roundup-premier-professionals-360-cameras/"><u>In 2024, 2023 Roundup  Premier Professionals’ 360 Cameras</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-abbreviated-action-sequences-script/"><u>In 2024, Abbreviated Action Sequences Script</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-add-music-to-whatsapp-status/"><u>In 2024, Add Music to WhatsApp Status</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-androidiphone-the-top-10-unlimited-image-overlay-apps/"><u>In 2024, Android/iPhone  The Top 10 Unlimited Image Overlay Apps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-motorola-moto-g04-easily-by-drfone-android/"><u>In 2024, How To Unlock a Motorola Moto G04 Easily?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/jestjunction-tap-into-the-world-of-meme-magic/"><u>JestJunction  Tap Into the World of Meme Magic</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-complete-process-of-audio-integration-into-quicktime-video-files/"><u>New In 2024, The Complete Process of Audio Integration Into QuickTime Video Files</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-engaging-and-ethical-mobile-game-play/"><u>The Ultimate Guide to Engaging & Ethical Mobile Game Play</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-a05s-by-fonelab-android-recover-photos/"><u>Undelete lost photos from A05s.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-apple-m1-a-computing-revolution/"><u>Unveiling the Apple M1  A Computing Revolution?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-youtube-aspect-ratios-which-one-is-right-for-your-content-style/"><u>Updated YouTube Aspect Ratios Which One Is Right for Your Content Style?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/x-recorder-for-pc-audio-logger-at-no-cost-for-2024/"><u>X-Recorder for Pc  Audio Logger at No Cost for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/zoomelitevue-7-enhance-and-resize-like-a-pro/"><u>ZoomEliteVue 7  Enhance & Resize Like a Pro</u></a></li>
+</ul></div>

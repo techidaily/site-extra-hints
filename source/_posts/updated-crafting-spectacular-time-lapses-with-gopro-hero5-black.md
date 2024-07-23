@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Crafting Spectacular Time-Lapses with GoPro Hero5 Black\""
-date: 2024-05-24T00:40:44.632Z
-updated: 2024-05-25T00:40:44.632Z
+date: 2024-07-22T10:39:16.749Z
+updated: 2024-07-23T10:39:16.749Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes [Updated] Crafting Spectacular Time-Lapses with GoPro Hero5 Black\""
 excerpt: "\"This Article Describes [Updated] Crafting Spectacular Time-Lapses with GoPro Hero5 Black\""
 keywords: "\"GoPro Time-Lapse,Hero5 Lapses,Black HDR Video,Hero Black HD,Crafted Time-Lapse,Hero5 Camera Lapses,Spectacular GoPro HD\""
-thumbnail: https://www.lifewire.com/thmb/tjUAp5vGCmAQMQC49vIFERVjkIc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/4991375838_126cbaf6ee_z-57e0fdb05f9b58651677cf10.jpg
+thumbnail: https://thmb.techidaily.com/99131a0c0da4530303a8f3d5a541a1cf2cb9af3e3d24fd391ca764cff18f1395.jpg
 ---
 
 ## Crafting Spectacular Time-Lapses with GoPro Hero5 Black
@@ -35,6 +35,9 @@ Are you an amateur travel photographer who has recently bought a GoPro cam and w
 * [Part 1:Shooting a time lapse video with GoPro Hero5](#part1)
 * [Part 2: Making time lapse videos with Wondershare Filmora](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Shooting a time lapse video with GoPro Hero5
 
 #### **1. The best time lapse settings in GoPro:**
@@ -78,6 +81,9 @@ Make use of good tripod, a fast and spacious SD card, a suction mount and always
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Making time lapse videos with Wondershare Filmora
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful and easy to use software with which you can edit your time lapse videos. The Filmora action cam version is going to make your job a lot more easy. It comes with 2 new tools-
@@ -86,16 +92,25 @@ The Action Cam Tool- this has the capacity of correcting lens distortion and can
 
 The Instant cutter tool on the other hand can be used for trimming and merging videos quickly and easily without damaging its quality. It supports many video formats like  encoded MP4, MTS and mov video which have been shot on phones, HD cameras and Action cams.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 * First, launch the Filmora app and then choose the ‘action cam tool’
 * Next, you need to click the ‘Import’ button or the ‘ Import an Action cam video’ button, so as to import your recorded video to Wondershare Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![1-action-cam-tool-fix-entrance](https://images.wondershare.com/filmora/article-images/filmora-splash-screen-0321.jpg)
 
 * Now go to the Speed tab and bring the Playhead to the exact position where the speed effect is to be applied.
 * Click the Add Marker button. Click the speed marker and drag it onto either side of your timeline so as to choose a number of clips on your timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![speed-effect-speed-add-marke](https://images.wondershare.com/filmora/article-images/speed-effect-speed-add-marker.png)
 
 * The speed settings can be adjusted by clicking on the checkbox marked Speed. The speed slider can be moved forward to make it faster up to 20x for the time lapse effect.
@@ -185,6 +200,9 @@ The Instant cutter tool on the other hand can be used for trimming and merging v
 * Now go to the Speed tab and bring the Playhead to the exact position where the speed effect is to be applied.
 * Click the Add Marker button. Click the speed marker and drag it onto either side of your timeline so as to choose a number of clips on your timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![speed-effect-speed-add-marke](https://images.wondershare.com/filmora/article-images/speed-effect-speed-add-marker.png)
 
 * The speed settings can be adjusted by clicking on the checkbox marked Speed. The speed slider can be moved forward to make it faster up to 20x for the time lapse effect.
@@ -192,6 +210,9 @@ The Instant cutter tool on the other hand can be used for trimming and merging v
 
 [Learn more detailed information about how to make a time lapse video in Filmora Full Feature Mode](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -264,6 +285,9 @@ The Action Cam Tool- this has the capacity of correcting lens distortion and can
 
 The Instant cutter tool on the other hand can be used for trimming and merging videos quickly and easily without damaging its quality. It supports many video formats like  encoded MP4, MTS and mov video which have been shot on phones, HD cameras and Action cams.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 * First, launch the Filmora app and then choose the ‘action cam tool’
@@ -345,6 +369,10 @@ Make use of good tripod, a fast and spacious SD card, a suction mount and always
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Making time lapse videos with Wondershare Filmora
 
 [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is a powerful and easy to use software with which you can edit your time lapse videos. The Filmora action cam version is going to make your job a lot more easy. It comes with 2 new tools-
@@ -353,16 +381,25 @@ The Action Cam Tool- this has the capacity of correcting lens distortion and can
 
 The Instant cutter tool on the other hand can be used for trimming and merging videos quickly and easily without damaging its quality. It supports many video formats like  encoded MP4, MTS and mov video which have been shot on phones, HD cameras and Action cams.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 * First, launch the Filmora app and then choose the ‘action cam tool’
 * Next, you need to click the ‘Import’ button or the ‘ Import an Action cam video’ button, so as to import your recorded video to Wondershare Filmora.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![1-action-cam-tool-fix-entrance](https://images.wondershare.com/filmora/article-images/filmora-splash-screen-0321.jpg)
 
 * Now go to the Speed tab and bring the Playhead to the exact position where the speed effect is to be applied.
 * Click the Add Marker button. Click the speed marker and drag it onto either side of your timeline so as to choose a number of clips on your timeline.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![speed-effect-speed-add-marke](https://images.wondershare.com/filmora/article-images/speed-effect-speed-add-marker.png)
 
 * The speed settings can be adjusted by clicking on the checkbox marked Speed. The speed slider can be moved forward to make it faster up to 20x for the time lapse effect.
@@ -402,3 +439,51 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-5-leading-edge-4k-tvs-for-gamers/"><u>[New] 5 Leading Edge 4K TVs for Gamers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-streamlined-method-for-your-macos-sierra-enhancement/"><u>[New] A Streamlined Method for Your MacOS Sierra Enhancement</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-achieve-professional-results-podcast-editing-made-simple-in-garageband/"><u>[New] Achieve Professional Results  Podcast Editing Made Simple in GarageBand</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-start-crafting-movies-xp-edition-install-guide/"><u>[New] Start Crafting Movies  Xp Edition Install Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10-secret-tips-to-better-use-canva-photo-editor/"><u>[Updated] 10 Secret Tips to Better Use Canva Photo Editor</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10-smart-strategies-for-novice-photo-editors-in-ps/"><u>[Updated] 10 Smart Strategies for Novice Photo Editors in PS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-5-best-title-maker-online/"><u>[Updated] 5 Best Title Maker Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-step-by-step-guide-to-memetic-marvels-essential-strategies-for-gif-makers/"><u>[Updated] A Step-by-Step Guide to Memetic Marvels  Essential Strategies for GIF Makers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-action-camera-buying-for-newbies-the-updated-guide-23/"><u>[Updated] Action Camera Buying for Newbies - The Updated Guide '23</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-mastering-mind-games-top-trivia-channels-for-24/"><u>[Updated] Mastering Mind Games – Top Trivia Channels for '24</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-most-popular-20-pubg-screen-captures-unrestricted/"><u>[Updated] Most Popular 20 PUBG Screen Captures, Unrestricted</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-abletons-precision-in-sound-reduction/"><u>2024 Approved  Ableton's Precision in Sound Reduction</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-action-footage-enhanced-top-mic-picks/"><u>2024 Approved  Action Footage Enhanced  Top Mic Picks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-action-in-high-definition-t5-eye-revealed/"><u>2024 Approved  Action in High Definition  T5 Eye Revealed</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-building-your-first-channel-essential-video-gear-list/"><u>2024 Approved  Building Your First Channel  Essential Video Gear List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-metaverse-laughs-crafting-funny-virtual-memes/"><u>2024 Approved  Metaverse Laughs  Crafting Funny Virtual Memes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-creative-and-captivating-titles-ready/"><u>2024 Approved  Quick, Creative, and Captivating Titles Ready</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-video-invitation-essentials-top-apps-for-ios-and-android-users/"><u>2024 Approved Video Invitation Essentials Top Apps for iOS and Android Users</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/99plus-million-view-snapshot-amusing-emoji-lore-for-2024/"><u>99+ Million View Snapshot  Amusing Emoji Lore for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/above-and-beyond-perfecting-your-drone-video-craft-for-2024/"><u>Above and Beyond  Perfecting Your Drone Video Craft for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ace-your-edits-pro-level-tips-for-lunapic-users-for-2024/"><u>Ace Your Edits  Pro-Level Tips for LunaPic Users for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-psd-text-styling-for-2024/"><u>Advanced PSD Text Styling for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-honor-magic-6-pro-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Honor Magic 6 Pro</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-honor-magic-vs-2-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Honor Magic Vs 2 Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-14-plus-to-pc-via-usb-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 14 Plus to PC via USB? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-samsung-galaxy-z-fold-5-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Samsung Galaxy Z Fold 5 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-curated-compilation-of-online-videoaudio-magicians/"><u>In 2024, A Curated Compilation of Online Video/Audio Magicians</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-step-by-written-guide-to-luts-for-professional-photographers/"><u>In 2024, A Step-By Written Guide to LUTs for Professional Photographers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-list-of-android-podcast-picks/"><u>In 2024, A-List of Android Podcast Picks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-accelerating-learning-on-tiktok-changing-your-profile-number/"><u>In 2024, Accelerating Learning on TikTok  Changing Your Profile Number</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-editing-tips-remove-the-unnecessary-picture-border/"><u>In 2024, Advanced Editing Tips  Remove the Unnecessary Picture Border</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-desktop-systems-for-quality-use/"><u>In 2024, Prime Desktop Systems for Quality Use</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-honor-magic-5-lite-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Honor Magic 5 Lite to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-unleash-your-tiktok-potential-50plus-powerful-quotes-reviewed/"><u>In 2024, Unleash Your TikTok Potential  50+ Powerful Quotes Reviewed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-gmail-and-zoom-for-productive-video-collaboration-for-2024/"><u>Navigating Gmail and Zoom for Productive Video Collaboration for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/perfectly-timed-instagram-content-our-list-of-the-top-8-schedulers/"><u>Perfectly Timed Instagram Content - Our List of the Top 8 Schedulers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/simple-routines-for-capturing-and-saving-vimeo-videos/"><u>Simple Routines for Capturing and Saving Vimeo Videos</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlocking-youtubes-potential-essential-tactics-and-strategies-for-2024/"><u>Unlocking YouTube's Potential  Essential Tactics and Strategies for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/video-magic-quick-angular-and-joint-editing-on-android/"><u>Video Magic  Quick Angular and Joint Editing on Android</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/virtual-worlds-hilarity-crafting-metaverse-memes/"><u>Virtual World's Hilarity  Crafting Metaverse Memes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vr-cinematic-experiences-the-next-wave/"><u>VR Cinematic Experiences  The Next Wave</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/who-takes-the-lead-in-live-action-footage-hero-4-or-x1000v/"><u>Who Takes The Lead In Live-Action Footage, Hero 4 or X1000V?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/who-will-rule-the-roads-comparing-gopro-and-ghost-s/"><u>Who Will Rule the Roads? Comparing GoPro and Ghost-S</u></a></li>
+</ul></div>

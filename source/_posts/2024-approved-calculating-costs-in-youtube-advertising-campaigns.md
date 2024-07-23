@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Calculating Costs in YouTube Advertising Campaigns\""
-date: 2024-05-24T02:17:44.274Z
-updated: 2024-05-25T02:17:44.274Z
+date: 2024-07-22T14:10:47.661Z
+updated: 2024-07-23T14:10:47.661Z
 tags: 
   - screen-recording
   - ai video
@@ -13,7 +13,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Calculating Costs in YouTube Advertising Campaigns\""
 excerpt: "\"This Article Describes 2024 Approved: Calculating Costs in YouTube Advertising Campaigns\""
 keywords: "AdCost Calculation,YouTube Ad Budgeting,Ad Spend Analysis,Video Ad Cost Estimate,Ad Expense Forecast,Campaign Cost Measurement,Advertising ROI Assessment"
-thumbnail: https://www.lifewire.com/thmb/3EaGmOjI9xUMKQ-wPQrbB84mOE0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-117845409-836cfa7c69e148a59e0feae1f247d604.jpg
+thumbnail: https://thmb.techidaily.com/6befd60c173a5cd8b8d9dfcf598dea7f7e1558ad2a50419820d4a5c540b52039.jpg
 ---
 
 ## Calculating Costs in YouTube Advertising Campaigns
@@ -32,6 +32,9 @@ In this article, let’s talk about how much companies pay for video ads in a Vl
 * [How long should a promotional video be](#part4)
 * [You’re going to need video editing tools to:](#part5)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What is Promotional Video?
 
 A promotional or promo video is a short video that promotes a company’s product or service. The best promotional videos weave a story to educate, inspire, or delight prospective customers. it’s short yet educate people and influences them to take a step forward.
@@ -46,6 +49,9 @@ Compared to text-based flyers, articles or posters, promotional videos allow you
 
 ![promotion video example](https://images.wondershare.com/filmora/article-images/2022/07/promotion-video-example.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Types of Promo Videos
 
 When it comes to the kinds of promo videos you can create, you have a world of options.
@@ -60,6 +66,9 @@ A product demo video shows users how they will go through the process using the 
 
 Promoting an event on social media is a great way to gain fans and followers. An event video brings the fun of the occasion to those who couldn’t make it and is reposted by the ones who make it to your event.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### Explainer videos
 
 It’s especially useful if you offer a product or service that isn’t immediately understood.
@@ -70,6 +79,9 @@ The explainer video is a short video that business use to quickly introduce them
 
 A product review video features a reviewer, typically an influential person in your niche, who shows the product in action and gives his unbiased opinion about it or your own creation product review video. A short but very informative video about the product pros and cons.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![product review video example](https://images.wondershare.com/filmora/article-images/2022/07/product-review-video-example.jpg)
 
 ### Testimonial videos
@@ -92,6 +104,9 @@ Try to keep it under 2-minutes and make sure you’re hitting the important info
 
 As for video ads, advice is to stick to 15 to 20 seconds if you’re using pre-roll ads or six seconds for what are known as bumper ads, which are intended for brand awareness.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## You’re going to need video editing tools to
 
 Things to consider during the process knowing which types of elements you want to add to your video is vital. for example, you might have to add audio to video that adds value to your promo efforts, knowing that text and subtitles are important to reaching a wider audience.
@@ -104,14 +119,29 @@ I’d recommend you to pick an online video editor software that is user friendl
 
 Cut or trim your video to select the part that’s relevant.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![trim promotion video filmora](https://images.wondershare.com/filmora/article-images/2022/07/trim-promotion-video-filmora.jpg)
 
 Add filters to enhance the video and set the desired mood
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![add filter promotion video filmora](https://images.wondershare.com/filmora/article-images/2022/07/add-filter-promotion-video-filmora.jpg)
 
 Add animated titles to bring your words to life.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add animate words promotional video](https://images.wondershare.com/filmora/article-images/2022/07/add-animated-words-promotional-video.jpg)
 
 Add transition to make the story flow to make the story united and working together effectively
@@ -124,6 +154,9 @@ That’s been a quick guide on promotional videos. If you find it too hard to cr
 
 </article
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What is Promotional Video?
 
 A promotional or promo video is a short video that promotes a company’s product or service. The best promotional videos weave a story to educate, inspire, or delight prospective customers. it’s short yet educate people and influences them to take a step forward.
@@ -138,16 +171,41 @@ Compared to text-based flyers, articles or posters, promotional videos allow you
 
 ![promotion video example](https://images.wondershare.com/filmora/article-images/2022/07/promotion-video-example.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Types of Promo Videos
 
 When it comes to the kinds of promo videos you can create, you have a world of options.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Product demo videos
 
 A product demo video shows users how they will go through the process using the entire product or some of its core features. it gives your potential customers an opportunity to see your product used in everyday life, which ultimately leads to conversion. But it’s just a short video and you only put the important details.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![product demo promotion video](https://images.wondershare.com/filmora/article-images/2022/07/product-demo-promotion-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### Event videos
 
 Promoting an event on social media is a great way to gain fans and followers. An event video brings the fun of the occasion to those who couldn’t make it and is reposted by the ones who make it to your event.
@@ -164,6 +222,9 @@ A product review video features a reviewer, typically an influential person in y
 
 ![product review video example](https://images.wondershare.com/filmora/article-images/2022/07/product-review-video-example.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Testimonial videos
 
 A customer testimonial video features a happy and satisfied customer who tells the story of how your product or services solved their problem and helped them achieve their business goals.
@@ -196,10 +257,16 @@ I’d recommend you to pick an online video editor software that is user friendl
 
 Cut or trim your video to select the part that’s relevant.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![trim promotion video filmora](https://images.wondershare.com/filmora/article-images/2022/07/trim-promotion-video-filmora.jpg)
 
 Add filters to enhance the video and set the desired mood
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![add filter promotion video filmora](https://images.wondershare.com/filmora/article-images/2022/07/add-filter-promotion-video-filmora.jpg)
 
 Add animated titles to bring your words to life.
@@ -238,3 +305,48 @@ That’s been a quick guide on promotional videos. If you find it too hard to cr
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-chrome-os-talk-modifiers-selecting-the-top-5-cloud-speech-services/"><u>[New] Chrome OS Talk Modifiers  Selecting the Top 5 Cloud Speech Services</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-10-independent-android-games-for-non-networked-natives/"><u>[New] In 2024, Top 10 Independent Android Games for Non-Networked Natives</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mastering-audio-capture-from-facetime-chats-for-2024/"><u>[New] Mastering Audio Capture From FaceTime Chats for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-uniting-music-and-media-with-precision-using-youtube-video-editor/"><u>[New] Uniting Music & Media with Precision Using YouTube Video Editor</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-embedding-youtube-videos-seamlessly-into-stories/"><u>[Updated] Embedding YouTube Videos Seamlessly Into Stories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-earning-edge-exploiting-youtube-studio-for-global-viewers/"><u>[Updated] In 2024, Earning Edge  Exploiting YouTube Studio for Global Viewers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-innovative-boomers-for-dynamic-snaps-on-snapchat-for-2024/"><u>[Updated] Innovative Boomers for Dynamic Snaps on Snapchat for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-captivating-realm-of-tiktok-dance-music-and-visual-effects/"><u>[Updated] The Captivating Realm of TikTok  Dance, Music & Visual Effects</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-compreehsive-review-of-the-ultra-hd-actioncamera/"><u>2024 Approved  A Compreehsive Review of the Ultra-HD ActionCamera</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-laugh-away-in-time-the-goofy-movie-remastered-for-2024/"><u>A Laugh Away in Time  The 'Goofy Movie' Remastered for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/clear-screening-for-focused-online-participation/"><u>Clear Screening for Focused Online Participation</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-places-for-next-gen-vr-content-for-2024/"><u>Exclusive Places for Next-Gen VR Content for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-21-edition-examination-the-gamblers-guide-to-vegas-pro/"><u>In 2024, '21 Edition Examination – The Gambler’s Guide to Vegas Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-closer-look-at-the-vivavideo-interface/"><u>In 2024, A Closer Look at the VivaVideo Interface</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/ridiculous-rhythms-satirical-song-stories-for-2024/"><u>Ridiculous Rhythms  Satirical Song Stories for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/securing-your-work-top-10-photo-watermark-solutions/"><u>Securing Your Work  Top 10 Photo Watermark Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/selecting-the-best-equipment-for-expeditions/"><u>Selecting the Best Equipment for Expeditions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/soft-volume-tricks-lives-hidden-gems/"><u>Soft Volume Tricks  Live’s Hidden Gems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/solving-movie-editing-queries-with-filmora-guidance/"><u>Solving Movie-Editing Queries with Filmora Guidance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/spectacular-free-image-editors-the-new-era/"><u>Spectacular Free Image Editors  The New Era</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/take-control-with-kinemaster-a-compreayer-guide-to-android-gameplay/"><u>Take Control with KineMaster  A Compreayer Guide to Android Gameplay</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-art-of-memes-9-essential-elements-for-gif-perfection/"><u>The Art of Memes  9 Essential Elements for GIF Perfection</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-clear-path-to-crisp-videography-on-a-gopro/"><u>The Clear Path to Crisp Videography on a GoPro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-complete-analysis-of-yi-4k-plus-hdvr-review/"><u>The Complete Analysis of Yi 4K + HDVR Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-impactful-power-of-customer-testimonials-on-sales/"><u>The Impactful Power of Customer Testimonials on Sales</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-adding-motion-blur-effect-in-photoshop/"><u>The Ultimate Guide to Adding Motion Blur Effect in Photoshop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-productivity-playlist-podcast-inspired-tasks/"><u>The Ultimate Productivity Playlist  Podcast-Inspired Tasks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-10-techniques-for-youtube-to-mpeg-conversion/"><u>Top 10 Techniques for YouTube-to-MPEG Conversion</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-ten-web-retailers-for-exquisite-wrapped-delights/"><u>Top Ten Web Retailers for Exquisite Wrapped Delights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-zeoid-startups-revealed-in-panzoids/"><u>Top Zeoid Startups Revealed in Panzoids</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transform-every-moment-top-ideas-for-productive-podcast-sessions/"><u>Transform Every Moment  Top Ideas for Productive Podcast Sessions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-workshop-designers-app/"><u>Ultimate Workshop Designer's App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/undo-livestream-progress-with-twitch-tricks/"><u>Undo Livestream Progress with Twitch Tricks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleash-speed-edit-windows-11-photos-like-a-pro/"><u>Unleash Speed  Edit Windows 11 Photos Like a Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-best-e-commerce-destinations-for-hidden-box-deals/"><u>Unveiling the Best E-Commerce Destinations for Hidden Box Deals</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-premiere-pro-slow-playback-issues-finding-the-best-solutions-for-2024/"><u>Updated Premiere Pro Slow Playback Issues Finding The Best Solutions for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/usenet-video-player-direct-streaming-access/"><u>Usenet Video Player  Direct Streaming Access</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/winning-at-facebook-health-promotion-campaigns/"><u>Winning at Facebook Health Promotion Campaigns</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Best Storage Expansion for Sony A7C Cameras\""
-date: 2024-07-05T22:48:30.519Z
-updated: 2024-07-06T22:48:30.519Z
+date: 2024-07-22T12:31:47.749Z
+updated: 2024-07-23T12:31:47.749Z
 tags: 
   - screen-recording
   - ai video
@@ -29,6 +29,10 @@ thumbnail: https://www.lifewire.com/thmb/TIhbojtPiLWxPexEUegjc5UUv38=/400x300/fi
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -120,6 +124,10 @@ Follow @Max Wales
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -157,6 +165,9 @@ Follow @Max Wales
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -248,6 +259,9 @@ Follow @Max Wales
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -286,6 +300,9 @@ Follow @Max Wales
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -302,6 +319,9 @@ Follow @Max Wales
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -409,3 +429,39 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-captivating-clips-incorporating-text-deformation-artistry/"><u>[New] Captivating Clips  Incorporating Text Deformation Artistry</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-cinematic-blackout-mastery-in-premiere/"><u>[New] Cinematic Blackout Mastery in Premiere</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comparing-360-degree-captures-and-full-immersion-media/"><u>[New] Comparing 360-Degree Captures and Full Immersion Media</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-weaving-a-captivating-tiktok-closure-narrative/"><u>[Updated] 2024 Approved  Weaving a Captivating TikTok Closure Narrative</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-characters-breathe-life-the-dynamics-of-screenplay-conversations/"><u>[Updated] Characters Breathe Life  The Dynamics of Screenplay Conversations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-core-components-for-transformative-facebook-advertisements/"><u>[Updated] In 2024, Core Components for Transformative Facebook Advertisements</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comparing-the-best-of-gopro-cameras/"><u>2024 Approved  Comparing the Best of GoPro Cameras</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-create-edges-of-images-with-rotational-softness-blend-psx/"><u>2024 Approved  Create Edges of Images with Rotational Softness Blend PSX</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-elite-2023-leading-8-stealthy-video-download-tools/"><u>2024 Approved  Elite 2023  Leading 8 Stealthy Video Download Tools</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/2024-approved-the-ultimate-guide-to-time-lapse-apps-for-smartphones/"><u>2024 Approved The Ultimate Guide to Time-Lapse Apps for Smartphones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/5-top-action-cameras-with-full-hd-in-your-pocket/"><u>5 Top Action Cameras with Full HD in Your Pocket</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/9-secrets-to-unlocking-the-full-potential-of-window-11/"><u>9 Secrets to Unlocking the Full Potential of WINDOW 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-step-by-step-approach-to-mastering-lut-utilization/"><u>A Step-by-Step Approach to Mastering LUT Utilization</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-step-by-step-walkthrough-to-craft-your-metaverse-identity/"><u>A Step-by-Step Walkthrough to Craft Your Metaverse Identity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/adopting-advanced-advertising-approaches-metaverse/"><u>Adopting Advanced Advertising Approaches  Metaverse</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-software-for-animation-and-modeling/"><u>Advanced Software for Animation & Modeling</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audio-mastery-techniques-for-windows-users/"><u>Audio Mastery Techniques for Windows Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ballad-bliss-songs-that-score-big-on-will-you-questions/"><u>Ballad Bliss  Songs that Score Big on 'Will You?' Questions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-video-editing-apps-for-windows-filmmakers-expert-compilation/"><u>Best Video Editing Apps for Windows Filmmakers – Expert Compilation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-selling-vr-games-on-oculus-devices/"><u>Best-Selling VR Games on Oculus Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/calculating-costs-music-video-filming-for-2024/"><u>Calculating Costs  Music Video Filming for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-stunning-hdr-scenes-with-photoshop-mastery-for-2024/"><u>Capturing Stunning HDR Scenes with PhotoShop Mastery for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/control-over-your-spotify-default-podcast-recommendations-for-2024/"><u>Control Over Your Spotify Default Podcast Recommendations for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cost-efficient-4k-camera-options-(1k-for-2024/"><u>Cost-Efficient 4K Camera Options <$1K for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hidden-gems-in-the-world-of-snapchat-ringtones-online-for-2024/"><u>Hidden Gems in the World of Snapchat Ringtones Online for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-chortlechaos-dive-deep-into-meme-genesis/"><u>In 2024, ChortleChaos  Dive Deep Into Meme Genesis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-chucklecircuit-meme-studio-free-download/"><u>In 2024, ChuckleCircuit Meme Studio (Free Download!)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-7-plus-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From Apple iPhone 7 Plus If Youve Tried Everything</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-your-way-through-macos-11-big-sur-upgrade/"><u>In 2024, Navigating Your Way Through macOS 11 Big Sur Upgrade</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-next-level-siri-sounding-board-for-mac-and-microsoft-systems-for-2024/"><u>New Next-Level Siri Sounding Board for Mac & Microsoft Systems for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/proving-ideal-for-iphone-users-9-photo-watermarking-tools/"><u>Proving Ideal for iPhone Users  9 Photo Watermarking Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-motorola-moto-g34-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Motorola Moto G34 5G</u></a></li>
+</ul></div>
