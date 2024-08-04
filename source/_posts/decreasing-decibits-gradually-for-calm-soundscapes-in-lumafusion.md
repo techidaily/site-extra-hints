@@ -1,7 +1,7 @@
 ---
 title: "Decreasing Decibits Gradually for Calm Soundscapes in Lumafusion"
-date: 2024-07-22T09:43:38.714Z
-updated: 2024-07-23T09:43:38.714Z
+date: 2024-08-03T10:24:55.029Z
+updated: 2024-08-04T10:24:55.029Z
 tags: 
   - screen-recording
   - ai video
@@ -182,3 +182,47 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-sync-music-and-visuals-the-art-of-canva-editing/"><u>[New] 2024 Approved  Sync Music & Visuals  The Art of Canva Editing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-activate-windows-11s-automatic-high-dynamic-range-auto-hdr/"><u>[New] Activate Windows 11'S Automatic High Dynamic Range (Auto HDR)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-building-striking-soundbite-trailers-for-podcasts/"><u>[New] Building Striking Soundbite Trailers for Podcasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-chucklecreators-sign-up-for-fun-filmmaking/"><u>[New] ChuckleCreators  Sign Up for Fun Filmmaking</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-connect-play-and-share-the-essentials-of-xbox-zoom/"><u>[New] Connect, Play and Share  The Essentials of Xbox Zoom</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-cinematic-content-with-precision-ratios/"><u>[New] Crafting Cinematic Content with Precision Ratios</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-iphone-video-merging-techniques/"><u>[New] Mastering iPhone Video Merging Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beginners-guide-to-periscope-live-streaming/"><u>[Updated] Beginner's Guide to Periscope Live Streaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capturing-clarity-perfecting-image-description-via-text-in-pcmac/"><u>[Updated] Capturing Clarity  Perfecting Image Description via Text in PC/Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-content-calendar-for-successful-instagram-filmmaking/"><u>[Updated] Content Calendar for Successful Instagram Filmmaking</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-compelling-content-for-spotifys-ad-revenue/"><u>[Updated] Crafting Compelling Content for Spotify's Ad Revenue</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-how-to-ride-on-others-tiktok-waves-as-a-guest/"><u>[Updated] In 2024, How to Ride on Others' TikTok Waves as a Guest</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-techniques-for-efficient-media-navigation/"><u>2024 Approved  Advanced Techniques for Efficient Media Navigation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-places-to-find-3d-silver-and-gold-lettering-effects/"><u>2024 Approved  Best Places to Find 3D Silver and Gold Lettering Effects</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/5-best-mac-software-for-cutting-edge-media-production-for-2024/"><u>5 Best Mac Software for Cutting-Edge Media Production for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/8-groundbreaking-replacements-to-enhance-phone-interactions-with-ai/"><u>8 Groundbreaking Replacements to Enhance Phone Interactions with AI</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-pictures-worth-a-thousand-dollars-online-top-photo-cloud-services-reviewed/"><u>A Picture's Worth a Thousand Dollars Online  Top Photo Cloud Services Reviewed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-recording-in-windows-a-beginners-guide/"><u>Advanced Recording in Windows  A Beginner's Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-your-brands-buzz-on-youtube-with-fresh-insights/"><u>Building Your Brand's Buzz on Youtube with Fresh Insights</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/capture-the-sparkle-insta-worthy-photos-to-inspire-your-audience/"><u>Capture the Sparkle  Insta-Worthy Photos to Inspire Your Audience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/choreographed-insta-videos-with-a-musical-backdrop/"><u>Choreographed Insta-Videos with a Musical Backdrop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/convenient-curvature-creation-techniques-in-pixels/"><u>Convenient Curvature Creation Techniques in Pixels</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/covert-concepts-in-composing-captivating-images-for-2024/"><u>Covert Concepts in Composing Captivating Images for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-experience-with-windows-11-games/"><u>Elevate Your Experience with Windows 11 Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-tips-for-kinemaster-proficiency-and-excellent-competitors/"><u>Essential Tips for KineMaster Proficiency and Excellent Competitors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/excellence-in-endless-data-archiving-services/"><u>Excellence in Endless Data Archiving Services</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/how-to-address-the-top-six-issues-on-your-new-iphone-13-today/"><u>How to Address the Top Six Issues on Your New iPhone 13 Today!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-choose-the-best-lipo-battery-for-your-drone-for-2024/"><u>How to Choose the Best LiPo Battery for Your Drone for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-bringing-history-forward-digitizing-old-photographs-into-video/"><u>In 2024, Bringing History Forward  Digitizing Old Photographs Into Video</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-guide-webp-to-jpg-conversion-secrets/"><u>In 2024, Comprehensive Guide  WebP to JPG Conversion Secrets</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-gimbal-innovation-markets-elite-selections/"><u>In 2024, Gimbal Innovation  Market's Elite Selections</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-ultimate-cartoony-transformation-tools-for-pcs-and-macs/"><u>In 2024, Ultimate Cartoony Transformation Tools for PCs & Macs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/joyful-journeys-in-cinema-summers-top-10-for-families/"><u>Joyful Journeys in Cinema  Summer's Top 10 for Families</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leveraging-eco-friendly-visual-effects-revolutionizing-online-video-content/"><u>Leveraging Eco-Friendly Visual Effects  Revolutionizing Online Video Content</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/navigating-online-audio-archives-an-intuitive-guide-for-2024/"><u>Navigating Online Audio Archives  An Intuitive Guide for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pictorial-perfection-proven-techniques-for-stunning-photos/"><u>Pictorial Perfection  Proven Techniques for Stunning Photos</u></a></li>
+<li><a href="https://ai-video.techidaily.com/reinstate-lost-files-via-winrecovery-center/"><u>Reinstate Lost Files via WinRecovery Center</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/athway-to-lyrical-masterpieces-via-lyric-video-maker-software/"><u>The Pathway to Lyrical Masterpieces via Lyric Video Maker Software</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooted-stable-connection-for-asus-webcam-on-win11/"><u>Troubleshooted Stable Connection for ASUS Webcam on Win11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/weaving-individual-snaps-into-a-cohesive-tapestry/"><u>Weaving Individual Snaps Into a Cohesive Tapestry</u></a></li>
+</ul></div>
