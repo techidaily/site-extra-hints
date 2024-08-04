@@ -149,46 +149,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-podcast-income-the-real-numbers/"><u>[New] Podcast Income  The Real Numbers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-glimpses-identifying-who-sees-your-pics/"><u>[Updated] In 2024, Instagram Glimpses  Identifying Who Sees Your Pics</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unblock-your-youtube-experience-easy-solutions-for-chromefirefox/"><u>[Updated] Unblock Your YouTube Experience  Easy Solutions for Chrome/Firefox</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-videographers-arena-rivalry/"><u>2024 Approved  Videographer's Arena Rivalry</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ae-text-preset-collection-the-best-of-both-worlds/"><u>AE Text Preset Collection  The Best of Both Worlds</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/aerial-drone-transformation-trial-with-first-20-free-lutts/"><u>Aerial Drone Transformation - Trial with First 20 FREE LUTTs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/aerial-titans-unveiled-the-10-powerful-drone-list/"><u>Aerial Titans Unveiled  The 10 Powerful Drone List</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/aerial-vistas-at-their-best-xiaomi-drone-4k-analysis/"><u>Aerial Vistas at Their Best – Xiaomi Drone 4K Analysis</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/aimp-pro-541-wmsps-advanced-desktop-companion/"><u>AIMP Pro 5.41  WMSP's Advanced Desktop Companion</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/airborne-cameras-clash-dji-inspire-vs-gopro-max/"><u>Airborne Cameras Clash  DJI Inspire vs GoPro MAX</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/airpods-apart-heres-the-mend/"><u>Airpods Apart? Here's the Mend</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/all-about-it-understanding-googles-podcast-service-for-2024/"><u>All About It  Understanding Google's Podcast Service for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/all-encompassing-clarification-the-basics-of-googles-podcast-platform/"><u>All-Encompassing Clarification  The Basics of Google's Podcast Platform</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/alternatives-to-xsplit-for-efficient-media-management-for-2024/"><u>Alternatives to Xsplit for Efficient Media Management for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/altitude-achievers-the-ultimate-long-duration-drones-top-10/"><u>Altitude Achievers  The Ultimate Long Duration Drones (Top 10)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/amplifying-photos-keeping-precision-for-2024/"><u>Amplifying Photos  Keeping Precision for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/an-in-depth-study-on-ffmpegs-excellence-in-original-audio-extraction/"><u>An In-Depth Study on FFmpeg's Excellence in Original Audio Extraction</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/androids-photography-hub-is-pickup-at-the-top-of-its-class-in-2024/"><u>Android's Photography Hub  Is PickUp at the Top of Its Class, In 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/animpros-full-review-and-exploration-2024/"><u>AnimPros Full Review & Exploration 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/aperture-advocates-the-top-10-camera-optics-guide/"><u>Aperture Advocates  The Top 10 Camera Optics Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/apex-craftsman-studio-evaluation/"><u>Apex Craftsman Studio Evaluation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/artistic-techniques-for-3d-text-effect-for-2024/"><u>Artistic Techniques for 3D Text Effect for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/asmr-a-sound-path-to-wellness/"><u>ASMR  A Sound Path to Wellness?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/asmr-unveiled-benefits-for-your-well-being-for-2024/"><u>ASMR Unveiled  Benefits for Your Well-Being for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/assemble-unique-meme-creations-with-ease-for-2024/"><u>Assemble Unique Meme Creations with Ease for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/assessing-the-value-of-digital-image-anchor-points-for-2024/"><u>Assessing the Value of Digital Image Anchor Points for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/high-res-displays-not-setting-in-w11/"><u>High-Res Displays Not Setting In W11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-13-mini-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-15-plus-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone 15 Plus without Password?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-11-pro-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone 11 Pro How to Bypass?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-becoming-a-master-of-instagrams-video-dialogue-dynamics/"><u>In 2024, Becoming a Master of Instagram's Video Dialogue Dynamics</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-short-sensation-keywords-for-enhancing-video-shows-virality/"><u>In 2024, Short Sensation  Keywords for Enhancing Video Shows' Virality</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-top-rated-tiktok-editing-software-compared/"><u>In 2024, Top-Rated TikTok Editing Software Compared</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-x-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone X i Do? Get Answers here | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/tech-savvy-show-saviors-advanced-tv-capture-tips-for-2024/"><u>Tech-Savvy Show Saviors  Advanced TV Capture Tips for 2024</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-reno-11-pro-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Reno 11 Pro 5G</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-10-free-audio-capture-tools-for-excellent-podcasts-updated/"><u>Updated Top 10 Free Audio Capture Tools for Excellent Podcasts (Updated)</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"
