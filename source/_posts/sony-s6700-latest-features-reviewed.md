@@ -1,0 +1,167 @@
+---
+title: "\"Sony S6700  Latest Features Reviewed\""
+date: 2024-08-17T13:48:27.494Z
+updated: 2024-08-18T13:48:27.494Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes Sony S6700: Latest Features Reviewed\""
+excerpt: "\"This Article Describes Sony S6700: Latest Features Reviewed\""
+keywords: "Sony S6700 Latest Review,Sony S6700 Features Update,Sony S6700 Camera Review,Sony S6700 Tech Specs,Sony S6700 New Updates,Sony S6700 Innovative Features,Sony S6700 Feature Highlights"
+thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba8565a3523ea779e463db4b2.jpg
+---
+
+## Sony S6700: Latest Features Reviewed
+
+# Sony BDP-S6700 Review
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+Sony BDP-S6700 is well known as a smart, compact and attractive Blu-ray player that adds impressive push to 4K videos so that viewers can enjoy fine details. This device is available with payment of US $130 only but it promises surprising services that are comparable to high end units. 4K upscaling ability is one of the best feature and further it provides impressive full HD 3D support.
+
+**Pros:**
+
+* This player offers excellent quality for Blu-Ray images.
+* Comes with a dual core processor.
+* Possesses built in dual band Wi-Fi.
+* Interactive user interface.
+* It has multi room support feature.
+* Impressive streaming services with wide selection range.
+* DVD upscaling supported.
+
+**Cons:**
+
+* It has received average rating for build quality.
+* 4K upscaling is not so fine.
+* Bluetooth often causes undesired noise in signals.
+* It works preferably only on Android devices; does not extend support to iOS platforms.
+
+## Features
+
+The BDP-S6700 is capable enough to fulfil almost all requirements of buyers, it provides eye catching results for Blu-ray, can spin 3D discs, processed CDs and DVDs with high quality content but it lacks to provide support for DVD audio. You will be glad to know that this device can perfectly handle DTS HD Master audio and Dolby TrueHD content. Users can enjoy playing all popular file formats on this player like DSD, ALAC, FLAC, WAV and MP3 etc. The best part is that video side support is extended up to AVCHD, WMV and MKV and content can be transferred via USB and Wi-Fi.
+
+You can easily access all your favourite stuff from internet using its Dual band Wi-Fi connection and it also extends support to all popular streaming services like Spotify, YouTube, BBC News, Demand 5, Amazon Video, BBC iPlayer and Netflix etc. Many users prefer to use BDP-S6700 as an important part of their multiroom system as it can easily process CDs as well as USB music and controls for audio can be easily generated from Sony’s smartphone app: SongPal Link. Further, you can enjoy DLNA connectivity and Miracast screen mirroring facility for displaying content on smartphones or TV screen directly. Gamers will love to explore their gaming world on BDP-S6700 as it assists in easy streaming from cloud based systems but you will need wireless DualShock 4 controller for this purpose.
+
+![ ](https://images.wondershare.com/filmora/article-images/s6700-4.jpg)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01BTTHXZU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01BTTHXZU&linkId=5ae6fc2ca446cead03647aa90ee00feb)
+
+## Operation
+
+This device offers an intuitive home screen feature where everything can be accessed easily on well managed series of tiles. One can easily remove or add his favourite applications on home screen so that they can be accessed with ease in future. Three more tiles available on home screen provide better controls for screen mirroring, connected devices and loaded discs. As the setup menu for BDP-S6700 is present on top portion of the screen it can help you to fulfil your media customization needs with ease. Sadly, the DLNA option is not available on Home Screen by default but you can add that manually.
+
+Other than this, streamlined menu helps users to find their desired content with ease and will continue services when you are connected to DLNA devices. The menu is cleanly presented where lists of songs and albums are well defined and anyone can easily find their collection. The dual core processor makes content processing much faster so that users can easily switch between menus and online content whereas the built in Wi-Fi assists in faster streaming. It can start Blu-Ray discs immediately with the maximum lag of 20 seconds.
+
+You will definitely love its tiny remote control that is designed with rubber keys and has clear labelling. Its well sliced direction pad assists in fine navigation whereas Netflix, Bluetooth and Dedicated Home button makes it handy. Alternatively, users can generate controls from Sony’s TV SideView app, it can help them to make selections for DLNA content, YouTube videos and for online EPG. You will never find any trouble in handling of BDP-S6700 due to its intuitive user friendly interface.
+
+![ ](https://images.wondershare.com/filmora/article-images/s6700-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
+## Design
+
+If we consider the price point then BDP-S6700 provides all good services being an affordable player. Its build quality is satisfactory with thin attractive metal casing but it still appears lightweight when compared with other products around. The disc processing is observed to be quite enough and it will not create disturbance for your viewing experience. It also consists of USB and HDMI 1.4 output ports that assist in developing easy connectivity with external world.
+
+![ ](https://images.wondershare.com/filmora/article-images/s6700-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Performance
+
+There are so many things to talk about performance of BDP-S6700; some of the best parts are 4K upscaling, Blu-ray playback and standard definition playback along with streaming quality. You will definitely love its upscaling feature as it provides Ultra HD quality on TV screens. During performance tests content quality for 1080p as well as 720p was found impressive and it provides great choice for streamed videos.
+
+BDP-S6700 is an efficient Blu-ray player that adds full HD flavour to all details. It has a default video mode so users need not to switch between settings again and again while playing discs; it is capable enough to present all details with effective bit by bit processing. Color representation of BDP-S6700 is also impressive and it was identical to many high end players from Panasonic and Samsung etc. You will hardly be able to differentiate between their content quality. Most of the Blu-ray discs are handled flawlessly on BDP-S6700 and also you will not even find troubles with 3D playbacks, but ensure that you have connected your device to desired TV screen size.
+
+![ ](https://images.wondershare.com/filmora/article-images/s6700-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+## Verdict
+
+There are so many ultra HD Blu-ray players in market but impressive design and feature rich performance of Sony BDP-S6700 makes it stand out among all competitors. It extends support to all popular file formats and provides impressive results for Blu-ray, 4K and 3D content. Users can enjoy music streaming via Bluetooth but the sad part is that it cannot work on iOS devices. If you are an android user and searching for some compatible Blu-Ray players then go for BDP-S6700.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-acid-pro-evaluation-and-alternative-software/"><u>[New] Comprehensive ACID Pro Evaluation & Alternative Software</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-diy-youtube-music-collection-a-comprehensive-online-and-app-method-for-2024/"><u>[New] DIY YouTube Music Collection  A Comprehensive Online & App Method for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-astro-bio-revolution-crafting-signature-whatsapp-identities/"><u>[Updated] Astro-Bio Revolution  Crafting Signature WhatsApp Identities</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-converting-sdr-video-to-hdr-a-comprehensive-tutorial/"><u>[Updated] Converting SDR Video to HDR - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-ranking-the-top-16-youtube-intros-to-amplify-views/"><u>[Updated] In 2024, Ranking the Top 16 YouTube Intros to Amplify Views</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-auditory-illusions-video-meets-apple-music/"><u>2024 Approved  Auditory Illusions  Video Meets Apple Music</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-behind-the-curtain-top-10-hidden-features-of-vlc-player/"><u>2024 Approved  Behind the Curtain  Top 10 Hidden Features of VLC Player</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-complete-transformation-handbook-using-morphvox-tech/"><u>2024 Approved  Complete Transformation Handbook Using MorphVOX Tech</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/7-superior-mac-video-applications-for-2024/"><u>7 Superior Mac Video Applications for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/break-into-everyones-heart-clever-tips-and-examples-for-tinder-bios-for-2024/"><u>Break Into Everyone's Heart - Clever Tips & Examples for Tinder Bios for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/compelling-book-trail-creations-for-2024/"><u>Compelling Book Trail Creations for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-techniques-to-download-thousands-of-tiktok-videos/"><u>Comprehensive Techniques to Download Thousands of TikTok Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/decoding-instagrams-music-copyright-doctrine/"><u>Decoding Instagram's Music Copyright Doctrine</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/decoding-wirecast-other-broadcasting-software/"><u>Decoding WireCast  Other Broadcasting Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/demystifying-color-grading-with-powerful-luts/"><u>Demystifying Color Grading with Powerful LUTs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dual-dimensions-of-vr-the-google-vs-samsung-showdown/"><u>Dual Dimensions of VR  The Google Vs. Samsung Showdown</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/effective-strategies-to-craft-influential-patient-stories-on-film/"><u>Effective Strategies to Craft Influential Patient Stories on Film</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-podcasts-with-top-10-ai-name-generators/"><u>Elevate Your Podcasts with Top 10 AI Name Generators</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-addressing-and-fixing-a-missing-coprocessor-driver-in-windows-10/"><u>Expert Tips: Addressing and Fixing a Missing Coprocessor Driver in Windows 10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-the-boundaries-of-visual-creativity-using-windows-11-tools/"><u>Exploring the Boundaries of Visual Creativity  Using Windows 11 Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-s23-ultra-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy S23 Ultra Pattern Lock Screen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-circumvent-common-fails-with-chatgpt-in-writing/"><u>How to Circumvent Common Fails with ChatGPT in Writing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro Passcode without Computer?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-blitzing-through-images-on-win11/"><u>In 2024, Blitzing Through Images on Win11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-brighten-and-balance-photos-with-easy-ps-tips/"><u>In 2024, Brighten and Balance Photos with Easy PS Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-connect-and-captivate-youtube-twitter-and-facebook-using-zoom/"><u>In 2024, Connect and Captivate  YouTube, Twitter & Facebook Using Zoom</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-10-pro-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 10 Pro 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-integrating-custom-luts-into-your-post-production-workflow/"><u>In 2024, Integrating Custom LUTs Into Your Post-Production Workflow</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-6s-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 6s</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-elite-comprehensive-oculus-review-guide/"><u>In 2024, Unveiling the Elite  Comprehensive Oculus Review Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/kinemaster-advanced-perfecting-visual-continuity/"><u>Kinemaster Advanced  Perfecting Visual Continuity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/live-radio-transmissions-recorded-with-ease-an-experts-guide/"><u>Live Radio Transmissions Recorded with Ease  An Expert's Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-art-of-professional-gopro-cinematography/"><u>Mastering the Art of Professional Gopro Cinematography</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/online-audio-video-fusion-platform/"><u>Online Audio Video Fusion Platform</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pixlr-essentials-10-pro-tips-to-transform-your-images/"><u>Pixlr Essentials  10 Pro Tips to Transform Your Images</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-picks-recommended-portals-for-acquiring-snapalert-melodies/"><u>Premium Picks  Recommended Portals for Acquiring SnapAlert Melodies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pursuing-dynamic-visuals-the-ultimate-guide-for-converting-sdr-to-hdri/"><u>Pursuing Dynamic Visuals  The Ultimate Guide for Converting SDR to HDRI</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-honor-90-pro-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Honor 90 Pro has been deleted.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/reveling-in-4k-an-in-depth-look-at-yis-hero-series/"><u>Reveling in 4K  An In-Depth Look at Yi’s HERO Series</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/stay-ahead-of-the-curve-engaging-activities-while-listening-to-talk-shows/"><u>Stay Ahead of The Curve  Engaging Activities While Listening to Talk Shows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/synchronized-intro-editing-across-all-your-devices-this-year/"><u>Synchronized Intro Editing Across All Your Devices This Year</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-art-of-crafting-dynamic-luts/"><u>The Art of Crafting Dynamic LUTs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-artists-journey-becoming-a-hue-heavyweight/"><u>The Artist's Journey  Becoming a Hue Heavyweight</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-essence-of-color-in-photography-top-11-tutorials/"><u>The Essence of Color in Photography (Top 11 Tutorials)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/virtual-venue-visions-live-streaming-guide/"><u>Virtual Venue Visions  Live Streaming Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-control-panel-lost-find-unlisted-system-configurations/"><u>Win11 Control Panel Lost, Find Unlisted System Configurations</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

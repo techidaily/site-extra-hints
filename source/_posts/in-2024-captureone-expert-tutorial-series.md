@@ -1,0 +1,273 @@
+---
+title: "In 2024, CaptureOne Expert Tutorial Series"
+date: 2024-08-17T13:49:19.680Z
+updated: 2024-08-18T13:49:19.680Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "This Article Describes In 2024, CaptureOne Expert Tutorial Series"
+excerpt: "This Article Describes In 2024, CaptureOne Expert Tutorial Series"
+keywords: "CaptureOne Mastery,ProTutorial One,Expert Camera Guide,CaptureOne Basics,Techie Photography,Advanced One Learning,Tutorial Camera Series"
+thumbnail: https://thmb.techidaily.com/81ce373281fd9aff14dae5d82f0fff51572cdd8c291988609733f2ca1401739f.jpg
+---
+
+## CaptureOne Expert Tutorial Series
+
+The use of photo editors has been made common for quite a while. People have been recommending multiple editors according to their requirements. Numerous online and offline photo editors have been kept into consideration by different people of variating classes. Such is an example of iPiccy, an online photo editor featuring extensive tools that allow users to make the best out of their photos. Are you excited?
+
+This article mainly discusses the iPiccy photo editor and provides you with a clear explanatory guide on ideally utilizing it. Let's get started!
+
+## Part 1: Key Features of iPiccy Photo Editor
+
+There are many online photo editors available across the market for users. Talking about the variety in online photo editors, iPiccy provides a very generous set of features to its users. The following part discusses some of the critical features of this online photo editor. You will surely learn a lot!
+
+### 1\. Photo Editor
+
+One of the mainstream features of this editor, the 'Photo Editor,' provides the user with powerful and easy-to-use tools which can be found online. Unlike other online tools that do not offer such a variety to their users, this photo editor ensures that the user can make significant changes across their video in no time. From auto adjustment to one-click rotation, cropping, and resizing images, this online photo editor is justifiably one of the best in the market.
+
+There are several other effects available across the platform. Users can enhance their photos, retouch the facial elements, and manage frames across it. This makes the iPiccy online tool an excellent option for photo editing. Isn’t it great?
+
+![ipiccy photo editor online](https://images.wondershare.com/filmora/article-images/2022/ipiccy-photo-editor-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+### 2\. Collage Maker
+
+Talking about the mainstream tools, this is another unique and compelling feature offered across iPiccy. Users can make out collages of their pictures of choices across a simple and efficient environment. The innovation across the tool makes it possible for the users to develop something new out of it. Along with the ability to make collages, the user can make use of different templates that are available across the platform.
+
+These templates allow them to develop collages in no time. Following this, they can make changes across the background color, size, roundness, and multiple other elements across the image. This makes iPiccy collage one of the best collage makers in the online market. It is undoubtedly worth trying. Sounds great!
+
+![ipiccy collage maker](https://images.wondershare.com/filmora/article-images/2022/ipiccy-photo-editor-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 3\. Graphic Designer
+
+One of the fundamental reasons why iPiccy is reclined as one of the best online photo editors is the availability of diversity across it. This online editor provides users with the opportunity to play with design elements. While operating its graphic designing feature, there are multiple edits that are possible with the help of this tool.
+
+Along with them being easy to utilize, the graphic designing tools that iPiccy photo editor are exemplary in quality. They allow the users to add text, overlays, and stickers across their photos. Along with that, they can also utilize vector masks and stunning text effects across their creations for the production of the most unique designs. Worth trying!
+
+![ipiccy graphic design tool](https://images.wondershare.com/filmora/article-images/2022/ipiccy-photo-editor-3.jpg)
+
+### 4\. Photo Effects
+
+Another great feature available across this online photo editor is the prevalence of effects that can be used in photos. The variety across the editor is quite extensive, which makes the selection easier and more convenient for the users. With a complete control offered to its users, iPiccy makes sure that the user designs the best photos out of their ideas and imagination. That sounds perfect!
+
+![ipiccy photo effects](https://images.wondershare.com/filmora/article-images/2022/ipiccy-photo-editor-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
+## Part 2: How to Use iPiccy Photo Editor
+
+Following the discussion of the basic features that make iPiccy a great option in the market, it is time to discuss how to use the online photo editor for positive results. Let’s proceed!
+
+Step 1: Open and Access Photo Editor
+
+You need to access the browser and open the [official website of iPiccy photo editor](https://ipiccy.com/). Following this, tap on the option of “Edit a Photo” to proceed into the editor dashboard.
+
+![select edit a photo](https://images.wondershare.com/filmora/article-images/2022/ipiccy-photo-editor-5.jpg)
+
+Step 2: Add Photo to Edit
+
+A new window opens in the front. Tap on "Open" and select "My Computer" to add an existing image from your computer that is to be edited. iPiccy provides users with the option of adding an image through the web, capturing an image, dragging and dropping, or creating an image from scratch. If you are a user who wishes to try this tool at first, you can also use the built-in options provided on the window.
+
+![import your image](https://images.wondershare.com/filmora/article-images/2022/ipiccy-photo-editor-6.jpg)
+
+Step 3: Basic Photo Edits
+
+While looking into the basic edits that can be performed across this photo editor, there are multiple options available across the interface. The user can select the option of 'Auto Fix' for making automatic fixes to the quality of the image. Along with that, it also allows the user to crop, rotate, and resize images as desired.
+
+Following this, options like "Exposure,” “Sharpen,” “Vibrance,” “Colors,” and “Hue & Saturation” are also available across the basic editing options.
+
+![do basic image edits](https://images.wondershare.com/filmora/article-images/2022/ipiccy-photo-editor-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
+Step 4: Make Advanced Edits
+
+Along with the basic editing features, iPiccy online is also about advanced editing procedures across the platform. There are multiple advanced options available across the online editor, which helps the user enhance their images to perfection. It includes managing the curves of the image, followed by cloning the photos.
+
+You can also manage the shadow and highlights of the photo and erase the background, if necessary. Multiple adjustments across different levels can be performed across an image. iPiccy provides you with one of the best and simplest environments in the online platforms.
+
+![ perform advanced image editing](https://images.wondershare.com/filmora/article-images/2022/ipiccy-photo-editor-8.jpg)
+
+Step 5: Apply Filters
+
+If you wish to add filters across your photo, you can consider using the tools such as "Emboss," "Blur Image," and "Smart Blur" for applying filters to the photo. This would provide you with effective results for enhancing the quality and appearance of the photo.
+
+![ apply image filters](https://images.wondershare.com/filmora/article-images/2022/ipiccy-photo-editor-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
+Step 6: Save Edited Photo
+
+Once done, click on the “Save” option to save the image across your computer. You are now successfully done with the procedure of editing the image.
+
+![tap save to save edits](https://images.wondershare.com/filmora/article-images/2022/ipiccy-photo-editor-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 3: Reviews for iPiccy Photo Editor
+
+Once you are aware of the mechanisms and operations of the photo editor, the following discussion will help you decide on the selection of this online photo editor. This will surely help!
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
+### Advantages of iPiccy Photo Editor
+
+You need to realize the following pros when considering iPiccy photo editor for your needs:
+
+* The platform is quite simple and easy to use. The intuitiveness of the interface makes it one of the best online tools in the market. The tools across the interface are pretty easy to locate, which makes it a good choice for beginners.
+* There is a clear division of basic and advanced tools for the users. It helps in clear photo editing in a good environment.
+* You can set the quality of the image between low to high according to your requirements.
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Disadvantages of iPiccy Photo Editor
+
+The following disadvantages are to be recognized when using iPiccy editor for photo editing:
+
+* If you wish to use the “Clone” or “Curves” tool, you have to make a user account.
+* iPiccy only supports JPEG and PNG files for editing photos.
+* You can only share your created photos across Facebook.
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
+## Conclusion
+
+This article has featured a detailed discussion on iPiccy online photo editor. Users who are into simple editing are advised to consider such platforms to start. With a touch of advanced tools, this makes it one of the best options available in the market. You will learn a lot while using it! A must-try!
+
+Disadvantages of iPiccy Photo Editor
+
+The following disadvantages are to be recognized when using iPiccy editor for photo editing:
+
+* If you wish to use the “Clone” or “Curves” tool, you have to make a user account.
+* iPiccy only supports JPEG and PNG files for editing photos.
+* You can only share your created photos across Facebook.
+
+## Conclusion
+
+This article has featured a detailed discussion on iPiccy online photo editor. Users who are into simple editing are advised to consider such platforms to start. With a touch of advanced tools, this makes it one of the best options available in the market. You will learn a lot while using it! A must-try!
+
+Disadvantages of iPiccy Photo Editor
+
+The following disadvantages are to be recognized when using iPiccy editor for photo editing:
+
+* If you wish to use the “Clone” or “Curves” tool, you have to make a user account.
+* iPiccy only supports JPEG and PNG files for editing photos.
+* You can only share your created photos across Facebook.
+
+## Conclusion
+
+This article has featured a detailed discussion on iPiccy online photo editor. Users who are into simple editing are advised to consider such platforms to start. With a touch of advanced tools, this makes it one of the best options available in the market. You will learn a lot while using it! A must-try!
+
+Disadvantages of iPiccy Photo Editor
+
+The following disadvantages are to be recognized when using iPiccy editor for photo editing:
+
+* If you wish to use the “Clone” or “Curves” tool, you have to make a user account.
+* iPiccy only supports JPEG and PNG files for editing photos.
+* You can only share your created photos across Facebook.
+
+## Conclusion
+
+This article has featured a detailed discussion on iPiccy online photo editor. Users who are into simple editing are advised to consider such platforms to start. With a touch of advanced tools, this makes it one of the best options available in the market. You will learn a lot while using it! A must-try!
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-step-into-stardom-with-these-10-essential-channel-banner-makers/"><u>[New] 2024 Approved  Step Into Stardom with These 10 Essential Channel Banner Makers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-6-pure-android-screen-recorder-selections-no-ads/"><u>[New] 6 Pure Android Screen Recorder Selections (No Ads)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-analyzing-investment-for-video-promotion/"><u>[New] Analyzing Investment for Video Promotion</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-build-haha-images/"><u>[New] Build Haha Images</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-aplus-game-streaming-tech-reviews/"><u>[Updated] A+ Game Streaming Tech Reviews</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leading-mobile-video-enhancers-for-high-quality-gopro-videos/"><u>[Updated] Leading Mobile Video Enhancers for High-Quality GoPro Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-must-have-drone-accessories-and-parts-for-2024/"><u>10 Must Have Drone Accessories and Parts for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-audacity-workshop-eloquent-silent-transitions/"><u>2024 Approved  Audacity Workshop  Eloquent Silent Transitions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-cinematic-vibes-photos-with-a-soundtrack-twist/"><u>2024 Approved  Cinematic Vibes  Photos with a Soundtrack Twist</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-comprehensive-guide-to-snapchats-highlight-system/"><u>A Comprehensive Guide to Snapchat's Highlight System</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/aerial-excellence-with-mi-drone-a-high-quality-look/"><u>Aerial Excellence with MI Drone - A High-Quality Look</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/avoid-distortion-best-practices-for-shooting-up-close-with-videoleap/"><u>Avoid Distortion  Best Practices for Shooting Up Close with VideoLeap</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-heights-in-focus-examining-the-mavic-pro-for-2024/"><u>Capturing Heights in Focus  Examining the Mavic Pro for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/discover-the-top-9-free-online-tools-to-craft-your-logo-for-2024/"><u>Discover the Top 9 Free Online Tools to Craft Your Logo for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-samsung-galaxy-a25-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Samsung Galaxy A25 5G Device SIM</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-phones-alerts-personalizing-ringtones-and-sounds-on-android/"><u>Elevate Your Phone's Alerts  Personalizing Ringtones & Sounds on Android</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-tecno-pop-8-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Tecno Pop 8 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-asus-rog-phone-7-ultimate-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Asus ROG Phone 7 Ultimate using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-13-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 13 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-ace-set-of-rotational-recording-devices/"><u>In 2024, Ace Set of Rotational Recording Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-achieving-soft-sound-effects-in-audacity/"><u>In 2024, Achieving Soft Sound Effects in Audacity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-combine-movie-tracks-in-youtube-repertoire/"><u>In 2024, Combine Movie Tracks in YouTube Repertoire</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-decoding-the-secrets-of-highly-successful-youtube-shorts-templates/"><u>In 2024, Decoding the Secrets of Highly Successful YouTube Shorts Templates</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-tecno-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Tecno Device SIM</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-influencers-blueprint-five-steps-to-proven-marketing-success/"><u>In 2024, The Influencer's Blueprint  Five Steps to Proven Marketing Success</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-syma-x5c-a-beginners-prime-drone-choice/"><u>In 2024, Unveiling the Syma X5C  A Beginner’s Prime Drone Choice</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mkv-decoding-best-apps-for-mac/"><u>MKV Decoding  Best Apps for Mac</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/newcomer-needs-efficient-purchases-of-monetizing-platforms-for-2024/"><u>Newcomer Needs  Efficient Purchases of Monetizing Platforms for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/oneplus-10-news-price-release-date-estimate-features-and-rumors/"><u>OnePlus 10: News, Price, Release Date Estimate, Features, and Rumors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/overcoming-biometric-blockades-in-iphone-x-fixing-face-id/"><u>Overcoming Biometric Blockades in iPhone X - Fixing Face ID</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/palette-perfection-in-11-step-by-step-lessons/"><u>Palette Perfection in 11 Step-by-Step Lessons</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/saving-big-on-final-cut-pro-without-paying/"><u>Saving Big on Final Cut Pro without Paying</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/soundscape-starters-best-music-playlists-for-podcast-openings/"><u>Soundscape Starters  Best Music Playlists for Podcast Openings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-stepwise-approach-to-voice-recognition-integration-in-powerpoint-presentations/"><u>The Stepwise Approach to Voice Recognition Integration in PowerPoint Presentations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-tech-review-dji-phantom-3-professional-drone/"><u>The Ultimate Tech Review  DJI Phantom 3 Professional Drone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-meme-making-tools-discover-your-favorites/"><u>Top Meme-Making Tools  Discover Your Favorites</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleash-power-in-valorant-the-best-voice-modifier-without-payment/"><u>Unleash Power in Valorant  The Best Voice Modifier Without Payment</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/viral-victory-your-kinemaster-journey/"><u>Viral Victory  Your KineMaster Journey</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-bluetooth-refuses-to-shutdown/"><u>Win11: Bluetooth Refuses to Shutdown</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/zoom-video-transcoding-3-proven-success-techniques/"><u>Zoom Video Transcoding  3 Proven Success Techniques</u></a></li>
+</ul></div>
