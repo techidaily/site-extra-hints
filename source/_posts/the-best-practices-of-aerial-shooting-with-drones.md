@@ -1,0 +1,201 @@
+---
+title: "The Best Practices of Aerial Shooting with Drones"
+date: 2024-08-24T22:32:58.118Z
+updated: 2024-08-25T22:32:58.118Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "This Article Describes The Best Practices of Aerial Shooting with Drones"
+excerpt: "This Article Describes The Best Practices of Aerial Shooting with Drones"
+keywords: "Drone Shooting Techniques,Best Drone Aerial Practice,Top Drone Photography Tips,Expert Drone Flight Methods,Proficient Drone Captures,Premier Aerial Drone Shots,Optimal Drone Image Capture"
+thumbnail: https://thmb.techidaily.com/08c3aa17e0d4eaa82a6912035c2625c6aeb814a3c6b04915c834196ff8d149e8.jpg
+---
+
+## The Best Practices of Aerial Shooting with Drones
+
+# Tips on Filming with Drone
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ Drones have power to create wonders in the film industry and we can observe their awesome performance with undergoing revolution in the filmmaking. Filmmakers are now able to create wonders with cinematic, jaw dropping results that were earlier just impossible in Hollywood productions. But if you are new to this world of drone then you must be searching for some information regarding how to shoot aerial videos using drone to get professional results. If so, then don’t worry! Because the article below will provide you complete information about impressive filming techniques with latest drones.
+
+ Let's check a video tutorial first:
+
+## Tips for Filming with Drone
+
+* [Part 1: Techniques](#part1)
+* [Part 2: Weather](#part2)
+* [Part 3: Camera](#part3)
+* [Part 4: Editing](#part4)
+
+### Techniques
+
+ In order to get best results with your aerial shoot, try these professional techniques:
+
+#### 1\.  Go Slow
+
+ The very first recommendation to beginners from professionals is to move slowly. It leaves cinematic impression on viewers as your slow motion makes them think that you are shooting from a larger platform such as helicopter. No doubt, it will increase the production value and shots will appear perfectly crafted and well controlled.
+
+ Ensure that you operate RC control stick very smoothly. Take help from gradual movements so that undesired shakes in footage can be avoided and at the same time care about slow acceleration and deceleration to avoid distortion from end results.
+
+ It is good to pre-plan as well as visual most of your aerial shots. One should prefer to advance guard his filming location so that all pros and cons can be pre-observed and proper planning can be done to get rid of limitations of that area. If you know your requirements in advance and have an effective plan for the site then you will definitely be able to make most out of your limited battery life of drone. You will not feel happy if some shots are missed just because of mismanagement and drained drone battery.
+
+#### 2\.  Two Axis type Movement
+
+ There are few hidden tricks behind those breathtaking shots of big budget movies and it is good to implement them with care. Most of those professionals prefer to implement two axis type movements simultaneously. They often make some arrangements to fly backwards as well as downwards at the same time but note that such movements must be controlled at much smoother rate with stable adjustments.
+
+#### 3\.  Strafe
+
+ When you have to focus on attractive landscapes then the best idea is to use sideways movements or the strafing feature. It will help you to show landscapes with different prospective and results will naturally be more impressive. Usually, most of the shots over landscapes in Hollywood movies are recorded with aerial motions where drone keep on moving forward and backward, so if you try the strafing effect then it will definitely be a unique and awesome idea. This recording style will also help you to reveal various eye catching features of the landscape.
+
+#### 4\.  Orbit
+
+ If you want to achieve Orbit then you have to control your drone strafe movements towards left or right side while pulling that yaw stick to exactly opposite direction. Let me make it clear that yaw stick is a control stick that you will find on left side of your drone controller and it is there to control rotation action of drone. Note that, you need to have more practice on that yaw control because most of users, even professionals end up spinning much faster and results are too bad.
+
+#### 5\.  Fly Through Shots
+
+ Here is something more cinematic but it is going to be risky enough. You need to be more careful to capture this type of shots because it demands you complete attention on controller screen for drone navigation. If you believe on your piloting skills then you will definitely achieve success in this recording action. When these shots are captured perfectly, they have power to capture attention of viewers and they will soon become fan of your cinematography skills along with your risk management strategy.
+
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
+### Weather
+
+ When we talk about weather then it is something out of your control and you have just one option that is to pray mercy from Mother Nature. To capture some of the best shots you will often need to fly in a clean sky and you definitely don’t need that heavy fog and rain. This issue is more common in winter days, especially when you are working on high altitudes that get freeze due to cold.
+
+**What to do?**
+
+* The first most important trick is to avoid taking shots in windy day. Generally, most of the advanced drone units can bear the pressure of up to 25-35 mph wind but if it goes above this range then your footage will get spoiled. It is not a good idea to simply rely on post processing techniques like jello effect etc. However, few professionals are able to refine their shots with Wrap Stabilization Setting to get best results.
+* Choose golden hours of the day to shoot your footage. The time of sunset and sunrise will help your footage to stand out as shadows are highly visible during this time and it will naturally create a natural impact. People rarely shoot scenes at sunrise time so you can try to implement this trick to prove yourself different from those common aerial shooters.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+### Camera
+
+ Some of the most common camera settings that demand your focus are flat image profile and shutter speed.
+
+* **Flat Image Profile:**There is no doubt to say that your camera settings are going to leave great impact on your footage so use them effectively. Prefer to work on flattest camera profile as it will help you to get impressive dynamic range with aerial camera. This technique of shooting helps users to prevent clouds and sky and also helps users to retain details from darkest point on ground.
+* **Control Shutter Speed:**  
+ It is good to work with lower shutter speed and in order to avoid strobing effect one must prefer to shot by keeping camera close to ground. Keep it somewhere around 100th to 250th level of second, one can also work with ND filter to control shutter speed to desired lower level. In case if you work with 500th or 100th part of second then you will naturally obtain sharper frames with it leads to footage with heavy strobing.
+
+### Editing
+
+ If you need to edit your shots to get customized results then it is most important to choose a professional and high quality software tool. One of the best professional recommendations is [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) due to its intuitive interface and ability to edit 4k video shoots. It can naturally lead to Hollywood style feeling with impressive adjustments of colours and other video effects.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**Steps to edit videos using Wondershare Filmora:**
+
+**Step 1 Import video files:** First of all you need to import your files from computer folder to main interface of Wondershare Filmora. You can either prefer to use the “Import” option directly or work with drag and drop functions that can bring all desired files immediately to software timeline.
+
+![import videos](https://images.wondershare.com/filmora/article-images/video-editor-main-interface-1.jpg)
+
+**Step 2: Cut Videos:**
+
+ Simply move the slider position to the specific point on your video from where you need to cut it down. In case if you want to remove any specific part permanently then split it using cut option and then use delete button from right menu or from toolbar to remove it. In case if you want to cut your video into multiple parts then simply repeat this process. But note that, you need to save those multiple sections of files one by one while deleting the unwanted portions.
+
+**Step 3: Scene Detection:**
+
+![scene detection](https://images.wondershare.com/filmora/article-images/scene-detection.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ If you want to reach to certain segment of video quickly then use scene detection function. Just highlight your video on item tray and then right click, from the drop down menu, select “Scene Detection” option and now you can immediately separate your video into various parts as per need. It will help you to reach to specific part with ease.
+
+**Step 4: Apply Effects:**
+
+![add effects](https://images.wondershare.com/filmora/article-images/add-effects-in-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
+ Wondershare Filmora provides wide range of features and editing options. One can easily add transitions, filters, overlays, titles, text and other useful elements with ease. The filmora library contains about 500 effects along with free royalty music option.
+
+ **Step 5: Export:**
+
+![export](https://images.wondershare.com/filmora/article-images/export-output.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
+ Once you are done with the editing part and your video has reached to the satisfactory view then simply hit the create option to save your video. It is possible to export video to device with different file formats as per your need, for this you need to select the format option and then choose your desired type. In case if you wish to play your video on specific devices like iPod, iPad and iPhone etc then you need to click on Device option and then choose your device from available list. Videos can also be uploaded directly to social media platforms like YouTube etc and it can be burnt to DVD discs also so that you can enjoy them on TV screens with DVD player at home.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+ Are you curious about which scenes in a film are shot by drones? Check [this article](https://skytango.com/drones-in-movies-7-hollywood-movies-filmed-with-drones/) to expand your interest.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-cinematic-wisdom-bank/"><u>[New] Cinematic Wisdom Bank</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-compiling-ultimate-list-of-virtual-controls/"><u>[New] Compiling Ultimate List of Virtual Controls</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-finest-pencil-masters-free-vs-paid-windows-apps-reviewed/"><u>[New] Finest Pencil Masters  Free vs Paid Windows Apps Reviewed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essentials-to-skyrocketing-video-views-on-youtube/"><u>[New] In 2024, Essentials to Skyrocketing Video Views on YouTube</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeo-simplified-platform-for-content-creators/"><u>[New] In 2024, Vimeo Simplified  Platform for Content Creators</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-video-game-chroniclers-essential-checklist/"><u>[New] The Video Game Chronicler’s Essential Checklist</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-audience-accessibility-switching-from-srt-to-sub/"><u>2024 Approved  Audience Accessibility  Switching From SRT to SUB</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-balancing-main-footage-with-b-roll-to-avoid-overkill/"><u>2024 Approved  Balancing Main Footage with B-Roll to Avoid Overkill</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-7-macos-video-player-selections/"><u>2024 Approved  Best 7 MacOS Video Player Selections</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-blending-images-and-audio-for-dynamic-videos/"><u>2024 Approved  Blending Images and Audio for Dynamic Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-twist-and-turn-tales-transforming-visual-content-on-instagram-platforms/"><u>2024 Approved  Twist and Turn Tales  Transforming Visual Content on Instagram Platforms</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-techniques-for-lut-use-in-premiere-pro-for-2024/"><u>Advanced Techniques for LUT Use in Premiere Pro for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-10-free-downloads-legal-meditation-melodies/"><u>Best 10 Free Downloads  Legal Meditation Melodies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-assortment-professional-webcam-supports-for-2024/"><u>Best Assortment  Professional Webcam Supports for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capture-breathtaking-scenes-on-iphone-with-ease/"><u>Capture Breathtaking Scenes on iPhone with Ease</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cinemas-best-shoot-techniques-the-ultimate-guide-for-24-for-2024/"><u>Cinema's Best Shoot Techniques  The Ultimate Guide for '24 for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/craft-compelling-video-content-using-windows-photos-and-story-remix-for-2024/"><u>Craft Compelling Video Content Using Windows Photos & Story Remix for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discover-the-leading-10-in-ultra-hd-best-4k-cams-review/"><u>Discover the Leading 10 in Ultra-HD  Best 4K Cams Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/effortless-srt-file-manipulation-on-pc-and-mac/"><u>Effortless SRT File Manipulation on PC and Mac</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/enhancing-computing-power-laptop-memory-upgrades/"><u>Enhancing Computing Power: Laptop Memory Upgrades</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-film-editing-made-easy-with-fcps-top-10-tools/"><u>Expert Film Editing Made Easy with FCP's Top 10 Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-babel-to-clarity-how-to-harness-chatgpt-for-accurate-and-easy-language-interpretation/"><u>From Babel to Clarity: How to Harness ChatGPT for Accurate and Easy Language Interpretation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gopro-hero4-vs-drift-ghost-ultimate-performance-showdown/"><u>GoPro Hero4 Vs. Drift Ghost - Ultimate Performance Showdown</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/harmonize-with-holiness-choosing-christian-chimes/"><u>Harmonize with Holiness – Choosing Christian Chimes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-send-large-video-files-from-iphone-to-iphonepcmac/"><u>How to Send Large Video Files From iPhone to iPhone/PC/Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ideal-environments-for-digital-streaming/"><u>Ideal Environments for Digital Streaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-deep-dive-prodigious-polarrs-editing-capabilities/"><u>In 2024, A Deep Dive  Prodigious Polarr's Editing Capabilities</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-augmented-commerce-frontiers/"><u>In 2024, Augmented Commerce Frontiers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-augmented-gaming-experience-the-top-8-list/"><u>In 2024, Augmented Gaming Experience  The Top 8 List</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-m6-pro-4g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco M6 Pro 4G To Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-techniques-for-video-editing-on-windows-8-movie-maker/"><u>Innovative Techniques for Video Editing on Windows 8 Movie Maker</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/livegaze-app-reviews-and-ratings/"><u>LiveGaze App Reviews & Ratings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perceiving-beyond-understanding-ars-impact/"><u>Perceiving Beyond  Understanding AR's Impact</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-aerial-choices-for-high-quality-gopro-recordings/"><u>Premium Aerial Choices For High-Quality GoPro Recordings</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-resolution-guide-for-horizontal-text-disruption-on-devices/"><u>Swift Resolution Guide for Horizontal Text Disruption on Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-mobile-cinema-showcase-apples-best-freepluspaid-film-watchers-guide/"><u>The Ultimate Mobile Cinema Showcase  Apple's Best FREE+Paid Film Watchers Guide</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-infinix-smart-7-hd-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Infinix Smart 7 HD without backup.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-full-potential-in-depth-review-of-lgs-monitor-tech-for-2024/"><u>Unlocking Full Potential  In-Depth Review of LG's Monitor Tech for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unraveling-cuts-in-imovie-size-modification-mystery/"><u>Unraveling Cuts in iMovie  Size Modification Mystery</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vlcs-secrets-for-efficient-remote-live-broadcasting/"><u>VLC's Secrets for Efficient Remote Live Broadcasting</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/your-blueprint-to-windows-11-mastery/"><u>Your Blueprint to Windows 11 Mastery</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
