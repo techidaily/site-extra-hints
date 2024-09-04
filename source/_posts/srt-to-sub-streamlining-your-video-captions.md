@@ -1,7 +1,7 @@
 ---
 title: "\"SRT to SUB  Streamlining Your Video Captions\""
-date: 2024-08-29T18:18:44.918Z
-updated: 2024-08-30T18:18:44.918Z
+date: 2024-09-03T08:17:28.794Z
+updated: 2024-09-04T08:17:28.794Z
 tags: 
   - screen-recording
   - ai video
@@ -70,9 +70,6 @@ Summary:
 
 Better Converter is an excellent tool for simple SRT to SUB conversion in a hassle-free manner.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. [Subtitle Fix](http://subtitlefix.com/index.php)
 
 This online tool allows you to perform an array of subtitles-related tasks like merging subtitles, conversion of formats, expanding and narrowing the subtitles, and more.
@@ -107,7 +104,7 @@ Summary
 For simple SRT to SUB conversion along with support for additional subtitle-related tasks, this works as a great tool.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3\. [MConverter](https://mconverter.eu/convert/srt/sub/)
 
@@ -115,9 +112,6 @@ Use this online tool to convert SRT files to SUB in bulk. The interface is simpl
 
 ![mconveter](https://images.wondershare.com/filmora/article-images/2022/11/how-to-convert-srt-to-sub-with-3-actionable-ways-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Supported OS: Windows and Mac
 
 Steps for conversion
@@ -145,7 +139,7 @@ Summary
 Converting SRT files to SUB in bulk is simple and quick using this online tool that supports conversion to an array of other file types and formats as well.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe id="iframe_1770526" src="//a.impactradius-go.com/gen-ad-code/5597632/1770526/20702" width="300" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ## Solution 2: Get SUB file from SRT Subtitles with third-party Translators Software
 
@@ -157,9 +151,6 @@ These full-fledged desktop programs need to be downloaded and installed on your 
 
 Check the popular tools in this category below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. [Subtitle Edit](https://nikse.dk/subtitleedit)
 
 This is a free and open-source tool that is majorly known for its subtitle editing feature and supports an array of additional tasks including the conversion of subtitles from one format to the other. The software also works as an excellent subtitle creator and can also be used for subtitle translation and syncing. Support for around 30 languages makes this tool popular among people across the globe.
@@ -167,8 +158,10 @@ This is a free and open-source tool that is majorly known for its subtitle editi
 ![subtitle edit](https://images.wondershare.com/filmora/article-images/2022/11/how-to-convert-srt-to-sub-with-3-actionable-ways-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Supported OS: Windows and Mac
 
@@ -234,7 +227,7 @@ Subtitle Workshop is another simple yet feature-rich free-to-use tool that suppo
 ![subtitle workshop](https://images.wondershare.com/filmora/article-images/2022/11/how-to-convert-srt-to-sub-with-3-actionable-ways-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Supported OS: Windows
 
@@ -261,6 +254,12 @@ Summary
 
 To open, edit, as well as convert subtitles in over 60 formats can be done using this Windows-based tool.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Editing the Styling of SRT subtitles before Converting to. Sub
 
 In several situations, you would need to edit and style the SRT subtitles before they can be converted to the SUB format. To help you get this task done effortlessly we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as the best software. Workable on all the latest Windows and Mac systems, the software is a complete video toolbox that is known for its support for a wide range of additional features including SRT subtitle editing.
@@ -279,23 +278,32 @@ Step1 Download, install, and open the software on your system and then add the S
 
 ![new project created for srt](https://images.wondershare.com/filmora/article-images/2022/11/how-to-convert-srt-to-sub-with-3-actionable-ways-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 Next, you need to right-click on the time and then choose the Advanced Edit option. You can also double-click on the selected SRT file.
 
 ![wondershare filmora srt edit](https://images.wondershare.com/filmora/article-images/2022/11/how-to-convert-srt-to-sub-with-3-actionable-ways-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 Step3 In this step, you can perform various SRT editing actions like editing the time code, changing the subtitles, changing the style, merging the subtitle strip, and more.
 
 ![wondershare filmora srt files editing](https://images.wondershare.com/filmora/article-images/2022/11/how-to-convert-srt-to-sub-with-3-actionable-ways-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4 Next, choose the SRT file on the timeline, right-click the same and then choose the Export Subtitle File option.
 
 ![wondershare filmora srt files exporting](https://images.wondershare.com/filmora/article-images/2022/11/how-to-convert-srt-to-sub-with-3-actionable-ways-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Final Words
 
@@ -310,9 +318,6 @@ If you are facing issues opening and playing SRT subtitle files on your device, 
 * [Subtitle Workshop](#part2-3)
 * [Editing the Styling of SRT subtitles before Converting to. Sub](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Solution 1: Convert SRT to SUB with Online FREE Converters
 
 Online tools are a great choice for users who are in search of programs that do not require any software download or installation. With these tools, you can directly work from the browser and most of them are also free to use. Below, we have shortlisted the popular 3 online tools to convert SRT to SUB.
@@ -323,9 +328,6 @@ This is a simple-to-use online tool that can quickly convert your local srt file
 
 ![betterconverter](https://images.wondershare.com/filmora/article-images/2022/11/how-to-convert-srt-to-sub-with-3-actionable-ways-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 Steps for **SRT SUB** conversion
 
 Step1 [Open](https://www.better-converter.com/Subtitles-Converter/Srt-to-Sub-Subtitle-Converter)and click on the BROWSE button to add the locally saved SRT file. Alternatively, you can also enter subtitles in the Input space provided.
@@ -350,6 +352,9 @@ Summary:
 
 Better Converter is an excellent tool for simple SRT to SUB conversion in a hassle-free manner.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1993645" src="//a.impactradius-go.com/gen-ad-code/5597632/1993645/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### 2\. [Subtitle Fix](http://subtitlefix.com/index.php)
 
 This online tool allows you to perform an array of subtitles-related tasks like merging subtitles, conversion of formats, expanding and narrowing the subtitles, and more.
@@ -359,7 +364,7 @@ Supported OS: Windows and Mac
 ![subtitlefix](https://images.wondershare.com/filmora/article-images/2022/11/how-to-convert-srt-to-sub-with-3-actionable-ways-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Steps to **convert SRT to SUB**
 
@@ -386,6 +391,9 @@ Summary
 
 For simple SRT to SUB conversion along with support for additional subtitle-related tasks, this works as a great tool.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. [MConverter](https://mconverter.eu/convert/srt/sub/)
 
 Use this online tool to convert SRT files to SUB in bulk. The interface is simple and the process is fast. You can also convert your files to txt and smi format.
@@ -393,7 +401,10 @@ Use this online tool to convert SRT files to SUB in bulk. The interface is simpl
 ![mconveter](https://images.wondershare.com/filmora/article-images/2022/11/how-to-convert-srt-to-sub-with-3-actionable-ways-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Supported OS: Windows and Mac
 
@@ -421,9 +432,6 @@ Summary
 
 Converting SRT files to SUB in bulk is simple and quick using this online tool that supports conversion to an array of other file types and formats as well.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Solution 2: Get SUB file from SRT Subtitles with third-party Translators Software
 
 Online tools are undoubtedly simple and free tools but they come with their own share of limitations like internet dependency, limited features, restricted size, and more. So, for the users who want to avoid these limitations third-party translators’ software is available.
@@ -434,6 +442,12 @@ These full-fledged desktop programs need to be downloaded and installed on your 
 
 Check the popular tools in this category below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. [Subtitle Edit](https://nikse.dk/subtitleedit)
 
 This is a free and open-source tool that is majorly known for its subtitle editing feature and supports an array of additional tasks including the conversion of subtitles from one format to the other. The software also works as an excellent subtitle creator and can also be used for subtitle translation and syncing. Support for around 30 languages makes this tool popular among people across the globe.
@@ -466,9 +480,6 @@ Summary
 
 If you are in search of a feature-packed tool that is also free to use, this is just the right choice.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. [BatchSubtitlesConverter](https://www.videohelp.com/software/BatchSubtitlesConverter)
 
 Another popular name in the list is BatchSubtitlesConverter which is a handy program allowing you to convert subtitles format. As the name suggests, the program supports batch processing where multiple subtitle files can be converted at a time.
@@ -476,7 +487,10 @@ Another popular name in the list is BatchSubtitlesConverter which is a handy pro
 ![batchsubtitlesconverter](https://images.wondershare.com/filmora/article-images/2022/11/how-to-convert-srt-to-sub-with-3-actionable-ways-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Supported OS: Windows
 
@@ -510,7 +524,10 @@ Subtitle Workshop is another simple yet feature-rich free-to-use tool that suppo
 ![subtitle workshop](https://images.wondershare.com/filmora/article-images/2022/11/how-to-convert-srt-to-sub-with-3-actionable-ways-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Supported OS: Windows
 
@@ -537,6 +554,12 @@ Summary
 
 To open, edit, as well as convert subtitles in over 60 formats can be done using this Windows-based tool.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Editing the Styling of SRT subtitles before Converting to. Sub
 
 In several situations, you would need to edit and style the SRT subtitles before they can be converted to the SUB format. To help you get this task done effortlessly we recommend [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) as the best software. Workable on all the latest Windows and Mac systems, the software is a complete video toolbox that is known for its support for a wide range of additional features including SRT subtitle editing.
@@ -545,10 +568,6 @@ The simple and quick interface of the software lets you perform several SRT edit
 
 ![wondershare filmora](https://images.wondershare.com/filmora/article-images/2022/11/how-to-convert-srt-to-sub-with-3-actionable-ways-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 Steps to edit SRT subtitles using Wondershare Filmora
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
@@ -559,6 +578,9 @@ Step1 Download, install, and open the software on your system and then add the S
 
 ![new project created for srt](https://images.wondershare.com/filmora/article-images/2022/11/how-to-convert-srt-to-sub-with-3-actionable-ways-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 Next, you need to right-click on the time and then choose the Advanced Edit option. You can also double-click on the selected SRT file.
 
 ![wondershare filmora srt edit](https://images.wondershare.com/filmora/article-images/2022/11/how-to-convert-srt-to-sub-with-3-actionable-ways-10.jpg)
@@ -572,7 +594,7 @@ Step4 Next, choose the SRT file on the timeline, right-click the same and then c
 ![wondershare filmora srt files exporting](https://images.wondershare.com/filmora/article-images/2022/11/how-to-convert-srt-to-sub-with-3-actionable-ways-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe id="iframe_1975636" src="//a.impactradius-go.com/gen-ad-code/5597632/1975636/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
 <!-- affiliate ads end -->
 ## Final Words
 

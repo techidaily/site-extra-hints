@@ -1,7 +1,7 @@
 ---
 title: "Peak Performance SD Card for Sony A7S Series"
-date: 2024-08-29T18:18:38.046Z
-updated: 2024-08-30T18:18:38.046Z
+date: 2024-09-03T08:17:28.913Z
+updated: 2024-09-04T08:17:28.913Z
 tags: 
   - screen-recording
   - ai video
@@ -170,5 +170,5 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
 <!-- affiliate ads end -->

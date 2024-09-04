@@ -1,7 +1,7 @@
 ---
 title: "\"Emoji Enhancement Techniques  Converting Graphics Into Chat App Stickers\""
-date: 2024-07-22T14:36:54.288Z
-updated: 2024-07-23T14:36:54.288Z
+date: 2024-09-03T08:13:30.830Z
+updated: 2024-09-04T08:13:30.830Z
 tags: 
   - screen-recording
   - ai video
@@ -38,10 +38,6 @@ Step3 Under this, choose the “**GIF Maker**” option.
 
 Step4 Select the side for “**Photos to GIF**” on the next window that appears to add your image and “**Videos to GIF**” for a video file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![select the side for photos to gif](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-3.jpg)
 
 Step5 Add the image/video clip after clicking on the “**Add**” button.
@@ -50,10 +46,6 @@ Step6 Make changes to the Output parameters and Frame Rate, and click on the “
 
 Step7 After creating the GIF, go to the UniConverter home page again and click on "**Image Converter**".
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![click on image converter](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-4.jpg)
 
 Step8 Choose the conversion model to WEBP and click the **tickbox** for the File.
@@ -64,9 +56,6 @@ Step9 Press the Convert button.
 
 ![press the convert button](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to convert a GIF to a Discord sticker?
 
 There are tools available for users to convert GIFs to stickers specifically for communication/streaming-based platforms like Discord. The process of using UniConverter would not work here, though, since the supported format for stickers is APNG. That is not available under this software at this point.
@@ -85,6 +74,12 @@ Step3 Choose the Output format as APNG. Set the image size and quality specifica
 
 Step4 Click on the "**Convert Now**" button. The File would store on your device, and you can use it on Discord as stickers.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to put your GIFs into animated WhatsApp stickers?
 
 Much like the process of converting GIF to stickers using the regular UniConverter tool, you can also use that or other apps to prepare GIFs for WhatsApp-based stickers. In this case, ensure the **gif to sticker WhatsApp** aspect ratio settings are set to 512 x 512 pixels since that is what the app supports. However, this would help create some standard-level stickers mainly.
@@ -93,17 +88,10 @@ Step1 Open your WhatsApp application on the phone and access the chat of the per
 
 Step2 Click on the paperclip or media icon and insert the video on your device through that section. Alternatively, you can click on the camera to directly record a video using the slider icon above.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![click on paperclip or media](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-9.jpg)
 
 Keep the video around 6 seconds long. If it extends further, cut it to 6 seconds maximum.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![keep the video around 6seconds long](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-10.jpg)
 
 Step3 You can add stickers, icons, or text to the video.
@@ -112,6 +100,12 @@ Step4 There is a GIF icon beside the video option. Click on it and press the “
 
 ![click on gif icon](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to turn a GIF to a Telegram sticker?
 
 You can use either the Uniconverter or AConvert tool to turn your image/video into a GIF file. For sharing on Telegram, you have to use the same process through UniConverter's Image Converter to change the images into 512 x 512-pixel dimensions. Then, add the pack in Telegram as a new sticker pack.
@@ -128,9 +122,6 @@ Step5 Add all stickers and type /publish. Then, tap the Enter button.
 
 Step6 Set the sticker pack's unique URL name and share the stickers inside individually or altogether.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to custom GIF stickers with a video editor?
 
 While you can use the steps mentioned to turn GIFs into Telegram-based stickers, having a universal tool to make high-quality GIFs first would help.
@@ -152,34 +143,34 @@ Step1 Launch the Wondershare Filmora software on your PC or Mac after completing
 
 Step2 On the home page, click the "**New Project**" button to go on.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![click on new project](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-12.jpg)
 
 Step3 Tap on "**Click here to import media**" at the top of the editing home screen. Or, drag and drop a video of your choice.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![tap on click here to import media](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1993645" src="//a.impactradius-go.com/gen-ad-code/5597632/1993645/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 Step4 After adding the media file, drag it to the lower section of the page and make adjustments like text, speed, color, etc. You can also crop the file into short clips to save as different stickers.
 
 ![drag video to the lower section of page](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step5 After customizing all of these, choose the **Export**. And click on the **Local > GIF**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![choose export](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1977020" src="//a.impactradius-go.com/gen-ad-code/5597632/1977020/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 Step6 Then, animated GIFs you made can be shared directly via Whatsapp or another messaging app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Final Words
 
 Multiple steps are available for users to turn their GIF files into stickers to share with friends, family, and acquaintances. Use useful tools like UniConverter, AConvert, and Filmora to create high-quality GIFs and stickers.
@@ -199,22 +190,28 @@ Step1 Launch the Wondershare Filmora software on your PC or Mac after completing
 
 Step2 On the home page, click the "**New Project**" button to go on.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![click on new project](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 Tap on "**Click here to import media**" at the top of the editing home screen. Or, drag and drop a video of your choice.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![tap on click here to import media](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1374820" src="//a.impactradius-go.com/gen-ad-code/5597632/1374820/15852" width="250" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 Step4 After adding the media file, drag it to the lower section of the page and make adjustments like text, speed, color, etc. You can also crop the file into short clips to save as different stickers.
 
 ![drag video to the lower section of page](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_1975648" src="//a.impactradius-go.com/gen-ad-code/5597632/1975648/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 Step5 After customizing all of these, choose the **Export**. And click on the **Local > GIF**.
 
 ![choose export](https://images.wondershare.com/filmora/article-images/2022/07/gif-to-sticker-15.jpg)
@@ -253,3 +250,54 @@ Also, while doing this conversion, make customizations based on the type of comm
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-artisans-nexus-reports-in-depth-studio-scrutiny-2023-edition/"><u>[New] Artisan's Nexus Reports  In-Depth Studio Scrutiny, 2023 Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-assessment-of-various-camera-types-for-videos/"><u>[New] Assessment of Various Camera Types for Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-10-collage-apps-for-android-top-picks/"><u>[New] Best 10 Collage Apps for Android ​ (Top Picks)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-channel-building-strategies-to-hit-a-million-view-mark/"><u>[New] Channel Building Strategies to Hit a Million-View Mark</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-colorful-compositions-in-a-click-photoshops-guide/"><u>[New] Colorful Compositions in a Click  Photoshop's Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-high-tech-vr-handhelds-our-top-10-list-for-2024/"><u>[New] High-Tech VR Handhelds  Our Top 10 List for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-master-the-art-of-multitasking-top-15-ideas-for-podcast-enthusiasts-for-2024/"><u>[New] Master the Art of Multitasking  Top 15 Ideas for Podcast Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-fascinating-world-of-stock-pictures-and-meme-lore/"><u>[New] The Fascinating World of Stock Pictures & Meme Lore</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-unveiling-the-revised-sony-s3700-experience/"><u>[Updated] 2024 Approved  Unveiling the Revised Sony S3700 Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-slogan-generator-for-virtual-events/"><u>[Updated] Best Slogan Generator for Virtual Events</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-buyers-path-to-a-top-360-camera-purchase-guide/"><u>[Updated] Buyer's Path to a Top 360 Camera Purchase Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-cinema-craftsmanship-unleashed-youtube-green-screens-101/"><u>[Updated] Cinema Craftsmanship Unleashed  Youtube Green Screens 101</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-live-recording-mastery-with-innovative-webcams-explored-for-2024/"><u>[Updated] Live Recording Mastery with Innovative WebCams Explored for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-final-cut-pro-plug-ins-for-2024/"><u>10 Final Cut Pro-Plug-Ins for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-12-signs-endless-stories-create-your-whatsapp-bio-narrative/"><u>2024 Approved  12 Signs, Endless Stories - Create Your WhatsApp Bio Narrative</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-adding-personal-touch-the-art-of-typeface-integration-in-ae/"><u>2024 Approved  Adding Personal Touch  The Art of Typeface Integration in AE</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-blueprint-for-seamless-integration-of-instagram-and-tiktok/"><u>2024 Approved  Blueprint for Seamless Integration of Instagram and TikTok</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-versatile-video-tools-for-linux-windows-and-macos/"><u>2024 Approved  Free, Versatile Video Tools for Linux, Windows & MacOS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advancements-in-quantum-hdr-technology-explained/"><u>Advancements in Quantum HDR Technology Explained</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/become-a-zoom-champion-in-minutes-for-2024/"><u>Become a Zoom Champion in Minutes for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chuckle-constructor-app/"><u>Chuckle Constructor App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comical-creation-quick-tips-for-meme-mastery-for-2024/"><u>Comical Creation  Quick Tips for Meme Mastery for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comparing-digital-dimensions-metaverse-and-multiverse/"><u>Comparing Digital Dimensions  Metaverse & Multiverse</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/compre-written-analysis-hero4-black-operations/"><u>Compre Written Analysis  Hero4 Black Operations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevating-text-artistry-in-illustrator/"><u>Elevating Text Artistry in Illustrator</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevating-visuals-with-acoustic-elements/"><u>Elevating Visuals with Acoustic Elements</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enlightening-your-iphone-experience-with-new-camera-features/"><u>Enlightening Your iPhone Experience with New Camera Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-2023s-selection-of-top-tier-pc-vr-gear/"><u>Essential 2023'S Selection of Top-Tier PC VR Gear</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-an-android-that-cant-make-or-receive-calls/"><u>How to Fix an Android That Can't Make or Receive Calls</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-repair-a-broken-samsung-blu-ray-player-step-by-step-guide/"><u>How to Repair a Broken Samsung Blu-Ray Player – Step by Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-5-ways-to-record-audio-on-windows-10/"><u>In 2024, 5 Ways to Record Audio on Windows 10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-zooming-practices-in-microsoft-teams/"><u>In 2024, Advanced Zooming Practices in Microsoft Teams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-amplify-your-iphones-sound-with-top-rated-podcasts/"><u>In 2024, Amplify Your iPhone's Sound with Top-Rated Podcasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-blending-beats-with-brushstrokes-online/"><u>In 2024, Blending Beats with Brushstrokes Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-vlc-use-manual-for-mac-users/"><u>In 2024, Comprehensive VLC Use Manual for Mac Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-content-calendar-for-successful-instagram-filmmaking/"><u>In 2024, Content Calendar for Successful Instagram Filmmaking</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/lighten-up-the-internet-craft-memes-with-kapwing/"><u>Lighten Up the Internet  Craft Memes With Kapwing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/masterclass-in-high-speed-recording/"><u>Masterclass in High-Speed Recording</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-basics-of-telegram-advertising-as-a-novice/"><u>Mastering the Basics of Telegram Advertising as a Novice</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mpow-bluetooth-drivers-free-downloads-and-updates-for-windows-11-8-and-7-users/"><u>MPOW Bluetooth Drivers: Free Downloads and Updates for Windows 11, 8 & 7 Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premier-6-sites-boosting-corporate-engagement/"><u>Premier 6 Sites Boosting Corporate Engagement</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sci-fis-virtual-frontiers-top-10-metaverse-escapes/"><u>Sci-Fi's Virtual Frontiers  Top 10 Metaverse Escapes</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-privacy-conceal-your-likes-on-fb-and-ig/"><u>Social Media Privacy: Conceal Your Likes on FB & IG</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamlining-your-workflow-with-zooms-pre-meeting-protocol/"><u>Streamlining Your Workflow with Zoom's Pre-Meeting Protocol</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/total-guide-ultimate-video-show-experience-in-24/"><u>Total Guide  Ultimate Video Show Experience in '24</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transform-your-images-videos-anywhere/"><u>Transform Your Images, Videos Anywhere</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713962634968-updated-do-you-want-to-make-your-photos-and-videos-look-different-from-others-there-are-many-lightroom-luts-free-and-they-make-your-media-content-stand-out-/"><u>Updated Do You Want to Make Your Photos and Videos Look Different From Others? There Are Many Lightroom LUTs Free, and They Make Your Media Content Stand Out From Others for 2024</u></a></li>
+</ul></div>

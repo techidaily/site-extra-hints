@@ -1,7 +1,7 @@
 ---
 title: "\"Timing of a 20MB-Sized Video\""
-date: 2024-08-29T18:18:51.958Z
-updated: 2024-08-30T18:18:51.958Z
+date: 2024-09-03T08:17:28.654Z
+updated: 2024-09-04T08:17:28.654Z
 tags: 
   - screen-recording
   - ai video
@@ -441,5 +441,8 @@ How many minutes of video is 100 megabytes of data used? A YouTube video that la
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

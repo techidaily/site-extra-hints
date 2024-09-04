@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Technical Hurdles in iPhone X's Facial Detection"
-date: 2024-08-29T18:17:15.073Z
-updated: 2024-08-30T18:17:15.073Z
+date: 2024-09-03T08:17:30.451Z
+updated: 2024-09-04T08:17:30.451Z
 tags: 
   - screen-recording
   - ai video
@@ -154,5 +154,8 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
