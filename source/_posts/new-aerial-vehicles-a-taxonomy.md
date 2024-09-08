@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Aerial Vehicles  A Taxonomy\""
-date: 2024-09-03T08:31:09.037Z
-updated: 2024-09-04T08:31:09.037Z
+date: 2024-09-07T20:45:32.505Z
+updated: 2024-09-08T20:45:32.505Z
 tags: 
   - screen-recording
   - ai video
@@ -16,12 +16,24 @@ keywords: "Aerial Vehicle Types,Drones and VTOLs Classification,Air Craft Segmen
 thumbnail: https://www.lifewire.com/thmb/xQxtXFkzyQiRGWQVpT33EdqXgyc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/2do-app-57caef685f9b5829f4001c4f.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Aerial Vehicles: A Taxonomy
 
 # Types of Drones: Explore Different Types of Drones
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Max Wales
 
  Mar 27, 2024• Proven solutions
@@ -32,6 +44,18 @@ thumbnail: https://www.lifewire.com/thmb/xQxtXFkzyQiRGWQVpT33EdqXgyc=/400x300/fi
 
  One of the most common applications of drone technology is in military as it helps to control surveillance related issues with ease. Places where humans cannot enter directly can be easily monitored by an air flying unit and it can also capture photographs of critical locations. Here we are going to discuss various types of drones and for ease of understating they are categorized into four basic sections: Numbers of propellers used inside, their size, flying range and equipments.
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Different types of Drones
 
 | [Number of propellers](#propellers) | [Size](#size)      | [Range](#range) | [Equipment](#equip) |          |             |
@@ -43,10 +67,28 @@ thumbnail: https://www.lifewire.com/thmb/xQxtXFkzyQiRGWQVpT33EdqXgyc=/400x300/fi
 | Single-rotor drones                 | /                  | /               | /                   | /        |             |
 | **Fixed-wing drones**               | /                  | /               | /                   | /        | /           |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Section 1: According to Number of Propellers
 
 ![drones type by propellers](https://images.wondershare.com/filmora/article-images/types-of-drones.png)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ####
 
 **Rotory drones**
@@ -102,10 +144,10 @@ thumbnail: https://www.lifewire.com/thmb/xQxtXFkzyQiRGWQVpT33EdqXgyc=/400x300/fi
  Most of the designs of drones available in market are quadcopters because they are able to lift huge weight without any additional engineering adjustment. It is the most cost effective solution to most of your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Section 2: According to Size
 
@@ -183,9 +225,6 @@ thumbnail: https://www.lifewire.com/thmb/xQxtXFkzyQiRGWQVpT33EdqXgyc=/400x300/fi
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_1982457" src="//a.impactradius-go.com/gen-ad-code/5597632/1982457/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.

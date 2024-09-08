@@ -1,0 +1,435 @@
+---
+title: "\"[Updated] Close-Up Cinematic Magic with Kinemaster Software\""
+date: 2024-09-07T20:48:24.307Z
+updated: 2024-09-08T20:48:24.307Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+  - ai auto
+categories: 
+  - ai
+  - screen
+description: "\"This Article Describes [Updated] Close-Up Cinematic Magic with Kinemaster Software\""
+excerpt: "\"This Article Describes [Updated] Close-Up Cinematic Magic with Kinemaster Software\""
+keywords: "\"Close-Up Magic,Cinematic Shots,Magic Effects,Professional Cinematics,High Definition Cinemas,Visual Magic Tech,Kinemaster Experience\""
+thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3db5eda647c388c8800cd490f.jpg
+---
+
+## Close-Up Cinematic Magic with Kinemaster Software
+
+You can get several tools and effects used while using the Kinemaster application. Additionally, it is exceptionally light for usage. You can get the Kinemaster application for free and use as features you want from Kinemaster. You can even enjoy the video effects. We discuss zooming in and out on video using a Kinemaster, and let's see the steps of doing that.
+
+##### In this article
+
+1. How to zoom in on videos on Kinemaster
+2. Kinemasters Alternative to Zooming Videos  
+   1. Quik  
+   2. Vieka
+3. Related FAQs
+
+## Part 1\. How to zoom in on videos on Kinemaster
+
+The built-in feature of Kinemaster enables users to zoom in and out of films and photos. The pen zoom tool, commonly known as a video expanding effect, can be used without downloading additional transitions. With the help of a video editor, ordinary footage can be elevated when used on a Chromebook, tablet, or phone.
+
+As you know, Kinemaster is a robust video editor with many premium features, making it the top video editor for mobile devices. There isn't a zoom-in and zoom-out effect in Kinemaster, but there is an approach that we will learn in this article. Let’s see how to zoom in Video on Kinemaster:
+
+**Steps to put Kinemaster to use**
+
+* Open Kinemaster, and then select the aspect ratio of editing.
+
+* Insert the image or video and then tap on the media icon.
+
+* Once you have entered the image or video, tap the pan icon and zoom in. When you tap on this option, you must choose the end and starting positions.
+* You can select the initial point and then set your final position.
+
+* You must use two fingers to adjust the position to enlarge the video or photo.
+* It would help if you remembered that you should not activate that equal sign. If you start it, zoom in/out will not work on your video.
+
+That is how you can make a zoom effect on video by using Kinemaster. You can try it out on your own by clicking on the editing video you have above. Make sure you don't go wrong in the abovementioned steps and make your zoom-in or out victorious.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2\. Kinemasters Alternative to Zooming Videos
+
+### 1\. Quik
+
+GoPro’s Quik is an excellent app for taking photos and editing videos. It offers a wealth of functionality comparable to those found in desktop video and photo editors, and it is moderately quick and slick-looking software. It works well whether you focus on photographs, videos, or both and gets along nicely with other apps. There are a tonne of features on the list. Let's start from the beginning: you can modify and save videos in 1080p and 720p, which is more than a review like this can cover.
+
+To ensure that you would record every moment, you can cut out unnecessary recorded video segments. You can splice videos together if there is enough material for one fantastic video, and text overlays are another option. When adding text to a photo or video, you may choose from a vast selection of styles, including filters and fonts, to make it seem its best.
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 2\. Vieka
+
+Vieka app is a video make and video editor application. With its video editing featured, you can easily edit the movies/videos by using the videos or photos. Users can add their favorite transitions, music effects, filters, and text. You can even create awesome videos in no time. It will offer stylish templates, including filters with music beats, effects, and cool transitions. You can upload the photo, and it will edit and create videos.
+
+This app will allow you to upload videos and photos and help create attractive videos using background music. Users can even convert their video and photo clips into blog videos with several transition effects. You can add the text to your video and express the feeling much better with Vieka. You can merge your videos with transition effects and create a photo slideshow with BGM effects. This app will even help you to zoom in and out on videos.
+
+## Part 3\. Related FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Where Is Pan And Zoom On Kinemaster?
+
+Pan and zoom effect is the default effect on Kinemaster that gets automatically applied to every video and image, adding you to the Kinemaster’s editing timeline. You can find Pan and Zoom effects on the right side of the screen.
+
+### How Do You Pan And Zoom A Layer In Kinemaster?
+
+Pan and zoom tool can be used only in the media of the primary timeline. You import the videos and images in Kinemaster by using the media option on top of the media wheel. To select the pan and zoom tool, tap on an image or video clip in the Primary timeline.
+
+You can tap on the pan and zoom option in the panel on the right side. When activated, the pan and zoom tool will display a picture of the media on the right.
+
+Now you can see how to zoom in/out videos on Kinemaster. You can practice it on your own to get a precise idea of how to zoom in and out. You can use Kinemaster for several video editing options and contact good video editors other than Kinemaster, such as Quik, and Vieka. These are the alternative options to use for video editing apart from Kinemaster.
+
+ Free Download For Win 7 or later(64-bit)
+
+ Free Download For macOS 10.14 or later
+
+"
+
+* Quik
+* Vieka
+* Related FAQs
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1\. How to zoom in on videos on Kinemaster
+
+The built-in feature of Kinemaster enables users to zoom in and out of films and photos. The pen zoom tool, commonly known as a video expanding effect, can be used without downloading additional transitions. With the help of a video editor, ordinary footage can be elevated when used on a Chromebook, tablet, or phone.
+
+As you know, Kinemaster is a robust video editor with many premium features, making it the top video editor for mobile devices. There isn't a zoom-in and zoom-out effect in Kinemaster, but there is an approach that we will learn in this article. Let’s see how to zoom in Video on Kinemaster:
+
+**Steps to put Kinemaster to use**
+
+* Open Kinemaster, and then select the aspect ratio of editing.
+
+* Insert the image or video and then tap on the media icon.
+
+* Once you have entered the image or video, tap the pan icon and zoom in. When you tap on this option, you must choose the end and starting positions.
+* You can select the initial point and then set your final position.
+
+* You must use two fingers to adjust the position to enlarge the video or photo.
+* It would help if you remembered that you should not activate that equal sign. If you start it, zoom in/out will not work on your video.
+
+That is how you can make a zoom effect on video by using Kinemaster. You can try it out on your own by clicking on the editing video you have above. Make sure you don't go wrong in the abovementioned steps and make your zoom-in or out victorious.
+
+## Part 2\. Kinemasters Alternative to Zooming Videos
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 1\. Quik
+
+GoPro’s Quik is an excellent app for taking photos and editing videos. It offers a wealth of functionality comparable to those found in desktop video and photo editors, and it is moderately quick and slick-looking software. It works well whether you focus on photographs, videos, or both and gets along nicely with other apps. There are a tonne of features on the list. Let's start from the beginning: you can modify and save videos in 1080p and 720p, which is more than a review like this can cover.
+
+To ensure that you would record every moment, you can cut out unnecessary recorded video segments. You can splice videos together if there is enough material for one fantastic video, and text overlays are another option. When adding text to a photo or video, you may choose from a vast selection of styles, including filters and fonts, to make it seem its best.
+
+### 2\. Vieka
+
+Vieka app is a video make and video editor application. With its video editing featured, you can easily edit the movies/videos by using the videos or photos. Users can add their favorite transitions, music effects, filters, and text. You can even create awesome videos in no time. It will offer stylish templates, including filters with music beats, effects, and cool transitions. You can upload the photo, and it will edit and create videos.
+
+This app will allow you to upload videos and photos and help create attractive videos using background music. Users can even convert their video and photo clips into blog videos with several transition effects. You can add the text to your video and express the feeling much better with Vieka. You can merge your videos with transition effects and create a photo slideshow with BGM effects. This app will even help you to zoom in and out on videos.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 3\. Related FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Where Is Pan And Zoom On Kinemaster?
+
+Pan and zoom effect is the default effect on Kinemaster that gets automatically applied to every video and image, adding you to the Kinemaster’s editing timeline. You can find Pan and Zoom effects on the right side of the screen.
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### How Do You Pan And Zoom A Layer In Kinemaster?
+
+Pan and zoom tool can be used only in the media of the primary timeline. You import the videos and images in Kinemaster by using the media option on top of the media wheel. To select the pan and zoom tool, tap on an image or video clip in the Primary timeline.
+
+You can tap on the pan and zoom option in the panel on the right side. When activated, the pan and zoom tool will display a picture of the media on the right.
+
+Now you can see how to zoom in/out videos on Kinemaster. You can practice it on your own to get a precise idea of how to zoom in and out. You can use Kinemaster for several video editing options and contact good video editors other than Kinemaster, such as Quik, and Vieka. These are the alternative options to use for video editing apart from Kinemaster.
+
+ Free Download For Win 7 or later(64-bit)
+
+ Free Download For macOS 10.14 or later
+
+"
+
+* Quik
+* Vieka
+* Related FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1\. How to zoom in on videos on Kinemaster
+
+The built-in feature of Kinemaster enables users to zoom in and out of films and photos. The pen zoom tool, commonly known as a video expanding effect, can be used without downloading additional transitions. With the help of a video editor, ordinary footage can be elevated when used on a Chromebook, tablet, or phone.
+
+As you know, Kinemaster is a robust video editor with many premium features, making it the top video editor for mobile devices. There isn't a zoom-in and zoom-out effect in Kinemaster, but there is an approach that we will learn in this article. Let’s see how to zoom in Video on Kinemaster:
+
+**Steps to put Kinemaster to use**
+
+* Open Kinemaster, and then select the aspect ratio of editing.
+
+* Insert the image or video and then tap on the media icon.
+
+* Once you have entered the image or video, tap the pan icon and zoom in. When you tap on this option, you must choose the end and starting positions.
+* You can select the initial point and then set your final position.
+
+* You must use two fingers to adjust the position to enlarge the video or photo.
+* It would help if you remembered that you should not activate that equal sign. If you start it, zoom in/out will not work on your video.
+
+That is how you can make a zoom effect on video by using Kinemaster. You can try it out on your own by clicking on the editing video you have above. Make sure you don't go wrong in the abovementioned steps and make your zoom-in or out victorious.
+
+## Part 2\. Kinemasters Alternative to Zooming Videos
+
+### 1\. Quik
+
+GoPro’s Quik is an excellent app for taking photos and editing videos. It offers a wealth of functionality comparable to those found in desktop video and photo editors, and it is moderately quick and slick-looking software. It works well whether you focus on photographs, videos, or both and gets along nicely with other apps. There are a tonne of features on the list. Let's start from the beginning: you can modify and save videos in 1080p and 720p, which is more than a review like this can cover.
+
+To ensure that you would record every moment, you can cut out unnecessary recorded video segments. You can splice videos together if there is enough material for one fantastic video, and text overlays are another option. When adding text to a photo or video, you may choose from a vast selection of styles, including filters and fonts, to make it seem its best.
+
+### 2\. Vieka
+
+Vieka app is a video make and video editor application. With its video editing featured, you can easily edit the movies/videos by using the videos or photos. Users can add their favorite transitions, music effects, filters, and text. You can even create awesome videos in no time. It will offer stylish templates, including filters with music beats, effects, and cool transitions. You can upload the photo, and it will edit and create videos.
+
+This app will allow you to upload videos and photos and help create attractive videos using background music. Users can even convert their video and photo clips into blog videos with several transition effects. You can add the text to your video and express the feeling much better with Vieka. You can merge your videos with transition effects and create a photo slideshow with BGM effects. This app will even help you to zoom in and out on videos.
+
+## Part 3\. Related FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Where Is Pan And Zoom On Kinemaster?
+
+Pan and zoom effect is the default effect on Kinemaster that gets automatically applied to every video and image, adding you to the Kinemaster’s editing timeline. You can find Pan and Zoom effects on the right side of the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### How Do You Pan And Zoom A Layer In Kinemaster?
+
+Pan and zoom tool can be used only in the media of the primary timeline. You import the videos and images in Kinemaster by using the media option on top of the media wheel. To select the pan and zoom tool, tap on an image or video clip in the Primary timeline.
+
+You can tap on the pan and zoom option in the panel on the right side. When activated, the pan and zoom tool will display a picture of the media on the right.
+
+Now you can see how to zoom in/out videos on Kinemaster. You can practice it on your own to get a precise idea of how to zoom in and out. You can use Kinemaster for several video editing options and contact good video editors other than Kinemaster, such as Quik, and Vieka. These are the alternative options to use for video editing apart from Kinemaster.
+
+ Free Download For Win 7 or later(64-bit)
+
+ Free Download For macOS 10.14 or later
+
+"
+
+* Quik
+* Vieka
+* Related FAQs
+
+## Part 1\. How to zoom in on videos on Kinemaster
+
+The built-in feature of Kinemaster enables users to zoom in and out of films and photos. The pen zoom tool, commonly known as a video expanding effect, can be used without downloading additional transitions. With the help of a video editor, ordinary footage can be elevated when used on a Chromebook, tablet, or phone.
+
+As you know, Kinemaster is a robust video editor with many premium features, making it the top video editor for mobile devices. There isn't a zoom-in and zoom-out effect in Kinemaster, but there is an approach that we will learn in this article. Let’s see how to zoom in Video on Kinemaster:
+
+**Steps to put Kinemaster to use**
+
+* Open Kinemaster, and then select the aspect ratio of editing.
+
+* Insert the image or video and then tap on the media icon.
+
+* Once you have entered the image or video, tap the pan icon and zoom in. When you tap on this option, you must choose the end and starting positions.
+* You can select the initial point and then set your final position.
+
+* You must use two fingers to adjust the position to enlarge the video or photo.
+* It would help if you remembered that you should not activate that equal sign. If you start it, zoom in/out will not work on your video.
+
+That is how you can make a zoom effect on video by using Kinemaster. You can try it out on your own by clicking on the editing video you have above. Make sure you don't go wrong in the abovementioned steps and make your zoom-in or out victorious.
+
+## Part 2\. Kinemasters Alternative to Zooming Videos
+
+### 1\. Quik
+
+GoPro’s Quik is an excellent app for taking photos and editing videos. It offers a wealth of functionality comparable to those found in desktop video and photo editors, and it is moderately quick and slick-looking software. It works well whether you focus on photographs, videos, or both and gets along nicely with other apps. There are a tonne of features on the list. Let's start from the beginning: you can modify and save videos in 1080p and 720p, which is more than a review like this can cover.
+
+To ensure that you would record every moment, you can cut out unnecessary recorded video segments. You can splice videos together if there is enough material for one fantastic video, and text overlays are another option. When adding text to a photo or video, you may choose from a vast selection of styles, including filters and fonts, to make it seem its best.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### 2\. Vieka
+
+Vieka app is a video make and video editor application. With its video editing featured, you can easily edit the movies/videos by using the videos or photos. Users can add their favorite transitions, music effects, filters, and text. You can even create awesome videos in no time. It will offer stylish templates, including filters with music beats, effects, and cool transitions. You can upload the photo, and it will edit and create videos.
+
+This app will allow you to upload videos and photos and help create attractive videos using background music. Users can even convert their video and photo clips into blog videos with several transition effects. You can add the text to your video and express the feeling much better with Vieka. You can merge your videos with transition effects and create a photo slideshow with BGM effects. This app will even help you to zoom in and out on videos.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 3\. Related FAQs
+
+### Where Is Pan And Zoom On Kinemaster?
+
+Pan and zoom effect is the default effect on Kinemaster that gets automatically applied to every video and image, adding you to the Kinemaster’s editing timeline. You can find Pan and Zoom effects on the right side of the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### How Do You Pan And Zoom A Layer In Kinemaster?
+
+Pan and zoom tool can be used only in the media of the primary timeline. You import the videos and images in Kinemaster by using the media option on top of the media wheel. To select the pan and zoom tool, tap on an image or video clip in the Primary timeline.
+
+You can tap on the pan and zoom option in the panel on the right side. When activated, the pan and zoom tool will display a picture of the media on the right.
+
+Now you can see how to zoom in/out videos on Kinemaster. You can practice it on your own to get a precise idea of how to zoom in and out. You can use Kinemaster for several video editing options and contact good video editors other than Kinemaster, such as Quik, and Vieka. These are the alternative options to use for video editing apart from Kinemaster.
+
+ Free Download For Win 7 or later(64-bit)
+
+ Free Download For macOS 10.14 or later
+
+"
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-a-step-by-step-guide-to-launching-your-own-product-critique-network/"><u>[New] A Step-by-Step Guide to Launching Your Own Product Critique Network</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-affordable-panoramic-cameras-revolutionizing-media-production/"><u>[New] Affordable Panoramic Cameras Revolutionizing Media Production</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-illusory-motion-capture-guide/"><u>[New] Illusory Motion Capture Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-how-to-skillfully-secure-and-save-gif-images-from-facebooks-domain/"><u>[New] In 2024, How To Skillfully Secure and Save GIF Images From Facebook's Domain</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-endless-video-on-iphone/"><u>[Updated] 2024 Approved How-To Create Endless Video on iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-compreenas-step-by-step-for-controlling-netflix-playback-rate/"><u>[Updated] A Compreenas Step-by-Step for Controlling Netflix Playback Rate</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-action-filming-elevated-in-depth-review-of-sj-cam-s6/"><u>[Updated] Action Filming Elevated In-Depth Review of SJ-CAM S6</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beginning-your-first-fb-giveaway-announcement/"><u>[Updated] Beginning Your First FB Giveaway Announcement</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-camera-kings-collide-sj6-powerhouse-vs-yi-4k-masterpiece/"><u>[Updated] Camera Kings Collide SJ6 Powerhouse Vs. Yi 4K Masterpiece</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-colorseeker-pro-discovering-lightroom-alternatives/"><u>[Updated] ColorSeeker Pro Discovering Lightroom Alternatives</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-inside-with-lgs-360-degree-vr-world/"><u>[Updated] Step Inside with LG's 360-Degree VR World</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-trail-the-echoes-of-de-follows-in-instagram-land/"><u>[Updated] Trail the Echoes of De-Follows in Instagram Land</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-construct-chortling-characters-via-giphy/"><u>2024 Approved Construct Chortling Characters via Giphy</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-artisans-guide-to-zen-like-zoom-backgrounds/"><u>2024 Approved The Artisan's Guide to Zen-Like Zoom Backgrounds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-alternative-to-samsungs-360-vr-camera/"><u>2024 Approved Top Alternative to Samsung’s 360 VR Camera</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-infinix-note-30-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nubia-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Nubia</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-step-by-step-walkthrough-to-craft-your-metaverse-identity/"><u>A Step-by-Step Walkthrough to Craft Your Metaverse Identity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/aural-alchemy-the-essence-of-crossfade-techniques-for-2024/"><u>Aural Alchemy The Essence of Crossfade Techniques for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-samsung-galaxy-s23-fe-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Samsung Galaxy S23 FE Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/box-it-up-right-10-online-haunts-for-tailored-gift-boxes-for-2024/"><u>Box It Up Right 10 Online Haunts for Tailored Gift Boxes for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-a-strong-introduction-examples-and-methods/"><u>Building a Strong Introduction Examples & Methods</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ch340g-microcontroller-driver-download-and-update-guide-for-windows-11-users/"><u>CH340g Microcontroller Driver: Download and Update Guide for Windows 11 Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-steps-for-flawless-inshot-edits/"><u>Essential Steps for Flawless Inshot Edits</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-dynamic-images-in-iphone-applications/"><u>Exploring Dynamic Images in iPhone Applications</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/film-fanatics-unite-ioss-best-free-and-paid-filmmaking-tools/"><u>Film-Fanatics Unite! IOS's Best Free & Paid Filmmaking Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gadget-unveiling-top-youtube-channels-to-watch/"><u>Gadget Unveiling Top YouTube Channels to Watch</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/high-staking-haven-evalutations/"><u>HIGH-STAKING HAVEN EVALUTATIONS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-crash-issue-in-life-is-strange-true-colours/"><u>How To Fix The 'Crash' Issue In Life Is Strange - True Colours</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-12-mini-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-14-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 14? Complete Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-iphone-14-pro-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 14 Pro Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/investigating-freezing-moments-in-photobooth-recordings/"><u>Investigating Freezing Moments in Photobooth Recordings</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/live-google-meet-on-youtube-streaming-tutorial-for-beginners/"><u>Live Google Meet on YouTube – Streaming Tutorial for Beginners</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/lock-and-load-effortless-profile-url-addition-on-tiktok/"><u>Lock-and-Load Effortless Profile URL Addition on TikTok</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-crossfades-a-premiere-pro-guide/"><u>Mastering Crossfades A Premiere Pro Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-hardware-restrictions-installing-windows-11-with-revouninstaller-on-non-compatible-cpus/"><u>Overcoming Hardware Restrictions: Installing Windows 11 with RevoUninstaller on Non-Compatible CPUs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-pairing-of-podcast-apps-and-android-top-6-recommendations-for-2024/"><u>Perfect Pairing of Podcast Apps & Android Top 6 Recommendations for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/phone-sleeves-with-integrated-batteries/"><u>Phone Sleeves with Integrated Batteries</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/power-players-in-flight-the-drone-heavylifting-leaders/"><u>Power Players in Flight The Drone Heavylifting Leaders</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/proficient-approaches-to-purge-stickers-from-tiktoks/"><u>Proficient Approaches to Purge Stickers From TikToks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-artisans-secret-to-viral-youtube-success/"><u>The Artisan's Secret to Viral YouTube Success</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-tier-free-memes-for-everyday-chuckles/"><u>Top-Tier Free Memes for Everyday Chuckles</u></a></li>
+</ul></div>

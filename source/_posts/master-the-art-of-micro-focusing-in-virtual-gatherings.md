@@ -1,7 +1,7 @@
 ---
 title: "\"Master the Art of Micro-Focusing in Virtual Gatherings\""
-date: 2024-09-03T08:36:42.272Z
-updated: 2024-09-04T08:36:42.272Z
+date: 2024-09-07T20:45:27.066Z
+updated: 2024-09-08T20:45:27.066Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,18 @@ Google Meet is certainly something you've heard about before. After all, we're v
 
 In terms of productivity and engagement prospects, Meet significantly outperforms chat applications like Google Hangouts, Facebook Messenger, WhatsApp, Viber, and Telegram, among others. Using the screen-sharing tool, for instance, participants may view a document, spreadsheet, presentation, or browser tab. Reading little writing on your Google Meet may be simpler if you zoom in. For instance, zooming in may assist you view tiny text if you're reading a document on your Google Meeting that you are unable to alter. People who like to read bigger font or who don't use glasses or contact lenses might benefit from this. Real-time decision-making, file and picture sharing, and text-based discussion are further features. Another advantage of Google Meet is how user-friendly it is. Joining a meeting is as simple as clicking or tapping a link. For macOS, Windows, iOS, Android, and iPad OS, the platform is also accessible as a web app.
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2\. How to zoom in/out Google Meet
 
 The simplest way to do it in Google Meet is by clicking or tapping to zoom in. When everyone is present in a room, the Google Meet camera will automatically zoom in. From the camera, it is impossible to zoom in on certain speakers. Zoom out after you're finished. When done, choose Done or Return to home by tapping or clicking.
@@ -38,14 +50,38 @@ Step1 Set up a video conferencing setup and start a conference in your web brows
 
 ![setup google meet](https://images.wondershare.com/filmora/article-images/2022/07/setup-google-meet.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step2 Hover over the shared screen and click the Pin symbol to save it. Go to the "Webcam Settings" window, pick the "Camera Control" option at the top, then select the webcam from the drop-down list.
 
 ![google meeting settings panel](https://images.wondershare.com/filmora/article-images/2022/07/google-meeting-settings-panel.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step3 The "Layout" option is next to the slider; click it. Adjust it in the direction the zoom-in zooms in using the slider. The "Ok" button may assist you in making all of your decisions. Select the Minimize icon while your cursor is on your own picture.
 
 ![layout options google meet](https://images.wondershare.com/filmora/article-images/2022/07/layout-options-google-meet.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step4 Change your Layout to "Focus" in the Meet Menu (three dots). By repeatedly hitting CTRL+ minus (-), you can zoom out (!). The Meet controls at the bottom get smaller as a result. With CTRL+0, you may subsequently reverse your zoom.
 
 Step5 To turn off the browser UI, press F11\. By hitting F11 once again, full screen mode may be ended.
@@ -53,10 +89,10 @@ Step5 To turn off the browser UI, press F11\. By hitting F11 once again, full sc
 ![full screen mode google meet](https://images.wondershare.com/filmora/article-images/2022/07/full-screen-mode-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3\. Tips and tricks to use Google Meet
 
@@ -72,10 +108,10 @@ Those who have a Google Account are able to start a meeting. It's simple to make
 * Users of Google Meet will be able to pin many individuals to the top of their tiled screen. This will be especially useful if you have meetings where two or three people talk the majority of the time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 
