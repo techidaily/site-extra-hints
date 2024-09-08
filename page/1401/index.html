@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"extra-hints.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18638</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">19178</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18638</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">19178</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/transforming-vision-into-visual-storytelling-with-windows-11-techniques/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/fed19fb5539928ceb1f098e4df501aac24d80c5bb6000047d745afbd7491bdcb.jpg" alt="Transforming Vision Into Visual Storytelling with Windows 11 Techniques" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/decoding-cloud-service-price-structures/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://www.lifewire.com/thmb/gowJzlsr2pyjr_e9hxPZkIMvN74=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-667615011-5b4376ec46e0fb0036cb2c53.jpg" alt="Decoding Cloud Service Price Structures" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/transforming-vision-into-visual-storytelling-with-windows-11-techniques/">
-                            Transforming Vision Into Visual Storytelling with Windows 11 Techniques
+                        <a href="/decoding-cloud-service-price-structures/">
+                            Decoding Cloud Service Price Structures
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Transforming Vision Into Visual Storytelling with Windows 11 Techniques</p>
+                            <p>This Article Describes Decoding Cloud Service Price Structures</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Jul 22 2024 11:25:52 GMT+0800">
+            <span class="home-article-date" data-date="Mon Jul 22 2024 11:37:24 GMT+0800">
                 
                     2024-07-22
                 
@@ -773,7 +830,7 @@
         
     </div>
 
-    <a href="/transforming-vision-into-visual-storytelling-with-windows-11-techniques/">Read more<span class="seo-reader-text">Transforming Vision Into Visual Storytelling with Windows 11 Techniques</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/decoding-cloud-service-price-structures/">Read more<span class="seo-reader-text">Decoding Cloud Service Price Structures</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -789,21 +846,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/transform-your-shots-into-dynamic-works-of-art-with-motion-blur-techniques/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/e4beac8fff1e6ed1138983bf5a17ed77a249b1784cd0b6ce36cdaf1016dc1bb5.png" alt="Transform Your Shots Into Dynamic Works of Art with Motion Blur Techniques" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/convenient-curvature-creation-techniques-in-pixels/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/109f8e41f016b710f8a0ad598776af950e5e0ec716fb01a083b32b51c83dd241.jpg" alt="Convenient Curvature Creation Techniques in Pixels" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/transform-your-shots-into-dynamic-works-of-art-with-motion-blur-techniques/">
-                            Transform Your Shots Into Dynamic Works of Art with Motion Blur Techniques
+                        <a href="/convenient-curvature-creation-techniques-in-pixels/">
+                            Convenient Curvature Creation Techniques in Pixels
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Transform Your Shots Into Dynamic Works of Art with Motion Blur Techniques</p>
+                            <p>This Article Describes Convenient Curvature Creation Techniques in Pixels</p>
 
                         
                     </div>
@@ -811,7 +868,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Jul 22 2024 11:25:50 GMT+0800">
+            <span class="home-article-date" data-date="Mon Jul 22 2024 11:37:22 GMT+0800">
                 
                     2024-07-22
                 
@@ -869,7 +926,7 @@
         
     </div>
 
-    <a href="/transform-your-shots-into-dynamic-works-of-art-with-motion-blur-techniques/">Read more<span class="seo-reader-text">Transform Your Shots Into Dynamic Works of Art with Motion Blur Techniques</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/convenient-curvature-creation-techniques-in-pixels/">Read more<span class="seo-reader-text">Convenient Curvature Creation Techniques in Pixels</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -885,21 +942,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/transform-your-images-into-dynamic-visual-stories/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/cf88e87b734b5b9f59ddbd2f8f99680f9b1ec3ba8de831308f2fd3fe15c5bbed.jpg" alt="Transform Your Images Into Dynamic Visual Stories" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/constructing-authenticity-in-documentaries/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/a876d99fc810824e790e14200a363bc8a24888dbe0f9cb4aa8918882c26356a6.jpeg" alt="Constructing Authenticity in Documentaries" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/transform-your-images-into-dynamic-visual-stories/">
-                            Transform Your Images Into Dynamic Visual Stories
+                        <a href="/constructing-authenticity-in-documentaries/">
+                            Constructing Authenticity in Documentaries
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Transform Your Images Into Dynamic Visual Stories</p>
+                            <p>This Article Describes Constructing Authenticity in Documentaries</p>
 
                         
                     </div>
@@ -907,7 +964,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Jul 22 2024 11:25:49 GMT+0800">
+            <span class="home-article-date" data-date="Mon Jul 22 2024 11:37:21 GMT+0800">
                 
                     2024-07-22
                 
@@ -965,7 +1022,7 @@
         
     </div>
 
-    <a href="/transform-your-images-into-dynamic-visual-stories/">Read more<span class="seo-reader-text">Transform Your Images Into Dynamic Visual Stories</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/constructing-authenticity-in-documentaries/">Read more<span class="seo-reader-text">Constructing Authenticity in Documentaries</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -981,21 +1038,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/transform-avis-into-gifs-a-step-by-step-filmora-guide-for-pc-and-mac/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282754802f441bb66f0c3a3719.jpg" alt="&#34;Transform AVIs Into GIFs  A Step-by-Step Filmora Guide for PC and Mac&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/complete-examination-the-video-show-app/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a500625454298afd84e9855ed4fbb6b.jpg" alt="Complete Examination The Video Show App" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/transform-avis-into-gifs-a-step-by-step-filmora-guide-for-pc-and-mac/">
-                            &#34;Transform AVIs Into GIFs  A Step-by-Step Filmora Guide for PC and Mac&#34;
+                        <a href="/complete-examination-the-video-show-app/">
+                            Complete Examination The Video Show App
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>“This Article Describes Transform AVIs Into GIFs: A Step-by-Step Filmora Guide for PC and Mac”</p>
+                            <p>“This Article Describes Complete Examination: The Video Show App”</p>
 
                         
                     </div>
@@ -1003,7 +1060,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Jul 22 2024 11:25:48 GMT+0800">
+            <span class="home-article-date" data-date="Mon Jul 22 2024 11:37:20 GMT+0800">
                 
                     2024-07-22
                 
@@ -1061,7 +1118,7 @@
         
     </div>
 
-    <a href="/transform-avis-into-gifs-a-step-by-step-filmora-guide-for-pc-and-mac/">Read more<span class="seo-reader-text">&#34;Transform AVIs Into GIFs  A Step-by-Step Filmora Guide for PC and Mac&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/complete-examination-the-video-show-app/">Read more<span class="seo-reader-text">Complete Examination The Video Show App</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1077,21 +1134,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/transcoding-ttml-and-ssa-into-easy-to-use-srt-format/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://www.lifewire.com/thmb/aW23AlAQxo0nKVxk3l_w8GEWdEQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc()/shutterstock_641960737-59b1795103f4020010acd114.png" alt="&#34;Transcoding TTML &amp; SSA Into Easy-to-Use SRT Format&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/colormorph-pro-searching-for-lightroom-equals/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/6304baca930779dbe6ae3412704c6577c66eb8d788b6fe6b67667ffd209c0a5f.jpg" alt="ColorMorph Pro Searching for Lightroom Equals" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/transcoding-ttml-and-ssa-into-easy-to-use-srt-format/">
-                            &#34;Transcoding TTML &amp; SSA Into Easy-to-Use SRT Format&#34;
+                        <a href="/colormorph-pro-searching-for-lightroom-equals/">
+                            ColorMorph Pro Searching for Lightroom Equals
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>“This Article Describes Transcoding TTML &amp; SSA Into Easy-to-Use SRT Format”</p>
+                            <p>“This Article Describes ColorMorph Pro: Searching for Lightroom Equals”</p>
 
                         
                     </div>
@@ -1099,7 +1156,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Jul 22 2024 11:25:47 GMT+0800">
+            <span class="home-article-date" data-date="Mon Jul 22 2024 11:37:19 GMT+0800">
                 
                     2024-07-22
                 
@@ -1157,7 +1214,7 @@
         
     </div>
 
-    <a href="/transcoding-ttml-and-ssa-into-easy-to-use-srt-format/">Read more<span class="seo-reader-text">&#34;Transcoding TTML &amp; SSA Into Easy-to-Use SRT Format&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/colormorph-pro-searching-for-lightroom-equals/">Read more<span class="seo-reader-text">ColorMorph Pro Searching for Lightroom Equals</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1173,21 +1230,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-best-video-cameras-of-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/4be59755ae7994bb626513b3614a3ec947be3b56430323187fb64d462d24a601.jpg" alt="The Best Video Cameras of 2024" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/canon-image-masters-10plus-luts-some-are-free/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e861b58d7c8b2fd02e294cb8.jpg" alt="Canon Image Masters - 10+ LUTs, Some Are Free" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-best-video-cameras-of-2024/">
-                            The Best Video Cameras of 2024
+                        <a href="/canon-image-masters-10plus-luts-some-are-free/">
+                            Canon Image Masters - 10+ LUTs, Some Are Free
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes The Best Video Cameras of 2024</p>
+                            <p>“This Article Describes Canon Image Masters - 10+ LUTs, Some Are Free”</p>
 
                         
                     </div>
@@ -1195,7 +1252,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Jul 22 2024 11:25:45 GMT+0800">
+            <span class="home-article-date" data-date="Mon Jul 22 2024 11:37:17 GMT+0800">
                 
                     2024-07-22
                 
@@ -1253,7 +1310,7 @@
         
     </div>
 
-    <a href="/the-best-video-cameras-of-2024/">Read more<span class="seo-reader-text">The Best Video Cameras of 2024</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/canon-image-masters-10plus-luts-some-are-free/">Read more<span class="seo-reader-text">Canon Image Masters - 10+ LUTs, Some Are Free</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1269,21 +1326,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-art-of-soft-ending-sounds-in-premiere-pro/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036bc18134bd1752c7ab7f277b6.jpg" alt="&#34;The Art of Soft-Ending Sounds in Premiere Pro&#34;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/best-10-free-downloads-legal-meditation-melodies/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/8f13b229b4309cc607ca12c22275ed95f06f33bc5a9a2ad4f10fdb3f8f16d4fd.jpeg" alt="Best 10 Free Downloads Legal Meditation Melodies" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-art-of-soft-ending-sounds-in-premiere-pro/">
-                            &#34;The Art of Soft-Ending Sounds in Premiere Pro&#34;
+                        <a href="/best-10-free-downloads-legal-meditation-melodies/">
+                            Best 10 Free Downloads Legal Meditation Melodies
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>“This Article Describes The Art of Soft-Ending Sounds in Premiere Pro”</p>
+                            <p>“This Article Describes Best 10 Free Downloads: Legal Meditation Melodies”</p>
 
                         
                     </div>
@@ -1291,7 +1348,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Jul 22 2024 11:25:44 GMT+0800">
+            <span class="home-article-date" data-date="Mon Jul 22 2024 11:37:16 GMT+0800">
                 
                     2024-07-22
                 
@@ -1349,7 +1406,7 @@
         
     </div>
 
-    <a href="/the-art-of-soft-ending-sounds-in-premiere-pro/">Read more<span class="seo-reader-text">&#34;The Art of Soft-Ending Sounds in Premiere Pro&#34;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/best-10-free-downloads-legal-meditation-melodies/">Read more<span class="seo-reader-text">Best 10 Free Downloads Legal Meditation Melodies</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1365,21 +1422,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-art-of-background-elimination-in-graphic-designs/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f17cad9fcf863c9fe9218bf46.jpg" alt="The Art of Background Elimination in Graphic Designs" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/beijings-frost-touched-games-highlights-from-2022/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b23f7aea0239ccf0208f3f76d9301c76c818b9985a4f6edf3b35f62e51fa261d.jpg" alt="Beijing&#39;s Frost-Touched Games, Highlights From 2022" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-art-of-background-elimination-in-graphic-designs/">
-                            The Art of Background Elimination in Graphic Designs
+                        <a href="/beijings-frost-touched-games-highlights-from-2022/">
+                            Beijing&#39;s Frost-Touched Games, Highlights From 2022
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes The Art of Background Elimination in Graphic Designs</p>
+                            <p>“This Article Describes Beijing’s Frost-Touched Games, Highlights From 2022”</p>
 
                         
                     </div>
@@ -1387,7 +1444,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Jul 22 2024 11:25:43 GMT+0800">
+            <span class="home-article-date" data-date="Mon Jul 22 2024 11:37:15 GMT+0800">
                 
                     2024-07-22
                 
@@ -1445,7 +1502,7 @@
         
     </div>
 
-    <a href="/the-art-of-background-elimination-in-graphic-designs/">Read more<span class="seo-reader-text">The Art of Background Elimination in Graphic Designs</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/beijings-frost-touched-games-highlights-from-2022/">Read more<span class="seo-reader-text">Beijing&#39;s Frost-Touched Games, Highlights From 2022</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1461,21 +1518,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/supreme-audiovisual-hints-pack/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567abcd354a24f074d4d0059be5.jpg" alt="Supreme Audiovisual Hints Pack" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/behind-the-lens-wisdom-the-best-cinemagraph-tips/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f6337924778efc705315343e4f909c.jpg" alt="Behind-the-Lens Wisdom The Best Cinemagraph Tips" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/supreme-audiovisual-hints-pack/">
-                            Supreme Audiovisual Hints Pack
+                        <a href="/behind-the-lens-wisdom-the-best-cinemagraph-tips/">
+                            Behind-the-Lens Wisdom The Best Cinemagraph Tips
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Supreme Audiovisual Hints Pack</p>
+                            <p>“This Article Describes Behind-the-Lens Wisdom: The Best Cinemagraph Tips”</p>
 
                         
                     </div>
@@ -1483,7 +1540,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Jul 22 2024 11:25:42 GMT+0800">
+            <span class="home-article-date" data-date="Mon Jul 22 2024 11:37:14 GMT+0800">
                 
                     2024-07-22
                 
@@ -1541,7 +1598,7 @@
         
     </div>
 
-    <a href="/supreme-audiovisual-hints-pack/">Read more<span class="seo-reader-text">Supreme Audiovisual Hints Pack</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/behind-the-lens-wisdom-the-best-cinemagraph-tips/">Read more<span class="seo-reader-text">Behind-the-Lens Wisdom The Best Cinemagraph Tips</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1557,21 +1614,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/superior-webcams-for-professional-podcasting/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c7f6e1d56c05b1571f57a7f9b04e195b30e35f1ef9fbc6554b9991ddbdbae23c.png" alt="Superior Webcams for Professional Podcasting" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/audience-peak-hours-crafting-release-dates/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/4db798dc8e85e2daadf391573bc5ef81d7d7a8b53e675ec2733be93146fbbb0f.jpg" alt="Audience Peak Hours Crafting Release Dates" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/superior-webcams-for-professional-podcasting/">
-                            Superior Webcams for Professional Podcasting
+                        <a href="/audience-peak-hours-crafting-release-dates/">
+                            Audience Peak Hours Crafting Release Dates
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Superior Webcams for Professional Podcasting</p>
+                            <p>“This Article Describes Audience Peak Hours: Crafting Release Dates”</p>
 
                         
                     </div>
@@ -1579,7 +1636,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Mon Jul 22 2024 11:25:40 GMT+0800">
+            <span class="home-article-date" data-date="Mon Jul 22 2024 11:37:12 GMT+0800">
                 
                     2024-07-22
                 
@@ -1637,7 +1694,7 @@
         
     </div>
 
-    <a href="/superior-webcams-for-professional-podcasting/">Read more<span class="seo-reader-text">Superior Webcams for Professional Podcasting</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/audience-peak-hours-crafting-release-dates/">Read more<span class="seo-reader-text">Audience Peak Hours Crafting Release Dates</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1647,7 +1704,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/1400/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/1399/">1399</a><a class="page-number" href="/page/1400/">1400</a><span class="page-number current">1401</span><a class="page-number" href="/page/1402/">1402</a><a class="page-number" href="/page/1403/">1403</a><span class="space">&hellip;</span><a class="page-number" href="/page/1864/">1864</a><a class="extend next" rel="next" href="/page/1402/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/1400/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/1399/">1399</a><a class="page-number" href="/page/1400/">1400</a><span class="page-number current">1401</span><a class="page-number" href="/page/1402/">1402</a><a class="page-number" href="/page/1403/">1403</a><span class="space">&hellip;</span><a class="page-number" href="/page/1918/">1918</a><a class="extend next" rel="next" href="/page/1402/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

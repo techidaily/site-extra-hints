@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"extra-hints.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">18638</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">19178</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -632,71 +689,71 @@
                     <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='07-22'>
                 
                     
-                        <a href="/androids-top-visual-adjustment-tools-for-2024/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Android&#39;s Top Visual Adjustment Tools for 2024</span>
+                        <a href="/select-selections-ideal-spots-to-download-snapalert-melodies/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Select Selections Ideal Spots to Download SnapAlert Melodies</span>
                         </a>
                     
               
                 
                     
-                        <a href="/2024-approved-an-in-depth-look-at-copyright-and-sharing-tunes-on-instagram/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">&#34;2024 Approved  An In-Depth Look at Copyright and Sharing Tunes on Instagram&#34;</span>
+                        <a href="/rich-resource-repository-prime-sites-for-free-high-quality-vector-art/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Rich Resource Repository Prime Sites for Free High-Quality Vector Art</span>
                         </a>
                     
               
                 
                     
-                        <a href="/updated-action-ammo-face-off-prodigy-cameras-compared-black-vs-session/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">&#34;[Updated] Action Ammo Face-Off  Prodigy Cameras Compared – Black vs Session&#34;</span>
+                        <a href="/quick-play-music-10-best-apps-phones/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Quick Play Music 10 Best Apps, Phones</span>
                         </a>
                     
               
                 
                     
-                        <a href="/new-add-srt-to-mp4-like-a-pro-2024s-ultimate-manual/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">&#34;[New] Add SRT to MP4 Like a Pro  2024’S Ultimate Manual&#34;</span>
+                        <a href="/proven-techniques-to-follow-your-favorite-cricketers-live/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Proven Techniques to Follow Your Favorite Cricketers Live</span>
                         </a>
                     
               
                 
                     
-                        <a href="/action-cameras-clash-gopro-hero5-black-against-yi-4k-update-for-2024/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">&#34;Action Cameras Clash  GoPro Hero5 Black Against Yi 4K Update for 2024&#34;</span>
+                        <a href="/professional-portrait-maker-for-passports-desktop-and-online-access-only/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Professional Portrait Maker for Passports – Desktop &amp; Online Access Only</span>
                         </a>
                     
               
                 
                     
-                        <a href="/2024-approved-achieve-epic-results-the-ultimate-guide-to-gopro-time-lapses/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">&#34;2024 Approved  Achieve Epic Results  The Ultimate Guide to GoPro Time-Lapses&#34;</span>
+                        <a href="/professional-grade-8-filters-for-live-feeds/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Professional-Grade 8 Filters for Live Feeds</span>
                         </a>
                     
               
                 
                     
-                        <a href="/a-look-inside-magix-pixel-management-for-2024/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">A Look Inside MAGIX Pixel Management for 2024</span>
+                        <a href="/perfectly-pitched-headlines-maker/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Perfectly Pitched Headlines Maker</span>
                         </a>
                     
               
                 
                     
-                        <a href="/2024-approved-accelerated-cinematography-best-5-diy-hacks-for-quick-learning/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">&#34;2024 Approved  Accelerated Cinematography  Best 5 DIY Hacks for Quick Learning&#34;</span>
+                        <a href="/perfecting-your-voice-with-the-ultimate-guide-to-morphvox-modification/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Perfecting Your Voice with the Ultimate Guide to MorphVOX Modification</span>
                         </a>
                     
               
                 
                     
-                        <a href="/2024-approved-a-step-by-step-guide-to-posting-on-instagram/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">&#34;2024 Approved  A Step-by-Step Guide to Posting on Instagram&#34;</span>
+                        <a href="/oscillation-engineer-kit/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Oscillation Engineer Kit</span>
                         </a>
                     
               
                 
                     
-                        <a href="/2024-approved-a-pictures-worth-top-12-websites-for-exquisite-stock-photography-downloads/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">&#34;2024 Approved  A Picture&#39;s Worth  Top 12 Websites for Exquisite Stock Photography Downloads&#34;</span>
+                        <a href="/navigating-nearby-your-personal-guide-for-on-the-go-assistance/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Navigating Nearby - Your Personal Guide for On-the-Go Assistance</span>
                         </a>
                     
               
@@ -710,7 +767,7 @@
 
 <div class="tag-paginator">
 	<div class="paginator">
-    <a class="extend prev" rel="prev" href="/tags/screen-recording/page/1751/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/tags/screen-recording/">1</a><span class="space">&hellip;</span><a class="page-number" href="/tags/screen-recording/page/1750/">1750</a><a class="page-number" href="/tags/screen-recording/page/1751/">1751</a><span class="page-number current">1752</span><a class="page-number" href="/tags/screen-recording/page/1753/">1753</a><a class="page-number" href="/tags/screen-recording/page/1754/">1754</a><span class="space">&hellip;</span><a class="page-number" href="/tags/screen-recording/page/1859/">1859</a><a class="extend next" rel="next" href="/tags/screen-recording/page/1753/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/tags/screen-recording/page/1751/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/tags/screen-recording/">1</a><span class="space">&hellip;</span><a class="page-number" href="/tags/screen-recording/page/1750/">1750</a><a class="page-number" href="/tags/screen-recording/page/1751/">1751</a><span class="page-number current">1752</span><a class="page-number" href="/tags/screen-recording/page/1753/">1753</a><a class="page-number" href="/tags/screen-recording/page/1754/">1754</a><span class="space">&hellip;</span><a class="page-number" href="/tags/screen-recording/page/1911/">1911</a><a class="extend next" rel="next" href="/tags/screen-recording/page/1753/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>
