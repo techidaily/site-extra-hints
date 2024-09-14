@@ -1,7 +1,7 @@
 ---
 title: "[New] Augmented Reality Explained Simply"
-date: 2024-09-07T20:55:38.936Z
-updated: 2024-09-08T20:55:38.936Z
+date: 2024-09-06T19:33:11.049Z
+updated: 2024-09-14T01:00:55.942Z
 tags: 
   - screen-recording
   - ai video
@@ -16,40 +16,29 @@ keywords: "AR Basics,AugReality Guide,Simple AR Explanation,Augmented Perception
 thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed370c089abccf39caae51dc78.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Augmented Reality Explained Simply
 
 # What is Augmented Reality?
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Benjamin Arango
 
  Mar 27, 2024• Proven solutions
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Definition of AR
 
  Augmented Reality (AR) is the application of technology to superimpose information on digitally rendered images into real world environments to give a sense of virtual reality or create an illusion. For example, images and sounds are superimposed over what users see and hear.
@@ -59,16 +48,24 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
  The presentation of augmented reality is in some form of futuristic technology, despite the fact that it has been around for many years. For example, the heads-up display in many fighter jets utilizes the principles of augmented reality, and these date back to the early 1990s when they were used to show information about altitude, speed and direction of the aircraft.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How does Augmented Reality work
 
  The kind of augmented reality you are likely to experience these days utilizes a range of sensors such as cameras and computer components as well as display devices in creating the illusion of virtual objects in the real world. Some of the smartphones in the market today have all the necessary components needed in the creation of augmented reality hence they are commonly used for most of AR experiences. The basic working of augmented reality is as follows-:
 
  In general, the device will search for a particular object, which can be anything, but in most cases, they are usually 2D images like in the form of a movie poster. The augmented reality application will recognize the target through the camera and it will then process the image and augment it in some form through the utilization of sound and pictures. For example, if the target object was a movie poster, you may see it spring into life to play a trailer of the movie. So long as you continue viewing the poster through the “window” of the display object, you will see augmented reality rather than the plain old normal poster in normal reality.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The future of Augmented Reality
 
@@ -79,11 +76,12 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
  Like with every new technology, augmented reality comes with a plethora or ethical and political issues. For example, the Google Glass came along with a lot of privacy concerns, with some people worried that pictures may be snapped or conversations may be recorded surreptitiously. But amidst all these concerns, AR technology is expected to gather more steam in the near future and it will be a part of life for the majority.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Applications of Augmented Reality
 
  Augmented reality is used widely across different industries for various applications, with education and gaming taking the lion’s share of the uses. Discussed below are some of the applications of augmented reality:
@@ -119,61 +117,17 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-auditory-adventure-navigating-soundtracks-for-unboxing-content/"><u>[New] Auditory Adventure Navigating Soundtracks for Unboxing Content</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-capture-and-conquer-speedy-photos-on-windows-11/"><u>[New] Capture & Conquer Speedy Photos on Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-a-beginners-guide-to-editing-digits-in-tiktoks/"><u>[Updated] A Beginner’s Guide to Editing Digits in TikToks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-craft-perfect-openings-anywhere-and-anytime/"><u>[Updated] Craft Perfect Openings, Anywhere and Anytime</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-earning-at-age-ten-the-extraordinary-financial-rise-of-ryan-kaji/"><u>[Updated] Earning at Age Ten The Extraordinary Financial Rise of Ryan Kaji</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-addressing-the-lack-of-novelty-in-virtual-reality/"><u>2024 Approved Addressing the Lack of Novelty in Virtual Reality</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-color-grading-techniques-unraveling-the-mystery-of-luts/"><u>2024 Approved Color Grading Techniques Unraveling the Mystery of LUTs</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-enhance-creativity-with-these-top-6-instagram-reel-tools/"><u>2024 Approved Enhance Creativity with These Top 6 Instagram Reel Tools</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-unpacking-techniques-for-facebook-live-embedding/"><u>2024 Approved Unpacking Techniques for Facebook Live Embedding</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bebop-unfurled-in-flight-form-the-secondary-parrot-review-for-2024/"><u>Bebop Unfurled in Flight Form – The Secondary Parrot Review for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-8-stability-tools-for-high-definition-cameras/"><u>Best 8 Stability Tools for High-Definition Cameras</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/decoding-the-mystery-of-emojis-10-shocking-facts-revealed/"><u>Decoding the Mystery of Emojis: 10 Shocking Facts Revealed</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/design-personalized-brands-with-zero-cost-templates-for-2024/"><u>Design Personalized Brands with Zero-Cost Templates for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elevating-community-interaction-through-strategic-posts/"><u>Elevating Community Interaction Through Strategic Posts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-smooth-video-capture-apple-and-android-apps-compared/"><u>Essential Smooth Video Capture Apple & Android Apps Compared</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/examining-ffmpegs-commitment-to-authentic-audio-formats/"><u>Examining FFmpeg’s Commitment to Authentic Audio Formats</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/exclusive-streaming-access-12-top-video-content-hours/"><u>Exclusive Streaming Access 12 Top Video Content Hours</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-infinix-note-30-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix Note 30 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-incrementally-lower-decibels-in-logic-pro/"><u>How to Incrementally Lower Decibels in Logic Pro</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-k11-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo K11 5G Device</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/integrate-video-archives-for-streaming-companionship/"><u>Integrate Video Archives for Streaming Companionship</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-nord-n30-se-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus Nord N30 SE Phone FRP Lock</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/make-a-living-with-reddit-even-for-novices-top-13-easy-strategies/"><u>Make a Living with Reddit (Even for Novices!) Top 13 Easy Strategies</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-discretion-in-digital-artistry/"><u>Mastering Discretion in Digital Artistry</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-zoom-on-windows-11-a-step-by-step-guide/"><u>Mastering Zoom on Windows 11 A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/metaverse-odyssey-a-list-of-sci-fi-films-taking-you-beyond-earth/"><u>Metaverse Odyssey A List of Sci-Fi Films Taking You Beyond Earth</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/no-license-plenty-of-melodies-top-10-online-websites/"><u>No License, Plenty of Melodies - Top 10 Online Websites</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/no-cost-visual-aids-free-templates-and-slide-show-resources/"><u>No-Cost Visual Aids Free Templates & Slide Show Resources</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/stunning-close-ups-and-macros-with-iphones-advanced-lenses/"><u>Stunning Close-Ups & Macros with iPhone's Advanced Lenses</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-compact-powerhouse-exploring-the-gameplay-and-savings-of-the-nintendo-switch-lite/"><u>The Compact Powerhouse: Exploring the Gameplay and Savings of the Nintendo Switch Lite</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-evolutionary-path-of-roguelike-games-for-2024/"><u>The Evolutionary Path of Roguelike Games for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-guide-to-top-sierra-dvd-makers/"><u>Ultimate Guide to Top Sierra DVD Makers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlock-the-power-of-pinterest-top-5-free-extractors-at-hand/"><u>Unlock the Power of Pinterest Top 5 Free Extractors at Hand</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlock-youtubes-potential-with-expert-picture-posting-techniques/"><u>Unlock YouTube's Potential with Expert Picture Posting Techniques</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-complete-examination-of-nero-digital-music-production-software/"><u>Updated 2024 Approved Complete Examination of Nero Digital Music Production Software</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -181,3 +135,24 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-top-5-best-terraria-map-for-viewers-to-find-treasure/"><u>[Updated] 2024 Approved Top 5 Best Terraria Map for Viewers to Find Treasure</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-chromatic-brilliance-in-high-definition-blade-camera-review/"><u>[Updated] Chromatic Brilliance in High Definition Blade Camera Review</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cost-free-webinar-software-for-recording-sessions/"><u>[Updated] Cost-Free Webinar Software for Recording Sessions</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-the-lock-essential-tpm-hacks-for-windows-11/"><u>Bypassing the Lock: Essential TPM Hacks for Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-a-viral-solo-podcast-step-by-step-guide/"><u>Crafting a Viral Solo Podcast Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/digital-dynamics-surging-success-through-smart-telegram-tactics/"><u>Digital Dynamics Surging Success Through Smart Telegram Tactics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discover-popular-tiktok-background-images/"><u>Discover Popular TikTok Background Images</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discover-the-new-era-of-photography-with-toolwiz-comprehensive-2023-reviews/"><u>Discover the New Era of Photography with Toolwiz Comprehensive 2023 Reviews</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/easy-route-to-altering-clownfish-vocal-pattern-in-windoze/"><u>Easy Route to Altering Clownfish Vocal Pattern in Windoze</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/experience-seamless-video-production-start/"><u>Experience Seamless Video Production Start</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/first-impressions-intova-x-in-the-spotlight/"><u>First Impressions Intova X in the Spotlight</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-11-pro-max-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 11 Pro Max Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-trending-android-apps-on-google-play-this-month/"><u>New 2024 Approved Top-Trending Android Apps on Google Play This Month</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-guide-to-image-text-overlay-online-for-2024/"><u>Step-by-Step Guide to Image Text Overlay Online for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-digital-archivists-toolkit-downloading-videos-from-messenger-for-2024/"><u>The Digital Archivist's Toolkit Downloading Videos From Messenger for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713964504024-updated-making-creative-and-engaging-youtube-videos-is-now-easy-with-several-tools-now-youtube-also-offers-you-its-own-built-in-video-editor-through-which-y/"><u>Updated Making Creative and Engaging Youtube Videos Is Now Easy with Several Tools. Now, YouTube Also Offers You Its Own Built-In Video Editor Through Which You Can Edit and Enhance the Video Quality for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Analyzing Hero5 Black & Yi 4K Cameras for Modern Adventurers"
-date: 2024-09-07T20:53:01.505Z
-updated: 2024-09-08T20:53:01.505Z
+date: 2024-09-08T00:56:52.598Z
+updated: 2024-09-14T06:41:19.871Z
 tags: 
   - screen-recording
   - ai video
@@ -16,30 +16,12 @@ keywords: "Hero5 HD Cam,YI4K ActionCam,AdventureHero5,BlackYi4K4K,UltraHD Advent
 thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd934a3e89af40244a078e590d9.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Analyzing Hero5 Black & Yi 4K Cameras for Modern Adventurers
 
 # GoPro Hero5 Black vs. Yi 4K Action Camera: Which is Better?
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Max Wales
 
  Mar 27, 2024• Proven solutions
@@ -53,17 +35,12 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 [Best GoPro Alternatives >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Comparison for Hero5 Black and Yi 4K Action Camera
 
 #### Basic specs comparison table
@@ -98,17 +75,12 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 ![Yi 4K action camera touchscreen](https://images.wondershare.com/filmora/article-images/yi-4k-touchscreen.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Image source:elproducente.com
 
 **Waterproof:** The biggest benefit of GoPro Hero5 is that it can serve you underwater but YI 4K cannot as you need additional protective case for this camera. But you cannot save your recordings from handling noise in case of GoPro unit. When you go underwater with YI 4K while using protective housing then it is not possible to use its touch screen feature and secondly the audio quality decays by large extent.
@@ -132,73 +104,17 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-a-visual-revolution-integrating-3d-effects-into-your-photoshop-layouts/"><u>[New] A Visual Revolution Integrating 3D Effects Into Your Photoshop Layouts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-achieving-studio-quality-with-audacity/"><u>[New] Achieving Studio Quality with Audacity</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-advanced-techniques-for-azure-speech-to-text-use/"><u>[New] Advanced Techniques for Azure Speech to Text Use</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-chucklechamber-laughter-in-a-click/"><u>[New] ChuckleChamber - Laughter in a Click</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-identifying-the-best-online-tv-service-providers/"><u>[New] Identifying the Best Online TV Service Providers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-a-beginners-journey-to-selecting-the-right-action-cam/"><u>[Updated] A Beginner’s Journey to Selecting the Right Action Cam</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-achieving-peak-engagement-with-strategic-reddit-posting/"><u>[Updated] Achieving Peak Engagement with Strategic Reddit Posting</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-betting-basement-bookmarks/"><u>[Updated] BETTING BASEMENT BOOKMARKS</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-cold-climate-conquests-unveiling-beijings-olympic-flair/"><u>[Updated] Cold Climate Conquests Unveiling Beijing's Olympic Flair</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-things-you-should-know-about-youtube-live-thumbnails/"><u>2024 Approved Things You Should Know About YouTube Live Thumbnails</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/beat-the-glitch-restore-your-steam-gaming-experience-on-windows-11-with-these-fixes/"><u>Beat the Glitch: Restore Your Steam Gaming Experience on Windows 11 with These Fixes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-5k-monitors-you-can-get/"><u>Best 5K Monitors You Can Get</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-edge-2023-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Edge 2023</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-graphics-cards-for-4k-video-editing-and-rendering-for-2024/"><u>Best Graphics Cards for 4K Video Editing and Rendering for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/chuckletunes-directory-select-funny-ringtone-sources-for-2024/"><u>ChuckleTunes Directory Select Funny Ringtone Sources for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/convenient-iphone-method-for-live-screen-capture/"><u>Convenient iPhone Method for Live Screen Capture</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cutting-edge-tactics-for-creating-engaging-testimonial-videos/"><u>Cutting-Edge Tactics for Creating Engaging Testimonial Videos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-motorola-g24-power-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Motorola G24 Power</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elite-soundtrack-choices-for-film-and-vlogs/"><u>Elite Soundtrack Choices for Film & Vlogs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-zooms-visual-clarity-tips-and-tricks/"><u>Enhancing Zoom's Visual Clarity Tips and Tricks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-insight-into-the-best-6-harnesses-for-gopro-headsets/"><u>Essential Insight Into The Best 6 Harnesses for GoPro Headsets</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/explore-the-best-websites-for-dynamic-sky-imaging/"><u>Explore the Best Websites for Dynamic Sky Imaging</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-xiaomi-redmi-a2plus-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/find-your-perfect-match-gear-vr-compatible-phones-2023/"><u>Find Your Perfect Match Gear VR-Compatible Phones 2023</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/get-rid-of-corrupt-excel-2000-file-stellar-by-stellar-guide/"><u>Get Rid of corrupt Excel 2000 File | Stellar</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/gigglegenius-customize-memes-faster-than-you-think/"><u>GiggleGenius Customize Memes Faster Than You Think</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/harness-the-power-of-speech-to-text-in-google-documents/"><u>Harness the Power of Speech-to-Text in Google Documents</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/highlights-of-excellence-top-15-unboxing-youtubers-for-the-year-2024/"><u>Highlights of Excellence Top 15 Unboxing Youtubers for the Year, 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/how-to-say-good-morning-in-10-different-languagesback-buttonfilter-button/"><u>How To Say Good Morning In 10 Different LanguagesBack ButtonFilter Button</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-watch-nba-in-real-time-15-effective-strategies/"><u>How to Watch NBA in Real Time 15 Effective Strategies</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/hp-dreamcolor-z32x-4k-monitor-review/"><u>HP-DREAMCOLOR Z32X 4K Monitor Review</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-achieve-marketing-excellence-the-top-10-steps-to-mastering-smm/"><u>In 2024, Achieve Marketing Excellence The Top 10 Steps to Mastering SMM</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-appreciation-series-unlimited-freepaid-otus/"><u>In 2024, Appreciation Series Unlimited Free/Paid OTUs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-beyond-3d-a-comparative-guide-to-metaverse-and-omniverse-realities/"><u>In 2024, Beyond 3D A Comparative Guide to Metaverse and Omniverse Realities</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-itel-a05s-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Itel A05s Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-to-3d-text-effects-in-psx/"><u>In 2024, Step-by-Step Guide to 3D Text Effects in PSX</u></a></li>
-<li><a href="https://review-topics.techidaily.com/infinix-data-recovery-recover-lost-data-from-infinix-hot-40-by-fonelab-android-recover-data/"><u>Infinix Data Recovery – recover lost data from Infinix Hot 40</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/lgs-visual-masterpiece-comprehensive-monitor-analysis/"><u>LG’s Visual Masterpiece Comprehensive Monitor Analysis</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-anno-1800-gameplay-solutions-for-eliminating-persistent-directx-errors/"><u>Mastering Anno 1800 Gameplay: Solutions for Eliminating Persistent DirectX Errors</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-upside-down-and-sideways-iphone-photos/"><u>Mastering Upside-Down and Sideways iPhone Photos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mobile-mastery-best-apps-for-photo-enhancing-features/"><u>Mobile Mastery Best Apps for Photo-Enhancing Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-stalling-fixing-microsoft-teams-in-ws11ws10/"><u>Overcoming Stalling: Fixing Microsoft Teams in WS11/WS10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/refine-your-virtual-interactions-learning-to-use-zooms-filters/"><u>Refine Your Virtual Interactions Learning to Use Zoom's Filters</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restoring-lost-iphone-notes-a-step-by-step-guide/"><u>Restoring Lost iPhone Notes: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-issues-what-to-do-if-netflix-cant-stream-your-desired-show/"><u>Solving Issues: What To Do If Netflix Can't Stream Your Desired Show</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/stepping-through-the-art-of-subtle-volume-lowering-in-audacity/"><u>Stepping Through the Art of Subtle Volume Lowering in Audacity</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-complete-guide-to-shooting-with-a-green-screen/"><u>The Complete Guide to Shooting with a Green Screen</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-for-virtual-reality-content-android-friendly/"><u>The Ultimate Guide for Virtual Reality Content (Android-Friendly)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-erasing-windows-rebuild-sector-from-your-computer/"><u>The Ultimate Guide: Erasing Windows Rebuild Sector From Your Computer</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-tecno-pop-8-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Tecno Pop 8 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-selections-premium-webcam-platforms/"><u>Ultimate Selections Premium Webcam Platforms</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-chatgpt-the-revolutionary-language-model-explained/"><u>Unveiling ChatGPT: The Revolutionary Language Model Explained</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -206,3 +122,22 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-14-top-metaverse-initiatives-revealing-potential-futures/"><u>[New] 14 Top Metaverse Initiatives Revealing Potential Futures</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-mp4mpeg-audio-extraction-tool/"><u>[New] In 2024, MP4/MPEG Audio Extraction Tool</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-chirping-cha-cha-charade/"><u>[Updated] Chirping Cha-Cha Charade</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-essential-steps-to-create-youtube-beginnings-and-ends-on-a-budget/"><u>2024 Approved Essential Steps to Create YouTube Beginnings & Ends on a Budget</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/captivate-viewers-earn-accolades-tips-for-staff-picks-on-vimeo/"><u>Captivate Viewers, Earn Accolades Tips for Staff Picks on Vimeo</u></a></li>
+<li><a href="https://article-helps.techidaily.com/complete-transformation-handbook-using-morphvox-tech/"><u>Complete Transformation Handbook Using MorphVOX Tech</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-of-iphone-15-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-image-quality-hero5-black-vs-sjcam-sj7/"><u>In 2024, Advanced Image Quality Hero5 Black Vs SJCAM SJ7</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-aviation-tech-syma-x8cs-capabilities/"><u>In 2024, Aviation Tech Syma X8C's Capabilities</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-artisans-path-to-precision-zooming-on-kinemaster/"><u>The Artisan’s Path to Precision Zooming on Kinemaster</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-advanced-audio-synchronization-a-step-by-step-guide-to-keyframe-adjustments-in-final-cut-pro-x/"><u>Updated Advanced Audio Synchronization A Step-by-Step Guide to Keyframe Adjustments in Final Cut Pro X</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-motorola-moto-g84-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Motorola Moto G84 5G</u></a></li>
+</ul></div>
+
