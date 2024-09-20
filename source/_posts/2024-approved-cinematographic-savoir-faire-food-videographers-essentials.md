@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Cinematographic Savoir-Faire  Food Videographer's Essentials\""
-date: 2024-07-22T14:17:46.055Z
-updated: 2024-07-23T14:17:46.055Z
+date: 2024-09-18T16:04:58.387Z
+updated: 2024-09-19T21:13:33.514Z
 tags: 
   - screen-recording
   - ai video
@@ -20,250 +20,7 @@ thumbnail: https://thmb.techidaily.com/b034e397cf58f21c63fc5dd80cb149d6528213f9e
 
 # Food Videography: How to Shoot Food Videos
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
-Short recipe videos are currently a popular trend on both YouTube and Instagram. They offer a visual guide to creating delicious menu items that range from delicious entrees to kid-friendly snacks.
-
-If you would like to create some of these food videos yourself, this article will help you shoot the most appealing food videos possible.
-
-## 5 Tips for Shooting Food Videos
-
-#### 1\. Light
-
-Light is one of the most crucial factors for your video. If the lighting is too bright, your food videography will appear washed out. If the lighting is too dark, food will appear shadowed and hard to see. Neither is a good option, because it does not present a very professional product.
-
-The best to use is natural lighting. You want a lot of bright natural light, but not streaming directly through your windows as this creates shadows.
-
-If the kitchen doesn’t work well for you, experiment with other rooms or outside, but be sure to keep furniture and clutter out of your shots.
-
-#### 2\. Audio
-
-Audio is one of the main components that sets [food videography](https://www.justonecookbook.com/visiting-seefood-media-food-videography/) apart from food photography. There are two viable options. You can either set your video to music, which will help set the tone for your frame speed, or you can use a voice over to provide audible descriptions.
-
-![audio](https://images.wondershare.com/filmora/article-images/sync-audio.JPG)
-
-#### 3\. Try to Tell a Story
-
-What seems like an insignificant change can be monumental. When crafting recipe videos, you want to try telling a story.
-
-For example, instead of showing a mixer you could show a mother helping her child to mix the ingredients together. At the end of the clip, you could either show only the food, or you could show a man walking past the window with his dog in tow.
-
-Telling a story will help to pull watchers into your video so they watch through until the end. It’s all about making viewers as invested as possible in a very short time frame.
-
-If you don’t start pulling them in, such as by telling a story, in the first twenty seconds, they probably won’t continue watching.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
-![food](https://images.wondershare.com/filmora/article-images/food-sell-a-story.JPG)
-
-#### 4\. Video Editing
-
-Once the video is shot, you’ll have to do some post-production work. In other words, you need to edit your video. This is more time consuming than with food photography, because you must edit by frame, place to music, add title frames, and so on.
-
-One major mistake people make with their food videos is the use of too many transitions or cut-scenes, such as fading, zoom outs, etc.
-
-The best way to edit your videos is for quality, with a minimum of 90-97% straight shots – meaning no transitions are used.
-
-#### 5\. Decoration
-
-Some people will choose to shoot their videos using bold, bright colors in their food and setting.
-
-Others may decide that a simple setting – such as a classic wooden table with nothing more than a small flower vase – is more suitable for the dish they are creating.
-
-Both are great choices, but the key is to base your settings off your dish, ensuring the area surrounding the food is complementary and not contrasting.
-
-Videographers may choose to use other techniques to make the final dish pop.
-
-This could include food carving, plating techniques, or even just the use of high-tech equipment which has the potential to capture even the tiniest food fragment in vivid detail.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![decoration food](https://images.wondershare.com/filmora/article-images/food-decoration.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Equipment
-
-#### 1\. Smart Phone
-
-One way to shoot food videos is with your smart phone. To do this, use the built-in camera feature set to take video in landscape mode (this looks the best).
-
-Hold very still to prevent shaking, and simply hold the screen for autofocus and exposure prior to beginning your film.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-![smart phone](https://images.wondershare.com/filmora/article-images/iphone-7-plus-4k-smartphone.jpg)
-
-#### 2\. Lens
-
-If you are going to shoot with a camera, you need either a mirrorless camera or DSLR. A standard click-and-shoot will not provide a high enough quality of video. Along with a high-quality camera comes the need for a high-quality lens.
-
-The lens you shoot with should be able to zoom in or out on the food. You’ll want to avoid a lens that presents static, or has any nicks, chips, or cuts in the glass.
-
-As for the shooting itself, you can feel free to experiment with lenses that offer unique styles, such as soft or hard
-
-![lens](https://images.wondershare.com/filmora/article-images/fujinon-mk18-55mm-t2.9-lens.jpg)
-
-#### 3\. Tripod
-
-Another thing you’ll want when shooting with a camera is a tripod. A tripod is necessary because it holds the camera steady, as well as allows you to be present in the video if desired.
-
-You can find a cheap tripod at many chain stores to get you started, although you may want to invest in a better one in the future.
-
-![tripod](https://images.wondershare.com/filmora/article-images/gitzo-mountaineer-series-2-carbon-fiber-tripod.jpg)
-
-## Conclusion
-
-This basic guide should give you a solid start in creating top-of-the-line food videography for your social media accounts.
-
-If you find your first video isn’t as amazing as you’d thought it would be, remember that it takes time to become a master at something. With practice, you will see the videos shot progressively becoming more professional.
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win-pro.png)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac-pro.png)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
-
-##### Ollie Mattison
-
- Mar 27, 2024• Proven solutions
-
-Short recipe videos are currently a popular trend on both YouTube and Instagram. They offer a visual guide to creating delicious menu items that range from delicious entrees to kid-friendly snacks.
-
-If you would like to create some of these food videos yourself, this article will help you shoot the most appealing food videos possible.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
-## 5 Tips for Shooting Food Videos
-
-#### 1\. Light
-
-Light is one of the most crucial factors for your video. If the lighting is too bright, your food videography will appear washed out. If the lighting is too dark, food will appear shadowed and hard to see. Neither is a good option, because it does not present a very professional product.
-
-The best to use is natural lighting. You want a lot of bright natural light, but not streaming directly through your windows as this creates shadows.
-
-If the kitchen doesn’t work well for you, experiment with other rooms or outside, but be sure to keep furniture and clutter out of your shots.
-
-#### 2\. Audio
-
-Audio is one of the main components that sets [food videography](https://www.justonecookbook.com/visiting-seefood-media-food-videography/) apart from food photography. There are two viable options. You can either set your video to music, which will help set the tone for your frame speed, or you can use a voice over to provide audible descriptions.
-
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
-![audio](https://images.wondershare.com/filmora/article-images/sync-audio.JPG)
-
-#### 3\. Try to Tell a Story
-
-What seems like an insignificant change can be monumental. When crafting recipe videos, you want to try telling a story.
-
-For example, instead of showing a mixer you could show a mother helping her child to mix the ingredients together. At the end of the clip, you could either show only the food, or you could show a man walking past the window with his dog in tow.
-
-Telling a story will help to pull watchers into your video so they watch through until the end. It’s all about making viewers as invested as possible in a very short time frame.
-
-If you don’t start pulling them in, such as by telling a story, in the first twenty seconds, they probably won’t continue watching.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
-![food](https://images.wondershare.com/filmora/article-images/food-sell-a-story.JPG)
-
-#### 4\. Video Editing
-
-Once the video is shot, you’ll have to do some post-production work. In other words, you need to edit your video. This is more time consuming than with food photography, because you must edit by frame, place to music, add title frames, and so on.
-
-One major mistake people make with their food videos is the use of too many transitions or cut-scenes, such as fading, zoom outs, etc.
-
-The best way to edit your videos is for quality, with a minimum of 90-97% straight shots – meaning no transitions are used.
-
-#### 5\. Decoration
-
-Some people will choose to shoot their videos using bold, bright colors in their food and setting.
-
-Others may decide that a simple setting – such as a classic wooden table with nothing more than a small flower vase – is more suitable for the dish they are creating.
-
-Both are great choices, but the key is to base your settings off your dish, ensuring the area surrounding the food is complementary and not contrasting.
-
-Videographers may choose to use other techniques to make the final dish pop.
-
-This could include food carving, plating techniques, or even just the use of high-tech equipment which has the potential to capture even the tiniest food fragment in vivid detail.
-
-![decoration food](https://images.wondershare.com/filmora/article-images/food-decoration.JPG)
-
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## Equipment
-
-#### 1\. Smart Phone
-
-One way to shoot food videos is with your smart phone. To do this, use the built-in camera feature set to take video in landscape mode (this looks the best).
-
-Hold very still to prevent shaking, and simply hold the screen for autofocus and exposure prior to beginning your film.
-
-![smart phone](https://images.wondershare.com/filmora/article-images/iphone-7-plus-4k-smartphone.jpg)
-
-#### 2\. Lens
-
-If you are going to shoot with a camera, you need either a mirrorless camera or DSLR. A standard click-and-shoot will not provide a high enough quality of video. Along with a high-quality camera comes the need for a high-quality lens.
-
-The lens you shoot with should be able to zoom in or out on the food. You’ll want to avoid a lens that presents static, or has any nicks, chips, or cuts in the glass.
-
-As for the shooting itself, you can feel free to experiment with lenses that offer unique styles, such as soft or hard
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![lens](https://images.wondershare.com/filmora/article-images/fujinon-mk18-55mm-t2.9-lens.jpg)
-
-#### 3\. Tripod
-
-Another thing you’ll want when shooting with a camera is a tripod. A tripod is necessary because it holds the camera steady, as well as allows you to be present in the video if desired.
-
-You can find a cheap tripod at many chain stores to get you started, although you may want to invest in a better one in the future.
-
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![tripod](https://images.wondershare.com/filmora/article-images/gitzo-mountaineer-series-2-carbon-fiber-tripod.jpg)
-
-## Conclusion
-
-This basic guide should give you a solid start in creating top-of-the-line food videography for your social media accounts.
-
-If you find your first video isn’t as amazing as you’d thought it would be, remember that it takes time to become a master at something. With practice, you will see the videos shot progressively becoming more professional.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win-pro.png)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac-pro.png)](https://tools.techidaily.com/wondershare/filmora/download/)
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-Ollie Mattison
-
-Ollie Mattison is a writer and a lover of all things video.
-
-Follow @Ollie Mattison
 
 ##### Ollie Mattison
 
@@ -321,14 +78,8 @@ Videographers may choose to use other techniques to make the final dish pop.
 
 This could include food carving, plating techniques, or even just the use of high-tech equipment which has the potential to capture even the tiniest food fragment in vivid detail.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![decoration food](https://images.wondershare.com/filmora/article-images/food-decoration.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Equipment
 
 #### 1\. Smart Phone
@@ -337,9 +88,6 @@ One way to shoot food videos is with your smart phone. To do this, use the built
 
 Hold very still to prevent shaking, and simply hold the screen for autofocus and exposure prior to beginning your film.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![smart phone](https://images.wondershare.com/filmora/article-images/iphone-7-plus-4k-smartphone.jpg)
 
 #### 2\. Lens
@@ -385,8 +133,12 @@ Short recipe videos are currently a popular trend on both YouTube and Instagram.
 If you would like to create some of these food videos yourself, this article will help you shoot the most appealing food videos possible.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5 Tips for Shooting Food Videos
 
 #### 1\. Light
@@ -438,10 +190,12 @@ This could include food carving, plating techniques, or even just the use of hig
 ![decoration food](https://images.wondershare.com/filmora/article-images/food-decoration.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Equipment
 
 #### 1\. Smart Phone
@@ -460,9 +214,6 @@ The lens you shoot with should be able to zoom in or out on the food. You’ll w
 
 As for the shooting itself, you can feel free to experiment with lenses that offer unique styles, such as soft or hard
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![lens](https://images.wondershare.com/filmora/article-images/fujinon-mk18-55mm-t2.9-lens.jpg)
 
 #### 3\. Tripod
@@ -471,23 +222,239 @@ Another thing you’ll want when shooting with a camera is a tripod. A tripod is
 
 You can find a cheap tripod at many chain stores to get you started, although you may want to invest in a better one in the future.
 
+![tripod](https://images.wondershare.com/filmora/article-images/gitzo-mountaineer-series-2-carbon-fiber-tripod.jpg)
+
+## Conclusion
+
+This basic guide should give you a solid start in creating top-of-the-line food videography for your social media accounts.
+
+If you find your first video isn’t as amazing as you’d thought it would be, remember that it takes time to become a master at something. With practice, you will see the videos shot progressively becoming more professional.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win-pro.png)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac-pro.png)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+Short recipe videos are currently a popular trend on both YouTube and Instagram. They offer a visual guide to creating delicious menu items that range from delicious entrees to kid-friendly snacks.
+
+If you would like to create some of these food videos yourself, this article will help you shoot the most appealing food videos possible.
+
+## 5 Tips for Shooting Food Videos
+
+#### 1\. Light
+
+Light is one of the most crucial factors for your video. If the lighting is too bright, your food videography will appear washed out. If the lighting is too dark, food will appear shadowed and hard to see. Neither is a good option, because it does not present a very professional product.
+
+The best to use is natural lighting. You want a lot of bright natural light, but not streaming directly through your windows as this creates shadows.
+
+If the kitchen doesn’t work well for you, experiment with other rooms or outside, but be sure to keep furniture and clutter out of your shots.
+
+#### 2\. Audio
+
+Audio is one of the main components that sets [food videography](https://www.justonecookbook.com/visiting-seefood-media-food-videography/) apart from food photography. There are two viable options. You can either set your video to music, which will help set the tone for your frame speed, or you can use a voice over to provide audible descriptions.
+
+![audio](https://images.wondershare.com/filmora/article-images/sync-audio.JPG)
+
+#### 3\. Try to Tell a Story
+
+What seems like an insignificant change can be monumental. When crafting recipe videos, you want to try telling a story.
+
+For example, instead of showing a mixer you could show a mother helping her child to mix the ingredients together. At the end of the clip, you could either show only the food, or you could show a man walking past the window with his dog in tow.
+
+Telling a story will help to pull watchers into your video so they watch through until the end. It’s all about making viewers as invested as possible in a very short time frame.
+
+If you don’t start pulling them in, such as by telling a story, in the first twenty seconds, they probably won’t continue watching.
+
+![food](https://images.wondershare.com/filmora/article-images/food-sell-a-story.JPG)
+
+#### 4\. Video Editing
+
+Once the video is shot, you’ll have to do some post-production work. In other words, you need to edit your video. This is more time consuming than with food photography, because you must edit by frame, place to music, add title frames, and so on.
+
+One major mistake people make with their food videos is the use of too many transitions or cut-scenes, such as fading, zoom outs, etc.
+
+The best way to edit your videos is for quality, with a minimum of 90-97% straight shots – meaning no transitions are used.
+
+#### 5\. Decoration
+
+Some people will choose to shoot their videos using bold, bright colors in their food and setting.
+
+Others may decide that a simple setting – such as a classic wooden table with nothing more than a small flower vase – is more suitable for the dish they are creating.
+
+Both are great choices, but the key is to base your settings off your dish, ensuring the area surrounding the food is complementary and not contrasting.
+
+Videographers may choose to use other techniques to make the final dish pop.
+
+This could include food carving, plating techniques, or even just the use of high-tech equipment which has the potential to capture even the tiniest food fragment in vivid detail.
+
+![decoration food](https://images.wondershare.com/filmora/article-images/food-decoration.JPG)
+
+## Equipment
+
+#### 1\. Smart Phone
+
+One way to shoot food videos is with your smart phone. To do this, use the built-in camera feature set to take video in landscape mode (this looks the best).
+
+Hold very still to prevent shaking, and simply hold the screen for autofocus and exposure prior to beginning your film.
+
+![smart phone](https://images.wondershare.com/filmora/article-images/iphone-7-plus-4k-smartphone.jpg)
+
+#### 2\. Lens
+
+If you are going to shoot with a camera, you need either a mirrorless camera or DSLR. A standard click-and-shoot will not provide a high enough quality of video. Along with a high-quality camera comes the need for a high-quality lens.
+
+The lens you shoot with should be able to zoom in or out on the food. You’ll want to avoid a lens that presents static, or has any nicks, chips, or cuts in the glass.
+
+As for the shooting itself, you can feel free to experiment with lenses that offer unique styles, such as soft or hard
+
+![lens](https://images.wondershare.com/filmora/article-images/fujinon-mk18-55mm-t2.9-lens.jpg)
+
+#### 3\. Tripod
+
+Another thing you’ll want when shooting with a camera is a tripod. A tripod is necessary because it holds the camera steady, as well as allows you to be present in the video if desired.
+
+You can find a cheap tripod at many chain stores to get you started, although you may want to invest in a better one in the future.
+
 ![tripod](https://images.wondershare.com/filmora/article-images/gitzo-mountaineer-series-2-carbon-fiber-tripod.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Conclusion
+
+This basic guide should give you a solid start in creating top-of-the-line food videography for your social media accounts.
+
+If you find your first video isn’t as amazing as you’d thought it would be, remember that it takes time to become a master at something. With practice, you will see the videos shot progressively becoming more professional.
+
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win-pro.png)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac-pro.png)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+Ollie Mattison
+
+Ollie Mattison is a writer and a lover of all things video.
+
+Follow @Ollie Mattison
+
+##### Ollie Mattison
+
+ Mar 27, 2024• Proven solutions
+
+Short recipe videos are currently a popular trend on both YouTube and Instagram. They offer a visual guide to creating delicious menu items that range from delicious entrees to kid-friendly snacks.
+
+If you would like to create some of these food videos yourself, this article will help you shoot the most appealing food videos possible.
+
+## 5 Tips for Shooting Food Videos
+
+#### 1\. Light
+
+Light is one of the most crucial factors for your video. If the lighting is too bright, your food videography will appear washed out. If the lighting is too dark, food will appear shadowed and hard to see. Neither is a good option, because it does not present a very professional product.
+
+The best to use is natural lighting. You want a lot of bright natural light, but not streaming directly through your windows as this creates shadows.
+
+If the kitchen doesn’t work well for you, experiment with other rooms or outside, but be sure to keep furniture and clutter out of your shots.
+
+#### 2\. Audio
+
+Audio is one of the main components that sets [food videography](https://www.justonecookbook.com/visiting-seefood-media-food-videography/) apart from food photography. There are two viable options. You can either set your video to music, which will help set the tone for your frame speed, or you can use a voice over to provide audible descriptions.
+
+![audio](https://images.wondershare.com/filmora/article-images/sync-audio.JPG)
+
+#### 3\. Try to Tell a Story
+
+What seems like an insignificant change can be monumental. When crafting recipe videos, you want to try telling a story.
+
+For example, instead of showing a mixer you could show a mother helping her child to mix the ingredients together. At the end of the clip, you could either show only the food, or you could show a man walking past the window with his dog in tow.
+
+Telling a story will help to pull watchers into your video so they watch through until the end. It’s all about making viewers as invested as possible in a very short time frame.
+
+If you don’t start pulling them in, such as by telling a story, in the first twenty seconds, they probably won’t continue watching.
+
+![food](https://images.wondershare.com/filmora/article-images/food-sell-a-story.JPG)
+
+#### 4\. Video Editing
+
+Once the video is shot, you’ll have to do some post-production work. In other words, you need to edit your video. This is more time consuming than with food photography, because you must edit by frame, place to music, add title frames, and so on.
+
+One major mistake people make with their food videos is the use of too many transitions or cut-scenes, such as fading, zoom outs, etc.
+
+The best way to edit your videos is for quality, with a minimum of 90-97% straight shots – meaning no transitions are used.
+
+#### 5\. Decoration
+
+Some people will choose to shoot their videos using bold, bright colors in their food and setting.
+
+Others may decide that a simple setting – such as a classic wooden table with nothing more than a small flower vase – is more suitable for the dish they are creating.
+
+Both are great choices, but the key is to base your settings off your dish, ensuring the area surrounding the food is complementary and not contrasting.
+
+Videographers may choose to use other techniques to make the final dish pop.
+
+This could include food carving, plating techniques, or even just the use of high-tech equipment which has the potential to capture even the tiniest food fragment in vivid detail.
+
+![decoration food](https://images.wondershare.com/filmora/article-images/food-decoration.JPG)
+
+## Equipment
+
+#### 1\. Smart Phone
+
+One way to shoot food videos is with your smart phone. To do this, use the built-in camera feature set to take video in landscape mode (this looks the best).
+
+Hold very still to prevent shaking, and simply hold the screen for autofocus and exposure prior to beginning your film.
+
+![smart phone](https://images.wondershare.com/filmora/article-images/iphone-7-plus-4k-smartphone.jpg)
+
+#### 2\. Lens
+
+If you are going to shoot with a camera, you need either a mirrorless camera or DSLR. A standard click-and-shoot will not provide a high enough quality of video. Along with a high-quality camera comes the need for a high-quality lens.
+
+The lens you shoot with should be able to zoom in or out on the food. You’ll want to avoid a lens that presents static, or has any nicks, chips, or cuts in the glass.
+
+As for the shooting itself, you can feel free to experiment with lenses that offer unique styles, such as soft or hard
+
+![lens](https://images.wondershare.com/filmora/article-images/fujinon-mk18-55mm-t2.9-lens.jpg)
+
+#### 3\. Tripod
+
+Another thing you’ll want when shooting with a camera is a tripod. A tripod is necessary because it holds the camera steady, as well as allows you to be present in the video if desired.
+
+You can find a cheap tripod at many chain stores to get you started, although you may want to invest in a better one in the future.
+
+![tripod](https://images.wondershare.com/filmora/article-images/gitzo-mountaineer-series-2-carbon-fiber-tripod.jpg)
+
 ## Conclusion
 
 This basic guide should give you a solid start in creating top-of-the-line food videography for your social media accounts.
@@ -526,7 +493,18 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-10-best-sites-to-download-free-slideshow-templates/"><u>[New] 10 Best Sites to Download Free Slideshow Templates</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-smart-eco-friendly-screen-tech-compilation/"><u>[New] 2024 Approved Smart, Eco-Friendly Screen Tech Compilation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-combining-zoom-and-facebook-live-a-step-by-step-guide/"><u>[Updated] Combining Zoom & Facebook Live A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-ensure-periscope-videos-are-secured-post-record/"><u>2024 Approved How to Ensure Periscope Videos Are Secured Post-Record</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-list-of-free-high-quality-video-playback-apps-pcmobile/"><u>Comprehensive List of Free, High-Quality Video Playback Apps PC/Mobile</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-fixes-for-frozen-terminal-apps-on-windows/"><u>Essential Fixes for Frozen Terminal Apps on Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-poco-f5-pro-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Poco F5 Pro 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-gifify-your-twit-making-vids-free-and-flashy/"><u>In 2024, Gifify Your Twit Making Vids Free & Flashy</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transitioning-artistry-in-inshot-videos/"><u>Transitioning Artistry in Inshot Videos</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-techniques-for-excising-drum-sections-in-online-music-editing/"><u>Updated Techniques for Excising Drum Sections in Online Music Editing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-subtitle-editors-for-mac-alternatives-to-subtitle-edit/"><u>Updated Top Subtitle Editors for Mac Alternatives to Subtitle Edit</u></a></li>
+</ul></div>
 

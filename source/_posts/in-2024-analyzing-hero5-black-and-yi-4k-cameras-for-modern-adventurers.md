@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Analyzing Hero5 Black & Yi 4K Cameras for Modern Adventurers"
-date: 2024-09-08T00:56:52.598Z
-updated: 2024-09-14T06:41:19.871Z
+date: 2024-09-12T22:30:20.583Z
+updated: 2024-09-19T19:47:45.465Z
 tags: 
   - screen-recording
   - ai video
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 [Best 4K action cameras for 2017 >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [Best GoPro Alternatives >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Comparison for Hero5 Black and Yi 4K Action Camera
 
@@ -74,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 
 ![Yi 4K action camera touchscreen](https://images.wondershare.com/filmora/article-images/yi-4k-touchscreen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image source:elproducente.com
 
 **Waterproof:** The biggest benefit of GoPro Hero5 is that it can serve you underwater but YI 4K cannot as you need additional protective case for this camera. But you cannot save your recordings from handling noise in case of GoPro unit. When you go underwater with YI 4K while using protective housing then it is not possible to use its touch screen feature and secondly the audio quality decays by large extent.
@@ -103,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -125,19 +104,26 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-14-top-metaverse-initiatives-revealing-potential-futures/"><u>[New] 14 Top Metaverse Initiatives Revealing Potential Futures</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-mp4mpeg-audio-extraction-tool/"><u>[New] In 2024, MP4/MPEG Audio Extraction Tool</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-chirping-cha-cha-charade/"><u>[Updated] Chirping Cha-Cha Charade</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-essential-steps-to-create-youtube-beginnings-and-ends-on-a-budget/"><u>2024 Approved Essential Steps to Create YouTube Beginnings & Ends on a Budget</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/captivate-viewers-earn-accolades-tips-for-staff-picks-on-vimeo/"><u>Captivate Viewers, Earn Accolades Tips for Staff Picks on Vimeo</u></a></li>
-<li><a href="https://article-helps.techidaily.com/complete-transformation-handbook-using-morphvox-tech/"><u>Complete Transformation Handbook Using MorphVOX Tech</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo V29 Pro? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-of-iphone-15-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-image-quality-hero5-black-vs-sjcam-sj7/"><u>In 2024, Advanced Image Quality Hero5 Black Vs SJCAM SJ7</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-aviation-tech-syma-x8cs-capabilities/"><u>In 2024, Aviation Tech Syma X8C's Capabilities</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-artisans-path-to-precision-zooming-on-kinemaster/"><u>The Artisan’s Path to Precision Zooming on Kinemaster</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-advanced-audio-synchronization-a-step-by-step-guide-to-keyframe-adjustments-in-final-cut-pro-x/"><u>Updated Advanced Audio Synchronization A Step-by-Step Guide to Keyframe Adjustments in Final Cut Pro X</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-motorola-moto-g84-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Motorola Moto G84 5G</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-essential-screen-recording-steps-for-perfection/"><u>[New] 2024 Approved Essential Screen Recording Steps for Perfection</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-video-zoom-editors-of-the-year-roundup/"><u>[New] Best Video Zoom Editors of the Year - Roundup</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigating-retro-facebook-stories-pcmobile-guide/"><u>[New] In 2024, Navigating Retro Facebook Stories PC/Mobile Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-dominate-views-smarter-youtube-timing-strategies/"><u>2024 Approved Dominate Views Smarter Youtube Timing Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gentle-guides-to-nocturnal-nirvana-top-asmr-talents/"><u>2024 Approved Gentle Guides to Nocturnal Nirvana Top ASMR Talents</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cost-free-webm-playback-the-top-10-players-reviewed/"><u>Cost-Free WebM Playback The Top 10 Players Reviewed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-visual-experience-with-apple-music-inclusion/"><u>Elevate Visual Experience with Apple Music Inclusion</u></a></li>
+<li><a href="https://fox-links.techidaily.com/guia-do-iniciante-os-melhores-programas-de-edicao-de-videos-escolhidos-para-o-ano-de-2nvidei-2024/"><u>Guia Do Iniciante: Os Melhores Programas De Edição De Vídeos Escolhidos Para O Ano De 2Nvidei-2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-honor-x7b-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-become-a-periscope-wizard-with-our-full-guidebook/"><u>In 2024, Become a Periscope Wizard with Our Full Guidebook</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-samsung-galaxy-a15-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Samsung Galaxy A15 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-and-simple-guide-performing-a-fresh-installation-of-windows-11/"><u>Quick & Simple Guide: Performing a Fresh Installation of Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-latency-problems-in-naraka-bladepoint-a-step-by-step-guide/"><u>Solving Latency Problems in Naraka Bladepoint: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transformative-typography-in-after-effects/"><u>Transformative Typography in After Effects</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

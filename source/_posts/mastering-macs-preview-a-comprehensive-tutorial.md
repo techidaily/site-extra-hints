@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Mac's Preview  A Comprehensive Tutorial\""
-date: 2024-09-06T23:47:07.444Z
-updated: 2024-09-13T20:39:45.437Z
+date: 2024-09-12T21:35:42.467Z
+updated: 2024-09-19T21:16:53.226Z
 tags: 
   - screen-recording
   - ai video
@@ -50,13 +50,6 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Show Markup Tools in Preview on Mac
 
 Markup Tools gives easy access to the editing tools the **Preview app** has. By default, Markup Tools is kept hidden, but automatically becomes visible when you make some changes to the image. However, you can follow the process given below to manually show Markup Tools in Preview:
@@ -70,13 +63,6 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -94,13 +80,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -112,13 +91,6 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -137,10 +109,10 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
@@ -160,10 +132,10 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Combine Images into One
@@ -181,6 +153,13 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 **Step 3: Combine the Images**
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
 
@@ -243,20 +222,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-decipher-high-impact-content-selecting-premier-rank-trackers-for-youtubers/"><u>[New] 2024 Approved Decipher High-Impact Content Selecting Premier Rank Trackers for YouTubers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-uncover-and-revive-inaudible-fb-video-posts-the-ultimate-list-of-12-fixes/"><u>[Updated] 2024 Approved Uncover & Revive Inaudible FB Video Posts – The Ultimate List of 12 Fixes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-ace-memes-top-template-compendium/"><u>[Updated] Ace Memes Top Template Compendium</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/computer-connection-5-strategies-to-move-files-for-2024/"><u>Computer Connection 5 Strategies to Move Files for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/detailed-review-navigating-through-polarrs-features-easily/"><u>Detailed Review Navigating Through Polarr's Features Easily</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elevate-images-taking-vertical-panoramas-on-screens/"><u>Elevate Images Taking Vertical Panoramas on Screens</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-easy-to-use-screen-recording-tools-for-windows-10-for-2024/"><u>Free, Easy-To-Use Screen Recording Tools For Windows 10 for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-honor-90-pro-by-drfone-android/"><u>How to Bypass FRP on Honor 90 Pro?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-black-hero-4-or-ghost-s-choosing-the-best-motorsport-camera/"><u>In 2024, Black Hero 4 or Ghost-S Choosing the Best Motorsport Camera</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/timing-the-perfect-capture-and-labeling/"><u>Timing the Perfect Capture and Labeling</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-gopro-film-editing-applications/"><u>Top GoPro Film-Editing Applications</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/x-year-phone-photoshoot-oldiphone-x-edition-for-2024/"><u>X-Year Phone Photoshoot – OldiPhone X Edition for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-breaking-through-boundaries-with-hdr-in-editing/"><u>[New] Breaking Through Boundaries with HDR in Editing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-photographers-manual-how-to-crop-images-seamlessly-online/"><u>[Updated] 2024 Approved The Photographer's Manual How To Crop Images Seamlessly Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-blackout-brilliance-minute-edition/"><u>2024 Approved Blackout Brilliance Minute Edition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-unleash-the-power-of-your-devices-for-effective-fb-streaming/"><u>2024 Approved Unleash the Power of Your Devices for Effective FB Streaming</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/best-screen-capture-alternatives-for-the-cost-conscious-user-for-2024/"><u>Best Screen Capture Alternatives for the Cost-Conscious User for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/1722516983019-distinguishing-between-echo-pop-and-echo-dot-a-comprehensive-guide/"><u>Distinguishing Between Echo Pop and Echo Dot: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-camera-selection-unveiling-the-best-5-low-frame-rate-tools/"><u>Elite Camera Selection Unveiling the Best 5 Low Frame Rate Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fresh-topics-eliciting-engagement-in-audio-formats/"><u>Fresh Topics Eliciting Engagement in Audio Formats</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-breaking-the-barrier-easy-livestream-setup-for-podcasters/"><u>In 2024, Breaking the Barrier Easy Livestream Setup for Podcasters</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-11-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 11 With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-7-plus-video-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 7 Plus Video to Computer? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-transform-your-youtube-routine-control-over-video-delivery-speeds/"><u>In 2024, Transform Your YouTube Routine Control Over Video Delivery Speeds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/prime-tools-for-cinematic-creation-top-ten-picks/"><u>Prime Tools for Cinematic Creation Top Ten Picks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/silent-symphony-a-compendium-of-top-speech-to-text-tools/"><u>Silent Symphony A Compendium of Top Speech-to-Text Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/total-gaze-coverage-camera-analysis-for-2024/"><u>Total Gaze Coverage Camera Analysis for 2024</u></a></li>
 </ul></div>
 

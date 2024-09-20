@@ -1,7 +1,7 @@
 ---
 title: "[Updated] 2022 Winter Games Skate Spotlights"
-date: 2024-09-11T21:23:12.727Z
-updated: 2024-09-14T05:12:02.141Z
+date: 2024-09-17T21:20:43.301Z
+updated: 2024-09-19T16:59:04.398Z
 tags: 
   - screen-recording
   - ai video
@@ -30,23 +30,9 @@ Nathan Chen got the combined score of 332.60 in short program and free skate com
 
 ![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
@@ -64,31 +50,11 @@ Even though Nathan Chen finished first for men's short program of the team event
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
@@ -110,25 +76,11 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
 
 Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
 
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
 
@@ -149,18 +101,34 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-best-practices-top-photo-frame-tech-of-2024/"><u>[New] Best Practices Top Photo Frame Tech of 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-best-webcam-tripods-flex-neck-and-stands/"><u>[New] Best Webcam Tripods, Flex-Neck and Stands</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-livestreaming-tools-evaluation-which-bets-on-performance/"><u>[Updated] Livestreaming Tools Evaluation Which Bets on Performance?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-navigating-the-nuances-of-sound-reduction-in-pp-projects-for-2024/"><u>[Updated] Navigating the Nuances of Sound Reduction in PP Projects for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-edit-suite-for-mobile-app-devices/"><u>[Updated] Ultimate Edit Suite for Mobile App Devices</u></a></li>
-<li><a href="https://games-able.techidaily.com/colorful-comeback-tecnos-updated-smartphones-at-fair/"><u>Colorful Comeback: Tecno’s Updated Smartphones at Fair</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-historical-value-incorporating-dates-into-images/"><u>Enhancing Historical Value Incorporating Dates Into Images</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-user-interface-with-fn-key-modifications/"><u>Enhancing User Interface with FN Key Modifications</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/secret-vlc-tactics-for-optimal-viewing-experience/"><u>Secret VLC Tactics for Optimal Viewing Experience</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/sleepy-story-vids-assessment-and-overview/"><u>Sleepy Story Vids Assessment & Overview</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-5-revelations-for-novice-advertisers-to-master-promotion/"><u>Top 5 Revelations for Novice Advertisers to Master Promotion</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-playing-4k-uhd-movies-on-mac-computers-key-points-and-tips/"><u>Ultimate Guide to Playing 4K UHD Movies on Mac Computers: Key Points & Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-classifications-of-unmanned-aircraft/"><u>[New] Classifications of Unmanned Aircraft</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-top-picks-11-affordable-innovative-yt-moniker-generators/"><u>[Updated] 2024 Approved Top Picks 11 Affordable, Innovative YT Moniker Generators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-ultimate-guide-to-add-chapters-to-a-youtube-video/"><u>[Updated] Ultimate Guide to Add Chapters To A YouTube Video</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-intro-editors-for-app-devices-for-2024/"><u>Best Intro Editors for App Devices for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boosting-visuals-implementing-filters-on-devices-for-2024/"><u>Boosting Visuals Implementing Filters on Devices for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/connecting-your-printer-to-your-laptop-seamlessly-wireless-and-usb-methods-explained/"><u>Connecting Your Printer to Your Laptop Seamlessly: Wireless and USB Methods Explained</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/create-the-loop-instagrams-boomerang-mastery/"><u>Create the Loop Instagram's Boomerang Mastery</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-vivo-v27-pro-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Vivo V27 Pro online without jailbreak</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-choreographing-gripping-podcast-endings/"><u>In 2024, Choreographing Gripping Podcast Endings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-streamline-your-media-convert-fb-videos-to-mp4-hd1080p-for-free/"><u>In 2024, Streamline Your Media - Convert FB Videos to MP4 HD/1080P for Free</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-toward-unauthorized-access-a-c-span-journey/"><u>Navigating Toward Unauthorized Access A C-Span Journey</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-live-soundscapes-for-fans/"><u>Prime Live Soundscapes for Fans</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/secrets-unveiled-stealthily-protect-your-chatgpt-dialogues-from-prying-eyes/"><u>Secrets Unveiled: Stealthily Protect Your ChatGPT Dialogues From Prying Eyes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/speedy-execution-tactics-for-fb-video-success/"><u>Speedy Execution Tactics for FB Video Success</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/top-6-facebook-lite-video-downloaders-for-2024/"><u>Top 6 Facebook Lite Video Downloaders for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-the-experts-picks-8-superior-rainfall-noise-resources-available-for-downloading/"><u>Updated In 2024, The Experts Picks 8 Superior Rainfall Noise Resources Available for Downloading</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

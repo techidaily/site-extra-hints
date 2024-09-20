@@ -1,7 +1,7 @@
 ---
 title: "Hatch Humorous Habits"
-date: 2024-09-11T22:45:11.080Z
-updated: 2024-09-14T00:15:05.417Z
+date: 2024-09-13T16:48:46.650Z
+updated: 2024-09-19T21:31:53.832Z
 tags: 
   - screen-recording
   - ai video
@@ -40,13 +40,6 @@ You will only have to import the image, add your text, and then export it to mak
 * **Add caption:** Place the file on the timeline. You can click on the "Title" tab and select the text style. Enter words and add color, font, and size to the caption. You can also try inserting a famous song in the background. You must drag and drop the file into the program and put the audio track.
 * **Save your meme:** Of course, when you are finished with the meme, you will want to share the meme with the online world. It is as simple as you can upload the video meme to any social media platform by clicking on the "Export" option.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Use Photoshop
 
 Want to learn how to create a meme with Photoshop? This manual is meant to assist. Since the invention of the internet, memes have increased to disseminate complex information in brief, digestible chunks. It is a low-cost, high-impact image that may be quickly produced and destroyed. Many meme creators are available, including one in Photoshop, but using Photoshop itself will give you much more power.
@@ -76,19 +69,6 @@ It is a free online meme maker app that will allow you to add some custom images
 
 ![create-meme-with-imgflip.jpg](https://images.wondershare.com/filmora/article-images/2022/07/create-meme-with-imgflip.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Steps to make a meme with imgflip:
 
 * **Choose a template:** Users can use famous templates by searching through this app. You can add the meme by uploading new templates. You can upload your own, or else you can even upload the template from the site. If you want to begin with scratch, then you can try to search "blank" or "empty" templates.
@@ -96,16 +76,10 @@ Steps to make a meme with imgflip:
 * **Share:** You can create the meme by clicking on "generate meme" and then selecting to share the meme. With the help of this app, you can share your generated meme to several social media apps.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. iLoveIMG
@@ -114,17 +88,17 @@ iLoveIMG is another free-to-use online application that helps users with editing
 
 ![make meme with iloveimg](https://images.wondershare.com/filmora/article-images/2022/07/make-meme-with-iloveimg.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * First, go to [iloveimg.com](http://www.iloveimg.com) and then click on the "meme generator" option given on your screen. This will take you to the meme generator page where you will be asked to upload the image you want to make a meme with.
 * You can click on the "upload image" option to upload an image from your camera roll to modify or create your meme. Or else you can click on the "Select meme template" to search for any particular meme template that you want to edit.
 * After you have chosen a meme template or uploaded your image, you will be available with different editing tools that will help you to resize and add texts of different fonts to your image. Select the font you want to go with and then add it to your image.
 * Then pan or zoom to place the text at the required position in the image. After you are done with your modifications, click on the "download image" option and your meme will be saved to your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Meme Better
 
@@ -133,10 +107,10 @@ One of the most popular subjects of interest among social media users these days
 ![meme better](https://images.wondershare.com/filmora/article-images/2022/07/meme-better.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The process of making memes with memes better is as follows:
@@ -158,10 +132,10 @@ If you are looking for a free and simple meme generator for your social media ne
 * If you are satisfied with your meme creation and want no further changes, you will need to click on the "Download Image" option and your meme will be saved successfully. Along with this, you also have the option to share the meme instantly to any cloud storage if you want to do so.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -189,10 +163,10 @@ Want to learn how to create a meme with Photoshop? This manual is meant to assis
 ![make meme with ps](https://images.wondershare.com/filmora/article-images/2022/07/make-meme-with-ps.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Here's how to create memes on your computer using only Photoshop CC. Choose a photo and **make it a meme** with these steps.
@@ -208,29 +182,9 @@ It's free and straightforward to make a meme with Canva's meme maker. You may co
 
 ![use canva create meme](https://images.wondershare.com/filmora/article-images/2022/07/use-canva-create-meme.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * **Open Canva and Search for the template:** Open the Canva and then search “Meme” on the search tool. You can browse through the library of meme templates for all themes. You can add the keyword which fits your choice and then style it to narrow the search. You can click on the template you love to add the page to the editor.
 * **Explore features:** The Canva's library has several stock stickers, images, icons, photos, and speech bubbles. You can use the handy feature for making the elements rise, pan, or tumble on the page. You can even add a video or audio clip.
 * **Personalize the meme:** Do you have an idea in your mind? You can feel free to upload photos or artwork images. You can choose your color scheme, background, and style and mix the element from several templates.
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. imgflip
 
@@ -244,25 +198,11 @@ Steps to make a meme with imgflip:
 * **Add customizations:** Add spacing, drawings, stickers, images, and text to use buttons beside the meme canvas.
 * **Share:** You can create the meme by clicking on "generate meme" and then selecting to share the meme. With the help of this app, you can share your generated meme to several social media apps.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. iLoveIMG
 
 iLoveIMG is another free-to-use online application that helps users with editing images to resize, crop, or compress and then convert them to memes. There are also free templates available for the users that can be accessed very easily with just a few clicks. This web app is very efficient and doesn't take up any memory space on your PC or device and produces high-resolution memes that can be instantly shared on different social media platforms. To make a meme by using the iLoveIMG web app, you will need to follow these steps thoroughly:
 
 ![make meme with iloveimg](https://images.wondershare.com/filmora/article-images/2022/07/make-meme-with-iloveimg.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * First, go to [iloveimg.com](http://www.iloveimg.com) and then click on the "meme generator" option given on your screen. This will take you to the meme generator page where you will be asked to upload the image you want to make a meme with.
 * You can click on the "upload image" option to upload an image from your camera roll to modify or create your meme. Or else you can click on the "Select meme template" to search for any particular meme template that you want to edit.
@@ -282,37 +222,16 @@ The process of making memes with memes better is as follows:
 * After you have selected a meme template, you will be available with different text fields where you can insert your texts, and then the text will be shown on the image. If you want to refresh or undo your changes, then you can click on the "Auto-refresh" option to add the texts again.
 * When you are done with your editing, click on the "Save image" and the meme will be saved to your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Make a Meme
 
 If you are looking for a free and simple meme generator for your social media needs, then "Make a meme" is the perfect online application for you. This platform doesn't need any installation and can be directly launched from its website. Once you open this online meme-generating platform, you will be available with hundreds of trendy memes along with specific keyword search support. And there are also different categories of memes grouped for better convenience. The process of generating memes through this online application is really easy and you can follow these steps to create your meme:
 
 ![make a meme tool](https://images.wondershare.com/filmora/article-images/2022/07/make-a-meme-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * To use the "make a meme" web app, you will first need to go to its website. You can do that by searching it on your web browser and clicking on the first links in the results.
 * After you open the Make a Meme web app interface, you will be asked to "Upload Image" by clicking on the option under the same name. You can upload your preferred image for generating memes or else there is also the option to try out different meme templates.
 * After selecting an image, you can edit it to add texts or layers and when you are done, the image will be ready for preview. The texts in the meme image can be changed by tapping on the text box provided on the screen and then inserting the preferred texts.
 * If you are satisfied with your meme creation and want no further changes, you will need to click on the "Download Image" option and your meme will be saved successfully. Along with this, you also have the option to share the meme instantly to any cloud storage if you want to do so.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -346,19 +265,21 @@ Memes are enjoyable because they make you smile and chuckle. The ideal way to cr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-calculating-riches-a-look-at-mr-beasts-wallet/"><u>[New] 2024 Approved Calculating Riches A Look at Mr. Beast's Wallet</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-conquer-oversized-drafts-learn-to-edit-and-organize-tiktok-content/"><u>[New] Conquer Oversized Drafts Learn to Edit and Organize TikTok Content</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-experience-the-magic-of-free-voice-change-for-valorant-gaming/"><u>[New] Experience the Magic of Free Voice Change for Valorant Gaming</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-chasing-likes-and-loads-jake-pauls-youtube-ambition/"><u>[Updated] 2024 Approved Chasing Likes and Loads Jake Paul's YouTube Ambition</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-discovering-periscope-its-features-pricing-and-user-registration/"><u>[Updated] 2024 Approved Discovering Periscope Its Features, Pricing & User Registration</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/broadcasting-duels-is-wirecast-superior-to-obs/"><u>Broadcasting Duels Is Wirecast Superior to OBS?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-oppo-a2-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Oppo A2 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-determine-ideal-frame-rates-in-slow-mo-filmmaking/"><u>How to Determine Ideal Frame Rates in Slow-Mo Filmmaking</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/introducing-the-ultimate-data-on-the-go-solution-the-368tb-nvme-ssd-wd-ultrastar-transporter-with-impressive-features/"><u>Introducing the Ultimate Data On-the-Go Solution: The 368TB NVMe SSD WD Ultrastar Transporter with Impressive Features</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/maximizing-your-fb-page-visibility-a-step-by-step-guide/"><u>Maximizing Your FB Page Visibility A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/simple-steps-to-document-online-meetings-on-os-xwindows-for-2024/"><u>Simple Steps to Document Online Meetings on OS X/Windows for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-art-of-monitors-reimagined-an-insight-into-the-z32x/"><u>The Art of Monitors Reimagined An Insight Into the Z32X</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveil-the-quickest-ways-to-transform-your-game-characters-speech-in-pubg/"><u>Unveil the Quickest Ways to Transform Your Game Characters' Speech in PUBG</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-premium-cloud-apps-for-android-the-most-reliable/"><u>[New] 2024 Approved Premium Cloud Apps for Android The Most Reliable</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-capturing-chronos-mastering-phantoms-time-extension-feature/"><u>[New] Capturing Chronos Mastering Phantom's Time Extension Feature</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-2023s-top-pick-of-affordable-live-stream-tech-for-every-platform-user/"><u>[Updated] 2023'S Top Pick of Affordable Live Stream Tech for Every Platform User</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/alphabetical-arrangement-of-cine-capture-models/"><u>Alphabetical Arrangement of Cine-Capture Models</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/canva-enthusiasts-reveal-their-top-10-editor-steps/"><u>Canva Enthusiasts Reveal Their Top 10 Editor Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-ai-slang-keywords-everyone-should-know/"><u>Demystifying AI Slang: Keywords Everyone Should Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-switch-experience-with-these-services/"><u>Elevate Your Switch Experience with These Services</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/explore-windows-11-best-new-gaming-titles/"><u>Explore Windows 11 Best New Gaming Titles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/high-definition-footage-leading-cameras-of-2024/"><u>High Definition Footage Leading Cameras of 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-reno-11-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Reno 11 Pro 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-2020s-windows-updates-a-quick-overview/"><u>In 2024, 2020'S Windows Updates A Quick Overview</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimizing-display-youtubes-zoom-mastery-for-2024/"><u>Optimizing Display YouTube's Zoom Mastery for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/rebooting-routine-file-explorer-revival-tips-for-win-11/"><u>Rebooting Routine: File Explorer Revival Tips for Win 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-oneplus-11r-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from OnePlus 11R to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/stabilizing-high-flying-camera-work-a-guide/"><u>Stabilizing High-Flying Camera Work A Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-windows-shift-moving-from-7-to-11/"><u>The Windows Shift: Moving From 7 to 11</u></a></li>
 </ul></div>
 

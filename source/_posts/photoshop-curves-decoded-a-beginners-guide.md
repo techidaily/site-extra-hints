@@ -1,7 +1,7 @@
 ---
 title: "\"Photoshop Curves Decoded  A Beginner's Guide\""
-date: 2024-07-22T14:16:04.780Z
-updated: 2024-07-23T14:16:04.780Z
+date: 2024-09-12T16:48:14.510Z
+updated: 2024-09-19T20:55:39.639Z
 tags: 
   - screen-recording
   - ai video
@@ -20,15 +20,8 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 
 In this Photoshop tutorial, we're going to carve an image using four simple steps. Curving an image can be a great way to add some extra visual interest and dimension, and it's a technique that can be used with a wide range of images. So, let's get started!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Simple Steps to Curve an Image in Photoshop
 
 ##### Step1Create a New Document
@@ -39,27 +32,18 @@ To keep things simple, let's start with a white canvas. Let's open a new documen
 
 After creating the new document, open the image that you want to curve. You may do so by going to File > Open in the menu bar or pressing Ctrl+O or Command+O on your keyboard. Once the image is open, go to Edit in the menu bar and select Place Embedded from the drop-down menu that appears. Select your image and click Place. The image will be placed on the canvas. If the document's size does not match that of the image, you will see a transformation box surrounding the image.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![place image in photoshop](https://images.wondershare.com/filmora/article-images/2022/09/place-image-in-photoshop.jpg)
 
 ##### Step3Warp the Image
 
 Now we'll curve the image using the Warp Tool. Select the Warp Tool by clicking and holding on the Transform Tool in the toolbar. The Warp Tool is located at the bottom of the Transform Tool's fly-out menu. Alternatively, you may press Ctrl+T or Command+T on your keyboard to open the Transform Tool's fly-out menu and then select the Warp Tool from there.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![wrap image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/wrap-image-photoshop.jpg)
 
 With the Warp Tool selected, hover your cursor over the image. You'll see a grid appear over the image. Click and drag one of the middle nodes in the horizontal direction to begin curving the image. As you drag, you'll see the image curve along with your cursor. If you want to increase or decrease the amount of curvature, simply press and hold the Shift key while dragging the node.
 
 Play around with the settings in the options bar. There are quite a few different looks you can achieve just by adjusting these.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
 
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
@@ -68,9 +52,6 @@ Play around with the settings in the options bar. There are quite a few differen
 
 **Vertical Distortion** makes the image look as if it's leaning backward.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
 
 The **Bend Direction** option rotates the angle of the bend.
@@ -119,7 +100,30 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-nailing-the-perfect-capture-mac-tips-for-screencasting-streamed-video-for-2024/"><u>[New] Nailing the Perfect Capture Mac Tips for Screencasting Streamed Video for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-quick-guide-to-firefoxs-innovative-pip-mode/"><u>[Updated] A Quick Guide to Firefox's Innovative PIP Mode</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-captivating-unboxing-reels-top-tips-for-success-on-instagram/"><u>[Updated] Crafting Captivating Unboxing Reels Top Tips for Success on Instagram</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-pioneering-visual-clarity-best-blu-ray-machines/"><u>2024 Approved Pioneering Visual Clarity Best Blu-Ray Machines</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-ultimate-rankings-best-9-web-based-mic-capture-options/"><u>2024 Approved The Ultimate Rankings Best 9 Web-Based Mic Capture Options</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-of-mobile-8-ranked-free-and-premium-apps-for-androids-video-tiles-for-2024/"><u>Best of Mobile #8 Ranked Free & Premium Apps for Android's Video Tiles for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/deep-dive-into-the-android-specific-lightroom-app/"><u>Deep Dive Into the Android-Specific Lightroom App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-soundscapes-mastering-audacitys-crossfade-feature/"><u>Enhancing Soundscapes Mastering Audacity's Crossfade Feature</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/insight-into-how-luts-transform-your-digital-canvas/"><u>Insight Into How LUTs Transform Your Digital Canvas</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nt-aspect-ratio-tuning-for-youtube-on-mac-for-2024/"><u>Instant Aspect Ratio Tuning for Youtube on Mac for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-google-chromes-running-fb-game-troubleshooting-guide/"><u>Keep Google Chromes Running: FB Game Troubleshooting Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-freeze-frames-in-windows-league-of-legends/"><u>Overcoming Freeze Frames in Windows League of Legends</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premier-5-goggles-securing-victory-in-air-races/"><u>Premier 5 Goggles Securing Victory in Air Races</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tips-for-producing-compelling-podcast-introductions/"><u>Tips for Producing Compelling Podcast Introductions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/unlocking-overwatch-soundboard-secrets-for-2024/"><u>Unlocking Overwatch Soundboard Secrets for 2024</u></a></li>
+</ul></div>
 
-
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
