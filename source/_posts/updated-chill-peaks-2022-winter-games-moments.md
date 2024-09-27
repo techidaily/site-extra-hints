@@ -155,61 +155,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 <!-- affiliate ads end -->
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-audioscapes-excellent-microphone-list/"><u>[New] Audioscape’s Excellent Microphone List</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-how-to-use-luts-in-after-effect/"><u>[New] How to Use LUTs in After Effect</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-enlightening-path-to-capturing-your-mac-screens/"><u>[New] In 2024, Enlightening Path to Capturing Your Mac Screens</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-top-10-tips-for-youtube-stars-perfecting-your-music-reaction-skills/"><u>[New] In 2024, Top 10 Tips for YouTube Stars  Perfecting Your Music Reaction Skills</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-obs-and-streamlabs-showdown-best-livestream-tool-compared/"><u>[New] OBS and Streamlabs Showdown – Best Livestream Tool Compared</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-setting-up-a-facebook-donation-challenge/"><u>[New] Setting Up a Facebook Donation Challenge</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-complete-guide-to-mastering-games-with-kinemaster-android/"><u>[New] The Complete Guide to Mastering Games with KineMaster Android</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-a-palette-perfected-the-finest-4k-panels-for-artists/"><u>[Updated] A Palette Perfected  The Finest 4K Panels for Artists</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-breaking-boundaries-custom-font-use-in-after-effects/"><u>[Updated] Breaking Boundaries  Custom Font Use in After Effects</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-capture-and-crop-with-ios-top-iphone-apps-reviewed/"><u>[Updated] Capture & Crop with iOS  Top iPhone Apps Reviewed</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-charting-a-new-course-for-creative-vr-content/"><u>[Updated] Charting a New Course for Creative VR Content</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-clip-on-lens-accessories-and-stabilizers/"><u>[Updated] Clip-On Lens Accessories and Stabilizers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-an-efficient-youtube-subscription-path-for-2024/"><u>[Updated] Crafting an Efficient YouTube Subscription Path for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-leading-edge-quick-frame-gatherer-5/"><u>[Updated] Leading Edge  Quick Frame Gatherer #5</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-6-services-for-visual-text-interpretation/"><u>2024 Approved  Best 6 Services for Visual Text Interpretation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-beyond-standard-views-a-detailed-look-at-the-z32x-model/"><u>2024 Approved  Beyond Standard Views  A Detailed Look at the Z32X Model</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-linkedin-messaging-etiquette/"><u>2024 Approved  Mastering LinkedIn Messaging Etiquette</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-select-best-online-outlets-for-downloading-youtube-tones/"><u>2024 Approved  Select Best Online Outlets for Downloading Youtube Tones</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-closer-look-at-virtual-reality-flaws-for-2024/"><u>A Closer Look at Virtual Reality Flaws for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bringing-facial-movement-to-life-with-picsarts-effects-for-2024/"><u>Bringing Facial Movement to Life with Picsart's Effects for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-samsung-galaxy-a34-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Samsung Galaxy A34 5G</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/canva-skills-purging-images-of-their-surroundings-for-2024/"><u>Canva Skills  Purging Images of Their Surroundings for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/co-marketing-brands-and-youtubes-dynamic-duo-for-2024/"><u>Co-Marketing  Brands and YouTube's Dynamic Duo for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-lenovos-latest-innovation-the-ultraportable-yoga-pro-surveying-its-sleek-build-and-satisfying-key-travel/"><u>Comprehensive Review of Lenovo's Latest Innovation – The Ultraportable Yoga Pro Surveying Its Sleek Build and Satisfying Key Travel</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/datenschutzbestimmungen-bei-digiarty-software-inc-vertrauen-sie-auf-unsere-umfassenden-sicherheitsmassnahmen-fur-ihre-daten/"><u>Datenschutzbestimmungen Bei Digiarty Software, Inc.: Vertrauen Sie Auf Unsere Umfassenden Sicherheitsmaßnahmen Für Ihre Daten.</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-grainy-greyscale-to-dynamic-highs-a-complete-hdr-conversion/"><u>From Grainy Greyscale to Dynamic Highs  A Complete HDR Conversion</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-set-up-fast-download-and-install-drivers-for-your-brother-mfc-l2700dw-on-windows-computers/"><u>Get Set Up Fast: Download & Install Drivers for Your Brother MFC-L2700DW on Windows Computers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/gigglegrid-generate-memes-with-ease-and-speed/"><u>GiggleGrid  Generate Memes with Ease and Speed</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/guidance-instagram-ringtone-download-and-make-instagram-ringtone-on-your-own/"><u>Guidance  Instagram Ringtone Download and Make Instagram Ringtone on Your Own</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/highlight-hubs-choosing-the-right-online-aids/"><u>Highlight Hubs  Choosing the Right Online Aids</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-samsung-galaxy-z-flip-5-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Samsung Galaxy Z Flip 5 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-engage-with-snapchat-luminaries/"><u>How to Engage with Snapchat Luminaries</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-install-new-drivers-on-msi-bravo-15/"><u>How to Install New Drivers on MSI Bravo 15</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/impressive-analysis-and-rival-proposals/"><u>Impressive Analysis & Rival Proposals</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-achieving-perfect-synchronization-google-upload/"><u>In 2024, Achieving Perfect Synchronization  Google Upload</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-moments-of-quietude-top-idle-smartphone-games/"><u>In 2024, Moments of Quietude  Top Idle Smartphone Games</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/innovative-photo-frame-solutions-s-visionaries/"><u>Innovative Photo Frame Solutions 'S Visionaries</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/master-techniques-to-dodge-edgenuity-videos-swiftly/"><u>Master Techniques to Dodge Edgenuity Videos Swiftly</u></a></li>
-<li><a href="https://driver-download.techidaily.com/microsofts-latest-bluetooth-drivers-compatible-with-windows-10-11-8-and-7-download-update-now/"><u>Microsoft's Latest Bluetooth Drivers: Compatible with Windows 10, 11, 8 & 7 – Download Update Now!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premium-settings-for-virtual-broadcasts/"><u>Premium Settings for Virtual Broadcasts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/pro-rated-cameras-for-windows-11-the-top-lineup-reviewed-for-2024/"><u>Pro-Rated Cameras for Windows 11 - The Top Lineup Reviewed for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/revolutionizing-text-design-top-10-after-effects-templates/"><u>Revolutionizing Text Design  Top 10 After Effects Templates</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ricoh-theta-s-complete-review/"><u>Ricoh Theta S Complete Review</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/simplifying-vfx-with-magix-video-pro-x/"><u>Simplifying VFX with Magix Video Pro X</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/sketch-like-a-pro-top-10-drawing-apps-for-android-artists/"><u>Sketch Like a Pro  Top 10 Drawing Apps for Android Artists</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/srt-deep-dive-core-principles-and-details/"><u>SRT Deep Dive  Core Principles and Details</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/step-by-step-guide-to-excelling-at-final-cut-pro/"><u>Step-by-Step Guide to Excelling at Final Cut Pro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/streamlined-method-to-alter-iphone-resolution/"><u>Streamlined Method to Alter iPhone Resolution</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-sharing-your-private-youtube-snippets-via-email-for-2024/"><u>The Ultimate Guide  Sharing Your Private YouTube Snippets via Email for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-selective-mounting-gopros-best-6-helmet-accessories/"><u>The Ultimate Guide to Selective Mounting  GoPro's Best 6 Helmet Accessories</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unveiling-the-secret-to-flawless-elan-pad-on-win11/"><u>Unveiling the Secret to Flawless Elan Pad on Win11</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-7-8-and-10-no-amd-drivers-detected/"><u>Windows 7, 8 & 10: No AMD Drivers Detected</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

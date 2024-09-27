@@ -188,43 +188,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 <!-- affiliate ads end -->
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-high-end-camcorders-reviewed-top-15/"><u>[New] 2024 Approved  High-End Camcorders Reviewed  Top 15</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-a-step-by-step-guide-to-video-editing-filters-on-computers-and-phones/"><u>[New] A Step-by-Step Guide to Video Editing Filters on Computers & Phones</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-boost-engagement-changing-numbers-effectively-on-tiktok/"><u>[New] Boost Engagement  Changing Numbers Effectively on TikTok</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-boost-visibility-with-customized-channel-names/"><u>[New] Boost Visibility with Customized Channel Names</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-checklist-seamless-conversion-of-phone-photos-to-snapchat/"><u>[New] In 2024, The Ultimate Checklist  Seamless Conversion of Phone Photos to Snapchat</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-choosing-androids-favorite-freepaid-video-tile-tools-8-ranked/"><u>[Updated] Choosing Android's Favorite Free/Paid Video Tile Tools #8 Ranked</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-essential-tips-keeping-your-snapchat-images-intact-post-snap/"><u>[Updated] Essential Tips  Keeping Your Snapchat Images Intact Post-Snap</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pushing-creative-boundaries-utilizing-advanced-techniques-for-luts-in-after-effects/"><u>2024 Approved  Pushing Creative Boundaries  Utilizing Advanced Techniques for LUTs in After Effects</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/breaking-barriers-in-drone-races-and-top-5-innovative-fpv-units/"><u>Breaking Barriers in Drone Races & Top 5 Innovative FPV Units</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/capturing-waves-how-to-record-internet-radios-step-by-step/"><u>Capturing Waves  How To Record Internet Radios Step-by-Step</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comparative-study-alert-inshot-vs-standard-editors-for-2024/"><u>Comparative Study Alert  InShot vs Standard Editors for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/composite-skies-a-drone-video-editors-strategic-guide-for-2024/"><u>Composite Skies  A Drone Video Editor’s Strategic Guide for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/craft-a-one-of-a-kind-digital-gag-now-for-2024/"><u>Craft a One-of-a-Kind Digital Gag Now for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-compelling-narratives-with-b-cut-footage-for-2024/"><u>Crafting Compelling Narratives with B-Cut Footage for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/deciphering-the-necessary-speed-for-optimal-pc-performance/"><u>Deciphering the Necessary Speed for Optimal PC Performance</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/demystifying-windows-8-movie-maker-a-comprehensive-overview/"><u>Demystifying Windows 8 Movie Maker  A Comprehensive Overview</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-htc-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from HTC .</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/effective-strategies-for-podcast-on-insta-story-and-posts/"><u>Effective Strategies for Podcast on Insta Story & Posts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-guide-to-simplified-hdr-techniques/"><u>In 2024, Comprehensive Guide to Simplified HDR Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/incremental-sound-diminishment-guidebook/"><u>Incremental Sound Diminishment Guidebook</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/instant-melodic-broadcasts-on-kuaishou/"><u>Instant Melodic Broadcasts on Kuaishou</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/macx-dvd-digiarty/"><u>MacX DVD使い方詳しく解説 - Digiartyソフトウェアでの快適な利用ガイド | 支払い手段：コンビニ電子決済方法</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/metaverse-chuckles-building-your-own-humorous-artifacts/"><u>Metaverse Chuckles  Building Your Own Humorous Artifacts</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-bring-your-ideas-to-life-top-animation-makers-for-every-skill-level/"><u>New Bring Your Ideas to Life Top Animation Makers for Every Skill Level</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-video-editing-on-a-mac-the-top-picks-for-for-2024/"><u>New Video Editing on a Mac The Top Picks For for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/nostalgia-spin-off-the-goofy-movie-on-tape/"><u>Nostalgia Spin-Off  The Goofy Movie on Tape</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/pioneering-physical-activity-bests-in-virtual-treadmills/"><u>Pioneering Physical Activity  Bests in Virtual Treadmills</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixing-mouse-problems-in-resident-evil-village-game/"><u>Resolved: Fixing Mouse Problems in Resident Evil Village Game</u></a></li>
-<li><a href="https://fox-info.techidaily.com/seamlessly-integrate-apple-podcasts-into-your-routine/"><u>Seamlessly Integrate Apple Podcasts Into Your Routine</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/seamlessslide-visual-harmony-on-macsierra/"><u>SeamlessSlide  Visual Harmony on MacSierra</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-list-of-easy-filming-cameras-for-starters/"><u>The Ultimate List of Easy Filming Cameras for Starters</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-x-fold-2-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo X Fold 2 for Parents | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-5-affordable-drones-under-500/"><u>Top 5 Affordable Drones Under $500</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unleashing-new-worlds-best-psvr-games-on-their-way-out/"><u>Unleashing New Worlds  Best PSVR Games on Their Way Out</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

@@ -176,46 +176,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 <!-- affiliate ads end -->
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-efficiently-upgrading-your-snaps-on-snapchat/"><u>[New] 2024 Approved Efficiently Upgrading Your Snaps on Snapchat</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-chilly-competition-unveiling-highlights-of-2022s-snowboard-cross-showdown/"><u>[New] Chilly Competition Unveiling Highlights of 2022'S Snowboard Cross Showdown</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-cinematic-illumination-a-filmmakers-path-to-stunning-colors/"><u>[New] Cinematic Illumination A Filmmaker's Path to Stunning Colors</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-elite-9-directors-cuts-downloader/"><u>[New] In 2024, Elite 9 Directors' Cuts Downloader</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-2024s-ultimate-monitor-matches-for-professional-photographers/"><u>[Updated] 2024’S Ultimate Monitor Matches for Professional Photographers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-gimbals-matched-for-high-res-dslrs/"><u>[Updated] Best Gimbals Matched for High-Res DSLRs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-bridging-the-gap-in-vr-storytelling-and-innovation/"><u>[Updated] Bridging the Gap in VR Storytelling and Innovation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-constructing-your-own-high-definition-pc-for-immersive-video-creation/"><u>[Updated] Constructing Your Own High-Definition PC for Immersive Video Creation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-guide-to-selective-mounting-gopros-best-6-helmet-accessories/"><u>[Updated] The Ultimate Guide to Selective Mounting GoPro's Best 6 Helmet Accessories</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-the-potential-of-edu-vids-strategies-for-captivating-your-viewers-on-youtube/"><u>[Updated] Unlocking the Potential of Edu-Vids Strategies for Captivating Your Viewers on YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/15-ways-to-make-most-of-your-podcast-time-for-2024/"><u>15 Ways to Make Most of Your Podcast Time for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-comprehensible-guide-to-controlling-video-speed-in-feed/"><u>2024 Approved A Comprehensible Guide to Controlling Video Speed in Feed</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-step-by-step-guide-to-posting-on-instagram/"><u>2024 Approved A Step-by-Step Guide to Posting on Instagram</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-ace-your-laughs-kinemaster-for-top-memes/"><u>2024 Approved Ace Your Laughs KineMaster for Top Memes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-breakdown-of-ultimate-chapter-addition-methods-for-youtube-experts/"><u>2024 Approved Breakdown of Ultimate Chapter Addition Methods for YouTube Experts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-vlc-use-manual-for-mac-users/"><u>2024 Approved Comprehensive VLC Use Manual for Mac Users</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-insiders-tips-for-youtube-shorts-mastery/"><u>2024 Approved The Insider's Tips for YouTube Shorts Mastery</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/flac-mp3/"><u>最高のFLAC MP3変換ソフトウェアランキング！各機能や運用方法も深く掘り下げます。</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/audible-anomaly-the-truth-behind-the-vocal-change-application-check-out-alternatives-for-2024/"><u>Audible Anomaly The Truth Behind the Vocal Change Application - Check Out Alternatives for 2024</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-nokia-c12-plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Nokia C12 Plus Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/budget-blueprint-for-creating-musical-cinematic-pieces/"><u>Budget Blueprint for Creating Musical Cinematic Pieces</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/chromatic-confluence-music-and-photography-online-for-2024/"><u>Chromatic Confluence Music & Photography Online for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-visuals-in-ae-selecting-excellent-plugin-choices-for-2024/"><u>Crafting Visuals in AE Selecting Excellent Plugin Choices for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/dimensions-unleashed-a-comparative-guide-to-metaverse-and-omniverse/"><u>Dimensions Unleashed A Comparative Guide to Metaverse and Omniverse</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-steelseries-game-booster-now-enhanced-for-windows-11-users/"><u>Get Your SteelSeries Game Booster Now - Enhanced for Windows 11 Users</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/gift-wrapping-gurus-top-10-websites-for-handcrafted-presents/"><u>Gift Wrapping Gurus Top 10 Websites for Handcrafted Presents</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-become-a-master-of-virtual-persona-design-metaverse-edition/"><u>In 2024, Become a Master of Virtual Persona Design - Metaverse Edition</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-best-sfpr-settings-for-leisurely-scenes/"><u>In 2024, Best SFPR Settings for Leisurely Scenes</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-tecno-camon-20-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/join-the-league-of-extraordinary-gamers-the-definitive-guide-to-crossplayer-gaming-in-roller-champions-pc/"><u>Join the League of Extraordinary Gamers: The Definitive Guide to Crossplayer Gaming in Roller Champions (PC)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/master-strategies-for-crafting-impactful-testimonials/"><u>Master Strategies for Crafting Impactful Testimonials</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/speech-understanding-no-financial-requirement/"><u>Speech Understanding No Financial Requirement</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>The Best iSpoofer Alternative to Try On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-galaxy-s8-showdown-next-gen-in-4k-superiority/"><u>The Galaxy S8 Showdown Next-Gen in 4K Superiority</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

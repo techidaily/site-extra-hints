@@ -131,49 +131,7 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-hints.techidaily.com/3dr-navigating-the-single-user-realm-of-3d-tech-for-2024/"><u>'3DR'  Navigating the Single User Realm of 3D Tech for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-epochs-epic-journey-best-free-mmo-games-roundup/"><u>[New] 2024 Approved  Epoch's Epic Journey  Best Free MMO Games Roundup</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-essential-video-gear-for-youtube-starters/"><u>[New] 2024 Approved  Essential Video Gear for YouTube Starters</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-a-step-by-step-guide-to-zoom-use-on-windows-pcs-win10/"><u>[New] A Step-by-Step Guide to Zoom Use on Windows PCs (Win10)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-adjusting-spotify-settings-stop-automated-podcast-suggestions/"><u>[New] Adjusting Spotify Settings  Stop Automated Podcast Suggestions</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-is-obs-studio-or-fraps-your-ideal-choice-for-capturing-screens/"><u>[New] Is OBS Studio or Fraps Your Ideal Choice for Capturing Screens?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-art-of-repeated-imagery-in-instagram-videos/"><u>[New] The Art of Repeated Imagery in Instagram Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-androids-leading-collage-tools-the-ultimate-list/"><u>[Updated] Android's Leading Collage Tools  The Ultimate List</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-anointing-editors-without-spending-a-dime/"><u>[Updated] Anointing Editors Without Spending a Dime</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-aural-elegance-selecting-high-quality-ringtones-online/"><u>[Updated] Aural Elegance  Selecting High-Quality Ringtones Online</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-of-the-best-8-cameras-for-top-streaming-experience/"><u>[Updated] Best of the Best  8 Cameras for Top Streaming Experience</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-chucklecircuit-meme-studio-free-download/"><u>[Updated] ChuckleCircuit Meme Studio (Free Download!)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-crafting-tomorrows-art-today-the-finest-9-resources-for-3d-typographic-exploration/"><u>[Updated] Crafting Tomorrow's Art Today  The Finest 9 Resources for 3D Typographic Exploration</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-guiding-principles-for-integrating-videos-in-education/"><u>[Updated] Guiding Principles for Integrating Videos in Education</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/10-free-resources-for-perfect-presentation-slides/"><u>10 Free Resources for Perfect Presentation Slides</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-top-gamers-guide-to-live-platforms-1-9/"><u>2024 Approved  Top Gamer's Guide to Live Platforms #1-#9</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/adobes-jestful-journey-to-meme-making-for-2024/"><u>Adobe's Jestful Journey to Meme-Making for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/audience-engagement-the-most-excellent-webcams-for-podcasts-for-2024/"><u>Audience Engagement  The Most Excellent Webcams for Podcasts for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/beneath-the-surface-secrets-to-professional-underwater-videos-with-gopro/"><u>Beneath the Surface  Secrets to Professional Underwater Videos with GoPro</u></a></li>
-<li><a href="https://article-files.techidaily.com/beyond-inshot-top-pc-editing-solutions-for-2024/"><u>Beyond Inshot  Top PC Editing Solutions for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/captivating-customer-revelation-for-2024/"><u>Captivating Customer Revelation for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-computer-insights-by-toms-equipment-experts/"><u>Comprehensive Computer Insights by Tom’s Equipment Experts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-colours-with-care-top-5-displays-reviewed-for-2024/"><u>Crafting Colours with Care  Top 5 Displays Reviewed for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/cropping-and-styling-tips-for-standout-instagram-videos/"><u>Cropping and Styling Tips for Standout Instagram Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/digital-horizons-meta-to-omni-contrast/"><u>Digital Horizons  Meta to Omni Contrast</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/explore-the-past-study-better-student-approved-historical-youtube-channels/"><u>Explore the Past, Study Better  Student-Approved Historical YouTube Channels</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-bypass-admin-policy-block-in-windows-software-setup/"><u>How to Bypass 'Admin Policy' Block in Windows Software Setup</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-swiftly-find-and-access-lost-reddit-discussions/"><u>How to Swiftly Find and Access Lost Reddit Discussions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/humor-hub-for-apple-devices/"><u>Humor Hub for Apple Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-deep-dive-into-magix-music-production-tools/"><u>In 2024, A Deep Dive Into Magix Music Production Tools</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-adhering-to-correct-aspect-ratio-in-twitter-videos/"><u>In 2024, Adhering to Correct Aspect Ratio in Twitter Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-dynamic-musical-journeys-with-crossfading/"><u>In 2024, Crafting Dynamic Musical Journeys with Crossfading</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-poco-f5-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Poco F5 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/master-classroom-titling-software/"><u>Master Classroom Titling Software</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/perfect-selfies-tips-for-instagram-story-magnification/"><u>Perfect Selfies  Tips for Instagram Story Magnification</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/sculpt-your-story-in-fb-coverspace/"><u>Sculpt Your Story in FB Coverspace</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/simple-steps-to-change-iphones-call-alert-sounds/"><u>Simple Steps to Change iPhones' Call Alert Sounds</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/step-by-step-guide-to-video-upgrade-version-22/"><u>Step-by-Step Guide to Video Upgrade - Version 2.2</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-companion-for-srt-to-xml-ssa-ttml-file-transformation/"><u>The Ultimate Companion for SRT-to-XML, SSA, TTML File Transformation</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/toolwiz-unveiled-the-full-scope-photo-software-review-for-2024/"><u>Toolwiz Unveiled - The Full Scope Photo Software Review for 2024</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"
