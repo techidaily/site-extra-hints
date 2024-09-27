@@ -1,7 +1,7 @@
 ---
 title: "Foremost Companies Pioneering VR Technology"
-date: 2024-09-13T19:14:28.459Z
-updated: 2024-09-19T23:08:14.565Z
+date: 2024-09-22T16:37:05.035Z
+updated: 2024-09-27T16:58:36.946Z
 tags: 
   - screen-recording
   - ai video
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Art Work of With.in
 
  The VR content made by With.in is proven with excellence at all times. The stories made through virtual reality provide the best informative and innovative approach that makes the viewer’s satisfied. The artworks not only entertain people but capture the satisfaction in them.
@@ -54,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 * **Invasion**  The VR film is about an evil two aliens who wants to take over the world and will destroy anyone who hinders their plans. When they come into the world, they are met with two the cutest and cuddliest white bunnies. The VR film is made by the Madagascar director.
 * **The Clouds Over Sidra**  The short film is about twelve-year-old who is living in a refugee camp in Jordan. The film shows the living condition of the life of a refugee in Jordan as well as the hard life of a refugee. The film was made by the UN in connection with the advocacy program it has.
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## About Chris Milk
 
@@ -68,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -81,12 +102,22 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-complete-transformation-handbook-using-morphvox-tech/"><u>2024 Approved Complete Transformation Handbook Using MorphVOX Tech</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-how-to-achieve-negative-like-images-effectively/"><u>2024 Approved How to Achieve Negative-Like Images Effectively</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/calming-harmonics-windowsmac-direction/"><u>Calming Harmonics Windows/Mac Direction</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/decoding-instagrams-music-copyright-doctrine/"><u>Decoding Instagram's Music Copyright Doctrine</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/demystifying-color-grading-with-powerful-luts/"><u>Demystifying Color Grading with Powerful LUTs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discord-safety-a-step-by-step-tutorial-for-enabling-parental-controls/"><u>Discord Safety: A Step-by-Step Tutorial for Enabling Parental Controls</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oppo-reno-8t-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Oppo Reno 8T Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-blitzing-through-images-on-win11/"><u>In 2024, Blitzing Through Images on Win11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-click-your-way-to-fun-top-12-pc-titles-of-2021/"><u>In 2024, Click Your Way to Fun Top 12 PC Titles of 2021</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-motorola-razr-40-ultra-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Motorola Razr 40 Ultra to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/live-radio-transmissions-recorded-with-ease-an-experts-guide/"><u>Live Radio Transmissions Recorded with Ease An Expert's Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-art-of-professional-gopro-cinematography/"><u>Mastering the Art of Professional Gopro Cinematography</u></a></li>
+<li><a href="https://win-dash.techidaily.com/resolving-issues-with-lg-monitor-drivers-in-windows-11-8-and-7-a-step-by-step-guide/"><u>Resolving Issues With LG Monitor Drivers in Windows 11, 8, and 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/stay-ahead-of-the-curve-engaging-activities-while-listening-to-talk-shows/"><u>Stay Ahead of The Curve Engaging Activities While Listening to Talk Shows</u></a></li>
+</ul></div>
 

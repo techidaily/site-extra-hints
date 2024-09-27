@@ -1,7 +1,7 @@
 ---
 title: "[New] Breaking Ground in VR Content Development"
-date: 2024-09-16T20:10:08.786Z
-updated: 2024-09-19T18:34:10.398Z
+date: 2024-09-24T17:11:42.504Z
+updated: 2024-09-27T17:24:05.116Z
 tags: 
   - screen-recording
   - ai video
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Art Work of With.in
 
  The VR content made by With.in is proven with excellence at all times. The stories made through virtual reality provide the best informative and innovative approach that makes the viewer’s satisfied. The artworks not only entertain people but capture the satisfaction in them.
@@ -54,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 * **Invasion**  The VR film is about an evil two aliens who wants to take over the world and will destroy anyone who hinders their plans. When they come into the world, they are met with two the cutest and cuddliest white bunnies. The VR film is made by the Madagascar director.
 * **The Clouds Over Sidra**  The short film is about twelve-year-old who is living in a refugee camp in Jordan. The film shows the living condition of the life of a refugee in Jordan as well as the hard life of a refugee. The film was made by the UN in connection with the advocacy program it has.
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## About Chris Milk
 
@@ -68,6 +82,19 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
@@ -81,12 +108,20 @@ Follow @Liza Brown
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-androids-best-top-ten-collage-creators/"><u>[New] Android's Best Top-Ten Collage Creators</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-into-the-spotlight-on-instagram-with-these-tricks-for-2024/"><u>[New] Step Into the Spotlight on Instagram with These Tricks for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-best-choice-high-definition-screen-capturing-apps/"><u>[New] The Best Choice High-Definition Screen Capturing Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-expert-review-top-5-webcams-for-ultimate-visual-and-auditory-experience/"><u>[Updated] Expert Review Top 5 Webcams for Ultimate Visual & Auditory Experience</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-iphone-xipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked iPhone X/iPad/iPod</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-drone-buddies-kids-most-enjoyed-toy-companions-for-2024/"><u>Best Drone Buddies Kids' Most Enjoyed Toy Companions for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/digital-cash-kings-leading-youtube-creators/"><u>Digital Cash Kings Leading YouTube Creators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-20-must-have-mp4-devices/"><u>In 2024, 20 Must-Have MP4 Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-how-to-download-part-of-youtube-video/"><u>In 2024, How to Download Part of YouTube Video?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-rotate-youtube-videos-by-any-angle/"><u>In 2024, How to Rotate YouTube Videos by Any Angle</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/strategies-for-closing-down-a-forgotten-linkedin-profile/"><u>Strategies for Closing Down a Forgotten LinkedIn Profile</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/your-go-to-4-sites-for-skype-ringtones/"><u>Your Go-To 4 Sites for Skype Ringtones</u></a></li>
+</ul></div>
 
