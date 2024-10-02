@@ -1,7 +1,7 @@
 ---
 title: "[New] Breaking Ground in VR Content Development"
-date: 2024-09-24T17:11:42.504Z
-updated: 2024-09-27T17:24:05.116Z
+date: 2024-10-01T20:34:49.145Z
+updated: 2024-10-02T18:04:06.109Z
 tags: 
   - screen-recording
   - ai video
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Art Work of With.in
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## About Chris Milk
@@ -83,16 +83,16 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -110,18 +110,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-androids-best-top-ten-collage-creators/"><u>[New] Android's Best Top-Ten Collage Creators</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-step-into-the-spotlight-on-instagram-with-these-tricks-for-2024/"><u>[New] Step Into the Spotlight on Instagram with These Tricks for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-the-best-choice-high-definition-screen-capturing-apps/"><u>[New] The Best Choice High-Definition Screen Capturing Apps</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-expert-review-top-5-webcams-for-ultimate-visual-and-auditory-experience/"><u>[Updated] Expert Review Top 5 Webcams for Ultimate Visual & Auditory Experience</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-iphone-xipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked iPhone X/iPad/iPod</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-drone-buddies-kids-most-enjoyed-toy-companions-for-2024/"><u>Best Drone Buddies Kids' Most Enjoyed Toy Companions for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/digital-cash-kings-leading-youtube-creators/"><u>Digital Cash Kings Leading YouTube Creators</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-20-must-have-mp4-devices/"><u>In 2024, 20 Must-Have MP4 Devices</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-how-to-download-part-of-youtube-video/"><u>In 2024, How to Download Part of YouTube Video?</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-rotate-youtube-videos-by-any-angle/"><u>In 2024, How to Rotate YouTube Videos by Any Angle</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo Y02T? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/strategies-for-closing-down-a-forgotten-linkedin-profile/"><u>Strategies for Closing Down a Forgotten LinkedIn Profile</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/your-go-to-4-sites-for-skype-ringtones/"><u>Your Go-To 4 Sites for Skype Ringtones</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-see-it-all-your-free-selection-of-50-youtube-banners/"><u>[New] In 2024, See It All - Your Free Selection of 50 YouTube Banners!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-mastering-the-art-of-tweeting-tiktoks-for-2024/"><u>[New] Mastering the Art of Tweeting TikToks for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-complete-guide-for-seamlessly-linking-content-into-your-tiktok-profile/"><u>2024 Approved Complete Guide for Seamlessly Linking Content Into Your TikTok Profile</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-honor-play-40c-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Honor Play 40C FRP</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/breakthrough-methodology-introducing-chapters-in-your-youtube-videos/"><u>Breakthrough Methodology Introducing Chapters in Your YouTube Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discover-the-ultimate-top-5-iphone-applications-for-podcasts/"><u>Discover the Ultimate Top 5 iPhone Applications for Podcasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fundamental-principles-of-powerful-video-product-endorsements/"><u>Fundamental Principles of Powerful Video Product Endorsements</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-reno-8t-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Oppo Reno 8T to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-xiaomi-redmi-13c-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Xiaomi Redmi 13C 5G?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/luminous-techniques-crafting-captivating-cinematic-pieces-for-2024/"><u>Luminous Techniques Crafting Captivating Cinematic Pieces for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-hook-up-guide-scripts-to-seduce-listeners/"><u>The Hook-Up Guide Scripts to Seduce Listeners</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vivacut-masterclass-a-complete-editor-guide/"><u>VivaCut Masterclass A Complete Editor Guide</u></a></li>
 </ul></div>
 

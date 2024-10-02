@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Advanced Methods for Bending Digital Images"
-date: 2024-09-07T20:45:28.597Z
-updated: 2024-09-08T20:45:28.597Z
+date: 2024-09-25T18:39:54.749Z
+updated: 2024-10-02T17:14:16.707Z
 tags: 
   - screen-recording
   - ai video
@@ -16,24 +16,12 @@ keywords: "\"Image Bending Techniques,DigitImage Curve Adjustment,Advanced Photo
 thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8ee44c6197adf88943656c52.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Advanced Methods for Bending Digital Images
 
 In this Photoshop tutorial, we're going to carve an image using four simple steps. Curving an image can be a great way to add some extra visual interest and dimension, and it's a technique that can be used with a wide range of images. So, let's get started!
 
 ![curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/curve-image-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Simple Steps to Curve an Image in Photoshop
 
 ##### Step1Create a New Document
@@ -58,22 +46,10 @@ Play around with the settings in the options bar. There are quite a few differen
 
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Vertical Distortion** makes the image look as if it's leaning backward.
 
 ![verticle distortion image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/verticle-distortion-image-photoshop.jpg)
@@ -82,12 +58,6 @@ The **Bend Direction** option rotates the angle of the bend.
 
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
@@ -99,11 +69,18 @@ Once you're happy with the way your image looks, go to File > Save As in the men
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 We hope this post has helped you learn how to curve an image in Photoshop. The best part about it? It's easy to do, and you can do it quickly. So, don't wait another minute! Get out there and start curving your images today (we know we are).
@@ -136,4 +113,17 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-architects-of-unique-virtual-environments/"><u>[New] In 2024, Architects of Unique Virtual Environments</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-expanding-youtube-audience-through-perpetual-creative-commons/"><u>[New] In 2024, Expanding YouTube Audience Through Perpetual Creative Commons</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-bridging-photography-and-cinematography-creating-fusion-videos-using-pixiz/"><u>[Updated] Bridging Photography and Cinematography Creating Fusion Videos Using Pixiz</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-visual-dynamics-illustrator-motion-blur-tips/"><u>[Updated] Crafting Visual Dynamics Illustrator Motion Blur Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-vlc-a-deep-dive-into-media-players-for-2024/"><u>Beyond VLC A Deep Dive Into Media Players for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comparing-biometric-tech-how-do-ultrasonic-fingerprint-sensors-measure-up-to-optical-ones/"><u>Comparing Biometric Tech: How Do Ultrasonic Fingerprint Sensors Measure Up to Optical Ones?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-slow-motion-on-mobile-with-these-apps/"><u>Elevate Your Slow Motion on Mobile with These Apps</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-y200-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo Y200 Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionary-techniques-for-exceptional-android-time-lapses-2024/"><u>Revolutionary Techniques for Exceptional Android Time-Lapses 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-art-of-audio-editing-a-comprehensive-fcp-tutorial/"><u>Updated 2024 Approved The Art of Audio Editing A Comprehensive FCP Tutorial</u></a></li>
+</ul></div>
 

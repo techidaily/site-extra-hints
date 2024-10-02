@@ -1,7 +1,7 @@
 ---
 title: "\"Elevate Images  Taking Vertical Panoramas on Screens\""
-date: 2024-09-23T17:15:04.879Z
-updated: 2024-09-27T16:21:52.996Z
+date: 2024-09-29T18:05:57.645Z
+updated: 2024-10-02T17:05:27.881Z
 tags: 
   - screen-recording
   - ai video
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 * [Part 2: For Android Users](#part2)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For iPhone users
@@ -55,23 +55,22 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image source: mac-fusion
 
 * Begin to go along with the upward arrow on the screen to capture the desired vertorama.
 * Once finished and satisfied, just tap on "Done" option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For Android users
@@ -89,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 * Repeat the same with other dots as well. In other words, move camera towards the gray dots one by one until they get disappear.
 * Tap on "Done" when completed.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Some Beneficial Tips for shooting vertical panorama photo
 
 * Firstly, we would suggest you using a tripod when you need to take **vertical panorama on iPhone** or Android smoothly i.e. to avoid shakiness.
@@ -99,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -120,21 +126,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-the-fascinating-world-of-stock-pictures-and-meme-lore/"><u>[New] The Fascinating World of Stock Pictures & Meme Lore</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-capturing-landscapes-with-mi-drone-4k-analysis/"><u>[Updated] Capturing Landscapes with MI Drone 4K Analysis</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-chortlechorus-choosing-the-happiest-websites-for-ringtones/"><u>[Updated] ChortleChorus Choosing the Happiest Websites for Ringtones</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-diving-into-av1-codec-mechanics-for-2024/"><u>[Updated] Diving Into AV1 Codec Mechanics for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-efficient-passport-photography-our-top-10-low-cost-digital-options/"><u>[Updated] In 2024, Efficient Passport Photography Our Top 10 Low-Cost Digital Options</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-audible-brilliance-the-ultimate-mic-guide/"><u>2024 Approved Audible Brilliance The Ultimate Mic Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ensuring-visibility-of-the-taskbar-with-maximized-window/"><u>Ensuring Visibility of the Taskbar With Maximized Window</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-14-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone 14 Plus Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-11-pros-of-perfect-color-balancing-mastery/"><u>In 2024, 11 Pros of Perfect Color Balancing Mastery</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-budget-saving-stratospheric-storage-for-heavy-dumps/"><u>In 2024, Budget-Saving Stratospheric Storage for Heavy Dumps</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-premium-web-outlets-for-gift-boxes-that-speak-to-you/"><u>In 2024, Premium Web Outlets for Gift Boxes That Speak to You</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-speaking-the-unspoken-writing-subtext-driven-dialogues/"><u>In 2024, Speaking the Unspoken Writing Subtext-Driven Dialogues</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-honor-magic-5-pro-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Honor Magic 5 Pro Phone Network-Ready</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/make-a-mark-with-minimal-fuss-simplified-video-editing-on-windows-10/"><u>Make a Mark with Minimal Fuss Simplified Video Editing on Windows 10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-honor-x9a-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Honor X9a Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/step-into-speed-creating-collage-posts-in-a-flash/"><u>Step Into Speed Creating Collage Posts in a Flash</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-mastering-momentum-go-from-zero-to-viral-in-fb/"><u>[New] 2024 Approved Mastering Momentum Go From Zero to Viral in FB</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-how-to-make-money-on-tiktok-in-8-ways-cannot-miss/"><u>[Updated] 2024 Approved How to Make Money on TikTok in 8 Ways [Cannot Miss]</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-troubleshooting-a-non-functional-obs-capture-device/"><u>[Updated] 2024 Approved Troubleshooting a Non-Functional OBS Capture Device</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-videosnapper-quickly-download-twitter-content-on-iphone/"><u>[Updated] 2024 Approved VideoSnapper Quickly Download Twitter Content on iPhone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-capturepros-a-studio-showdown/"><u>[Updated] In 2024, CapturePros A Studio Showdown</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-samsung-galaxy-ring-costs-arrival-dates-specifications-and-recent-news/"><u>All You Need to Know About Samsung Galaxy Ring – Costs, Arrival Dates, Specifications & Recent News</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-blueprint-for-blending-video-content-into-curricula/"><u>In 2024, Blueprint for Blending Video Content Into Curricula</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-honor-x50iplus-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Honor X50i+?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-tutorial-inserting-text-into-photographs-on-oses/"><u>In 2024, Comprehensive Tutorial Inserting Text Into Photographs on OSes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-art-of-sound-transition-in-logic-pro-x/"><u>The Art of Sound Transition in Logic Pro X</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/visualize-vibes-tips-and-techniques-for-iconic-gif-humor/"><u>Visualize Vibes Tips & Techniques for Iconic GIF Humor</u></a></li>
 </ul></div>
 

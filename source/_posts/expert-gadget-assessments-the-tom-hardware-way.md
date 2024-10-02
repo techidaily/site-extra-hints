@@ -1,7 +1,7 @@
 ---
 title: "Expert Gadget Assessments: The Tom Hardware Way"
-date: 2024-09-07T20:50:03.734Z
-updated: 2024-09-08T20:50:03.734Z
+date: 2024-09-26T17:39:58.260Z
+updated: 2024-10-02T17:05:58.634Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://thmb.techidaily.com/929258c247a8621297933bc07467c148b4e889d770687adeff11aece67284c9d.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Explore the Latest in Computing: Discover What's New at Tom's Hardware
 
 Mini PC specialist Minisforum has launched a new device, claiming several firsts. The new[AtomMan X7 Ti](https://www.minisforum.com/page/x7ti/index.html?lang=en) becomes the first in the firm's AtomMan line, described as a high-end cutting-edge marque by Minisforum. It is also claimed to be the “first Intel Ultra 9 AI Mini PC with a 4-inch Touchscreen.” With the rising popularity of[extra screens in PCs](https://www.tomshardware.com/pc-components/cooling/hands-on-lian-lis-lcd-screen-fans-turn-heads-and-are-surprisingly-affordable-but-not-as-configurable-as-id-like) , integrating one into a compact desktop might be a popular idea.
@@ -27,44 +21,14 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
 ![Minisforum AtomMan X7 Ti PC](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: Minisforum)
 
  Moving inside, the star of the show is the new Intel Core Ultra 9 processor[185H](https://www.intel.com/content/www/us/en/products/sku/236849/intel-core-ultra-9-processor-185h-24m-cache-up-to-5-10-ghz/specifications.html) with a 16C/22T CPU running at up to 5.1 GHz, and onboard Arc GPU with eight Xe cores running at up to 2.35 GHz. This[Meteor Lake](https://www.tomshardware.com/news/intel-details-core-ultra-meteor-lake-architecture-launches-december-14) chip is cooled by the new Cold Wave cooling system featuring a large diameter fan, 3 copper heatpipes, and a phase-change module.
@@ -77,12 +41,6 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -91,14 +49,11 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -107,4 +62,30 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-guide-to-advanced-morphvox-expertise/"><u>[New] Step-by-Step Guide to Advanced MorphVOX Expertise</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-from-base-to-pro-level-gopro-hero5-black-vs-hero4-silver-showdown/"><u>[Updated] 2024 Approved From Base to Pro-Level GoPro Hero5 Black vs Hero4 Silver Showdown</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-all-encompassing-outline-googles-podcast-app-at-a-glance/"><u>[Updated] All-Encompassing Outline Google's Podcast App at a Glance</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-list-of-no-download-online-gif-to-video-converters-for-2024/"><u>Comprehensive List of No-Download Online GIF to Video Converters for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dive-into-virtual-realities-with-up-to-date-android-tips/"><u>Dive Into Virtual Realities with Up-to-Date Android Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-reno-10-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Oppo Reno 10 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-art-of-sprucing-up-instagram-stories-with-branded-graphics/"><u>In 2024, The Art of Sprucing Up Instagram Stories with Branded Graphics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/industrys-mightiest-drone-fleet-compilation/"><u>Industry's Mightiest Drone Fleet Compilation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/insights-into-huawei-p10s-software-optimization-and-updates/"><u>Insights Into Huawei P10’s Software Optimization and Updates</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/iphone-photography-secrets-unveiled/"><u>IPhone Photography Secrets Unveiled</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-highest-resolution-elevating-quality-with-drone-edits/"><u>The Highest Resolution Elevating Quality with Drone Edits</u></a></li>
+<li><a href="https://extra-information.techidaily.com/visual-mastery-with-iphone-identifying-optimal-shooting-spots/"><u>Visual Mastery with iPhone Identifying Optimal Shooting Spots</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

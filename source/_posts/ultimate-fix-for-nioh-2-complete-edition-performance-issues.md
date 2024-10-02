@@ -1,7 +1,7 @@
 ---
 title: Ultimate Fix for Nioh 2 (Complete Edition) Performance Issues
-date: 2024-09-07T20:48:25.949Z
-updated: 2024-09-08T20:48:25.949Z
+date: 2024-09-27T22:51:38.333Z
+updated: 2024-10-02T19:08:32.921Z
 tags:
   - win11
   - win10
@@ -21,12 +21,6 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
  The good news is you can fix it on your own. You should be able to fix the Chrome slow issue easily with the fixes we list below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Fixes to try:**
 
  You may not have to try them all. Just work your way down the list until you find the one that works.
@@ -43,17 +37,12 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Close those unnecessary tabs
 
  You may run into the Chrome slow issue if**you’ve opened too many tabs on your Chrome** . Since**in Chrome, each tab opens its own process** on your PC. These tabs will consume lots of resources, which will trigger the Chrome slow issue.
@@ -71,22 +60,10 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 1. On your Google Chrome, click**the** **menu button** in the upper-right corner. Select **More tools > Extensions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap25-4.jpg)
 2. **Turn off** **the toggle** on the lower-right corner of the Chrome apps and extensions you don’t need any more to disable them.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap26-1.jpg)
 
  After disabling some Chrome apps and extensions, hopefully you should notice a difference in speed on your Chrome. If this fix fails to resolve the Chrome slow issue, don’t worry, there are more fixes for your to try.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Enable the prediction service on your Chrome
 
  The prediction service on your Chrome is a feature that allows Chrome to predict your actions ahead of time so that it can speed up the page load times. Check if you enabled this feature, if not, follow the instructions below to enable it:
@@ -94,20 +71,21 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 1. On your Google Chrome, click**the** **menu button** in the upper-right corner. Select **Settings**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap27-1.jpg)
 2. In the search bar, type**prediction** and then**turn on the toggle** next to**Use a prediction service to load pages more quickly** .  
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap28-1.jpg)
 3. Reopen your Chrome.
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See if this issue reappears. If not, you’ve fixed this issue. If the issue persists, try clearing your old stuck browser data.
 
@@ -121,22 +99,17 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 2. Set the time range to**cover from when you started to use your browser till now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap29.jpg)
 3. Navigate to the**Advanced** tab and select **all the items**  to clear.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap30-1.jpg)
 4. Reopen your Chrome.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Check to see if this annoying issue reappears. If not, you have resolved this issue. If this issue persists, there are more fixes to try.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable hardware acceleration
 
@@ -147,21 +120,9 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 2. In the search bar, type **hardware** . Then   **turn off the toggle**  next to the feature **Use hardware acceleration when available**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap42-1.jpg)
 3. Reopen your Chrome.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if the Chrome slow issue is resolved. If not, try resetting your browser settings.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Check your PC for malware in your Chrome and reset your browser settings
 
  You may run into this issue if your Chrome is affected by malware. Try checking your PC for malware in your Chrome, and then reset your browser settings. Here is how to do it:
@@ -171,14 +132,16 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 1. On your Google Chrome, click**the** **menu button** in the upper-right corner. Then select **Settings**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap27-1.jpg)
 2. In the search bar, type **reset**  and then click**Clean up computer** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap34-3.jpg)
 3. Click**Find** to check for harmful software.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap35-1.jpg)
 4. Click**Remove** if you’re asked to remove unwanted software.
 
@@ -187,31 +150,35 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 1. On your Google Chrome, click**the** **menu button** in the upper right corner. Then select **Settings**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap27-1.jpg)
 2. In the search bar, type **reset** and then click**Restore settings to their original defaults** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap36-2.jpg)
 3. Click**Reset settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap37.jpg)  
  **After resetting the browser settings, you need to enable the extensions you trust** . If you don’t know how to do it, refer to **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  to turn on the toggle on the lower-right corner of the extensions you trust.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  See if this annoying issue persists. If so, try updating your Chrome to the latest version.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 7: Update your Chrome to the latest version
 
  If your Chrome is out of date, this issue may occur. So try updating your Chrome to the latest version. Here is how to do it:
@@ -219,17 +186,19 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 1. On your Google Chrome, click**the menu button** in the upper-right corner. Then select **Help > About google Chrome** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap38.jpg)
 2. Wait until your Chrome updates itself to the latest version.  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap39.jpg)
 3. Reopen your Chrome.
 
  See if this issue reappears. If not, you’ve fixed this annoying issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Bonus Tip: Update your network driver
 
  If the network driver on your PC is missing or outdated, it may also cause the Chrome slow issue. Try updating your network driver to see if the Chrome slow issue persists.
@@ -248,12 +217,6 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan screen](https://images.drivereasy.com/wp-content/uploads/2018/09/Driver-Easy-Scan-screen.jpg)
 3. Click **Update**  next to your network device to automatically download the correct version of this driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All**  ).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update network driver](https://images.drivereasy.com/wp-content/uploads/2018/09/update-network-driver.jpg)
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -268,8 +231,6 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -277,4 +238,16 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-achieve-color-mastery-with-canons-freepaid-lut-variety/"><u>[New] Achieve Color Mastery with Canon's Free/Paid LUT Variety</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-monotonous-to-melodic-mastering-personalization-of-androids-audio-alerts/"><u>[New] From Monotonous to Melodic Mastering Personalization of Android's Audio Alerts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-capturing-elegance-with-bokeh-effects-in-stories/"><u>[Updated] 2024 Approved Capturing Elegance with Bokeh Effects in Stories</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-the-blue-enigma-whats-behind-the-symbol-on-facebook-messenger/"><u>2024 Approved The Blue Enigma What's Behind the Symbol on Facebook Messenger?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/audio-malfunction-post-windows-11-update-easy-solutions-unveiled/"><u>Audio Malfunction Post-Windows 11 Update? Easy Solutions Unveiled!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bring-your-hauls-to-life-the-ultimate-editing-tips-for-2024/"><u>Bring Your Hauls to Life The Ultimate Editing Tips for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-explanation-deciphering-google-podcasts-app-for-2024/"><u>Comprehensive Explanation Deciphering Google Podcasts App for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/embrace-adventures-with-panasonics-innovative-hx-a1-cam/"><u>Embrace Adventures with Panasonic's Innovative HX-A1 Cam</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-more-distorted-sound-solve-headphone-noise-issues-fast/"><u>No More Distorted Sound: Solve Headphone Noise Issues Fast!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to Fisheye Panoramas"
-date: 2024-09-24T16:57:48.013Z
-updated: 2024-09-27T17:10:03.822Z
+date: 2024-09-25T16:10:51.050Z
+updated: 2024-10-02T22:54:31.756Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
  The process of shooting panoramas with fisheye lenses involves a number of considerations and they are as follows-:
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1. The equipment and setup
 
  To shoot quality 360 degrees panoramas with fisheye, it is imperative to get the equipment as well as the set up right. Your equipment needs to be calibrated properly to make the stitching process nice and easy. To find the best setting for your equipment, the grid method is recommended on the panohead.
@@ -37,17 +44,10 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 ![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2. Leveling and rotating
@@ -68,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
  In normal photography, it always pays to remember what to include and what to exclude in your shots. When it comes to shooting 360s, it becomes more complicated since everything is included. For you to take successful 360s with fisheye therefore, you need to consider keenly where you stand. The fisheye lens will introduce a lot of space between you and the subject, hence you must consider how close or far away you are from the subject so that the pieces of the compositional puzzle will fall in place smoothly both in the horizontal and vertical planes.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Stitching 360 degrees panoramas after shooting
 
  To stitch 360s taken by fisheye lenses after shooting, you will need panorama software like [Autopano Pro](http://www.kolor.com/) or [PTGui](https://www.ptgui.com/). For Autopano Pro, you begin by importing the images into the software and ensuring that the EXIF are displayed correctly on the program. With the right settings in place, the next step is to launch the direct stitching feature if you don’t want to go the manual way. Once the stitching is done, it will be important to present the output online. This can be done using [Pano2VR](http://www.ggnome.com/pano2vr) or you could simply upload the finished panoramas to [360cities](https://www.360cities.net/) for online viewing.
@@ -93,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Conclusion
 
  Fisheye lenses have been around for a while now and the process of creating 360 panoramas with them may not be very challenging, but great results are achieved through practice and proper stitching. Once the photos are taken, you can use premium panorama software like Autopano Pro or you can use free options like the Microsoft ICE or Hugin. Ones stitching are done, it is imperative to have the final works uploaded online for others to view.
@@ -100,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -121,19 +121,22 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-best-focus-effects-iphone-vs-android-photo-solutions/"><u>[New] Best Focus Effects IPhone vs Android Photo Solutions</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-masterclass-leveraging-retro-vhs-flares-and-shadows/"><u>[New] Masterclass Leveraging Retro VHS Flares & Shadows</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-game-day-to-hollywood-sports-video-success-story/"><u>[Updated] 2024 Approved From Game Day to Hollywood Sports Video Success Story</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-toggle-the-past-the-twitch-live-trick/"><u>[Updated] Toggle the Past The Twitch Live Trick</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-audio-equipment-matched-with-4k-cameras/"><u>Best Audio Equipment Matched with 4K Cameras</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-zoom-experience-on-chromebooks/"><u>Enhancing Zoom Experience on Chromebooks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/exploring-the-magic-behind-color-grading-with-luts/"><u>Exploring the Magic Behind Color Grading with LUTs</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-eliminate-microsoft-offices-error-code-0x80041015/"><u>Guide to Eliminate Microsoft Office's Error Code 0X80041015</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/high-speed-windows-viewer-for-images/"><u>High-Speed Windows Viewer for Images</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-windows-11-transition-shifts-from-win32-desktop-software-to-emphasize-microsoft-store/"><u>How Windows 11 Transition Shifts From Win32 Desktop Software to Emphasize Microsoft Store</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-vivo-y100-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Vivo Y100 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-an-old-pc-heres-why-you-might-want-to-ditch-windows/"><u>Reviving an Old PC? Here's Why You Might Want to Ditch Windows</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-videography-equipment/"><u>Top Videography Equipment</u></a></li>
-<li><a href="https://howto.techidaily.com/xiaomi-civi-3-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Civi 3 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-best-twitter-gif-saver-for-you/"><u>[New] 2024 Approved Best Twitter GIF Saver for You</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-spectacular-video-connections-quest/"><u>[New] Spectacular Video Connections Quest</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-revitalizing-a-frozen-obs-video-source-feed/"><u>[Updated] 2024 Approved Revitalizing a Frozen OBS Video Source Feed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-accelerate-your-iphone-and-android-videos-with-top-free-slo-motion-apps/"><u>[Updated] Accelerate Your iPhone and Android Videos with Top Free Slo-Motion Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-streamlined-techniques-to-log-and-preserve-gotomeetings-for-2024/"><u>[Updated] Streamlined Techniques to Log and Preserve GoToMeetings for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-simplifying-live-broadcasts-with-efficient-obs-tips/"><u>2024 Approved Simplifying Live Broadcasts with Efficient OBS Tips</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/avinsv-movavi/"><u>線上無成本將AVI轉換為NSV - Movavi視頻編輯器</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/all-inclusive-breakdown-deciphering-google-podcasts-for-2024/"><u>All-Inclusive Breakdown Deciphering Google Podcasts for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-tips-for-lut-integration-in-premiere-projects/"><u>Expert Tips for LUT Integration in Premiere Projects</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/jumpstart-to-joyous-animation-a-guide-in-movie-maker-world/"><u>Jumpstart to Joyous Animation A Guide in Movie Maker World</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-fortnites-unsuccessful-launch/"><u>Resolved Fortnite's Unsuccessful Launch</u></a></li>
+<li><a href="https://extra-support.techidaily.com/skys-the-limit-revel-in-20-top-free-cloud-service-plans-up-to-1tb-for-2024/"><u>Sky's the Limit Revel in 20 Top Free Cloud Service Plans (Up To 1TB) for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/strategizing-effective-movie-sneak-peeks/"><u>Strategizing Effective Movie Sneak Peeks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-photographers-guide-to-negative-imaging/"><u>The Photographer’s Guide to Negative Imaging</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-picks-youtube-to-hd-mastering-quality-conversions/"><u>Top Picks YouTube to HD - Mastering Quality Conversions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-top-15-cost-saving-web-editors-rated-best/"><u>Unveiling Top 15 Cost-Saving Web Editors - Rated Best</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wi-fi-movavi/"><u>오피스에서 무세금 Wi-Fi 아바이비전 리드 바이트 - MOVAVI: 속도 및 품질 제안</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Hues Handbook  Theory Meets Technique\""
-date: 2024-09-26T17:31:31.511Z
-updated: 2024-09-27T16:51:29.459Z
+date: 2024-09-25T22:48:03.677Z
+updated: 2024-10-02T17:41:51.729Z
 tags: 
   - screen-recording
   - ai video
@@ -28,13 +28,6 @@ Color theory consists of many elements that could fill a library on its own but 
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
@@ -43,6 +36,13 @@ Using red, green and blue as primary colors we can mix the colors to one another
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Color Harmony
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
@@ -50,10 +50,10 @@ So now we know how the wheel is made and what it looks like. What does it do? We
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
@@ -64,18 +64,18 @@ The blue lines represent what is known as split contrasting colors and these wil
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## But How Do I Use This
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
 
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
@@ -83,14 +83,14 @@ As you can see from this example the base color for the scene is a dark blue/pur
 
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -126,22 +126,20 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-how-to-record-youtube-live-stream-on-any-device/"><u>[New] 2024 Approved How To Record YouTube Live Stream On Any Device?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-a-guide-to-unwavering-visual-captures/"><u>[New] A Guide to Unwavering Visual Captures</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-best-in-class-mkv-player-for-pc-users/"><u>[New] Best-in-Class MKV Player for PC Users</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-necessary-details-for-twitter-video-submissions-aspect-ratio/"><u>[Updated] 2024 Approved Necessary Details for Twitter Video Submissions (Aspect Ratio)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-all-you-need-to-know-about-instagram-video-limits/"><u>[Updated] In 2024, All You Need to Know About Instagram Video Limits</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-video-marketing-excellence-on-instagram-crafting-a-winning-strategy/"><u>[Updated] In 2024, Video Marketing Excellence on Instagram Crafting a Winning Strategy</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-all-you-need-to-know-about-adding-apple-music-to-video/"><u>2024 Approved All You Need to Know About Adding Apple Music to Video</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-choosing-your-camera-companion-for-editing-hero-session-x-vs-cube/"><u>2024 Approved Choosing Your Camera Companion for Editing Hero Session X V/S Cube</u></a></li>
-<li><a href="https://article-files.techidaily.com/8-pioneering-online-photo-combination-suite/"><u>8 Pioneering Online Photo Combination Suite</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expert-tips-on-blending-real-and-digital-environments-in-webcasts/"><u>Expert Tips on Blending Real and Digital Environments in Webcasts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-battery-life-to-final-cut-a-drone-editors-journey/"><u>From Battery Life to Final Cut A Drone Editor's Journey</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-insignia-ns-pcy5bma2-driver-for-pc-downloads-available-for-windows-11107-users/"><u>Get the Newest Insignia NS-PCY5BMA2 Driver for PC - Downloads Available for Windows 11/10/7 Users!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-huawei-nova-y71-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Huawei Nova Y71?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Asus ROG Phone 7? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigate-to-8-elite-free-3d-vids-software-companies/"><u>Navigate to 8 Elite Free 3D Vids Software Companies</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/streamline-your-screen-share-with-enhanced-zoom-on-google-meet/"><u>Streamline Your Screen Share with Enhanced Zoom on Google Meet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-digital-dynamo-women-the-fastest-growing-female-channel-owners/"><u>[New] 2024 Approved Digital Dynamo Women The Fastest-Growing Female Channel Owners</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-digital-domain-your-playground-for-1000-titles/"><u>[New] In 2024, Digital Domain Your Playground for 1,000 Titles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10-essential-tips-to-turnback-a-live-twitch-session/"><u>[Updated] 10 Essential Tips to Turnback a Live Twitch Session</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-nostalgic-notions-integrating-timeless-vhs-effects-into-modern-video-production/"><u>[Updated] Nostalgic Notions Integrating Timeless VHS Effects Into Modern Video Production</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comedic-craftsmanship-unlocking-gags-at-zero-cost/"><u>Comedic Craftsmanship Unlocking Gags at Zero Cost</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-nokia-g310-lock-screen-password-by-drfone-android/"><u>How To Change Nokia G310 Lock Screen Password?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-editors-for-diy-dji-film-production-at-home/"><u>In 2024, Best Editors for DIY DJi Film Production at Home</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-undead-uprising-your-essential-compilation-of-zombie-gaming/"><u>In 2024, Undead Uprising Your Essential Compilation of Zombie Gaming</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/ipodmac-x-mkvm2tsavimacos/"><u>IPodに最適化されたMac X 動画変換ソフト: MKV、M2TS、AVIを簡単にMacOSへ転送</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/master-the-art-of-dialing-down-video-speed-in-snapchat/"><u>Master the Art of Dialing Down Video Speed in Snapchat</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-year-new-lg-bp550-the-2023-review/"><u>New Year, New LG BP550 The 2023 Review</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-13-pro-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 13 Pro? 5 Tips You Must Know</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-10-best-apps-for-real-time-soccer-and-match-broadcasting/"><u>Ultimate 10 Best Apps for Real-Time Soccer and Match Broadcasting</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocked-skies-cheapest-drones-that-dont-break-the-bank/"><u>Unlocked Skies Cheapest Drones that Don't Break the Bank</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/your-complete-iphone-podcast-download-manual/"><u>Your Complete iPhone Podcast Download Manual</u></a></li>
 </ul></div>
 

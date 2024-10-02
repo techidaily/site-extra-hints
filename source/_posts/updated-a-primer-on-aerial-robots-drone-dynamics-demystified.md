@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] A Primer on Aerial Robots  Drone Dynamics Demystified\""
-date: 2024-09-07T22:26:53.778Z
-updated: 2024-09-13T21:52:43.832Z
+date: 2024-09-28T18:05:55.114Z
+updated: 2024-10-02T20:20:53.653Z
 tags: 
   - screen-recording
   - ai video
@@ -39,17 +39,10 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 ![history of drones](https://images.wondershare.com/filmora/article-images/history-of-drones.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Does a Drone Work?
@@ -59,6 +52,19 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
  Actually it is a specially designed multi propeller system inside a drone that makes this device highly independent and also assists in reduction of failures. One important thing to note about this multi propeller system is that even if any motor inside this device stops working; it will keep on flying as it gets support from propellers that are working in group. Drones that possess large number of motors inside are able to gain more control over their elevation and hence can carry more loads during flight. These propellers get their power from a dedicated source and most of these devices contain removable batteries so that it can stay in air for long run. The flight time can be extended with use of powerful batteries in design.
 
 ![how does drones work](https://images.wondershare.com/filmora/article-images/how-does-drone-work.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How does it fly?
 
@@ -72,21 +78,22 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
 ![dji drone logo](https://images.wondershare.com/filmora/article-images/dji-logo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2\. [Yuneec >>](http://www.yuneec.com/products )
 
 ![yuneec drone logo](https://images.wondershare.com/filmora/article-images/yuneec-logo.png)
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3\. [Parrot >>](http://www.parrot.com/ )
@@ -98,33 +105,19 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 ![3d robotics drone logo](https://images.wondershare.com/filmora/article-images/3d-robotics-logo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5\. [Hubsun >>](http://www.hubsan.com/ )
 
 ![hubsan drone logo](https://images.wondershare.com/filmora/article-images/hubsan-logo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6\. [Syma Toy >>](http://www.symatoys.com/ )
 
 ![syma toy drone logo](https://images.wondershare.com/filmora/article-images/syma-toy-logo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7\. [Autel Robotics >>](https://www.autelrobotics.com )
 
@@ -134,34 +127,20 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
 ![xiro drone logo](https://images.wondershare.com/filmora/article-images/xiro-logo.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  9\. [Vantage >>](https://vantagerobotics.com/ )
 
 ![vantage drone logo](https://images.wondershare.com/filmora/article-images/vantage-robotics-logo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  10\. [Horizon Hobby >>](http://www.horizonhobby.com/category/multirotor )
 
 ![Horizon Hobby logo](https://images.wondershare.com/filmora/article-images/horizon-hobby-logo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -182,5 +161,21 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-keep-up-with-friends-moments-best-live-stream-tools-revealed/"><u>[New] 2024 Approved Keep Up With Friends' Moments Best Live-Stream Tools Revealed</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/astering-your-content-delivery-insights-on-igtv-and-youtube/"><u>[New] Mastering Your Content Delivery Insights on IGTV and YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-5-ultimate-recording-devices-for-hunting/"><u>[Updated] 5 Ultimate Recording Devices for Hunting</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/detailed-walkthrough-to-load-wm6/"><u>Detailed Walkthrough to Load WM6</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-iphone-photos-with-hdr/"><u>Enhancing iPhone Photos with HDR</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-the-world-of-drawing-on-your-chromebook-today/"><u>Explore the World of Drawing on Your Chromebook Today</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-craft-viral-unboxing-content-on-social-media/"><u>How to Craft Viral Unboxing Content on Social Media</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-failed-port-reset-errors-for-unknown-usb-devices-on-windows-10/"><u>How to Fix Failed Port Reset Errors for Unknown USB Devices on Windows 10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimize-accessibility-top-free-speech-conversion-tools-for-macos-for-2024/"><u>Optimize Accessibility Top Free Speech Conversion Tools for MacOS for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-ultimate-guide-to-recording-games-via-steam/"><u>The Ultimate Guide to Recording Games via Steam</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-top-seven-senior-cell-phone-deals-to-score/"><u>Unveiling The Top Seven Senior Cell Phone Deals to Score</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-hp-officejet-pro-ebr-9015-drivers-free-download-available-now/"><u>Update Your HP Officejet Pro Ebr 9015 Drivers - Free Download Available Now!</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-10-improvement-upgrade-realtek-drivers/"><u>Windows 10 Improvement: Upgrade Realtek Drivers</u></a></li>
+</ul></div>
 

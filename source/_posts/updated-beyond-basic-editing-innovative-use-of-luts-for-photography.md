@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Beyond Basic Editing  Innovative Use of LUTs for Photography\""
-date: 2024-09-21T16:49:35.698Z
-updated: 2024-09-27T17:12:31.842Z
+date: 2024-09-25T19:34:31.930Z
+updated: 2024-10-02T16:52:32.385Z
 tags: 
   - screen-recording
   - ai video
@@ -51,10 +51,10 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use LUTs using Photoshop CC?
@@ -65,6 +65,13 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Choose Adjustment Layer
 
 1. Opt for Color Lookup.
@@ -74,10 +81,10 @@ Choose Adjustment Layer
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 load 3d lut
@@ -111,19 +118,6 @@ Grow Together
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Closing Thoughts:
 
 LUTs are extremely useful since they allow photographers to save time by using the same LUTs or a set of LUTs for several photographs. Instead of making individual modifications to your photographs, you may color grade them all with the same LUTs. This gives a series a more unified vibe. You can even put them up as Actions in Photoshop.
@@ -135,10 +129,16 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -171,19 +171,22 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-a-simple-path-to-enhanced-youtube-sign-ups-create-animated-subscription-bar-using-filmora/"><u>[New] In 2024, A Simple Path to Enhanced YouTube Sign-Ups - Create Animated Subscription Bar Using Filmora</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-perfecting-the-art-of-screen-recording-with-step-by-step-instructions-from-adobe-captivate/"><u>[Updated] 2024 Approved Perfecting the Art of Screen Recording with Step-by-Step Instructions From Adobe Captivate</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-record-ruckus-samsung-phone-gaming-chronicles-for-2024/"><u>[Updated] Record Ruckus Samsung Phone Gaming Chronicles for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-8-3d-gold-text-effect-websites/"><u>2024 Approved Best 8 3D Gold Text Effect Websites</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-modern-moods-best-rated-desktop-imagery/"><u>2024 Approved Modern Moods Best-Rated Desktop Imagery</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-boards-ddr5-edition-2024/"><u>Best Boards: DDR5 Edition - 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/convert-your-vine-videos-into-various-formats-mp4-wmv-mov-flv-avi-compatible-with-pc-and-mac/"><u>Convert Your Vine Videos Into Various Formats: MP4, WMV, MOV, FLV, AVI Compatible with PC & MAC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/harmonizing-volume-dial-down-with-fl-studio-features/"><u>Harmonizing Volume Dial-Down with FL Studio Features</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-ideal-mp4-slicer-for-mac-boost-your-vlog-game/"><u>In 2024, Ideal MP4 Slicer for Mac Boost Your Vlog Game</u></a></li>
-<li><a href="https://video-capture.techidaily.com/quick-guide-how-to-change-dv-footage-into-avi-using-windows-software/"><u>Quick Guide: How to Change DV Footage Into AVI Using Windows Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/solving-srt-export-issues-in-adobe-premiere-pro/"><u>Solving SRT Export Issues in Adobe Premiere Pro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/start-here-how-to-expedite-videos-in-snapchat-for-new-users/"><u>Start Here How to Expedite Videos in Snapchat for New Users</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-secrets-of-macos-preview-mastering-the-built-in-image-editing-tool/"><u>Unveiling the Secrets of macOS Preview: Mastering the Built-In Image Editing Tool</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/web-humor-fabricator/"><u>Web Humor Fabricator</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-magix-music-maker-2024-revolutionizing-home-recording-experience/"><u>[New] Magix Music Maker 2024 Revolutionizing Home Recording Experience</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-daily-dosage-of-serenity-top-yoga-channels-for-life/"><u>[Updated] 2024 Approved Daily Dosage of Serenity Top Yoga Channels for Life</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-analyzing-peak-engagement-for-podcast-drops/"><u>[Updated] Analyzing Peak Engagement for Podcast Drops</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/1-seamlessly-integrate-your-mts-files-with-the-top-ranked-merger-tools-a-comprehensive-guide/"><u>1. Seamlessly Integrate Your MTS Files with the Top-Ranked Merger Tools: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-step-by-step-guide-to-professional-gopro-footage/"><u>2024 Approved A Step-by-Step Guide to Professional Gopro Footage</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-ultimate-guide-to-hd-live-streaming-equipment/"><u>2024 Approved Ultimate Guide to HD Live-Streaming Equipment</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-stabilized-gimbals-for-mobile-and-pro-cameras-unveiled/"><u>Best Stabilized Gimbals for Mobile and Pro Cameras Unveiled</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/complete-guide-for-macos-sierra-patches-and-plug-ins/"><u>Complete Guide for macOS Sierra Patches and Plug-Ins</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effortless-dvd-to-mp4-conversion-for-windows-10-using-winx-free-dvd-ripper-tool-quick-and-accurate-ripconvert/"><u>Effortless DVD to MP4 Conversion for Windows 10 Using WinX Free DVD Ripper Tool – Quick and Accurate Rip/Convert</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/hidden-windows-11-techniques-for-effortless-import-tasks/"><u>Hidden Windows 11 Techniques for Effortless Import Tasks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/professional-stabilization-tech-for-youtube-content-creators/"><u>Professional Stabilization Tech for YouTube Content Creators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/skip-the-struggle-tips-on-avoiding-online-edgenuity-lessons/"><u>Skip the Struggle Tips on Avoiding Online Edgenuity Lessons</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/stability-excellence-the-top-10-gimbal-options-for-phones-and-cameras/"><u>Stability Excellence The Top 10 Gimbal Options for Phones & Cameras</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-to-restore-visual-clarity-to-youtube-videos/"><u>Steps to Restore Visual Clarity to YouTube Videos</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-pick-5-optimal-computer-systems-enhancing-your-video-editing-experience/"><u>Ultimate Pick: 5 Optimal Computer Systems Enhancing Your Video Editing Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-display-problems-creators-upgrade/"><u>Win11 Display Problems: Creators Upgrade</u></a></li>
 </ul></div>
 

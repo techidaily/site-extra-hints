@@ -1,7 +1,7 @@
 ---
 title: "Visionary Groups Redefining Virtual Space"
-date: 2024-09-07T20:45:27.997Z
-updated: 2024-09-08T20:45:27.997Z
+date: 2024-09-28T18:44:20.052Z
+updated: 2024-10-02T18:54:47.077Z
 tags: 
   - screen-recording
   - ai video
@@ -16,42 +16,18 @@ keywords: "Visionary Spaces Online,Virtual Reality Leaders,Space Redefined Virtu
 thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0107a7a0c827d88713775503.png
 ---
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Visionary Groups Redefining Virtual Space
 
 # VR Content Company With.in
 
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Liza Brown
 
  Mar 27, 2024• Proven solutions
 
  The world of Virtual Reality has been more entertaining throughout the development of technology. The VR content is the latest and most entertaining concept in line with virtual reality. The wide scale innovative technology is set to make the big difference in creating videos and documentations. A high quality and interactive approach on VR content are given by the birth of the VR content company known as With.in. The company was founded by the award-winning director Chris Milk and the famous technologist Aaron Koblin. The goal of the two is discovered more the immersive potential of storytelling. A new line of creative ways is made in order to expand the possibilities of the storytelling concept using VR content.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Does [With.in]( https://with.in/ ) Do?
 
  The best thing about With.in is that they does a great deal of creative ways such as making VR content for interesting stories in order to make them more captivating and creative. The company makes the large effort in making a story come to life by creating a VR content that will an attraction to people. The company uses the support of major headsets such as Oculus, Rift, Samsung Gear VR, Sony PlayStation VR and Google Cardboard in order to arrive at the amazing result of a successful VR experience.
@@ -68,11 +44,12 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Art Work of With.in
 
  The VR content made by With.in is proven with excellence at all times. The stories made through virtual reality provide the best informative and innovative approach that makes the viewer’s satisfied. The artworks not only entertain people but capture the satisfaction in them.
@@ -86,17 +63,12 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## About Chris Milk
 
  Chris Milk a famous director who has gained more acclaim with the VR short film, Clouds Over Syria. He is the founder and CEO of With.in. He also is the co-founder and the creative director of the sister company of With.in, which is the Here Be Dragons. He constantly develops ways in making innovations in the VR content industry. The ideas he has about the concept of the VR development makes it a great point in creating an innovative way to making the best efforts in making VR a great experience for all the viewers.
@@ -111,18 +83,17 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Liza Brown
 
 Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -130,3 +101,21 @@ Follow @Liza Brown
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-10-exemplary-websites-for-vector-quality-graphics/"><u>[New] 10 Exemplary Websites for Vector-Quality Graphics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-proven-strategies-against-photos-app-issues-on-windows-11/"><u>[New] Proven Strategies Against Photos App Issues on Windows 11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-simplify-your-creative-process-with-these-9-user-friendly-editors/"><u>[Updated] In 2024, Simplify Your Creative Process with These 9 User-Friendly Editors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-netflix-picture-in-picture-how-to-use-the-netflix-floating-window-feature/"><u>[Updated] Netflix Picture-in-Picture - How to Use the Netflix Floating Window Feature</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-complete-walkthrough-on-shutting-down-your-iphone-15-series-device/"><u>A Complete Walkthrough on Shutting Down Your iPhone 15 Series Device</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capture-and-customize-like-a-pro-with-these-8-editing-tools-iphoneandroid-for-2024/"><u>Capture & Customize Like a Pro with These 8 Editing Tools (iPhone/Android) for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-constant-pc-crashes-in-age-of-wonders-planetfall/"><u>Fixing the Constant PC Crashes in Age of Wonders: Planetfall</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/heartstrings-plucked-essential-vocal-masterpieces-for-a-kiss/"><u>Heartstrings Plucked Essential Vocal Masterpieces for a Kiss</u></a></li>
+<li><a href="https://common-error.techidaily.com/issue-resolved-writing-protection-at-specific-0x-memory-reference-encountered/"><u>Issue Resolved: Writing Protection at Specific 0X Memory Reference Encountered</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-unveiling-the-best-macdaw-software-of-the-year-detailed-reviews-and-comparisons/"><u>New In 2024, Unveiling the Best MacDAW Software of the Year Detailed Reviews and Comparisons</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamlining-post-production-with-luts-in-ae/"><u>Streamlining Post-Production with LUTs in AE</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-resource-for-your-tech-enthusiasm-toms-insider-knowledge/"><u>The Ultimate Resource for Your Tech Enthusiasm - Tom's Insider Knowledge</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-8-enhanced-peripherals-for-a-richer-metaverse-experience/"><u>Top 8 Enhanced Peripherals for a Richer Metaverse Experience</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Navigating to YouTube Comment Sections Swiftly"
-date: 2024-09-07T20:48:32.017Z
-updated: 2024-09-08T20:48:32.017Z
+date: 2024-09-27T17:11:25.440Z
+updated: 2024-10-02T16:24:44.004Z
 tags: 
   - screen-recording
   - ai video
@@ -36,6 +36,13 @@ Not only does it show your fans followers that you care about what they have to 
 
 For YouTubers who are serious about growing their channel and making their brand profitable, you know by now that there are certain tricks and strategies that you have to apply and put in place to make your YouTube channel what you want it to be.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Advantage of YouTube comments
 
 If you're wondering whether you really need to monitor your YouTube comments, here are three compelling reasons why you should:
@@ -43,6 +50,13 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments can help you gauge customer sentiment: How do your viewers respond to your content? Positively? Negatively? Not at all? Monitoring your comments can help you understand how viewers feel about your brand.
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Comment on a YouTube Video
 
@@ -56,12 +70,6 @@ Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
 Step3 Click comment to post.
@@ -84,27 +92,22 @@ Step2 On the YouTube homepage, click on the three horizontal parallel lines in t
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step3 From the drop down menu, select “History”.
 
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
 Step6 Make the necessary edits and choose “Save”.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Highlighted Comments and Replies on YouTube
 
@@ -114,18 +117,6 @@ For example, you might click on a notification, and YouTube takes you to a parti
 
 Each time YouTube adds the “highlighted comment” or “highlighted reply” tags to a video, they create a unique URL. The version of the comment that you see uses this newly generated URL. Therefore, the only way to make these labels disappear (apart from reading the new comments) is to remove the addition to the URL.
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Deleting YouTube Comments?
 
 If you consume a lot of YouTube content, you've likely posted hundreds or even thousands of comments on various channels. You might want to:
@@ -145,23 +136,12 @@ Comments history also contains the link to the video where you've left the comme
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Conclusion
 
 YouTube allows users to view and edit all the comments they have made on YouTube videos on both desktop and mobile apps. You can also edit or delete the comment if you so wish However you cannot delete any comments you made on YouTube from the Google my Activity page. It can be done from within the YouTube app only.
@@ -196,4 +176,24 @@ One way you can encourage people to leave comments on your videos is to finish t
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-a-step-by-step-approach-to-macos-sierra-integration/"><u>[New] A Step-by-Step Approach to macOS Sierra Integration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-connect-with-community-spots-a-dynamic-guide-for-local-explorers-on-the-move/"><u>[New] Connect with Community Spots A Dynamic Guide for Local Explorers on the Move</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-laughs-ultimate-meme-creation-apps/"><u>[New] Leading Laughs Ultimate Meme Creation Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-impeccable-srt-from-xml-ssa-and-ttml-files/"><u>[Updated] Crafting Impeccable SRT From XML, SSA & TTML Files</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-innovative-broadcast-strategies-live-on-instagram-using-obs-software-for-2024/"><u>[Updated] Innovative Broadcast Strategies Live on Instagram Using OBS Software for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-innovative-methods-for-chronological-disruption-in-acting-for-2024/"><u>[Updated] Innovative Methods for Chronological Disruption in Acting for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamline-visual-clarity-with-proficient-bg-removal-techniques/"><u>[Updated] Streamline Visual Clarity with Proficient BG Removal Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-audio-waveform-to-ringtone-best-places-to-pick-from-youtubemusic/"><u>2024 Approved Audio Waveform to Ringtone Best Places To Pick From YoutubeMusic</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/adding-chapters-with-ease-a-detailed-youtube-video-editing-tutorial-for-2024/"><u>Adding Chapters with Ease A Detailed YouTube Video Editing Tutorial for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/back-track-technique-reverse-video-in-ios-devices-for-2024/"><u>Back-Track Technique Reverse Video in iOS Devices for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-zoom-visual-acuity-easy-steps/"><u>Enhancing Zoom Visual Acuity Easy Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-mac-tips-unlocking-your-srt-files/"><u>Essential Mac Tips Unlocking Your SRT Files</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/excellence-in-meeting-capture-the-best-streaming-gadgets-ranked/"><u>Excellence in Meeting Capture The Best Streaming Gadgets Ranked</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tech-triumphs-cutting-edge-vr-devices-reviewed/"><u>In 2024, Tech Triumphs Cutting-Edge VR Devices Reviewed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ranking-creative-photo-and-video-shows-on-iphones-xr-i/"><u>Ranking Creative Photo & Video Shows on iPhones (XR-I)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-silent-usb-headphones-in-windows-7/"><u>Troubleshooting Guide: Fixing Silent USB Headphones in Windows 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-chatgpt-generative-ais-role-explored/"><u>Unveiling ChatGPT: Generative AI's Role Explored</u></a></li>
+</ul></div>
 

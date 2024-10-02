@@ -1,7 +1,7 @@
 ---
 title: "\"The Adventure Begins with Panasonic's HX-A1 Action Recorder\""
-date: 2024-09-25T16:00:09.486Z
-updated: 2024-09-27T17:16:51.607Z
+date: 2024-09-28T22:18:07.824Z
+updated: 2024-10-02T19:37:30.566Z
 tags: 
   - screen-recording
   - ai video
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
  The elongated cylindrical body of this camera is very compact and less quirky and helps in operating it as a single component system. It is available in luminous orange and black colour variants and both of them look smart and classy. Its shock-proof, freeze-proof and dustproof makes it stand out exceptionally. It is compliant with IPX8 and thus you are free from hassles of adding a separate waterproof case! With a weight of only 45 gms, A1 is one of those few smallest action cameras which are easy and safe to carry. There is no built-in screen and the basic three buttons for its functioning rest on top of the camera, which can be termed as one of its shortcoming in design, as it tends to roll from sides when is set down, and thus can damage these controls if not kept carefully. These three buttons help in turning on the device, toggle recording and switch between video, still image and slow motion modes. Its built-in WiFi module allows the camera to connect to the smartphone and then transfer the media easily. This feature can also be used whenever you are framing up your shots, so you don’t feel lack of built-in screen.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Specification
 
 | Review Price                | $101.95 (Amazon)                                                                             |
@@ -71,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 | Plenty of optional mounts for any activities to increase its operational feasibility at every location.                                                                | Built-in battery does not allow you to swap out for a fresh one so no scope of improving battery life. |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Accessories in the box
@@ -115,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 [Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Features
@@ -149,6 +142,13 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
  A1 connectivity to the Image App eases out its usage drastically. It gives a gateway to adjust the resolution and also provides access to various white balance options including dalylight and cloudy for outdoor and some user and automatic configured ones for indoor shoots. This app can also be used for live preview and toggling record acting as camera’s screen after complete configuration.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
  The minor drawbacks in A1 are completely understandable. With its decent picture quality and plenty of other features such as SFDW formula, it can be rightly said that Panasonic has created a fine budget camera which is worth investing. There is always a way to capture your fun and thrills and Panasonic HX-A1 gets along your making it a capable action camera!
@@ -158,10 +158,10 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -179,19 +179,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-creating-an-auditory-ambiance-choosing-background-music-for-trailers/"><u>[New] Creating an Auditory Ambiance Choosing Background Music for Trailers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-self-portraits-that-talk-100-words-to-define-you-on-insta/"><u>[Updated] In 2024, Self-Portraits That Talk 100 Words to Define You on Insta</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-optimal-data-recorder-for-sony-a7c-model/"><u>[Updated] Optimal Data Recorder for Sony A7C Model</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-podcasts-intros-hook-up-listeners-with-podcast-intro-script/"><u>[Updated] Podcasts Intros Hook Up Listeners With Podcast Intro Script</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-all-you-need-to-know-about-the-apple-m1-max-clip/"><u>2024 Approved All You Need to Know About the Apple M1 Max Clip</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-bring-lut-effects-to-life-with-smartphones/"><u>2024 Approved Bring LUT Effects to Life with Smartphones</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/android-and-iphone-collage-kings-the-best-montage-apps/"><u>Android & iPhone Collage Kings The Best Montage Apps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/command-center-at-your-fingertips-powerdirector-2024-guide/"><u>Command Center at Your Fingertips PowerDirector 2024 Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/extract-srt-from-zip-simple-subtitle-file-creation-tips/"><u>Extract SRT From ZIP Simple Subtitle File Creation Tips</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Realme V30T? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-tap-into-chatgpts-potential-top-7-reasons/"><u>How to Tap Into ChatGPT's Potential: Top 7 Reasons</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-look-at-best-videographer-selection/"><u>In 2024, In-Depth Look at Best Videographer Selection</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/new-features-unveiled-improved-android-file-transfer-and-quick-voice-typing-on-the-latest-windows-n-upgrade-digital-trends/"><u>New Features Unveiled: Improved Android File Transfer & Quick Voice Typing on the Latest Windows N Upgrade | Digital Trends</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/saving-your-best-on-instagram-a-comprehensive-guide/"><u>Saving Your Best on Instagram A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-crafting-an-inviting-subscribe-icon-for-youtube-videographers/"><u>[Updated] Crafting an Inviting Subscribe Icon for YouTube Videographers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-tips-for-itunes-podcast-enrollment/"><u>2024 Approved Tips for iTunes Podcast Enrollment</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/apple-podcasts-a-quick-download-method-for-2024/"><u>Apple Podcasts A Quick Download Method for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-tiktok-horizons-the-essence-of-triller-for-2024/"><u>Beyond TikTok Horizons The Essence of Triller for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bypassing-edge-academy-video-free-study-strategies/"><u>Bypassing EDGE Academy Video-Free Study Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-video-clarity-on-android-comprehensive-steps/"><u>Enhancing Video Clarity on Android – Comprehensive Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722985499621-final-fantasy-xv-stability-troubles-top-fixes-for-pc-performance-and-no-more-crashes/"><u>Final Fantasy XV Stability Troubles? Top Fixes for PC Performance and No More Crashes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-big-catch-bigger-views-top-5-aquatic-cameras/"><u>In 2024, Big Catch, Bigger Views - Top 5 Aquatic Cameras</u></a></li>
+<li><a href="https://driver-error.techidaily.com/keyboard-illumination-issue-asus/"><u>Keyboard Illumination Issue - ASUS</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-selection-essential-upgrades-and-add-ons-for-your-airpods-pro/"><u>Ultimate Selection: Essential Upgrades and Add-Ons for Your AirPods Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-6s-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 6s?</u></a></li>
 </ul></div>
 

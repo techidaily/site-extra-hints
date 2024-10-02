@@ -1,7 +1,7 @@
 ---
 title: "In 2024, A Comprehensible Guide to Softening Sound via Lumafusion"
-date: 2024-09-07T20:45:28.616Z
-updated: 2024-09-08T20:45:28.616Z
+date: 2024-09-30T22:44:16.874Z
+updated: 2024-10-02T16:17:32.170Z
 tags: 
   - screen-recording
   - ai video
@@ -16,12 +16,6 @@ keywords: "Soft Sound Guide,Sound Dampening Basics,Lumafusion Tips,Noise Reducti
 thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30f3dde81226f486e6ab605fb.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## A Comprehensible Guide to Softening Sound via Lumafusion
 
 LumaFusion, a mobile video editing powerhouse with an intuitive LumaFusion music fade out, simple-to-understand UI/UX, is accessible for use on both iOS devices i-e iPhones and iPads. LumaFusion audio fade out provides a whole video editing experience that you can use anywhere, from cutting a movie to instantly exporting to YouTube. With LumaFusion, you can edit video, still photos, and audio on an iPad or iPhone with a degree of accuracy and quality that is very comparable to that of a desktop computer.
@@ -36,12 +30,6 @@ Step1 LumaFusion's default structure is comparable to that of many desktops edit
 
 ![lumafusion timeline](https://images.wondershare.com/filmora/article-images/2022/07/lumafusion-timeline.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step2 LumaFusion allows for the automated synchronization of up to 12 camera sources and several audio tracks. When a clip is loaded into LumaFusion, touch on it to open it in the viewer and then adjust the start and finish points.
 
 ![edit sources luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/edit-sources-luma-fusion.jpg)
@@ -50,20 +38,8 @@ Step3 From the choices, choose the Cross Dissolve (Fade) transition. The transit
 
 ![fade audio in luma fusion](https://images.wondershare.com/filmora/article-images/2022/07/fade-audio-in-luma-fusion.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Beyond simple editing, LumaFusion excels in enhancing projects with a wide variety of built-in effects, transitions, titles, and color correction. It also has a limited (but excellent) collection of royalty-free music. Finally, LumaFusion Project Packages are a terrific solution to regularly backup a project for security or to complete altering it. After choosing Export, choose the Project Package from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. LumaFusion Alternative Way to Fade Audio in Video
 
 A multi-track video editor made specifically for mobile devices is called LumaFusion. Journalists, filmmakers, and expert video producers often utilize it to create engrossing video narratives. But if you have a toolkit with everything you need already built in so you can use it as needed, fading is unexpectedly made simple. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) does this task faster than ever because to its user-friendly interface, which makes audio editing in Filmora a breeze.
@@ -93,35 +69,38 @@ The fade-in audio button inside your audio file may be seen when you just hover 
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##### Step4 Share and export
 
 After finishing the method for editing audio in Filmora, click the Export button in the top menu corner as shown here:
 
 In that window, you can select the MP3 format in the format customization box to continue with storing your file to your system. After making any necessary adjustments to the audio file, click the Export button below, which will ultimately direct you to the area on your PC where you want to store the audio.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3\. Related FAQs about LumaFusion
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. How do you fade in a title LumaFusion?
 
 Go to Clip Defaults to do that. You may change the Title and Transition lengths here. Check to check whether the updated defaults have been implemented by adding a new title or transition after making the necessary modifications. By cursorily browsing the title in the browser, you can get a preview.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. How do you do transitions in LumaFusion?
 
 There are several eye-catching transitions included with LumaFusion. The transition may simply be dragged into the timeline and placed between the two pertinent segments. You may modify the duration of it after it's on the timeline in the same way that you would any other clip. Simply choose Transitions from the Sources box, that's it.
@@ -145,34 +124,30 @@ Drag and drop your sound recordings from the media library to the timeline at th
 ![import audios to fade](https://images.wondershare.com/filmora/guide/add-audio-fade-in-fade-out.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##### Step3 Apply Fade Effects
 
 The fade-in audio button inside your audio file may be seen when you just hover over the audio file within the timeline and look for the white circle filled with pink hue at the beginning and finish of your audio file. On the other hand, to choose the fade-out audio, click and drag the pink circle that appears on the opposite end of the audio file in the timeline that you have chosen to fade out the music file.
 
 ![apply fade effects](https://images.wondershare.com/filmora/guide/add-fade-in-fade-out-markers-timeline.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Step4 Share and export
 
 After finishing the method for editing audio in Filmora, click the Export button in the top menu corner as shown here:
 
 In that window, you can select the MP3 format in the format customization box to continue with storing your file to your system. After making any necessary adjustments to the audio file, click the Export button below, which will ultimately direct you to the area on your PC where you want to store the audio.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Related FAQs about LumaFusion
 
@@ -210,4 +185,18 @@ Within the timeline, tap anywhere and move the mouse left or right to divide a c
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-hitting-1080p-quality-with-facebook-broadcasting/"><u>[New] In 2024, Hitting 1080P Quality with Facebook Broadcasting</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-browse-these-top-10-online-markets-for-one-of-a-kind-gift-boxes/"><u>[Updated] Browse These Top 10 Online Markets for One-of-a-Kind Gift Boxes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-technical-dive-into-gesture-and-movement-sensors/"><u>2024 Approved A Technical Dive Into Gesture and Movement Sensors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-birdie-ballet-bounce/"><u>2024 Approved Birdie Ballet Bounce</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-8-plus-by-name-drfone-by-drfone-virtual-ios/"><u>4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 8 Plus by Name | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fusionchannel-best-live-and-on-demand-tv-experience-2024/"><u>FusionChannel Best Live & On-Demand TV Experience, 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v17-document-with-electronic-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.7 document with electronic signature service</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-all-you-need-to-know-about-google-docs-audio-to-text-functionality/"><u>In 2024, All You Need to Know About Google Docs Audio-to-Text Functionality</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-13-pro-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 13 Pro & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-securely-transforming-youtube-videos-into-mp3-files-3-techniques/"><u>In 2024, Securely Transforming YouTube Videos Into MP3 Files - 3 Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-correcting-d3dx926dll-errors-on-your-computer/"><u>Step-by-Step Solutions for Correcting 'd3dx9_26.dll' Errors on Your Computer</u></a></li>
+</ul></div>
 
