@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Mac's Preview  A Comprehensive Tutorial\""
-date: 2024-09-27T16:25:16.022Z
-updated: 2024-10-02T16:25:27.778Z
+date: 2024-10-04T23:23:40.778Z
+updated: 2024-10-08T00:18:14.649Z
 tags: 
   - screen-recording
   - ai video
@@ -36,13 +36,6 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -70,13 +63,6 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -123,10 +109,10 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
@@ -146,10 +132,10 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Combine Images into One
@@ -167,6 +153,19 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 **Step 3: Combine the Images**
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
 
@@ -214,6 +213,13 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -229,18 +235,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-top-professional-camera-choices-complete-360-guide-2023/"><u>[New] Top Professional Camera Choices - Complete 360 Guide 2023</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-master-money-with-periscope-a-newcomers-manual/"><u>[Updated] Master Money with Periscope A Newcomer's Manual</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-10-best-free-image-hosting-sites-never-lost-your-photos/"><u>2024 Approved 10 Best Free Image Hosting Sites [Never Lost Your Photos]</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-optimize-tv-viewership-via-facebook-live-streaming/"><u>2024 Approved Optimize TV Viewership via Facebook Live Streaming</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/identifying-high-impact-hdr-photography-tools/"><u>Identifying High-Impact HDR Photography Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-big-sur-unveiled-your-guide-to-a-flawless-mac-os-shift/"><u>In 2024, Big Sur Unveiled Your Guide to a Flawless Mac OS Shift</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-journey-to-cohesion-expert-tips-for-using-inshots-transition-tools/"><u>In 2024, Journey to Cohesion Expert Tips for Using Inshot's Transition Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/is-cash-involved-with-criticism-displays/"><u>Is Cash Involved with Criticism Displays?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/kinemasters-guide-to-fluid-film-segments/"><u>Kinemaster's Guide to Fluid Film Segments</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-best-of-the-best-4k8k-video-editing-software-for-professionals/"><u>New In 2024, Best of the Best 4K/8K Video Editing Software for Professionals</u></a></li>
-<li><a href="https://techtrends.techidaily.com/rapido-copia-dvd-a-mp4-con-winx-ultimate-platinum-conversione-h264hevc-in-meno-di-5-minuti/"><u>Rapido Copia DVD a MP4 Con WinX ULTIMATE Platinum - Conversione H.264/HEVC in Meno Di 5 Minuti</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/superior-webcams-for-professional-podcasting/"><u>Superior Webcams for Professional Podcasting</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-calculating-the-storage-space-of-24-hour-videos/"><u>[Updated] Calculating the Storage Space of 24-Hour Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-art-of-blending-audio-with-video-in-premiere-pro/"><u>[Updated] The Art of Blending Audio with Video in Premiere Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-beginners-strategy-boosting-business-via-telegram-marketing/"><u>A Beginner’s Strategy Boosting Business via Telegram Marketing</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/accueils-feminins-francais-la-grace-de-repondre/"><u>Accueils Féminins Français: La Grâce De Répondre</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/effortless-srt-to-txt-change-up-made-simple-and-swift/"><u>Effortless SRT to TXT Change-Up Made Simple and Swift</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-troubleshooting-a-black-screen-on-steam-the-2024-definitive-fix-list/"><u>Expert Tips for Troubleshooting a Black Screen on Steam: The 2024 Definitive Fix List</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-commonplace-phones-to-cutting-edge-vr-headsets/"><u>From Commonplace Phones to Cutting-Edge VR Headsets</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-expert-take-on-camstudios-recorder-efficacy/"><u>In 2024, Expert Take on CamStudio's Recorder Efficacy</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-tecno-spark-10-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Tecno Spark 10 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unlocking-your-potential-with-these-top-10-affordable-web-conferencing-services/"><u>Unlocking Your Potential with These Top 10 Affordable Web Conferencing Services</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Capturing Closer Action  Tips for Zooming In on Videoleap\""
-date: 2024-09-28T16:38:03.028Z
-updated: 2024-10-02T18:17:29.395Z
+date: 2024-10-02T00:12:44.113Z
+updated: 2024-10-08T02:01:03.721Z
 tags: 
   - screen-recording
   - ai video
@@ -55,32 +55,26 @@ Sometimes the video contents need a dramatic zoom effect that should take place 
 
 ![preview timeline videoleap](https://images.wondershare.com/filmora/article-images/2022/07/preview-timeline-videoleap.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Then select the "keyframes" tool from the toolbar at the bottom of your screen.
 * Add the keyframes to the desired portion of the video and then navigate the timecode to the place on the timeline where you want to stop it. After that add another keyframe at that point and pinch in to zoom the video.
 
 ![add keyframes videoleap](https://images.wondershare.com/filmora/article-images/2022/07/add-keyframes-videoleap.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Now head to the second time code where you want to focus the subject and then click on it. Then click on the "Preview" icon and see whether it needs further changes.
 * When you are satisfied, simply export the project and your animated zoom video will be saved successfully.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternative way to Zoom Video on Computer
@@ -98,23 +92,16 @@ If for some reason you are not able to install and use Videoleap on your system 
 ![open the filmora application on pc](https://images.wondershare.com/filmora/guide/pan-zoom-feature-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * This will open 4 different types of tools regarding zoom functions. The first tool will help you to go from larger frames to smaller frames by zooming in. Thus, you can use this feature to bring details to a subject in your video. The second option helps you with zooming out from a smaller frame to a larger frame.
 * The third and fourth tools will help you achieve the Pan function from left to right and right to left respectively. This panning will be on a horizontal axis. You can also pan your video screen by using your mouse too.
 * You can select any of these options to zoom in, out, or pan your videos and create a stunning zoom effect on your videos.
 * When you are done with your editing process, save the video and the file will be exported to your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -134,6 +121,13 @@ Videoleap is one of the leading video editing platforms available out there. The
 * The third and fourth tools will help you achieve the Pan function from left to right and right to left respectively. This panning will be on a horizontal axis. You can also pan your video screen by using your mouse too.
 * You can select any of these options to zoom in, out, or pan your videos and create a stunning zoom effect on your videos.
 * When you are done with your editing process, save the video and the file will be exported to your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -167,18 +161,16 @@ Videoleap is one of the leading video editing platforms available out there. The
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-boost-your-tech-experience-with-top-text-interpretation-tools-on-mac/"><u>[New] Boost Your Tech Experience with Top Text Interpretation Tools on Mac</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discovering-whos-watching-your-videos/"><u>[New] In 2024, Discovering Who's Watching Your Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-x-master-recorder-software-pc-edition/"><u>[Updated] 2024 Approved X-Master Recorder Software, PC Edition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-craft-your-narrative-on-reddit-mastering-content-delivery/"><u>2024 Approved Craft Your Narrative on Reddit Mastering Content Delivery</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/gently-lower-sound-amplitude-tutorial/"><u>Gently Lower Sound Amplitude Tutorial</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-vivo-y100i-power-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo Y100i Power 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/incorporating-apple-music-in-visual-content/"><u>Incorporating Apple Music in Visual Content</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/melody-of-affection-greatest-love-songs-to-sweeten-a-proposal/"><u>Melody of Affection Greatest Love Songs to Sweeten a Proposal</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/sky-high-storages-expert-recommendations/"><u>Sky-High Storages Expert Recommendations</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/step-into-the-arena-joining-lives-on-tiktok/"><u>Step Into the Arena Joining Lives on TikTok</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-5-gaming-monitors-for-playstation-and-xbox/"><u>The Ultimate 5 Gaming Monitors for PlayStation & Xbox</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-resolving-elephants-leg-problems-in-3d-printing/"><u>Ultimate Guide: Resolving Elephant's Leg Problems in 3D Printing</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/ultimate-list-of-16-starter-videos-for-more-watchers-for-2024/"><u>Ultimate List of 16 Starter Videos for More Watchers for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-addressing-the-lack-of-novelty-in-virtual-reality/"><u>[New] Addressing the Lack of Novelty in Virtual Reality</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-ultimate-compendium-selecting-the-best-free-srt-translation-tools-for-2024/"><u>[New] The Ultimate Compendium Selecting the Best Free SRT Translation Tools for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-quick-capture-techniques-for-your-lenovo-screen/"><u>[Updated] In 2024, Quick Capture Techniques for Your Lenovo Screen</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unveiling-clearer-imagery-instagrams-video-cropping-secrets-for-2024/"><u>[Updated] Unveiling Clearer Imagery Instagram's Video Cropping Secrets for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-oppo-find-n3-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Oppo Find N3 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/data-revival-tales-testimonial/"><u>Data Revival Tales - Testimonial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-how-you-can-discreetly-archive-or-conceal-your-chatgpt-interactions/"><u>Discover How You Can Discreetly Archive or Conceal Your ChatGPT Interactions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/mastering-subtitles-the-ultimate-guide-to-free-tools/"><u>Mastering Subtitles The Ultimate Guide to FREE Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/shape-viral-memes-using-adobe/"><u>Shape Viral Memes Using Adobe</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/surfers-specs-top-action-camera-choices-2023/"><u>Surfers' Specs - Top Action Camera Choices 2023</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-gear-for-action-cams-a-shoppers-companion/"><u>Ultimate Gear for Action Cams A Shopper's Companion</u></a></li>
 </ul></div>
 

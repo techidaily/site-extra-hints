@@ -1,7 +1,7 @@
 ---
 title: "\"Penning Podcasts to Perfection  A Compreomed Writer’s Guide\""
-date: 2024-09-07T20:45:30.560Z
-updated: 2024-09-08T20:45:30.560Z
+date: 2024-10-06T05:06:20.626Z
+updated: 2024-10-08T01:51:34.164Z
 tags: 
   - screen-recording
   - ai video
@@ -26,17 +26,18 @@ A podcast script is simply a plan for the podcast that outlines the main topics 
 
 ![podcast script](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Intro
 
 The intro is supposed to build the audience's interest as soon as they start listening to the podcast. So here, you will warmly welcome your listeners, say some icebreaker sentences, give your intro, and state teaser lines about the podcast.
 
 \*Pro tip: Don't reveal everything; keep it a little mysterious to hook listeners till the end.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Guest intro
 
@@ -54,15 +55,16 @@ When there are multiple segments in an episode, transitions make switching from 
 
 It's challenging to retain everything after listening to a significant amount of information. Hence, to facilitate listeners, summarize the entire episode and revise the key takeaways.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Outro
 
 It's time to acknowledge the listeners and guests for their precious time. To tie listeners to your show, you can mention references, make announcements, and reveal the topic and air time of the upcoming episode.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Call to action
 
@@ -76,22 +78,10 @@ Having said that, let me tell you why writing a podcast script is crucial before
 
 Averting unnecessary gaps and saving time requires planning the segment order and making a list of the main points to discuss. The script ensures you stay on topic and organized to keep listeners interested. A well-planned podcast also requires less effort in post-production. So if you want a streamlined recording experience, take your time and craft a top-notch podcast script.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Podcast Script Outline Templates
 
 As promised, it's time to introduce you to the three most common podcast script templates. Pick the one that best suits your needs and take your podcast to the next level.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Template 1: The Word-For-Word Podcast Script
 
 The first right candidate for the word-for-word script is the one about to land in the podcast world. All that is left to do is carry them out correctly since most things have already been written down. This format should also be used by someone presenting a lot of statistical data, facts, and figures.
@@ -163,47 +153,36 @@ An interesting narrative-style podcast hosted and produced by Bob Carlson.
 ![unfictional narrative podcast](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##### [S-Town](https://podcasts.apple.com/us/podcast/s-town/id1212558767)
 
 A crime story podcast hosted by Brian Reed from Serial Productions, a New York Times company.
 
 ![s town cover](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### [Bill Burr's Monday Morning](https://open.spotify.com/show/5SFiQlOQ3EKmwp0chE1QzY)
 
 A solo podcast hosted by Bill Burr.
 
 ![solo podcast](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **What's good about this template?**
 
 * Decrease the likelihood of missing any information.
 * Ensure the proper coverage of each point within the allotted timeframe.
 * Great for newbies, narrators, and solo hosts.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Template 2: The Planned Podcast Script
 
 Instead of having a word-to-word description, the planned podcast script only serves as a guide, and the episode progresses naturally. This template is for you if you are skilled enough to derive the episode points on your own. Let's see what it looks like.
@@ -261,17 +240,25 @@ Hosted by Joe Rogan, a conversational style podcast it is.
 
 ![podcast cover](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **What's good about this template?**
 
 * Have room for improvisation.
 * Easy to plan as you just have to decide on the structure.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Template 3: The Ad-Libbed Show: A Flexible Script
 
 Hosts who love ad-libbing just need a bulleted list of some points to do an episode. Maybe it's because they are confident and experienced enough to deliver the episode without a stack of script papers.
@@ -321,30 +308,12 @@ CTAs: Follow the channel and forward it to your friends if you want to listen to
 
 ![wtf podcast cover](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### [Conan O'Brien Needs a Friend](https://open.spotify.com/show/3u26tlz7A3WyWRtXliX9a9)
 
 A comedy podcast hosted by Conan.
 
 ![comedy podcast cover](https://images.wondershare.com/filmora/article-images/2022/12/how-to-write-podcast-script-8.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### [2 Bears, 1 Cave with Tom Segura & Bert Kreischer](https://open.spotify.com/show/1PgDUTgeyu3FOzK1FcBoqa)
 
 Together, two close friends make each other laugh.
@@ -369,18 +338,19 @@ Podcast segments vary widely depending on the podcast format; therefore, choosin
 
 In addition, you can include extra segments, like rapid fire, if you want to spice up the show.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### (2) Tell A Story
 
 "After nourishment, shelter, and companionship, stories are the thing we need most in the world."― Philip Pullman.
 
 We all enjoy stories, but producing one is far harder than listening to one. Consider delivering the dialogues in your podcasts like a story, no matter what kind. Podcasts with a narrative format are popular because listeners' interest grows as the story unfolds. Hence, keeping them curious to find out what happens next.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### (3) Mark-ups your script
 
 A script devoid of notes is merely a piece of paper with text. "Mark-ups" is the practice of adding notes to scripts on specific elements, such as giggles, emphasis, pauses, etc. Being humans, we have emotions; therefore, adding emotions to your script will help your podcast sound like a casual, enjoyable conversation.
@@ -390,11 +360,12 @@ A script devoid of notes is merely a piece of paper with text. "Mark-ups" is the
 Here is an example of an annotated podcast script taken from the "[Lower Street](https://lowerstreet.co/how-to/write-podcast-script#how-to-manage-a-brand-sponsor-script)" website. As you can see, it depicts where to adjust the tone, take pause, put emphasis, etc. Also, you can annotate your writing in your style by adding certain symbols or utilizing various font styles.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### (4) Always Close with A Call To Action
 
 You are coming to the crucial section that will help expand your fan base. The Call To Action (CTA) is typically included in the outro, but you can experiment by placing it after the intro part. Whether it's an offer to join the group or a way to sign up for your newsletter, present it as simply as you can.
@@ -431,54 +402,25 @@ One of the most effective ways to keep the listeners interested throughout the e
 
 Sometimes the curiosity of people frightens me. Anyway, please don't bother yourself, as it's not a quote—just a random thought. Folks often come up with questions about podcast scripts; hence, the answers to those queries are provided below.
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. What podcast format is most popular?
 
 The "Interview" podcast format is currently the most popular. Experts are invited and interviewed to acquire their opinions on a topic in an interview format.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. What makes a good podcast script?
 
 The discourse on a podcast should feel human rather than robotic; thus, the script should provide some flexibility for improvisation. However, beginners often prefer a word-for-word script with all the information ready to deliver.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Do you need to have a podcast script?
 
 It's not a hard and fast rule to always have a podcast script, especially if you are a pro. But a bit of planning and organizing things beforehand can simplify your workflow.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## The Bottom Line
 
 The crux of our discussion is that a compelling podcast script makes it simple to put ideas into action when your ultimate objective is to create high-quality content. Decide a format for your podcast if you haven't yet, pick up the script template accordingly, modify and mark up as per your needs and you are almost done.
@@ -511,4 +453,20 @@ The crux of our discussion is that a compelling podcast script makes it simple t
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-breakthrough-media-tools-to-complement-xsplit/"><u>[New] Breakthrough Media Tools to Complement XSplit</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-tier-pricing-on-cloud-storage-the-least-expensive-finds-2024/"><u>[New] Top-Tier Pricing on Cloud Storage - The Least Expensive Finds, 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-vertigo-ventures-with-gopro-karma-technology/"><u>[Updated] 2024 Approved Vertigo Ventures with GoPro Karma Technology</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-deep-dive-into-streamlining-your-google-podcast-process/"><u>[Updated] A Deep Dive Into Streamlining Your Google Podcast Process</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-free-winpodcast-tools-compilation/"><u>2024 Approved Best Free WinPodcast Tools Compilation</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boosting-visual-and-auditory-composition-with-custom-filters-and-melodies-windows-10-photos/"><u>Boosting Visual & Auditory Composition with Custom Filters & Melodies (Windows 10 Photos)</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-speed-monitors-at-240hz-for-gamers/"><u>High-Speed Monitors at 240Hz for Gamers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-choice-couch-co-op-video-games-best-picks-for-enjoying-gaming-together/"><u>Top Choice Couch Co-Op Video Games: Best Picks for Enjoying Gaming Together</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/top-tier-streaming-tech-ranking-5-top-conference-recorder-devices/"><u>Top-Tier Streaming Tech Ranking 5 Top Conference Recorder Devices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/understanding-gps-tracker-sizes-how-they-impact-usability-and-security-of-your-belongings-for-safer-lifestyle/"><u>Understanding GPS Tracker Sizes: How They Impact Usability & Security of Your Belongings for Safer Lifestyle</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlock-kinemasters-secrets-to-smooth-transitions/"><u>Unlock Kinemaster's Secrets to Smooth Transitions</u></a></li>
+</ul></div>
 

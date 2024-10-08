@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Build DIY Virtual Reality  Google Cardboard Hack\""
-date: 2024-09-23T16:11:42.444Z
-updated: 2024-09-27T17:41:56.995Z
+date: 2024-10-03T05:02:02.555Z
+updated: 2024-10-07T22:40:01.196Z
 tags: 
   - screen-recording
   - ai video
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
  In not more than 3 hours, people were able to construct their own virtual reality viewer. Do you also want to successfully make your own? Here’s what you will need, together with some important tips and tools to properly do it.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1.The accessories you will need
@@ -54,16 +54,10 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
  It is recommended to use the right type of cardboard, with the same thickness as that of a durable shoe box. You can use a pizza box, but make sure it offers enough flat surfaced material to work with. Of course, you want something durable, yet slim to work with. In some cases, a couple of additional items might be needed such as ceramic disc magnet, neodymium magnet, some pieces of Velcro, big rubber band and at least 45 mm lenses.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2.How to assemble accessories
@@ -79,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 * If necessary, affix the NFC tag to the cardboard.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pros and cons of DYI Google cardboard
@@ -105,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -126,24 +120,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-best-pfr-rate-to-elevate-sluggish-video-flow/"><u>[New] Best PFR Rate to Elevate Sluggish Video Flow</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-building-a-robust-spotify-advertising-foundation/"><u>[New] Building a Robust Spotify Advertising Foundation</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ssential-tips-enhancing-focus-in-your-youtube-video-for-2024/"><u>[New] Essential Tips Enhancing Focus in Your YouTube Video for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-mastering-silent-sounds-garagebands-volume-control-magic-for-2024/"><u>[New] Mastering Silent Sounds Garageband's Volume Control Magic for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-anime-and-music-mixing-up-the-next-big-tiktok-hits-for-2024/"><u>[Updated] Anime and Music Mixing Up the Next Big TikTok Hits for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-essential-guide-to-xbox-screen-recording-techniques/"><u>[Updated] In 2024, Essential Guide to Xbox Screen Recording Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/beating-the-deadly-world-of-warcraft-fatality-windows-fix-guide/"><u>Beating the Deadly World of Warcraft Fatality: Windows Fix Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-low-speed-photo-and-video-capture-tools-iosandroid/"><u>Best Low-Speed Photo and Video Capture Tools, iOS/Android</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-photo-and-video-display-apps-from-xi-to-x/"><u>Best Photo & Video Display Apps From XI to X</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/fitness-frontiers-unveiling-premier-virtual-reality-walkers/"><u>Fitness Frontiers Unveiling Premier Virtual Reality Walkers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-basic-equipment-for-travel-video-creators/"><u>In 2024, Basic Equipment for Travel Video Creators</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/instantly-enhance-your-facebook-experience-with-collage/"><u>Instantly Enhance Your Facebook Experience with Collage</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tment-edutainment-the-best-channels-reviewed-for-2024/"><u>Investment Edutainment The Best Channels Reviewed for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-metaverse-advertising-techniques/"><u>Mastering Metaverse Advertising Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/perfecting-visual-appeal-tips-for-incorporating-filters-in-media-for-2024/"><u>Perfecting Visual Appeal Tips for Incorporating Filters in Media for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolve-your-steam-cloud-synchronization-problems-for-good/"><u>Resolve Your Steam Cloud Synchronization Problems for Good!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-realme-v30t-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Realme V30T Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-v30-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo V30 Phone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlocking-potential-the-best-6-for-nft-artistry/"><u>Unlocking Potential The Best 6 for NFT Artistry</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-audioextractorproxs-new-era-insights-from-the-2024-update/"><u>[New] AudioExtractorProX's New Era Insights From the 2024 Update</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-beat-explorers-playlist-accessible-free-online-tools/"><u>[New] Beat Explorers' Playlist Accessible, Free Online Tools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-iosandroid-leading-photo-writing-app-list-for-2024/"><u>[New] IOS/Android Leading Photo-Writing App List for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beginners-guide-to-solo-youtube-broadcasting-from-yourphone/"><u>[Updated] Beginner's Guide to Solo YouTube Broadcasting From Yourphone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-blending-beats-and-visuals-a-tutorial-on-youtube-music-addition/"><u>In 2024, Blending Beats and Visuals A Tutorial on YouTube Music Addition</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/melodic-migration-your-tunes-across-platforms/"><u>Melodic Migration Your Tunes Across Platforms</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-3-best-effects-to-appear-on-camera/"><u>New 3 Best Effects to Appear on Camera</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-microsoft-surface-earbud-microphone-issues-in-windows-11/"><u>Troubleshooting and Repairing Microsoft Surface Earbud Microphone Issues in Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-apple-iphone-15-plus-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On Apple iPhone 15 Plus? 5 Tips You Must Know</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-apple-m1-a-computing-revolution/"><u>Unveiling the Apple M1 A Computing Revolution?</u></a></li>
 </ul></div>
 

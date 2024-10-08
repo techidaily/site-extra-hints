@@ -1,7 +1,7 @@
 ---
 title: "\"Elevate Images  Taking Vertical Panoramas on Screens\""
-date: 2024-09-29T18:05:57.645Z
-updated: 2024-10-02T17:05:27.881Z
+date: 2024-10-02T04:14:10.524Z
+updated: 2024-10-07T20:06:20.033Z
 tags: 
   - screen-recording
   - ai video
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 * [Part 2: For Android Users](#part2)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For iPhone users
@@ -61,16 +61,10 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 * Once finished and satisfied, just tap on "Done" option.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For Android users
@@ -82,18 +76,18 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image source: mac-fusion
 
 * To shoot picture, keep holding the target circle on the gray dot until it vanishes.
 * Repeat the same with other dots as well. In other words, move camera towards the gray dots one by one until they get disappear.
 * Tap on "Done" when completed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Some Beneficial Tips for shooting vertical panorama photo
 
@@ -105,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -126,16 +120,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-mastering-momentum-go-from-zero-to-viral-in-fb/"><u>[New] 2024 Approved Mastering Momentum Go From Zero to Viral in FB</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-how-to-make-money-on-tiktok-in-8-ways-cannot-miss/"><u>[Updated] 2024 Approved How to Make Money on TikTok in 8 Ways [Cannot Miss]</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-troubleshooting-a-non-functional-obs-capture-device/"><u>[Updated] 2024 Approved Troubleshooting a Non-Functional OBS Capture Device</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-videosnapper-quickly-download-twitter-content-on-iphone/"><u>[Updated] 2024 Approved VideoSnapper Quickly Download Twitter Content on iPhone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-capturepros-a-studio-showdown/"><u>[Updated] In 2024, CapturePros A Studio Showdown</u></a></li>
-<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-samsung-galaxy-ring-costs-arrival-dates-specifications-and-recent-news/"><u>All You Need to Know About Samsung Galaxy Ring – Costs, Arrival Dates, Specifications & Recent News</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-blueprint-for-blending-video-content-into-curricula/"><u>In 2024, Blueprint for Blending Video Content Into Curricula</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-honor-x50iplus-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Honor X50i+?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-tutorial-inserting-text-into-photographs-on-oses/"><u>In 2024, Comprehensive Tutorial Inserting Text Into Photographs on OSes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-art-of-sound-transition-in-logic-pro-x/"><u>The Art of Sound Transition in Logic Pro X</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/visualize-vibes-tips-and-techniques-for-iconic-gif-humor/"><u>Visualize Vibes Tips & Techniques for Iconic GIF Humor</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-right-approach-to-uploading-photos-from-your-device-to-snapchat/"><u>[New] 2024 Approved The Right Approach to Uploading Photos From Your Device to Snapchat</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-achieving-harmony-selecting-ideal-aspect-ratios/"><u>[Updated] In 2024, Achieving Harmony Selecting Ideal Aspect Ratios</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-symphony-of-screens-adding-music-to-online-chronicles/"><u>[Updated] In 2024, Symphony of Screens Adding Music to Online Chronicles</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-mastering-cartoon-expressions-with-snapchats-fun-filter-for-2024/"><u>[Updated] Mastering Cartoon Expressions with Snapchat's Fun Filter for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-kept-secrets-elite-mac-speech-apps-youre-missing-out-on/"><u>2024 Approved Best-Kept Secrets Elite Mac Speech Apps You're Missing Out On</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-computer-connection-5-strategies-to-move-files/"><u>2024 Approved Computer Connection 5 Strategies to Move Files</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/av1-compression-a-beginners-overview/"><u>AV1 Compression A Beginner's Overview</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/direct-linking-of-youtube-content-to-facebook-feeds-via-autoplay-settings/"><u>Direct Linking of YouTube Content to Facebook Feeds via Autoplay Settings</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-evaluation-why-the-alienware-aurora-r11-is-the-pinnacle-of-gaming-systems/"><u>Expert Evaluation: Why the Alienware Aurora R11 Is the Pinnacle of Gaming Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-the-versatility-of-magix-designer/"><u>Exploring the Versatility of MAGIX Designer</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/snap-income-trends-in-making-money-on-social-media/"><u>Snap Income Trends in Making Money on Social Media</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/temporal-trials-inverting-and-rewinding-your-vids-on-iphone/"><u>Temporal Trials Inverting and Rewinding Your Vids on iPhone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-text-transcription-software/"><u>Top Rated Text Transcription Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-power-of-slug-lines/"><u>Unveiling the Power of Slug Lines</u></a></li>
 </ul></div>
 

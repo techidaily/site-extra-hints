@@ -1,7 +1,7 @@
 ---
 title: "\"Optimize Clarity  Mastering Close-Up Techniques in Videoleap\""
-date: 2024-09-26T20:13:23.257Z
-updated: 2024-10-02T18:14:56.140Z
+date: 2024-10-01T01:02:38.604Z
+updated: 2024-10-08T03:28:06.176Z
 tags: 
   - screen-recording
   - ai video
@@ -56,10 +56,10 @@ Sometimes the video contents need a dramatic zoom effect that should take place 
 ![preview timeline videoleap](https://images.wondershare.com/filmora/article-images/2022/07/preview-timeline-videoleap.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Then select the "keyframes" tool from the toolbar at the bottom of your screen.
@@ -68,20 +68,20 @@ Sometimes the video contents need a dramatic zoom effect that should take place 
 ![add keyframes videoleap](https://images.wondershare.com/filmora/article-images/2022/07/add-keyframes-videoleap.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Now head to the second time code where you want to focus the subject and then click on it. Then click on the "Preview" icon and see whether it needs further changes.
 * When you are satisfied, simply export the project and your animated zoom video will be saved successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Alternative way to Zoom Video on Computer
@@ -97,13 +97,6 @@ If for some reason you are not able to install and use Videoleap on your system 
 * Open the Filmora application on your PC and then select the video file that you want to edit. Then select the "Pan and Zoom" option available from the toolbar.
 
 ![open the filmora application on pc](https://images.wondershare.com/filmora/guide/pan-zoom-feature-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * This will open 4 different types of tools regarding zoom functions. The first tool will help you to go from larger frames to smaller frames by zooming in. Thus, you can use this feature to bring details to a subject in your video. The second option helps you with zooming out from a smaller frame to a larger frame.
 * The third and fourth tools will help you achieve the Pan function from left to right and right to left respectively. This panning will be on a horizontal axis. You can also pan your video screen by using your mouse too.
@@ -123,6 +116,13 @@ Videoleap is one of the leading video editing platforms available out there. The
 * Open the Filmora application on your PC and then select the video file that you want to edit. Then select the "Pan and Zoom" option available from the toolbar.
 
 ![open the filmora application on pc](https://images.wondershare.com/filmora/guide/pan-zoom-feature-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * This will open 4 different types of tools regarding zoom functions. The first tool will help you to go from larger frames to smaller frames by zooming in. Thus, you can use this feature to bring details to a subject in your video. The second option helps you with zooming out from a smaller frame to a larger frame.
 * The third and fourth tools will help you achieve the Pan function from left to right and right to left respectively. This panning will be on a horizontal axis. You can also pan your video screen by using your mouse too.
@@ -161,20 +161,19 @@ Videoleap is one of the leading video editing platforms available out there. The
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-combining-rotating-and-fine-tuning-videos-with-android-tools/"><u>[New] Combining, Rotating & Fine-Tuning Videos with Android Tools</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-concealed-chorus-capturers-6-discreet-audio-recorders-for-devices-for-2024/"><u>[Updated] Concealed Chorus Capturers 6 Discreet Audio Recorders for Devices for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-5-groundbreaking-advice-points-from-successful-marketers-online/"><u>2024 Approved 5 Groundbreaking Advice Points From Successful Marketers Online</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-chromatic-enhancements-a-comprehensive-study-11-parts/"><u>2024 Approved Chromatic Enhancements A Comprehensive Study (11 Parts)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/captivating-collections-frames-and-organizers-of-the-future/"><u>Captivating Collections Frames & Organizers of the Future</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/digitize-your-dvds-with-winx-dvd-ripper-for-mac-effortless-conversion-to-mp4-for-ios-devices/"><u>Digitize Your DVDs with WinX DVD Ripper for Mac: Effortless Conversion to MP4 for iOS Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-picks-the-superior-wi-fi-signal-enhancers-of-the-year-2024/"><u>Expert Picks: The Superior Wi-Fi Signal Enhancers of the Year 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/first-moments-that-foster-interest-in-audios/"><u>First Moments that Foster Interest in Audios</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-c67-4g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme C67 4G Phones with/without a PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-ace-video-editing-with-kinemaster-skills-plus-10-leading-online-competitors/"><u>In 2024, Ace Video Editing with KineMaster Skills + 10 Leading Online Competitors</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-honor-70-lite-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Honor 70 Lite 5G Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/self-repair-features-keeping-your-windows-10-computer-running-smoothly-without-a-hitch/"><u>Self-Repair Features: Keeping Your Windows 10 Computer Running Smoothly Without a Hitch</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-best-7-color-grades-in-editing/"><u>The Ultimate Guide Best 7 Color Grades in Editing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-free-timers-for-daily-use/"><u>Ultimate Free Timers for Daily Use</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-honor-magic-vs-2-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Honor Magic Vs 2? Fixed | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-superior-storytellers-sanctuary/"><u>[New] 2024 Approved Superior Storyteller's Sanctuary</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-master-earning-plan-top-5-highest-paying-ig-posts/"><u>[New] Master Earning Plan Top 5 Highest Paying IG Posts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-step-by-step-guide-to-making-engaging-audio-promos-for-2024/"><u>A Step-by-Step Guide to Making Engaging Audio Promos for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/cambia-tus-imagenes-desde-bmp-a-gif-gratis-en-solo-un-click-con-la-facil-guia-del-sitio-web-movavi/"><u>Cambia Tus Imágenes Desde BMP a GIF Gratis en Solo Un Click Con La Fácil Guía Del Sitio Web Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-panoramic-views-fisheye-techniques/"><u>Capturing Panoramic Views Fisheye Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cinematic-wisdom-bank-for-2024/"><u>Cinematic Wisdom Bank for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-free-srt-excellence-our-top-8-picks/"><u>Discovering Free SRT Excellence Our Top 8 Picks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-closer-look-at-the-metaverse-6-deep-dive-examples-reviewed/"><u>In 2024, A Closer Look at the Metaverse 6 Deep-Dive Examples Reviewed</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-s23-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy S23 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-tablet-list-for-photographers-going-beyond-filmora/"><u>The Ultimate Tablet List for Photographers Going Beyond Filmora</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unveiling-the-truth-about-the-thermopro-tp67-economical-but-questionable-dependability/"><u>Unveiling the Truth About the ThermoPro TP67: Economical but Questionable Dependability</u></a></li>
+<li><a href="https://win-dash.techidaily.com/upgrade-compliance-revamped-hid-mouse-driver-available/"><u>Upgrade Compliance: Revamped HID Mouse Driver Available</u></a></li>
 </ul></div>
 
