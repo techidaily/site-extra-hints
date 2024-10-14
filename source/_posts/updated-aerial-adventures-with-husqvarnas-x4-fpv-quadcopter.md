@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Aerial Adventures with Husqvarna's X4 FPV Quadcopter"
-date: 2024-09-03T08:22:57.361Z
-updated: 2024-09-04T08:22:57.361Z
+date: 2024-10-07T23:14:13.010Z
+updated: 2024-10-13T17:20:01.279Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
  Hubsan H105S X4 is one of the best drone unit with reasonable price range. It is simply the best package with all advanced features including built in GPS. Even if you are a beginner then you will find this drone a good starter.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Complete Review for Hubsan H501S X4
 
 #### 1. Basic Specs info
@@ -108,6 +115,13 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 ![hubsan h501S x4 controller](https://images.wondershare.com/filmora/article-images/hubsan-h501S-x4-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Hubsan H501S X4 controller is designed with 4.3 LCD screen and it helps users to enjoy FPV camera operation with ease. This LCD screen can display all telemetry data for flights. It works on 5.8 GHz range to send video signals into MicroSD card whereas the controller itself works on 2.4 GHz frequency range.
 
 #### 6. Brushless Motors
@@ -120,6 +134,13 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 ![hubsan h501s x4 brushless camera](https://images.wondershare.com/filmora/article-images/hubsan-h501s-x4-brushless-camera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you are in search of a drone with great camera setup then you will be impressed with Hubsan X4 results. It captures stills with 1080p resolution and live videos need 5.8 GHz frequency from controller and you can view them directly on 4.3” built in screen of controller unit. All photos and videos are directly saved into MicroSD card.
 
 #### Conclusion
@@ -128,13 +149,18 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -142,6 +168,24 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-best-online-hubs-sky-high-dynamic-range-photography/"><u>[New] Best Online Hubs Sky High Dynamic Range Photography</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-how-to-make-amazing-slow-motion-video-on-android-easily/"><u>[New] How to Make Amazing Slow Motion Video on Android Easily</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-10-most-empathetic-3ds-emulators-on-android/"><u>[Updated] 10 Most Empathetic 3DS Emulators on Android</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capturing-purity-best-sound-for-podcasts/"><u>[Updated] Capturing Purity Best Sound for Podcasts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-art-of-filmmaking-demystified-on-youtube/"><u>[Updated] The Art of Filmmaking Demystified on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-the-video-space-in-high-capacity-drives/"><u>2024 Approved Understanding the Video Space in High-Capacity Drives</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/analyzing-investment-for-video-promotion/"><u>Analyzing Investment for Video Promotion</u></a></li>
+<li><a href="https://win11.techidaily.com/bridging-generations-old-games-to-your-my-pictures-on-w11/"><u>Bridging Generations: Old Games to Your My Pictures on W11</u></a></li>
+<li><a href="https://fox-where.techidaily.com/comment-configurer-et-reparer-une-image-de-sauvegarde-sur-windows-11/"><u>Comment Configurer Et Réparer Une Image De Sauvegarde Sur Windows 11?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-standard-pixels-to-dynamic-range-extremes-a-transformation-journey/"><u>From Standard Pixels to Dynamic Range Extremes A Transformation Journey</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-apple-music-add-on-for-smooth-video-playback/"><u>In 2024, Apple Music Add-On for Smooth Video Playback</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-compendium-of-different-photographic-gadgets/"><u>In 2024, Compendium of Different Photographic Gadgets</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-visionary-4k-cameras-leading-brands-a-to-z-top-18/"><u>In 2024, Visionary 4K Cameras Leading Brands A-to-Z (Top 18)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-list-top-free-photo-stockpile-locales/"><u>Master List Top Free Photo Stockpile Locales</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-container-issue-resolution-understanding-and-fixing-the-failed-to-enumerate-objects-error/"><u>Windows 10 Container Issue Resolution: Understanding and Fixing the 'Failed to Enumerate Objects' Error</u></a></li>
+</ul></div>
+

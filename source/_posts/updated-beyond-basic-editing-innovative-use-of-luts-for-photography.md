@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Beyond Basic Editing  Innovative Use of LUTs for Photography\""
-date: 2024-10-01T17:59:46.066Z
-updated: 2024-10-07T21:06:05.930Z
+date: 2024-10-10T21:18:08.997Z
+updated: 2024-10-13T17:38:57.813Z
 tags: 
   - screen-recording
   - ai video
@@ -51,10 +51,10 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use LUTs using Photoshop CC?
@@ -66,10 +66,10 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Choose Adjustment Layer
@@ -95,6 +95,13 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Here's the second one
 
 1. Open the LUT folder, which changes the version to your version.
@@ -112,10 +119,10 @@ Grow Together
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -127,13 +134,6 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Closing Thoughts:
 
@@ -165,20 +165,20 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/1716070174820-updated-in-2024-instant-mac-screen-savior-free/"><u>[Updated] In 2024, Instant Mac Screen Savior - Free!</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-master-your-fb-video-archive-with-1-5-choices/"><u>[Updated] Master Your FB Video Archive with #1-5 Choices</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-f34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726221620836-7/"><u>最佳办法将照片变成影片:选用7款高效软件与教程解码</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-wide-angle-photos-with-a-fisheye-effect-for-2024/"><u>Crafting Wide-Angle Photos with a Fisheye Effect for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/humor-horizon-developer-for-2024/"><u>Humor Horizon Developer for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-blur-it-out-simplified-identity-obscuration-techniques/"><u>In 2024, Blur It Out Simplified Identity Obscuration Techniques</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-does-itools-virtual-location-not-work-on-apple-iphone-11ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does iTools virtual location not work On Apple iPhone 11/iPad? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/innovative-vr-headsets-transforming-drones/"><u>Innovative VR Headsets Transforming Drones</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-close-up-views-in-google-meet/"><u>Mastering Close-Up Views in Google Meet</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/perfecting-online-photos-the-cropping-guide/"><u>Perfecting Online Photos The Cropping Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/periscopes-unveiling-no-cost-entry-and-steps-to-signup/"><u>Periscope's Unveiling No Cost Entry & Steps to Signup</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/pushing-the-envelope-in-display-technology-detailed-examination-of-benq-bl2711u/"><u>Pushing the Envelope in Display Technology Detailed Examination of BenQ BL2711U</u></a></li>
-<li><a href="https://common-error.techidaily.com/successfully-setting-up-your-visualization-toolkits-d3d-element-without-errors-guide-and-solution/"><u>Successfully Setting Up Your Visualization Toolkit's D3D Element Without Errors - Guide and Solution</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-achieving-studio-quality-with-audacity/"><u>[New] Achieving Studio Quality with Audacity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-advanced-techniques-for-azure-speech-to-text-use/"><u>[New] Advanced Techniques for Azure Speech to Text Use</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-expert-tips-to-correct-video-transmission-problem-on-mobile-messengers-for-2024/"><u>[New] Expert Tips to Correct Video Transmission Problem on Mobile Messengers for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-inside-and-out-a-full-guide-to-theta-s-features/"><u>[New] Inside & Out A Full Guide to Theta S Features</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-navigating-the-world-of-gopro-timelapses-efficiently-for-2024/"><u>[New] Navigating the World of GoPro Timelapses Efficiently for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-self-designed-instagram-ringtone-creation-steps-for-2024/"><u>[New] Self-Designed Instagram Ringtone Creation Steps for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-revolutionizing-audience-retention-on-youtube-with-these-top-6-techniques/"><u>[Updated] 2024 Approved Revolutionizing Audience Retention on YouTube with These Top 6 Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-cold-climate-conquests-unveiling-beijings-olympic-flair/"><u>[Updated] Cold Climate Conquests Unveiling Beijing's Olympic Flair</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-system-call-failure-in-win11/"><u>Eliminating System Call Failure in Win11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-insight-into-the-best-6-harnesses-for-gopro-headsets/"><u>Essential Insight Into The Best 6 Harnesses for GoPro Headsets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-the-best-websites-for-dynamic-sky-imaging/"><u>Explore the Best Websites for Dynamic Sky Imaging</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-v29-promirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo V29 ProMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-the-latest-usb-c-drivers-on-windows-11/"><u>How to Install the Latest USB-C Drivers on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-upside-down-and-sideways-iphone-photos/"><u>Mastering Upside-Down and Sideways iPhone Photos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-selections-premium-webcam-platforms/"><u>Ultimate Selections Premium Webcam Platforms</u></a></li>
 </ul></div>
 

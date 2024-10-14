@@ -1,7 +1,7 @@
 ---
 title: "[New] Accelerated Scanning Process for Windows"
-date: 2024-09-03T08:17:51.403Z
-updated: 2024-09-04T08:17:51.403Z
+date: 2024-10-09T23:26:46.736Z
+updated: 2024-10-13T20:26:51.705Z
 tags: 
   - screen-recording
   - ai video
@@ -40,6 +40,13 @@ Step3 After successfully installing QuickLook, head to File Explorer and select 
 
 Unfortunately, you won’t preview the content inside the document file. Instead, you’ll only see details like the file type/format, size, image name, and more. You can also directly choose the opening app. As for videos and audio, the media file will automatically play on the QuickLook media player. But don’t fret because the following section will teach you to read your documents, presentations, PDFs, and other files on QuickLook without opening the file.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Get the App on GitHub
 
 If you can’t find QuickLook on Microsoft Store for one reason or another, download the program from GitHub. It’s an open-source community where millions of software developers converge to distribute and share their work. Here, you can download and install multiple desktop programs and plugins for free. However, you must be a registered member to contribute any content.
@@ -50,21 +57,39 @@ Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and
 
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
 
 ![install the quicklook for windows msi](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
 
 ![install quicklook for windows plugins](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step4 After a successful installation, find the file you want to preview and select it. Then, tap the space bar to preview the files. And remember, browse ZIP files to view all content.
 
 **Pro tip**: We recommend installing the QuickLook OfficeViewer plugin to rip open your Office files and view the content inside. This method is recommended if you haven’t installed Microsoft Office on your PC. However, you might notice that the OfficeViewer plugin isn’t supported on your Windows PC. So to install OfficeViewer, select the file and click the space bar to preview it on QuickLook. Then, tap the “Click here to install this plugin” button. Now restart QuickLook and view all your office documents without opening them on their respective programs.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_1993651" src="//a.impactradius-go.com/gen-ad-code/5597632/1993651/22993" width="160" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Part 3: Should We Expect Built-in Quick Look on Windows in the Future?
 
 Mac users have enjoyed the powerful QuickLook capabilities for at least 15 years. But are we going to see QuickLook coming to Windows 10/11 anytime soon? According to sources, plans are already underway to add this feature to Microsoft Windows and rename it Peek. After selecting a file on Explorer, simply tap the Shift + Space bar to preview the content. Like the macOS version, you can preview PDFs, Excels, Words, images, videos, audio, and pretty much anything.
@@ -73,12 +98,6 @@ Meanwhile, it’s expected that QuickLook will come with a small preview screen.
 
 In other related news, Microsoft will be answering the prayers of their loyal patrons to get tabbed browsing. This is another feature similar to what you currently have on macOS, where you can open new tabs for numerous file locations. In return, this makes moving and copying files more straightforward. This easy-to-navigate addition will definitely make Microsoft Windows users more productive than before.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Frequently Asked Questions
 
 #### 1\. Which digital file formats are compatible with QuickLook?
@@ -93,12 +112,6 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 This guidepost is another testament that your PC has massive hidden abilities. With QuickLook for Windows, you can preview any document, image, or media file with a single click. And don’t forget to install the QuickLook plugins from GitHub to unlock the program’s full potential.
@@ -131,4 +144,20 @@ This guidepost is another testament that your PC has massive hidden abilities. W
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-boosting-video-dimensions-on-youtube-platform/"><u>[New] Boosting Video Dimensions on YouTube Platform</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10-preferred-top-free-image-editing-and-overlay-apps-for-phones/"><u>[Updated] 10 Preferred Top-Free Image Editing & Overlay Apps for Phones</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-scoop-on-the-best-speed-a-top-ranked-list-of-racing-games/"><u>[Updated] In 2024, Scoop on the Best Speed A Top-Ranked List of Racing Games</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-educational-videography-key-editing-strategies/"><u>2024 Approved Educational Videography Key Editing Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/balance-relaxation-and-growth-with-this-ultimate-guide-to-multitasking-and-podcasting-for-2024/"><u>Balance Relaxation and Growth With This Ultimate Guide to Multitasking & Podcasting for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862789860-discover-unbeatable-bargain-samsungs-odyssey-g5eby-27-qhd-ips-monitor-at-a-steal-255/"><u>Discover Unbeatable Bargain – Samsung's Odyssey G5eby - 27” QHD IPS Monitor at a Steal: $255.</u></a></li>
+<li><a href="https://win11.techidaily.com/embrace-cross-device-potential-with-ease-using-samsung-dex/"><u>Embrace Cross-Device Potential with Ease Using Samsung DeX</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/nostalgia-frame-portraits-on-the-x-phone/"><u>Nostalgia Frame Portraits on the X Phone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamline-your-audio-content-with-googles-tools/"><u>Streamline Your Audio Content with Google’s Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transcode-video-flv-en-audio-mp3-gratuite-en-ligne-avec-mp3-converter/"><u>Transcode Vidéo FLV en Audio MP3 Gratuite en Ligne Avec Mp3-Converter</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/virtual-frontiers-the-most-wanted-vr-devices/"><u>Virtual Frontiers The Most Wanted VR Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-11-audio-malfunctions-effective-solutions-for-restoring-speakersheadphones-functionality/"><u>Windows 11 Audio Malfunctions: Effective Solutions for Restoring Speakers/Headphones Functionality</u></a></li>
+</ul></div>
 

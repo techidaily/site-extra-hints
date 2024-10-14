@@ -1,7 +1,7 @@
 ---
 title: "\"Boost Visual Impact  Learning to Edit Videos Using StoryRemix and Windows Photos for 2024\""
-date: 2024-10-04T21:14:12.039Z
-updated: 2024-10-08T01:46:10.631Z
+date: 2024-10-10T21:50:48.333Z
+updated: 2024-10-13T17:39:26.910Z
 tags: 
   - screen-recording
   - ai video
@@ -68,6 +68,13 @@ How to create a Story Remix project automatically –
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-name-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to create a Story Remix project from scratch
 
 Here is the guide –
@@ -77,13 +84,6 @@ Here is the guide –
    3. Tap on the **Add** button and give a name.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-random-min.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Hit on **Create video** afterwards.
 2. Now, you can preview, edit or share your video.
@@ -95,10 +95,16 @@ Story Remix has 3 major sections namely, media bin consists of files already inc
 In the following sections, we have segregated each editing feature of Story Mix for you to explore –
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding a new theme
@@ -110,6 +116,13 @@ A theme is a built-in feature in Photos, just like music, filters, and text styl
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-theme-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adding image duration
 
 While adding media to the timeline in Story Mix, you will see that there is a default timeline for each image. To adjust the duration, you can do –
@@ -117,13 +130,6 @@ While adding media to the timeline in Story Mix, you will see that there is a de
 Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-duration-min.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Adding custom text
 
@@ -133,6 +139,20 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-text-min.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adding motion
 
 1. Firstly, choose the content from the timeline and hit on ‘Motion’. Now, select camera motion style from ‘Zoom in center’/’Zoom in right’/’Pan left’/’Tilt up’ etc.
@@ -140,30 +160,10 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-motion-min.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Trimming video clips
 
 1. Pick the video from timeline and choose ‘Trim’ button. Mark the trim area and click ‘Play’ to preview.
 2. Hit ‘Done’ in the end.
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5: How to add 3D effects to a Story Remix project
 
@@ -174,19 +174,6 @@ Adding 3D special effects to video clips is one of the lucrative features of Pho
 3. Click ‘Delete’ if you want to remove 3D effects. Hit ‘Done’ for saving the changes.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-effects-min.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 6: How to export a Story Remix video
 
@@ -203,6 +190,13 @@ Now, pick the app or contact and send the video.
 
 Recent videos are found on ‘Collections’ section if they are auto created. Otherwise, all the Story Remix files are located permanently on ‘Creations’ section.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 From this article, we are sure that you have got plenty to learn about Story Remix. This wonderful feature from Windows 10 Photos is going to win hearts.
@@ -216,10 +210,10 @@ If you want to edit video, we recommend [Wondershare Filmora](https://tools.tech
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -237,18 +231,16 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-advanced-subtitle-editing-unlocking-potential-with-macos/"><u>[New] Advanced Subtitle Editing Unlocking Potential with MacOS</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-screencapture-pro-tips-your-guide-to-free-recording-options/"><u>[New] ScreenCapture Pro Tips – Your Guide to FREE Recording Options</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-complete-how-to-embedding-srt-tracks-into-mp4-media-2024/"><u>[Updated] Complete How-To Embedding SRT Tracks Into MP4 Media 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-depth-analysis-applying-luts-to-elevate-your-cinematography-for-2024/"><u>[Updated] In-Depth Analysis Applying LUTs to Elevate Your Cinematography for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/into-the-depths-mastering-gopros-time-lapse-techniques/"><u>Into the Depths Mastering GoPro's Time-Lapse Techniques</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/leading-video-making-phones-top-10-edition/"><u>Leading Video-Making Phones Top 10 Edition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/slippery-surfaces-olympic-winners-of-22/"><u>Slippery Surfaces Olympic Winners of '22</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlocking-the-power-of-instagram-group-photography/"><u>Unlocking the Power of Instagram Group Photography</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-secrets-behind-the-amazing-performance-and-affordability-of-the-asus-chromebook-flip-c302ca-reviews-inside/"><u>Unveiling the Secrets Behind the Amazing Performance and Affordability of the Asus Chromebook Flip C302CA - Reviews Inside!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/visionplay-app-feedback-summary/"><u>VisionPlay App Feedback Summary</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/voice-virtuosity-in-free-fire-battles/"><u>Voice Virtuosity in Free Fire Battles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-solutions-to-address-the-missing-vcompdll-error-in-windows/"><u>Complete Solutions to Address the Missing vcomp.dll Error in Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/digitaldomain-discoveries-a-deep-dive-into-todays-premium-hardware-picks/"><u>DigitalDomain Discoveries: A Deep Dive Into Today’s Premium Hardware Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-internet-security-using-tor-on-windows-navigate-privately/"><u>Enhancing Internet Security: Using Tor on Windows Navigate Privately</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-choice-top-11-beginner-friendly-kids-camera-options/"><u>Essential Choice Top 11 Beginner-Friendly Kids' Camera Options</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-13-video-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 13 Video to Computer? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-complete-analysis-of-the-new-picsart-guide-and-review-for-updated-app/"><u>In 2024, A Complete Analysis of the New PicsArt – Guide & Review for Updated App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-professionals-secret-efficiently-incorporating-luts-into-premiere-pro/"><u>In 2024, A Professional's Secret Efficiently Incorporating LUTs Into Premiere Pro</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-common-german-expressions-curated-list-top-25/"><u>Mastering Common German Expressions - Curated List (Top 25)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/selective-picks-for-audible-transformation-technologies/"><u>Selective Picks for Audible Transformation Technologies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamlining-color-grading-with-lut-techniques-in-ae/"><u>Streamlining Color Grading with LUT Techniques in AE</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Innovative Q&A Strategy for Attracting Audio Lovers"
-date: 2024-10-07T00:13:29.259Z
-updated: 2024-10-07T16:59:09.908Z
+date: 2024-10-09T19:07:50.236Z
+updated: 2024-10-13T16:34:17.052Z
 tags: 
   - screen-recording
   - ai video
@@ -30,13 +30,6 @@ The best podcast questions to ask guests differ according to your niche and the 
 
 The best way is to divide your questions into different categories.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Great Icebreaker/Intro Questions
 
 Icebreaker questions are used to begin an interview or meeting. These are personal questions to learn more about one another quickly. For example, the prompt might be "share your name, role, and what you usually do during the weekend." These questions aim to have fun, create points of connection between guests, and build confidence in speaking in front of the group.
@@ -57,10 +50,10 @@ Here are some icebreaker questions that you can ask to start an interview.
 10. How did you meet your spouse or partner?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Leading Question
@@ -68,19 +61,6 @@ Here are some icebreaker questions that you can ask to start an interview.
 A leading question suggests a particular answer to the question that the questioner desires. These questions mostly have a yes or no answer. However, if you extract your question from the answer just given by the guest of the podcast, it is also a leading question.
 
 ![leading questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-3.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Some leading questions that you can ask are discussed below.
 
@@ -105,6 +85,13 @@ Some leading questions that you can ask are discussed below.
 In an interview, a comparison question is one where you ask a person what he prefers between these two things. This type of question can also advance the discussion of the topic. Besides, you can get a deeper understanding of what guests think and feel about this podcast episode.
 
 ![comparison questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can ask questions from the comparison questions given below.
 
@@ -144,10 +131,10 @@ When we move on to this type of question, typically, it's time to end the show. 
 After discussing the 50 questions you can ask in a podcast, let's see what a good podcast interview question is. A good interview question is comfortable for the guest and engaging for the listeners, so the guest can answer the question wholeheartedly. Therefore, you need to avoid impolite and aggressive asks during podcasting. Besides, try to ask such questions that your guest is not frequently asked. It may reveal new things about him and make your podcast stand out.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3\. Tips on How To Come Up and Ask Better Questions
@@ -161,16 +148,16 @@ Asking better questions on a podcast requires preparation beforehand. Here are s
 
 You can get the best information from the person you are interviewing if you do the following:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Ask WHY?
 
 ![ask why](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 As an interviewer, "why" is your most powerful tool. Guests usually provide surface-level information or opinions. The follow-up question of "why" makes them go further and give deeper details. It will also help your audience understand correctly what the guest wants to say.
 
@@ -178,16 +165,16 @@ As an interviewer, "why" is your most powerful tool. Guests usually provide surf
 
 If your guest is overwhelmed by the emotions and has stopped before completing his answer, help him achieve it by asking, "What Happened Next?" Use a softer tone while asking this question.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What were your feelings when this happened?
 
 Sometimes you want the guest to answer your questions with feelings and emotions. Making your guest answer your questions while drenched in emotions can take your podcast to the next level. Questions like "What were your feelings when this happened?" can take the guest back to the past and make him answer your question with full emotions.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mirror your guest
 
@@ -215,6 +202,13 @@ Avoiding asking wrong questions is as important as asking good questions. Some q
 * Questions you anticipate will result in a "yes" should be avoided, as a simple "yes" adds little value to the interview for those listening.
 * Similarly, avoid asking questions to which you can predict the answer will be a "no."
 * Avoid questions that might offend your guest.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5\. Should I Send an Advance Interview Questions Podcast?
 
@@ -256,18 +250,17 @@ Consider the following when picking which of the above questions to use on your 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-boost-your-income-with-effective-vimeo-monetization-techniques-for-2024/"><u>[New] Boost Your Income with Effective Vimeo Monetization Techniques for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-essential-8-platforms-for-private-screenings-for-2024/"><u>[New] Essential 8 Platforms for Private Screenings for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-expert-tutorial-quick-hassle-free-ios-snapshots/"><u>[Updated] In 2024, Expert Tutorial Quick, Hassle-Free iOS Snapshots</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/best-video-format-changer-tools-in-201ninth-convert-high-definition-hd-from-ultra-hd4k-to-standard-definitions-like-full-hd720p/"><u>Best Video Format Changer Tools in 201^[Ninth] - Convert High Definition (HD) From Ultra HD/4K to Standard Definitions Like Full HD/720p</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/click-attractor-the-title-crafting-kit/"><u>Click Attractor The Title Crafting Kit</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-access-hp-laserjet-p1006-printer-drivers-and-firmware-downloads/"><u>Easy Steps: Access HP LaserJet P1006 Printer Drivers & Firmware Downloads</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-compelling-mp4-player-selections-reviewed/"><u>In 2024, Compelling MP4 Player Selections Reviewed</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-harmonious-mixes-the-audacity-crossfade-method/"><u>In 2024, Crafting Harmonious Mixes The Audacity Crossfade Method</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-note-30i-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix Note 30i</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-notch-evaluation-of-the-microsoft-sculpt-keyboard-exceptional-worth-for-money/"><u>Top-Notch Evaluation of the Microsoft Sculpt Keyboard – Exceptional Worth for Money</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/visionary-visual-effects-the-best-text-ideas-for-video-artistry/"><u>Visionary Visual Effects The Best Text Ideas for Video Artistry</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/whispering-wonders-for-zzzs-choice-vocalists/"><u>Whispering Wonders for Zzz's Choice Vocalists</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725285931368-dvdmp3/"><u>プロフェッショナルな方法：DVDビデオから高解像度MP3に素晴らしい音声を引き出せます！</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-5-best-snipping-tools-for-pc/"><u>[Updated] 5 Best Snipping Tools for Pc</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-y78-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo Y78 5G</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creative-distortion-techniques-in-digital-photo-editing/"><u>Creative Distortion Techniques in Digital Photo Editing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-tips-for-deactivating-an-inactive-linkedin-profile/"><u>Essential Tips for Deactivating an Inactive LinkedIn Profile</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/harvesting-stills-from-moving-images-on-windows/"><u>Harvesting Stills From Moving Images on Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-adjust-your-photo-and-video-with-3dlut-mobile-for-2024/"><u>How to Adjust Your Photo & Video with 3DLUT Mobile for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-choose-a-trustworthy-email-service-top-5-recommendations-for-security-focused-users/"><u>How to Choose a Trustworthy Email Service: Top 5 Recommendations for Security-Focused Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-to-choose-your-perfect-printer-a-comprehensive-guide/"><u>How to Choose Your Perfect Printer: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-adding-personal-touch-the-art-of-typeface-integration-in-ae/"><u>In 2024, Adding Personal Touch The Art of Typeface Integration in AE</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/solve-your-fire-tv-stick-problems-with-these-7-effective-remedies/"><u>Solve Your Fire TV Stick Problems with These 7 Effective Remedies</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tdr-alert-deciphered-nvidia-opengl-armored-solution/"><u>TDR Alert Deciphered: NVidia OpenGL Armored Solution</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unboxing-the-lofree-edge-delicate-and-pricy-against-apples-magic-type-cover/"><u>Unboxing the Lofree Edge: Delicate and Pricy Against Apple’s Magic Type Cover</u></a></li>
 </ul></div>
 

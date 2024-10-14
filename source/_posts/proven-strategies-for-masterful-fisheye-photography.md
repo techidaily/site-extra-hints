@@ -1,7 +1,7 @@
 ---
 title: "Proven Strategies for Masterful Fisheye Photography"
-date: 2024-09-03T08:17:26.716Z
-updated: 2024-09-04T08:17:26.716Z
+date: 2024-10-12T17:16:59.162Z
+updated: 2024-10-13T23:15:59.322Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 
  The process of shooting panoramas with fisheye lenses involves a number of considerations and they are as follows-:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1. The equipment and setup
 
  To shoot quality 360 degrees panoramas with fisheye, it is imperative to get the equipment as well as the set up right. Your equipment needs to be calibrated properly to make the stitching process nice and easy. To find the best setting for your equipment, the grid method is recommended on the panohead.
@@ -37,8 +44,12 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 ![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_701707" src="//a.impactradius-go.com/gen-ad-code/5597632/701707/7443" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2. Leveling and rotating
 
  Other than setting up and calibrating the equipment in the right manner, it is important to keep the camera steady and leveled as you make the rotations to take shots. For leveling, it is recommended to use an appropriate leveling base, while for rotation, using a panning clamp on top of the ballhead is highly recommended.
@@ -46,11 +57,12 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<iframe id="iframe_1982596" src="//a.impactradius-go.com/gen-ad-code/5597632/1982596/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
+
 ### 3. The actual shooting
 
  For a full frame camera with 15mm fisheye lens in the portrait position, you will require a total of six shot rounds and 1 up to complete a full sphere. If you were using a crop-sensor camera, you will need to have a 10mm fisheye lens to achieve the same sequence.
@@ -71,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 
 [How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What's fisheye lenses
 
  Fisheye lens refers to an ultra wide angle lens used to produce strong visual distortions with the aim of creating a wide hemispherical or panoramic image. Fisheye lenses are able to achieve very wide angles of view not through the production of straight lines of perspectives, but through a special mapping which makes the resulting images have the characteristic convex non-rectilinear appearance.
@@ -85,30 +94,23 @@ thumbnail: https://thmb.techidaily.com/c01f488742f525379e15c90538d56863d27988360
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Conclusion
 
  Fisheye lenses have been around for a while now and the process of creating 360 panoramas with them may not be very challenging, but great results are achieved through practice and proper stitching. Once the photos are taken, you can use premium panorama software like Autopano Pro or you can use free options like the Microsoft ICE or Hugin. Ones stitching are done, it is imperative to have the final works uploaded online for others to view.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -116,3 +118,27 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-beginning-your-instagram-live-journey/"><u>[New] 2024 Approved Beginning Your Instagram Live Journey</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-fv-downloader-for-social-networking-videos/"><u>[New] In 2024, FV-Downloader for Social Networking Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-tube-top-ten-the-most-viewed-tweets-on-social-media/"><u>[New] Tube Top Ten The Most Viewed Tweets on Social Media</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-simplifying-the-process-of-mp3-download-from-pinterest/"><u>[Updated] 2024 Approved Simplifying the Process of MP3 Download From Pinterest</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-compreenas-guide-to-leveraging-ps-background-erasure-for-professional-results/"><u>A Compreenas Guide to Leveraging PS Background Erasure for Professional Results</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-review-of-non-google-augmented-reality-accessories-for-2024/"><u>Comprehensive Review of Non-Google Augmented Reality Accessories for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/digital-repository-open-source-game-tunes/"><u>Digital Repository Open Source Game Tunes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-level-techniques-in-video-spinning-and-joining-on-android/"><u>Expert-Level Techniques in Video Spinning and Joining on Android</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-meizu-21-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Meizu 21 Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-vivo-v29-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Vivo V29 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovations-in-podcasting-generating-custom-rss-files/"><u>Innovations in Podcasting Generating Custom RSS Files</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-slow-motion-footage-gopro-hero-10-tips/"><u>Mastering Slow-Motion Footage GoPro Hero 10 Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-the-complexities-of-mac-and-mixer-streaming/"><u>Navigating the Complexities of MAC and Mixer Streaming</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-silent-speakers-steps-to-restore-sounds-on-your-pc/"><u>Resolving Silent Speakers - Steps to Restore Sounds on Your PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/solo-sounder-snafu-remedy-plan/"><u>Solo Sounder Snafu Remedy Plan</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-future-of-photo-shooting-smart-hdr-technology-insights/"><u>The Future of Photo Shooting Smart HDR Technology Insights</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-rated-hd-hindi-video-player-software-complimentary-downloads-for-windows-and-mac-os-x/"><u>Top Rated HD Hindi Video Player Software: Complimentary Downloads for Windows & Mac OS X</u></a></li>
+</ul></div>
+

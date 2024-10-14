@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Viewing YouTube Video Reactions and Votes"
-date: 2024-10-03T00:38:28.297Z
-updated: 2024-10-07T19:47:45.630Z
+date: 2024-10-10T19:59:47.367Z
+updated: 2024-10-13T23:36:09.485Z
 tags: 
   - screen-recording
   - ai video
@@ -44,19 +44,6 @@ If you're wondering whether you really need to monitor your YouTube comments, he
 * YouTube comments present an opportunity for engagement: Responding quickly to negative comments could help you improve your image-not just with an unhappy viewers, but also with other YouTube viewers who see how you respond to conflict.
 * YouTube comments could help you develop new content: YouTube users aren't shy about expressing their opinions. Pay attentions to what they're saying about your content, and how can develop new content that they want to see.
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Comment on a YouTube Video
 
 Moderating comments that appear on your video is important (and we'll get to the details of that in a minute) but as a brand, you'll want to pipe up with your own commentary, too.
@@ -68,13 +55,6 @@ Each comment you leave is another reference and exposure to your brand (and a ch
 Step1 Below the video itself, find the comment section.
 
 ![find the comment section youtube](https://images.wondershare.com/filmora/article-images/2022/11/find-the-comment-section-youtube.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step2 Type your message in the add a comment field. (if you're writing on your phone you can tap the comment section to expand it.
 
@@ -94,15 +74,22 @@ Step1 Open your chosen browser, head to YouTube, then sign in to your Google/You
 
 ![sign in youtube account](https://images.wondershare.com/filmora/article-images/2022/11/sign-in-youtube-account.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 On the YouTube homepage, click on the three horizontal parallel lines in the top-left corner. A drop down menu appears, including the trending videos of the day, your subscriptions and your settings.
 
 ![horizontal parallel lines youtube](https://images.wondershare.com/filmora/article-images/2022/11/horizontal-parallel-lines-youtube.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 From the drop down menu, select “History”.
@@ -110,6 +97,13 @@ Step3 From the drop down menu, select “History”.
 Step4 On the right side under the “Manage all history” section, click on “comments”.
 
 ![manage all history comments youtube](https://images.wondershare.com/filmora/article-images/2022/11/manage-all-history-comments-youtube.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step5 To edit your comment, click on the “vertical ellipsis” (three vertical dots) on the far right side of the listed video page.
 
@@ -142,10 +136,10 @@ Comments history also contains the link to the video where you've left the comme
 ![delete unwanted youtube comments](https://images.wondershare.com/filmora/article-images/2022/11/delete-unwanted-youtube-comments.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -184,22 +178,21 @@ One way you can encourage people to leave comments on your videos is to finish t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-best-gopro-tools-for-deep-sea-cinematography/"><u>[New] Best Gopro Tools for Deep-Sea Cinematography</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-the-complete-guide-to-tweeting-visual-content-in-form-of-customized-gifs/"><u>[Updated] 2024 Approved The Complete Guide to Tweeting Visual Content in Form of Customized GIFS</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-marketing-mastery-discerning-real-engagement-from-skewed-statistics/"><u>[Updated] Marketing Mastery Discerning Real Engagement From Skewed Statistics</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-budget-friendly-cloud-pricing-showdown/"><u>2024 Approved Budget-Friendly Cloud Pricing Showdown</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-youtube-streaming-essentials-for-newbies-without-thousands-of-fans/"><u>2024 Approved YouTube Streaming Essentials for Newbies without Thousands of Fans</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-software-and-techniques-for-film-from-photos/"><u>In 2024, Best Software and Techniques for Film From Photos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-building-your-brand-creating-a-professional-podcast-feed/"><u>In 2024, Building Your Brand Creating a Professional Podcast Feed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leading-8-ai-powered-applications-you-need-on-your-mobile-device-android-and-ios/"><u>Leading 8 AI-Powered Applications You Need on Your Mobile Device (Android and iOS)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-gopro-karma-performance/"><u>The Ultimate Guide to GoPro Karma Performance</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-honor-90-lite-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor 90 Lite Reset Code | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-review-a-comprehensive-guide-by-toms-hardware/"><u>Tom's Tech Review: A Comprehensive Guide by Tom's Hardware</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-tricks-for-achieving-high-quality-slow-motion-videos-on-android-for-2024/"><u>Top Tricks for Achieving High-Quality Slow Motion Videos on Android for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-no-cost-voice-modifier-transform-your-valorant-gameplay/"><u>Ultimate No-Cost Voice Modifier Transform Your Valorant Gameplay</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-tutorial-acquiring-the-latest-drivers-for-your-acer-aspire-computer-on-a-windows-system/"><u>Ultimate Tutorial: Acquiring the Latest Drivers for Your Acer Aspire Computer on a Windows System</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-unleash-your-creativity-easy-gopro-video-editing-for-beginners/"><u>Updated Unleash Your Creativity Easy GoPro Video Editing for Beginners</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/videography-space-on-128gb-technology/"><u>Videography Space on 128GB Technology</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/visuals-vault-uploading-to-ig/"><u>Visuals Vault Uploading to IG</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-exploring-12-premium-cameras-for-professional-vloggers/"><u>[New] 2024 Approved Exploring 12 Premium Cameras for Professional Vloggers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-images-into-engaging-animation-projects/"><u>[New] Transforming Images Into Engaging Animation Projects</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-independent-filming-freedoms-agreement/"><u>[Updated] 2024 Approved Independent Filming Freedoms Agreement</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-social-media-trends-visualized/"><u>[Updated] Social Media Trends Visualized</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-streamline-your-screen-recording-on-mac-with-these-tools-for-2024/"><u>[Updated] Streamline Your Screen Recording on Mac with These Tools for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-10plus-top-tips-for-accessing-the-best-of-international-cricket-online/"><u>2024 Approved 10+ Top Tips for Accessing the Best of International Cricket Online</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-2023-complete-guide-twitter-reaction-videos/"><u>2024 Approved 2023 Complete Guide | Twitter Reaction Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-choreographing-spellbinding-short-films/"><u>2024 Approved Choreographing Spellbinding Short Films</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-combining-skypes-ease-with-zooms-advanced-features/"><u>2024 Approved Combining Skype's Ease with Zoom's Advanced Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-techniques-to-download-thousands-of-tiktok-videos/"><u>2024 Approved Comprehensive Techniques to Download Thousands of TikTok Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-visuals-theory-to-practice-with-colors/"><u>2024 Approved Crafting Visuals Theory to Practice with Colors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/action-and-adventure-with-ions-pro-3-camera-insight/"><u>Action and Adventure with ION's Pro 3 Camera Insight</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/are-m1-laptops-setting-the-standard-in-editing-studios-for-2024/"><u>Are M1 Laptops Setting the Standard in Editing Studios for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-5-ios-backdrop-swappers-x87-edition-for-2024/"><u>Best 5 iOS Backdrop Swappers X/8/7 Edition for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-iphone-14-plus-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On iPhone 14 Plus in the Best Ways</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-maximizing-profits-on-youtube-the-latest-policy/"><u>In 2024, Maximizing Profits on YouTube The Latest Policy</u></a></li>
 </ul></div>
 

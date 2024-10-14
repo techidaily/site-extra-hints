@@ -1,7 +1,7 @@
 ---
 title: "\"High-End Horizons  The Elite 8K Camera Selection\""
-date: 2024-09-03T08:21:25.358Z
-updated: 2024-09-04T08:21:25.358Z
+date: 2024-10-08T18:43:49.386Z
+updated: 2024-10-13T21:55:11.962Z
 tags: 
   - screen-recording
   - ai video
@@ -42,6 +42,13 @@ It is worth noting that the resolution of still images is different than the vid
 
 The images recorded with 8K cameras can be used for live broadcasts, in cinemas or they can be displayed on [8K television sets](https://tools.techidaily.com/wondershare/filmora/download/). Even so, 4K and Full HD videos are still the industry standard and it remains to be seen if 8K technology is going to change that.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Aspects Should You Consider When Choosing an 8K Camera?
 
 **How Much Is An 8K Camera?**
@@ -70,12 +77,6 @@ This camera should be capable of recording **8K footage at 60 fps**, as well as 
 
 Models like [EOS 5DS](https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/eos-dslr-and-mirrorless-cameras/dslr/eos-5ds) or [EOS R](https://www.amazon.com/Canon-Mirrorless-Digital-Camera-Body/dp/B07H484HLT), are powerful enough to enable you to take still images at resolutions that resemble those provided by 8K cameras. However, the exact date when Canon is going to unveil their first 8K camera is still not known, but if any of the rumors are true it could easily happen that we are going to see the Canon’s first 8K camera in 2020.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Nikon
 
 Even though Nikon is one of the leading camera manufacturers in the world, there are still no 8K Nikon cameras. After Apple’s WWDC event information surfaced that Nikon is developing a new 8K model, but this information has been dismissed as false soon after the event.
@@ -85,11 +86,12 @@ At the moment the [Nikon D850](https://www.nikonusa.com/en/nikon-products/produc
 ![Nikon D850 8K Timelapse Camera ](https://images.wondershare.com/filmora/article-images/nikon-d850-8k-time-lapse-camera.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Image resource: Nikon
 
 This Nikon’s camera has also 7fps continuous shooting mode as well as the capability to record 4K UHD videos at 30, 25 and 24 fps. Nikon D850 has an FX CMOS sensor that can capture images that have 8256 x 5504 pixels and the ISO sensitivity that ranges from ISO 64 to ISO 25,600.
@@ -112,24 +114,12 @@ Professional cinematographers don’t need an introduction to Sony’s cameras, 
 
 ![Sony F65 CineAlta 8K Camera ](https://images.wondershare.com/filmora/article-images/sony-f65-cineAlta-8k-camera.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Image resource: Sony
 
 The **1-chip 20MP Super 35mm type** **24.7mm X 13.1mm** **CMOS sensor** enables you to capture videos in 8K, 4K or 2K resolutions. The camera’s **PL lens mount** is standard for all film cameras, which means that you won’t have too much trouble finding the lens you can use with F65 CineAlta.
 
 The camera has **14 stops of exposure latitude**, so if you are shooting RAW video files F65 will utilize the **S-Log3/S-Gamut3 gamma curve** to ensure accurate color depiction. In addition, this 8K camera can capture **275,000,000,000,000 color variations** even while you are shooting in full resolution at 60fps. Unsurprisingly, F65 CineAlta costs more than $60.000, but it is still a great investment for all professional filmmakers in need of a camera that can deliver great performances regardless of the available light.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Ikegami
 
 Ikegami is a well-known manufacturer of professional broadcast cameras, so it comes as no surprise that the first handheld 8K UHD Television Camera System was produced by this Japanese television equipment manufacturer. Their [SHK-810 8K Super Hi-Vision Camera System](https://www.ikegami.com/archives/menu1/shk-810) features a **Super 35mm 33 million-pixel CMOS Sensor** as well as **4,000 TV lines** which enables the camera to capture highly-detailed images.
@@ -137,11 +127,12 @@ Ikegami is a well-known manufacturer of professional broadcast cameras, so it co
 ![ikegami 8K Super Hi-Vision Camera System ](https://images.wondershare.com/filmora/article-images/ikegami-8k-super-hi-vision-camera-system.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Image resource: ikegami
 
 This broadcast camera has **a PL lens mount with a back-focus adjusting mechanism** that helps the camera operator to keep the image sharp even while recording rapidly moving figures and objects. The SHK-810’s output signal features are equally impressive since you can choose between **SHV Dual Green SDI Interface, 4K SMPTE 424M (3G-SDI) Level B and HD SMPTE 292M** options.
@@ -149,8 +140,12 @@ This broadcast camera has **a PL lens mount with a back-focus adjusting mechanis
 In addition, you can choose between **2-channel x 4K and 4-channel HD** return signals or opt for **Tri-Level Sync** or **VBS** external sync signals. However, SHK-810 is bulky and heavy, as it weighs 9kg or 19.6 lbs without a viewfinder which makes it difficult to use without a tripod during events that last for several hours. Moreover, the camera is aimed at large television networks rather than filmmakers and cinematographers, and at the moment Ikegami doesn’t offer any 8K camera models that are designed for filmmaking purposes.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 6\. Red
 
 The list of TV shows and movies shot on RED cameras is seemingly endless and it includes some of the best movies made over the last ten years. Models like [Monstro 8K VV](https://www.red.com/DSMC2-BRAIN?quantity=1?sensor=1), [Helium 8K S35](https://www.red.com/DSMC2-BRAIN?quantity=1&sensor=2) [Helium 8K S35 Monochrome](https://www.red.com/DSMC2-MONOCHROME-BRAIN?quantity=1&sensor=2) are all **modular DSMC2 cameras** that can be used with different types of lenses. Each of these 8K cameras has a **35.4 MP CMOS sensor**, however, the size of the sensor depends on the model. All RED’s 8K DSMC2 cameras can write data at **300 MB/s** and they have an incredibly high dynamic range that varies from **16.5+ to 17+ stops**, which enables them to capture a broad spectrum of colors.
@@ -166,11 +161,12 @@ The body of an 8K Red camera can cost between **$24,000 and $50,000** which make
 Still don't know to choose which? Whatch this!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### What Gear Do Creators Actually Use | Vidcon 2023 | Sony vs Canon
 
 **Conclusion**
@@ -187,11 +183,25 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-navigating-roku-tv-facebook-live-broadcasting-tips-for-2024/"><u>[New] Navigating Roku TV Facebook Live Broadcasting Tips for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-securely-download-your-youtube-playlist-at-any-time/"><u>[Updated] 2024 Approved Securely Download Your YouTube Playlist at Any Time</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-capturing-every-detail-best-practices-for-hp-laptop-recording/"><u>[Updated] In 2024, Capturing Every Detail Best Practices for HP Laptop Recording</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-5-mac-superior-bandicam-alternates/"><u>[Updated] Top 5 Mac Superior Bandicam Alternates</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unlocking-the-full-spectrum-of-vlc-player-capabilities/"><u>[Updated] Unlocking the Full Spectrum of VLC Player Capabilities</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-itel-a70-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-make-your-periscope-stream-swifter/"><u>How to Make Your Periscope Stream Swifter</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-boost-tiktok-bio-presence-perfectly-pairing-it-with-linktree/"><u>In 2024, Boost TikTok Bio Presence Perfectly Pairing It with Linktree</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-c-span-video-hack-a-controocentric-viewpoint/"><u>In 2024, C-Span Video Hack A Controocentric Viewpoint</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/integrate-soundscape-into-premiere-pro-projects/"><u>Integrate Soundscape Into Premiere Pro Projects</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/superior-drones-10-mastering-visuals-and-videos/"><u>Superior Drones #10 Mastering Visuals & Videos</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Augmented Reality Explained Simply"
-date: 2024-10-05T21:11:13.617Z
-updated: 2024-10-07T16:19:47.321Z
+date: 2024-10-11T17:00:05.993Z
+updated: 2024-10-13T18:14:41.970Z
 tags: 
   - screen-recording
   - ai video
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
  The presentation of augmented reality is in some form of futuristic technology, despite the fact that it has been around for many years. For example, the heads-up display in many fighter jets utilizes the principles of augmented reality, and these date back to the early 1990s when they were used to show information about altitude, speed and direction of the aircraft.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How does Augmented Reality work
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
  In general, the device will search for a particular object, which can be anything, but in most cases, they are usually 2D images like in the form of a movie poster. The augmented reality application will recognize the target through the camera and it will then process the image and augment it in some form through the utilization of sound and pictures. For example, if the target object was a movie poster, you may see it spring into life to play a trailer of the movie. So long as you continue viewing the poster through the “window” of the display object, you will see augmented reality rather than the plain old normal poster in normal reality.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The future of Augmented Reality
@@ -63,10 +63,16 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
  Like with every new technology, augmented reality comes with a plethora or ethical and political issues. For example, the Google Glass came along with a lot of privacy concerns, with some people worried that pictures may be snapped or conversations may be recorded surreptitiously. But amidst all these concerns, AR technology is expected to gather more steam in the near future and it will be a part of life for the majority.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Applications of Augmented Reality
@@ -104,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -125,22 +131,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/1716069848726-new-internal-recorder-usage-for-capturing-screens-on-mate-series-and-p-series-mate-1020-p2010-for-2024/"><u>[New] Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10). For 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unmatched-camera-and-recording-app-selection-on-iphones-and-androids/"><u>[Updated] Unmatched Camera & Recording App Selection on iPhones and Androids</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-assessing-inshots-superiority-in-the-editing-arena/"><u>2024 Approved Assessing InShot's Superiority in the Editing Arena</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-boost-your-iphones-visual-impact-with-diy-photo-collage-methods/"><u>2024 Approved Boost Your iPhone's Visual Impact with DIY Photo Collage Methods</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-breaking-down-face-id-barriers-in-iphone-x-a-fix-guide/"><u>2024 Approved Breaking Down Face ID Barriers in iPhone X - A Fix Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-windows-11-cc-setup-hurdles/"><u>Bypassing Windows 11 CC Setup Hurdles</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comparative-study-twitch-and-youtube-in-streaming-land-for-2024/"><u>Comparative Study Twitch & YouTube in Streaming Land for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-concept-to-delivery-using-luts-with-adobe-ae/"><u>From Concept to Delivery Using LUTs with Adobe AE</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-shorten-and-resize-video-on-iphone/"><u>How to Shorten and Resize Video on iPhone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/huge-sale-on-click-and-grow-indoor-gardens-save-big-during-prime-day-2022/"><u>Huge Sale on Click & Grow Indoor Gardens - Save Big During Prime Day 2022!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-complete-visual-field-review-with-cam/"><u>In 2024, Complete Visual Field Review with Cam</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Poco F5 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-world-of-warcraft-performance-top-tips-to-counteract-low-fps/"><u>Mastering World of Warcraft Performance: Top Tips to Counteract LOW FPS !</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/proven-techniques-in-the-art-of-srt-file-making/"><u>Proven Techniques in the Art of SRT File Making</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-solving-windows-camera-not-working-error-0xa00febec6-issue/"><u>Troubleshooting Guide: Solving Windows Camera Not Working (Error 0xA00Febec6) Issue</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/urgent-enhancements-to-revolutionize-gpts-plugin-ecosystem/"><u>Urgent Enhancements to Revolutionize GPT's Plugin Ecosystem</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-guide-to-captivating-gmeet-audiences-with-flawless-ppt-presentations/"><u>[New] In 2024, Guide to Captivating GMeet Audiences with Flawless PPT Presentations</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-beginners-pathway-to-custom-vocalization-expert-tips-on-modifying-sounds-free/"><u>[Updated] The Beginner's Pathway to Custom Vocalization Expert Tips on Modifying Sounds (Free)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/asus-proart-pa-329q-the-pinnacle-in-high-definition-viewing-for-2024/"><u>Asus ProArt PA 329Q The Pinnacle in High-Definition Viewing for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/asus-unleashed-the-mg28uq-review-of-high-definition-vision/"><u>ASUS Unleashed - The MG28UQ Review of High-Definition Vision</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/auditory-interface-excellence-for-podcasters-for-2024/"><u>Auditory Interface Excellence For Podcasters for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/aural-tales-the-best-of-radio-plays-for-2024/"><u>Aural Tales The Best of Radio Plays for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/av1-essentials-for-the-uninitiated/"><u>AV1 Essentials For the Uninitiated</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/avoiding-common-pitfalls-in-digital-marketing-journey/"><u>Avoiding Common Pitfalls in Digital Marketing Journey</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/baffled-by-blank-screens-on-a6400/"><u>Baffled by Blank Screens on A6400</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-differences-roku-express-vs-roku-stick-for-optimal-viewing-experience/"><u>Decoding the Differences: Roku Express vs Roku Stick for Optimal Viewing Experience</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rs-elite-gadgets-best-machines-for-screen-magic-for-2024/"><u>Editor’s Elite Gadgets Best Machines for Screen Magic for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-gameloop-crashes-in-windows-11-and-windows-10-complete-guide/"><u>How to Fix GameLoop Crashes in Windows 11 & Windows 10 – Complete Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Xiaomi Redmi K70E? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-vivo-v30-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Vivo V30 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simple-guide-installing-lenovo-x220-device-drivers-fast-and-secure/"><u>Simple Guide: Installing Lenovo X220 Device Drivers - Fast and Secure</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-itel-p55t-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Itel P55T without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
 

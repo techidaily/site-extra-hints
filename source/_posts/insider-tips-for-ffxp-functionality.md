@@ -1,7 +1,7 @@
 ---
 title: "Insider Tips for FFXP Functionality"
-date: 2024-09-03T08:18:22.997Z
-updated: 2024-09-04T08:18:22.997Z
+date: 2024-10-06T16:00:36.912Z
+updated: 2024-10-13T21:23:03.761Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,13 @@ When your video is in picture-in-picture mode, the video placeholder also displa
 
 Using keyboard shortcuts, you can make adjustments for loudness but not for the video quality. However, you may make these adjustments from the original web page of the film. Also, keep in mind that any modifications to its initial position will affect the floating player. The video will immediately disappear when you refresh or open a new website in that tab.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. How to activate Picture-in-Picture (PiP) in Firefox
 
 Firefox is often considered one of the most data-protective browsers, but that is not all. Mozilla Firefox also comes with a variety of useful tools and features. It even incorporates certain features you can only find through extensions in other browsers.
@@ -54,14 +61,18 @@ Here's how to activate picture-in-picture video control in Firefox**:**
 
 ![choose the options/settings]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Scroll down in the General mode to locate the **Browsing** settings option.
 2. Here, you will see a list of browsing settings; click to select the '**Enable picture in picture video controls'**, and check the box.
 
 ![a list of browsing settings]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_2135471" src="//a.impactradius-go.com/gen-ad-code/5597632/2135471/18498" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 Following the above procedure, you may now see the Firefox Picture-in-Picture symbol in the video streaming player. Whenever you visit a streaming site, a symbol for pip mode appears as an overlay on the video screen.
 
 ![the firefox picture in picture symbol]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-4.jpg)
@@ -77,8 +88,12 @@ You can load only a single video using the above guideline. Suppose you want to 
 ![the new video above the first]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1982485" src="//a.impactradius-go.com/gen-ad-code/5597632/1982485/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 By following these steps, videos appear on the screen at the same time. For all tabs containing open videos, the main Firefox window shows a "play" symbol. Even if you dismiss Firefox, numerous videos will continue to play in other programs or on your desktop.
 
 ## Part 3\. How to Disable the Picture-in-Picture Mode
@@ -87,45 +102,38 @@ Sometimes, the PiP mode can disturb necessary research or task that needs your f
 
 ![click the following icon]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4\. Other tips about Picture-in-Picture Mode in Firefox
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1983573" src="//a.impactradius-go.com/gen-ad-code/5597632/1983573/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 4.1 Picture-in-Picture extension in Firefox
 
 Another mode of having your picture-in-picture mode on Firefox is using the available add-on features. You can access several add-on extensions available on Firefox by tapping the **Menu** button. Locate the [add-on menu item](https://addons.mozilla.org/en-US/firefox/) and click it. Once it loads, you can use the search bar at the top right corner to select your preferred picture-in-picture add-on.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 4.2 Keyboard shortcuts about Picture-in-Picture in Firefox
 
 It is also possible to enable and disable the picture-in-picture mode using keyboard shortcuts. To get this done, use the key combination of **'Ctrl + Shift + \]'**. By simultaneously holding these keys, Firefox will launch the relevant video on the web page into a picture-in-picture mode. However, if the feature has been enabled before pressing the key combination, it automatically disables the feature.
 
 ![the key combination]( https://images.wondershare.com/filmora/article-images/2022/07/the-firefox-picture-in-picture-mode-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5\. FAQs
 
 ### How do I keep the picture-in-picture window always on top?
@@ -133,11 +141,12 @@ It is also possible to enable and disable the picture-in-picture mode using keyb
 After opening the tab, drag the application up, then scroll down to the bottom right corner to select the desk pin. Finally, click on the tab opened with the pin cursor, and it will be on top always.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Why is picture-in-picture in Firefox not working?
 
 On Firefox, this mode is always on by default, but when the picture-in-picture feature is not working; follow the step-by-step guideline explained above to enable it manually. Once you perform these procedures using the keyboard shortcut or settings mode, it will start working.
@@ -178,4 +187,26 @@ Picture-in-Picture is a nice feature that helps you increase productivity while 
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-virtual-reality-vanguard-leading-pc-headsets-to-watch/"><u>[New] Virtual Reality Vanguard Leading PC Headsets to Watch</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-a-gamers-guide-to-lgs-360-degree-vr-experience/"><u>[Updated] 2024 Approved A Gamer's Guide to LG's 360-Degree VR Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-assessing-inshot-a-thorough-comparative-study/"><u>[Updated] Assessing InShot A Thorough Comparative Study</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-complete-narrative-what-is-google-podcast/"><u>[Updated] Complete Narrative What Is Google Podcast?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-professional-thumbnail-creation-for-youtube-macos-style/"><u>[Updated] Professional Thumbnail Creation for YouTube (macOS Style)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-vertical-or-horizontal-facebook-video-tactic-for-2024/"><u>[Updated] Vertical or Horizontal Facebook Video Tactic for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-androids-technique-for-retroactive-viewing/"><u>2024 Approved Android's Technique for Retroactive Viewing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-canvas-hidden-power-ups-for-stunning-visuals/"><u>2024 Approved Canva's Hidden Power-Ups for Stunning Visuals</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creating-a-tranquil-auditory-space-with-tech-for-2024/"><u>Creating a Tranquil Auditory Space with Tech for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/designing-memorable-intros-for-your-podcast-episodes/"><u>Designing Memorable Intros for Your Podcast Episodes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/echo-vocal-logging-device-iphone-model-2024/"><u>Echo Vocal Logging Device, iPhone Model 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/elevate-and-accelerate-vimeo-videos/"><u>Elevate and Accelerate Vimeo Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-guide-to-online-image-sharpening/"><u>In 2024, Advanced Guide to Online Image Sharpening</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-apple-iphone-7-plus-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>In 2024, Change Location on Yik Yak For your Apple iPhone 7 Plus to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleashing-wealth-the-ultimate-13-step-guide-for-newbies-on-reddit/"><u>In 2024, Unleashing Wealth The Ultimate 13-Step Guide for Newbies on Reddit</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-6s-plus-5-ways-to-get-into-a-locked-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 6s Plus? 5 Ways to get into a Locked Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-essence-of-chuckles-in-single-photos/"><u>The Essence of Chuckles in Single Photos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tripod-triumphs-unbeatable-stability-for-phones/"><u>Tripod Triumphs Unbeatable Stability for Phones</u></a></li>
+</ul></div>
 

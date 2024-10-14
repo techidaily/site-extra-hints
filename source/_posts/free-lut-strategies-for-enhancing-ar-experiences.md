@@ -1,7 +1,7 @@
 ---
 title: "Free LUT Strategies for Enhancing AR Experiences"
-date: 2024-10-03T16:48:14.148Z
-updated: 2024-10-07T23:07:05.099Z
+date: 2024-10-08T19:31:26.343Z
+updated: 2024-10-13T17:28:15.994Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ A patch graph is automatically set that applies a color LUT to the entire scene.
 ![apply to the whole scene](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The color LUT patch graph**
@@ -61,35 +61,47 @@ The patch graph that renders the color gradation effect looks like this:
 
 ![color lut patch graph](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **To create the effect:**
 
 * Fix Scene Render Pass renders cameraTexture0 and all objects in the scene that are children of the device. This creates the output texture.
 * ColorLUTShader looks up the RGBA values of this texture in the Tension color LUT array and converts them to a new green color. This will change the texture and create a gradient effect.
 * Finally, the Screen Output patch renders the green color.
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3\. Free LUTs resource for Spark AR
 
 Here are the best free LUTs resources for Spark AR:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. [Frost Zombie (Technical Showcase)](https://we.tl/t-1uj4wJKluG)
 
 Client filter pieces occasionally end up on the scrap heap. It was a poor Frost Zombie in this instance. Since this is one of my simpler filters, I felt it was okay to publish the build information. Four objects make up much of the scene: an EyeColor block, a custom canvas segmentation, a face mesh, and an emitter for the breath mist (my personal favorite). To show the layers used in generating the primary zombie texture, I also moved to Substance Painter. This is a demonstration of my methods rather than a step-by-step manual.
 
 ![frost zombie](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Fur
 
@@ -111,10 +123,23 @@ Even while using large image sequences is frequently discouraged, you can still 
 ![shockwave](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Transition Curves
@@ -130,10 +155,10 @@ By adding smoke to a scene, you can easily add a lot of detail and realism. Noth
 ![realistic smoke](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Rainbow Glitter
@@ -141,13 +166,6 @@ By adding smoke to a scene, you can easily add a lot of detail and realism. Noth
 Given how beautifully Glitter Rain was received, I believed it would be fitting to broaden the potential with an HDR setting. While Glitter Rain made use of two different colors, this technique makes use of an entirely colorless substance and gets its color information via HDR.
 
 ![rainbow glitter](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Closing Thoughts
 
@@ -183,17 +201,22 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-amplify-your-media-integrating-text-into-windows-video-files-via-photos/"><u>[New] Amplify Your Media Integrating Text Into Windows Video Files via Photos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-cutting-edge-screen-capturing-with-the-latest-camstudio-release/"><u>[New] In 2024, Cutting-Edge Screen Capturing with the Latest CamStudio Release</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-key-environment-choices-for-live-sharing/"><u>[New] Key Environment Choices for Live Sharing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-blueprinting-a-buzz-creating-movie-snippet/"><u>2024 Approved Blueprinting a Buzz-Creating Movie Snippet</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-clip-groove-best-bgm-choices-for-todays-popular-yt-shorts/"><u>2024 Approved Clip Groove Best BGM Choices For Today's Popular YT Shorts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/apex-pcs-the-summit-of-desktop-technology/"><u>Apex PCs - The Summit of Desktop Technology</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/clarifying-video-margins-imovie-crop-explanation/"><u>Clarifying Video Margins IMovie Crop Explanation</u></a></li>
-<li><a href="https://article-helps.techidaily.com/gopro-cinema-boosted-list-of-the-best-15-luts-for-2024/"><u>GoPro Cinema Boosted List of the Best 15 LUTs for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-utilizing-open-source-for-broadcasting-workshops/"><u>In 2024, Utilizing Open-Source for Broadcasting Workshops</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/sync-your-smartphone-mastering-the-art-of-iphone-collage-creation/"><u>Sync Your Smartphone Mastering the Art of iPhone Collage Creation</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-ultimate-bundle-6-powerful-apps-to-remove-signature-borders/"><u>The Ultimate Bundle – 6 Powerful Apps to Remove Signature Borders</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/forming-viewership-into-viewer-funds-on-youtube/"><u>Transforming Viewership Into Viewer Funds on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-mastering-the-pause-button-iphone-slow-mo-techniques/"><u>[New] Mastering the Pause Button IPhone Slow Mo Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-streamlining-your-approach-to-downloading-large-amounts-on-tiktok/"><u>[New] Streamlining Your Approach to Downloading Large Amounts on TikTok</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-insider-secrets-for-smarter-pixlr-usage/"><u>10 Insider Secrets for Smarter Pixlr Usage</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/15-revolutionary-metaverse-ventures-explored/"><u>15 Revolutionary Metaverse Ventures Explored</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-free-video-apps-on-multiple-desktops/"><u>2024 Approved Best Free Video Apps on Multiple Desktops</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-beyond-imagination-cutting-edge-vr-tech/"><u>2024 Approved Beyond Imagination Cutting-Edge VR Tech</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-boosting-your-stream-quality-with-zoom-and-fb-live/"><u>2024 Approved Boosting Your Stream Quality with ZOOM & FB Live</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-auditory-landscapes-in-your-videos/"><u>2024 Approved Crafting Auditory Landscapes in Your Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/alluring-phrase-formulation-device/"><u>Alluring Phrase Formulation Device</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/animpros-full-review-and-exploration-2024/"><u>AnimPros Full Review & Exploration 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-leveraging-the-strengths-of-ez-grabber-software/"><u>In 2024, Leveraging the Strengths of EZ Grabber Software</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-procedural-blueprint-inserting-srt-within-mp4-recordings/"><u>In 2024, Procedural Blueprint Inserting SRT Within MP4 Recordings</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-intel-wireless-ac-9560-network-card-driver-downloads-improve-connectivity-now/"><u>Latest Intel Wireless AC 9560 Network Card Driver Downloads - Improve Connectivity Now</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/1723262400967-next-level-computing-on-demand-portable-256-core-servers-with-giant-storage-and-ram-in-fly-away-kits/"><u>Next-Level Computing On Demand: Portable 256-Core Servers With Giant Storage and RAM in Fly-Away Kits!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-10-drones-with-longest-flight-time-for-2024/"><u>Top 10 Drones with Longest Flight Time for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Building Animated Storyboards in Movie Maker"
-date: 2024-10-04T21:53:56.153Z
-updated: 2024-10-07T20:30:20.269Z
+date: 2024-10-10T22:29:04.674Z
+updated: 2024-10-13T21:44:24.589Z
 tags: 
   - screen-recording
   - ai video
@@ -61,10 +61,10 @@ When a transition is applied, a washed-out diagonal zone on the clip in the time
 ![save animation video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/save-animation-video-movie-maker.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. Movie Maker Alternative to Add Animations
@@ -113,18 +113,18 @@ If you wish to clip off a section, go to "Edit" under "Video Tools" and choose t
 
 ![preview video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/preview-video-movie-maker.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step3Open the Animation Tab
 
 You may add two distinct types of animations—Transitions and Pan and Zoom—to video clips or photographs using the Animations window on the ribbon. The dropdown menu next to "Speed" in the "Edit" tab may be expanded to change the speed of a video clip. The 'Duration' dropdown menu allows you to choose how long a certain image will be shown in a movie.
 
 ![animation tab movie maker](https://images.wondershare.com/filmora/article-images/2022/09/animation-tab-movie-maker.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step4Add Transitions
 
@@ -132,18 +132,18 @@ Between two multimedia portions, a transition effect may be added. In the "Anima
 
 ![add transitions movie maker](https://images.wondershare.com/filmora/article-images/2022/09/add-transitions-movie-maker.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step5Save the Video
 
 When a transition is applied, a washed-out diagonal zone on the clip in the timeline indicates where the transition starts and finishes. Additionally, you have a choice in the sequence in which the effects are used. This may change how the movie is finally shown depending on the Effects, you choose. Once you're done, click Apply.
 
 ![save animation video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/save-animation-video-movie-maker.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. Movie Maker Alternative to Add Animations
 
@@ -172,10 +172,16 @@ Filmora helps you create your text animation using the controller window as seen
 The software's Preview window also allows you to preview the animation you've selected before adding it to the timeline with a few simple drag-and-drop actions. After finishing the production and editing of the instructional video, you may save it for distribution on social media. You may choose to save the document as an MP4, WMV, AVI, MOV, or even a GIF file.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3\. Related FAQs about Windows Movie Maker
@@ -216,22 +222,21 @@ Simple movies may be easily made using Windows Live Movie Maker. With Windows Vi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-auditory-artistry-in-storytelling/"><u>[New] 2024 Approved Auditory Artistry in Storytelling</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-unlocking-video-dominance-hashtag-hacks-exposed/"><u>[Updated] 2024 Approved Unlocking Video Dominance Hashtag Hacks Exposed</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-preserve-the-blue-band-promise-with-these-ideas/"><u>[Updated] Preserve the Blue Band Promise with These Ideas</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-dynamic-typographic-options/"><u>2024 Approved Advanced Dynamic Typographic Options</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-aggregating-users-experiences-with-vllo/"><u>2024 Approved Aggregating Users' Experiences with VLLO</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/apex-design-studio-examination/"><u>Apex Design Studio Examination</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/decoding-the-functions-of-a-virtual-reality-helmet/"><u>Decoding The Functions Of A Virtual Reality Helmet</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-acer-display-drivers-latest-version-guide/"><u>Download Acer Display Drivers - Latest Version Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/excellent-free-memes-at-your-fingertips/"><u>Excellent FREE Memes at Your Fingertips</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/guide-to-easily-navigate-to-biosuefi-in-windows-10/"><u>Guide to Easily Navigate to BIOS/UEFI in Windows 10</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/how-to-launch-your-twitter-adventure-for-2024/"><u>How to Launch Your Twitter Adventure for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-overview-the-top-12-free-user-friendly-video-players-and-apps-pcandroid/"><u>In 2024, Comprehensive Overview The Top 12 Free, User-Friendly Video Players & Apps (PC/Android)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-y100-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo Y100 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-maximize-your-reach-snapchat-advertising-101/"><u>In 2024, Maximize Your Reach Snapchat Advertising 101</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/toongems-detailed-analysis-24-summary/"><u>ToonGems Detailed Analysis '24 Summary</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-guide-to-cracking-secure-disney-and-sony-dvds-with-these-6-leading-applications/"><u>Ultimate Guide to Cracking Secure Disney and Sony DVDs with These 6 Leading Applications</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unleash-creativity-using-mematic-app/"><u>Unleash Creativity Using Mematic App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-conquer-the-elements-ranking-7-waterproof-cams/"><u>[Updated] Conquer the Elements Ranking #7 Waterproof Cams</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-serenity-in-gaming-10-stress-busters/"><u>[Updated] Serenity in Gaming 10 Stress Busters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/breakthroughs-in-ergonomic-office-design-for-high-efficiency/"><u>Breakthroughs in Ergonomic Office Design for High Efficiency</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/effortless-image-addition-guide-for-instagram-users/"><u>Effortless Image Addition Guide for Instagram Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-unexpected-freezes-in-rocket-league/"><u>How to Resolve Unexpected Freezes in Rocket League</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-iphone-12-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for iPhone 12 and Android Phones</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/insiders-guide-how-to-buy-a-future-ready-360-camera/"><u>Insider's Guide How to Buy a Future-Ready 360 Camera</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sony-s6700-latest-features-reviewed/"><u>Sony S6700 Latest Features Reviewed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-ultimate-guide-to-scrolling-through-engaging-youtube-remarks/"><u>The Ultimate Guide to Scrolling Through Engaging YouTube Remarks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-superior-free-lut-options/"><u>The Ultimate Guide to Superior, Free LUT Options</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/top-13-reproductores-de-pantalla-gratuitos-y-de-codigo-aberto-una-guia-completa-por-movavi/"><u>Top 13 Reproductores De Pantalla Gratuitos Y De Código Aberto: Una Guía Completa Por Movavi</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tweaking-the-viewers-journey-the-art-of-custom-thumbnail-design-in-twitter/"><u>Tweaking the Viewer's Journey The Art of Custom Thumbnail Design in Twitter</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-your-iphones-audio-library-with-top-podcast-strategies/"><u>Unlocking Your iPhone's Audio Library with Top Podcast Strategies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/virtual-camcorders-mastering-live-streams-with-manycam-solutions/"><u>Virtual Camcorders: Mastering Live Streams with ManyCam Solutions</u></a></li>
 </ul></div>
 

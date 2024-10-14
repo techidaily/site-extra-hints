@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to Fisheye Panoramas"
-date: 2024-10-02T20:26:28.567Z
-updated: 2024-10-08T04:51:26.989Z
+date: 2024-10-07T16:09:10.091Z
+updated: 2024-10-13T19:57:46.788Z
 tags: 
   - screen-recording
   - ai video
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
  The process of shooting panoramas with fisheye lenses involves a number of considerations and they are as follows-:
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1. The equipment and setup
 
  To shoot quality 360 degrees panoramas with fisheye, it is imperative to get the equipment as well as the set up right. Your equipment needs to be calibrated properly to make the stitching process nice and easy. To find the best setting for your equipment, the grid method is recommended on the panohead.
@@ -44,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 ![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2. Leveling and rotating
@@ -55,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
  Other than setting up and calibrating the equipment in the right manner, it is important to keep the camera steady and leveled as you make the rotations to take shots. For leveling, it is recommended to use an appropriate leveling base, while for rotation, using a panning clamp on top of the ballhead is highly recommended.
 
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3. The actual shooting
 
@@ -76,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
 [How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What's fisheye lenses
 
  Fisheye lens refers to an ultra wide angle lens used to produce strong visual distortions with the aim of creating a wide hemispherical or panoramic image. Fisheye lenses are able to achieve very wide angles of view not through the production of straight lines of perspectives, but through a special mapping which makes the resulting images have the characteristic convex non-rectilinear appearance.
@@ -87,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Conclusion
@@ -98,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
  Fisheye lenses have been around for a while now and the process of creating 360 panoramas with them may not be very challenging, but great results are achieved through practice and proper stitching. Once the photos are taken, you can use premium panorama software like Autopano Pro or you can use free options like the Microsoft ICE or Hugin. Ones stitching are done, it is imperative to have the final works uploaded online for others to view.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -121,19 +121,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-microsoft-hololens-review-a-glimpse-of-holographic-future-for-2024/"><u>[New] Microsoft HoloLens Review- a Glimpse of Holographic Future for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-essential-breakdown-for-wm6-setup/"><u>[Updated] Essential Breakdown for WM6 Setup</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-youtube-title-generator/"><u>2024 Approved Best YouTube Title Generator</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-color-correcting-made-simple-with-adobe-ps/"><u>2024 Approved Color Correcting Made Simple with Adobe PS</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-tapping-into-youtubes-creative-commons-for-video-creators/"><u>2024 Approved Tapping Into YouTube's Creative Commons for Video Creators</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-samsung-galaxy-m34-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/amplifying-your-social-media-reach-with-zoom-plus-fb-live/"><u>Amplifying Your Social Media Reach with ZOOM + FB Live</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/blitz-through-edits-with-windows-11-pro-tips-for-2024/"><u>Blitz Through Edits with Windows 11 Pro Tips for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-of-samsungs-55-inch-ru7300-does-the-curve-matter-for-quality/"><u>Comprehensive Analysis of Samsung's 55-Inch RU7300: Does the Curve Matter for Quality?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discover-the-leading-8-web-resources-for-free-3d-text-psdfiles/"><u>Discover the Leading 8 Web Resources for Free 3D Text PSDFiles</u></a></li>
-<li><a href="https://facebook.techidaily.com/eternal-digital-footprints-life-after-fb/"><u>Eternal Digital Footprints: Life After FB</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-on-making-discords-push-to-talk-function-work-properly-again/"><u>Expert Tips on Making Discord's Push-to-Talk Function Work Properly Again</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/seamless-scratching-for-chrome-devices-for-2024/"><u>Seamless Scratching for Chrome Devices for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-10-most-affordable-cloud-vendors-listed/"><u>Top 10 Most Affordable Cloud Vendors Listed</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-fine-tune-video-aspect-ratios-for-instagram-bliss-for-2024/"><u>[New] Fine-Tune Video Aspect Ratios for Instagram Bliss for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-legal-ways-to-boost-your-video-watch-count-responsibly/"><u>[New] In 2024, Legal Ways to Boost Your Video Watch Count Responsibly</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-cutting-edge-techniques-in-live-streamed-gaming/"><u>[Updated] Cutting-Edge Techniques in Live-Streamed Gaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/15-best-ways-to-watch-nba-live-stream/"><u>15 Best Ways To Watch NBA Live Stream</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-analyzing-user-feedback-the-latest-on-lg-bp350-display-tech/"><u>2024 Approved Analyzing User Feedback The Latest on LG BP350 Display Tech</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capturing-tomorrow-today-leading-video-cams/"><u>2024 Approved Capturing Tomorrow Today – Leading Video Cams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-cost-effective-stratosphere-storage-for-large-archives/"><u>2024 Approved Cost-Effective Stratosphere Storage for Large Archives</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-the-art-of-faster-periscope-streaming/"><u>2024 Approved Master the Art of Faster Periscope Streaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/6-alternative-apps-to-periscope-for-iphoneandroid-users/"><u>6 Alternative Apps to Periscope for iPhone/Android Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/achieving-caption-excellence-an-overview-of-premium-internet-tools/"><u>Achieving Caption Excellence An Overview of Premium Internet Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/altvmix-cross-platform-virtual-mixer/"><u>AltVMix Cross-Platform Virtual Mixer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-enable-windows-hello-authentication-on-incompatible-devices-in-windows-11-a-comprehensive-guide/"><u>How to Enable Windows Hello Authentication on Incompatible Devices in Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-nokia-c110-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Nokia C110 Lock Screen Password</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-non-responsive-alt-codes-in-windows/"><u>Troubleshooting Non-Responsive ALT Codes in Windows</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-learn-the-best-6-alternative-streaming-platforms/"><u>Updated Learn The Best 6 Alternative Streaming Platforms</u></a></li>
 </ul></div>
 

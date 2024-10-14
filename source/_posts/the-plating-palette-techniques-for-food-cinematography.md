@@ -1,7 +1,7 @@
 ---
 title: "\"The Plating Palette  Techniques for Food Cinematography\""
-date: 2024-09-03T08:23:01.976Z
-updated: 2024-09-04T08:23:01.976Z
+date: 2024-10-11T21:54:20.538Z
+updated: 2024-10-13T22:49:50.083Z
 tags: 
   - screen-recording
   - ai video
@@ -90,6 +90,13 @@ Hold very still to prevent shaking, and simply hold the screen for autofocus and
 
 ![smart phone](https://images.wondershare.com/filmora/article-images/iphone-7-plus-4k-smartphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 2\. Lens
 
 If you are going to shoot with a camera, you need either a mirrorless camera or DSLR. A standard click-and-shoot will not provide a high enough quality of video. Along with a high-quality camera comes the need for a high-quality lens.
@@ -100,6 +107,13 @@ As for the shooting itself, you can feel free to experiment with lenses that off
 
 ![lens](https://images.wondershare.com/filmora/article-images/fujinon-mk18-55mm-t2.9-lens.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 3\. Tripod
 
 Another thing you’ll want when shooting with a camera is a tripod. A tripod is necessary because it holds the camera steady, as well as allows you to be present in the video if desired.
@@ -109,11 +123,19 @@ You can find a cheap tripod at many chain stores to get you started, although yo
 ![tripod](https://images.wondershare.com/filmora/article-images/gitzo-mountaineer-series-2-carbon-fiber-tripod.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 This basic guide should give you a solid start in creating top-of-the-line food videography for your social media accounts.
@@ -122,27 +144,13 @@ If you find your first video isn’t as amazing as you’d thought it would be, 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win-pro.png)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac-pro.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -150,3 +158,20 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-17-best-lights-and-lighting-equipment-for-youtube/"><u>[New] 2024 Approved 17 Best Lights and Lighting Equipment for YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-audio-options-dilemma-podcasts-against-youtube/"><u>[New] Audio Options Dilemma Podcasts Against YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-detecting-block-status-recognizing-on-snapchat-silence/"><u>[New] Detecting Block Status Recognizing On-Snapchat Silence</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-5-high-quality-displays-for-unparalleled-games/"><u>[Updated] 5 High-Quality Displays for Unparalleled Games</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-smooth-volume-reduction-a-system-friendly-approach/"><u>[Updated] Smooth Volume Reduction A System-Friendly Approach</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-beyond-imagination-celebrating-the-leading-6-in-nft-creation/"><u>2024 Approved Beyond Imagination Celebrating the Leading 6 in NFT Creation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capturing-the-world-from-above-in-stunning-hd-mi-drone-deep-dive/"><u>2024 Approved Capturing the World From Above in Stunning HD - Mi Drone Deep Dive</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/action-reimagined-deep-dive-into-the-t5-thievery-review-for-2024/"><u>Action Reimagined Deep Dive Into the T5 Thievery Review for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-motorola-g54-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Motorola G54 5G Without PUK Codes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-12-pro-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 12 Pro Randomly Asking for Apple ID Password</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-photo-wordsmithing-ios-and-androids-leading-caption-tools/"><u>In 2024, Photo Wordsmithing IOS and Android's Leading Caption Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-for-fixing-application-stalls-and-crashes-on-pc-2024-insights/"><u>Top Strategies for Fixing Application Stalls & Crashes on PC (2024 Insights)</u></a></li>
+</ul></div>
+

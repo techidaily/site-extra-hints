@@ -1,7 +1,7 @@
 ---
 title: "The Essential Guide to Speedy Windows Inspecting"
-date: 2024-09-03T08:19:40.972Z
-updated: 2024-09-04T08:19:40.972Z
+date: 2024-10-07T16:50:46.175Z
+updated: 2024-10-13T16:14:27.296Z
 tags: 
   - screen-recording
   - ai video
@@ -50,9 +50,23 @@ Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and
 
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
 
 ![install the quicklook for windows msi](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
 
@@ -62,12 +76,6 @@ Step4 After a successful installation, find the file you want to preview and sel
 
 **Pro tip**: We recommend installing the QuickLook OfficeViewer plugin to rip open your Office files and view the content inside. This method is recommended if you haven’t installed Microsoft Office on your PC. However, you might notice that the OfficeViewer plugin isn’t supported on your Windows PC. So to install OfficeViewer, select the file and click the space bar to preview it on QuickLook. Then, tap the “Click here to install this plugin” button. Now restart QuickLook and view all your office documents without opening them on their respective programs.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Should We Expect Built-in Quick Look on Windows in the Future?
 
 Mac users have enjoyed the powerful QuickLook capabilities for at least 15 years. But are we going to see QuickLook coming to Windows 10/11 anytime soon? According to sources, plans are already underway to add this feature to Microsoft Windows and rename it Peek. After selecting a file on Explorer, simply tap the Shift + Space bar to preview the content. Like the macOS version, you can preview PDFs, Excels, Words, images, videos, audio, and pretty much anything.
@@ -77,8 +85,12 @@ Meanwhile, it’s expected that QuickLook will come with a small preview screen.
 In other related news, Microsoft will be answering the prayers of their loyal patrons to get tabbed browsing. This is another feature similar to what you currently have on macOS, where you can open new tabs for numerous file locations. In return, this makes moving and copying files more straightforward. This easy-to-navigate addition will definitely make Microsoft Windows users more productive than before.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4: Frequently Asked Questions
 
 #### 1\. Which digital file formats are compatible with QuickLook?
@@ -94,8 +106,12 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_1374819" src="//a.impactradius-go.com/gen-ad-code/5597632/1374819/15852" width="250" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 This guidepost is another testament that your PC has massive hidden abilities. With QuickLook for Windows, you can preview any document, image, or media file with a single click. And don’t forget to install the QuickLook plugins from GitHub to unlock the program’s full potential.
@@ -128,4 +144,24 @@ This guidepost is another testament that your PC has massive hidden abilities. W
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-live-twitch-streams-top-5-tips-for-2024/"><u>[New] Mastering Live Twitch Streams Top 5 Tips for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-drone-selections-for-young-pilots-and-rookie-flyers/"><u>[Updated] Best Drone Selections for Young Pilots and Rookie Flyers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-top-5-drones-experts-choice-revealed/"><u>[Updated] Ultimate Top 5 Drones - Expert's Choice Revealed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-for-videos-vlc-or-mx-in-2024/"><u>Best for Videos VLC or MX, In 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/choreographing-compelling-screen-trailers/"><u>Choreographing Compelling Screen Trailers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exclusive-download-hassle-free-video-closures-here/"><u>Exclusive Download Hassle-Free Video Closures Here</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-major-online-communities-a-look-at-facebook-twitter-instagram-youtube/"><u>Exploring Major Online Communities - A Look at Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-v27-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo V27</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/immersion-in-metaverse-leading-hmds-reviewed/"><u>Immersion in Metaverse Leading HMDs Reviewed</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-a34-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy A34 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-s24-ultra-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy S24 Ultra FRP Without Computer</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-checklist-for-your-xbox-one-zooming-journey/"><u>In 2024, The Ultimate Checklist for Your Xbox One Zooming Journey</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-troubleshooting-6-widespread-auto-gpt-configuration-problems/"><u>Mastering the Art of Troubleshooting 6 Widespread Auto-GPT Configuration Problems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfecting-presentation-adding-textures-to-your-project/"><u>Perfecting Presentation Adding Textures to Your Project</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-science-behind-auto-hdr-and-cameras-ai-powered-shooting-modes/"><u>The Science Behind Auto HDR and Camera's AI-Powered Shooting Modes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/zooming-into-success-syncing-with-fb-live-on-zoom/"><u>Zooming Into Success Syncing with FB Live on Zoom</u></a></li>
+</ul></div>
 

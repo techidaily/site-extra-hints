@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Mac's Preview  A Comprehensive Tutorial\""
-date: 2024-10-04T23:23:40.778Z
-updated: 2024-10-08T00:18:14.649Z
+date: 2024-10-12T20:58:17.526Z
+updated: 2024-10-13T19:01:56.234Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,19 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
 
@@ -80,6 +93,13 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -91,6 +111,13 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -109,10 +136,10 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
@@ -131,13 +158,6 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -153,19 +173,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 **Step 3: Combine the Images**
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
 
@@ -213,13 +220,6 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -235,16 +235,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-calculating-the-storage-space-of-24-hour-videos/"><u>[Updated] Calculating the Storage Space of 24-Hour Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-art-of-blending-audio-with-video-in-premiere-pro/"><u>[Updated] The Art of Blending Audio with Video in Premiere Pro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-beginners-strategy-boosting-business-via-telegram-marketing/"><u>A Beginner’s Strategy Boosting Business via Telegram Marketing</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/accueils-feminins-francais-la-grace-de-repondre/"><u>Accueils Féminins Français: La Grâce De Répondre</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/effortless-srt-to-txt-change-up-made-simple-and-swift/"><u>Effortless SRT to TXT Change-Up Made Simple and Swift</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-for-troubleshooting-a-black-screen-on-steam-the-2024-definitive-fix-list/"><u>Expert Tips for Troubleshooting a Black Screen on Steam: The 2024 Definitive Fix List</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-commonplace-phones-to-cutting-edge-vr-headsets/"><u>From Commonplace Phones to Cutting-Edge VR Headsets</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-expert-take-on-camstudios-recorder-efficacy/"><u>In 2024, Expert Take on CamStudio's Recorder Efficacy</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-tecno-spark-10-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Tecno Spark 10 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/unlocking-your-potential-with-these-top-10-affordable-web-conferencing-services/"><u>Unlocking Your Potential with These Top 10 Affordable Web Conferencing Services</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-spotify-to-youtube-playlist-conversion-5-must-have-apps/"><u>[New] 2024 Approved Effortless Spotify-to-YouTube Playlist Conversion 5 Must-Have Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-free-capture-precision-best-apps-for-windows-desktop-recording/"><u>[New] Free Capture Precision Best Apps for Windows Desktop Recording</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-action-filming-at-its-peak-garmin-virb-ultra-30-analysis/"><u>[Updated] Action Filming at Its Peak Garmin VIRB Ultra 30 Analysis</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-insta-tones-101-learn-to-design-and-download-on-your-own/"><u>[Updated] Insta Tones 101 Learn to Design and Download on Your Own</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-browse-and-download-top-free-extractors-for-your-pinterest-content/"><u>2024 Approved Browse & Download Top Free Extractors for Your Pinterest Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-charting-a-course-through-public-domain-landmarks/"><u>2024 Approved Charting a Course Through Public Domain Landmarks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/adventure-capturing-toolskit-for-2024/"><u>Adventure Capturing Toolskit for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/basics-in-the-realm-of-tale-construction-for-2024/"><u>Basics in the Realm of Tale Construction for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-up-missing-file-alert-in-win-11/"><u>Clearing Up Missing File Alert in Win 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ic-shots-infusing-energy-into-your-youtube-videos/"><u>Dynamic Shots Infusing Energy Into Your YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/enhance-watchability-with-full-screen-on-fb-videos/"><u>Enhance Watchability with Full-Screen on FB Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exclusive-list-of-cost-free-video-downloaders-from-pinterest/"><u>Exclusive List of Cost-Free Video Downloaders From Pinterest</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebook-broadcast-keepers-2023-for-2024/"><u>Facebook Broadcast Keepers 2023 for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-fixed-frames-to-fluid-films-an-introduction-to-pixizs-video-magic/"><u>From Fixed Frames to Fluid Films An Introduction to Pixiz's Video Magic</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722965659216-get-your-behringer-usb-audio-device-ready-secure-instant-downloads/"><u>Get Your Behringer USB Audio Device Ready - Secure Instant Downloads!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/guiding-steps-for-effective-gopro-time-lapse-capture/"><u>Guiding Steps for Effective GoPro Time-Lapse Capture</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hack-the-airwaves-mastering-a-viral-solo-podcast/"><u>Hack the Airwaves Mastering a Viral Solo Podcast</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/how-to-sign-upinto-google-meet-from-your-tech-for-2024/"><u>How to Sign Up/Into Google Meet From Your Tech for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-podcasters-playbook-writing-and-editing-for-engaging-audio/"><u>The Podcaster's Playbook Writing & Editing for Engaging Audio</u></a></li>
 </ul></div>
 
