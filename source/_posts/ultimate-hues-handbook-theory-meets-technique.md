@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Hues Handbook  Theory Meets Technique\""
-date: 2024-10-06T20:21:48.706Z
-updated: 2024-10-13T21:46:03.942Z
+date: 2024-10-18T20:23:40.758Z
+updated: 2024-10-19T20:19:12.917Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,13 @@ Color theory consists of many elements that could fill a library on its own but 
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
@@ -35,10 +42,10 @@ Using red, green and blue as primary colors we can mix the colors to one another
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
@@ -48,13 +55,6 @@ As you can see, we have every color available in this wheel and they are arrange
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
 
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
 
@@ -71,10 +71,16 @@ You may still be unsure as to how to implement color theory into your videos. Le
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
@@ -86,10 +92,10 @@ As you can see from this example the base color for the scene is a dark blue/pur
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -126,20 +132,24 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-asus-proart-pa-329q-evaluation-the-highest-quality-in-4k-professional-displays/"><u>[New] Asus ProArt PA 329Q Evaluation – The Highest Quality in 4K Professional Displays</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-conceptualize-entertaining-posts-in-adobe/"><u>[New] Conceptualize Entertaining Posts in Adobe</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-quintessential-audio-drama-story-creation/"><u>[New] Quintessential Audio-Drama Story Creation</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-top-10-economical-platforms-for-seamless-online-video-meetings-for-2024/"><u>[New] The Top 10 Economical Platforms for Seamless Online Video Meetings for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-capturing-the-spirit-2023s-most-shared-tweets/"><u>[Updated] 2024 Approved Capturing the Spirit 2023'S Most Shared Tweets</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-blithe-clip-recorder-appraisal/"><u>[Updated] Blithe Clip Recorder Appraisal</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-metaverse-tech-the-ultimate-goggles-and-hmds-list-for-2024/"><u>Best Metaverse Tech The Ultimate Goggles and HMDs List for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-lenovo-thinkphone-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Lenovo ThinkPhone Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/how-to-transfer-your-favorite-tunes-from-spotify-to-itunes-as-a-high-quality-mp3/"><u>How to Transfer Your Favorite Tunes From Spotify to iTunes as a High-Quality MP3</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/hyper-resolution-hub-top-8k-cameras-decoded-for-2024/"><u>Hyper-Resolution Hub Top 8K Cameras Decoded for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-3-simple-free-methods-to-infuse-music-into-mobile-video-creations-on-iphones/"><u>In 2024, 3 Simple, Free Methods to Infuse Music Into Mobile Video Creations on iPhones</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-blur-no-more-top-10-web-photo-sharpening-apps/"><u>In 2024, Blur No More! Top 10 Web Photo Sharpening Apps</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/perfect-classic-vacation-flicks-top-10-for-summer-fun/"><u>Perfect Classic Vacation Flicks Top 10 for Summer Fun</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/solve-your-computers-sound-problems-in-minutes-a-step-by-step-guide/"><u>Solve Your Computer's Sound Problems in Minutes – A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-chip-efficiency-exposed-unleashing-top-notch-editing-performance/"><u>[New] 2024 Approved Chip Efficiency Exposed Unleashing Top-Notch Editing Performance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-focus-effects-iphone-vs-android-photo-solutions/"><u>[New] Best Focus Effects IPhone vs Android Photo Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-chucklechief-easy-meme-design-tool/"><u>[New] ChuckleChief Easy Meme Design Tool</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-elite-cloud-saving-solutions-compilation-for-2024/"><u>[New] Elite Cloud Saving Solutions Compilation for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-optimize-your-social-media-with-autoplay-vids-on-fb/"><u>[New] In 2024, Optimize Your Social Media with Autoplay Vids on FB</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-premiere-pro-full-screen-magic/"><u>[New] Unlocking Premiere Pro Full-Screen Magic</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-audio-equipment-matched-with-4k-cameras/"><u>Best Audio Equipment Matched with 4K Cameras</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/breezy-setup-for-podcast-broadcasts-for-2024/"><u>Breezy Setup for Podcast Broadcasts for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creating-captivating-podcast-summaries-for-2024/"><u>Creating Captivating Podcast Summaries for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/easy-steps-restore-your-lost-files-with-these-simple-tricks/"><u>Easy Steps: Restore Your Lost Files with These Simple Tricks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-gameplay-upgrade-to-the-asus-rog-strix-geforce-rtx-3080/"><u>Enhance Your Gameplay: Upgrade to the ASUS ROG Strix GeForce RTX 3080</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-zoom-experience-on-chromebooks/"><u>Enhancing Zoom Experience on Chromebooks</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expertly-mend-damaged-media-explore-grau-gmbhs-video-restoration-solutions/"><u>Expertly Mend Damaged Media - Explore Grau GmbH’s Video Restoration Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-the-magic-behind-color-grading-with-luts/"><u>Exploring the Magic Behind Color Grading with LUTs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/high-speed-windows-viewer-for-images/"><u>High-Speed Windows Viewer for Images</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-t2x-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/masterful-color-grading-explore-these-7-methods-for-2024/"><u>Masterful Color Grading Explore These 7 Methods for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/selecting-excellent-steadicams-to-elevate-your-dslr-cinematic-outputs-for-2024/"><u>Selecting Excellent Steadicams to Elevate Your DSLR Cinematic Outputs for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-videography-equipment/"><u>Top Videography Equipment</u></a></li>
 </ul></div>
 

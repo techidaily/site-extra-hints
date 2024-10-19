@@ -1,7 +1,7 @@
 ---
 title: "Foremost Companies Pioneering VR Technology"
-date: 2024-10-10T20:20:01.716Z
-updated: 2024-10-13T19:36:03.368Z
+date: 2024-10-16T17:32:28.338Z
+updated: 2024-10-19T17:34:15.835Z
 tags: 
   - screen-recording
   - ai video
@@ -44,10 +44,16 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Art Work of With.in
@@ -63,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## About Chris Milk
@@ -83,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -104,20 +110,22 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-join-jargon-free-youtube-chats/"><u>[New] 2024 Approved Join Jargon-Free YouTube Chats</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-navigating-instagrams-voice-customization-features/"><u>[Updated] 2024 Approved Navigating Instagram's Voice Customization Features</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-scrutinizing-vsdc-screen-recording-capabilities/"><u>[Updated] 2024 Approved Scrutinizing VSDC Screen Recording Capabilities</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-shield-from-ai-crafted-youtube-video-selections/"><u>2024 Approved Shield From AI-Crafted YouTube Video Selections</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/decoding-complex-equipment-trustworthy-hardware-advice-by-tom/"><u>Decoding Complex Equipment: Trustworthy Hardware Advice by Tom</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/getting-started-with-windows-movie-maker-6-installs/"><u>Getting Started with Windows Movie Maker 6 Installs</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-13-pro-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 13 Pro Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-amp-up-your-audiovideo-quality-with-these-10-android-players/"><u>In 2024, Amp Up Your Audio/Video Quality with These 10 Android Players</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-choices-for-livestreaming-made-simple-mac-edition/"><u>In 2024, Best Choices for Livestreaming Made Simple - Mac Edition</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-mixed-media-with-color-for-2024/"><u>Mastering Mixed Media with Color for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/nostruggle-livecast-how-to-simplify-your-podcast-broadcast/"><u>NoStruggle Livecast How to Simplify Your Podcast Broadcast</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/renewal-of-exchange-dbs-through-stellar-techniques/"><u>Renewal of Exchange DBs Through Stellar Techniques</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/stand-out-with-these-20-must-try-tiktok-caption-ideas-for-2024/"><u>Stand Out with These 20 Must-Try TikTok Caption Ideas for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-voice-to-text-conversion-using-ms-words-advanced-features/"><u>The Ultimate Guide to Voice-to-Text Conversion Using MS Word's Advanced Features</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/wirecast-and-facebook-creating-high-quality-live-streams/"><u>Wirecast and Facebook Creating High-Quality Live Streams</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-authenticating-your-instagram-photos/"><u>[New] Authenticating Your Instagram Photos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-converting-moments-into-art-gopro-studios-time-lapse-blueprint/"><u>[New] Converting Moments Into Art GoPro Studio's Time Lapse Blueprint</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aximizing-youtube-gaming-income-for-2024/"><u>[New] Maximizing YouTube Gaming Income for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-photography-tips-for-seamless-instagram-posting/"><u>[Updated] 2024 Approved Photography Tips for Seamless Instagram Posting</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-complete-breakdown-lg-bp350-monitors-specifications-and-reviews/"><u>[Updated] A Complete Breakdown LG BP350 Monitor's Specifications and Reviews</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-best-10-web-based-hd-screen-capture-tools-for-2024/"><u>[Updated] Best 10 Web-Based HD Screen Capture Tools for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-places-to-find-3d-silver-and-gold-lettering-effects/"><u>[Updated] Best Places to Find 3D Silver and Gold Lettering Effects</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-brilliant-hues-ranking-11-expert-color-correction-tutorials/"><u>[Updated] Brilliant Hues Ranking 11 Expert Color Correction Tutorials</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-breaking-down-lg-27ud88-uhd-tv-with-usb-type-c/"><u>2024 Approved Breaking Down LG 27UD88-UHD TV with USB Type-C</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/banishing-bogus-followers-from-instagram-landscape/"><u>Banishing Bogus Followers From Instagram Landscape</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/birthstones-and-emojis-tailoring-your-whatsapp-profile-by-sign-for-2024/"><u>Birthstones and Emojis Tailoring Your WhatsApp Profile by Sign for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-slomo-app-evaluation-future-prospects/"><u>In 2024, Comprehensive SloMo App Evaluation - Future Prospects</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-how-to-add-custom-youtube-shorts-thumbnails-with-ease/"><u>In 2024, How to Add Custom YouTube Shorts Thumbnails with Ease?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-screen-recorder-showcase-apowersofts-place-in-the-market/"><u>In 2024, Screen Recorder Showcase Apowersoft's Place in the Market</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/innovating-ai-dialogues-5-best-online-classes/"><u>Innovating AI Dialogues: 5 Best Online Classes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/zooming-up-your-video-game-with-custom-filters/"><u>Zooming Up Your Video Game with Custom Filters</u></a></li>
 </ul></div>
 

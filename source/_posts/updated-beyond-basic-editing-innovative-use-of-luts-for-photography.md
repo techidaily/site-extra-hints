@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Beyond Basic Editing  Innovative Use of LUTs for Photography\""
-date: 2024-10-10T21:18:08.997Z
-updated: 2024-10-13T17:38:57.813Z
+date: 2024-10-14T22:15:45.380Z
+updated: 2024-10-19T16:26:26.641Z
 tags: 
   - screen-recording
   - ai video
@@ -51,10 +51,10 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use LUTs using Photoshop CC?
@@ -64,13 +64,6 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 1. Select the Adjustment Layer icon from the drop-down menu.
 
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Choose Adjustment Layer
 
@@ -88,19 +81,19 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
 2. When discussing Photoshop, the project is typically an image, so go ahead and open it. Open a new one by pressing 'Ctrl+O' or importing something from your cloud.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Here's the second one
 
@@ -119,10 +112,10 @@ Grow Together
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -134,6 +127,13 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Closing Thoughts:
 
@@ -165,20 +165,14 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-achieving-studio-quality-with-audacity/"><u>[New] Achieving Studio Quality with Audacity</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-advanced-techniques-for-azure-speech-to-text-use/"><u>[New] Advanced Techniques for Azure Speech to Text Use</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-expert-tips-to-correct-video-transmission-problem-on-mobile-messengers-for-2024/"><u>[New] Expert Tips to Correct Video Transmission Problem on Mobile Messengers for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-inside-and-out-a-full-guide-to-theta-s-features/"><u>[New] Inside & Out A Full Guide to Theta S Features</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-navigating-the-world-of-gopro-timelapses-efficiently-for-2024/"><u>[New] Navigating the World of GoPro Timelapses Efficiently for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-self-designed-instagram-ringtone-creation-steps-for-2024/"><u>[New] Self-Designed Instagram Ringtone Creation Steps for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-revolutionizing-audience-retention-on-youtube-with-these-top-6-techniques/"><u>[Updated] 2024 Approved Revolutionizing Audience Retention on YouTube with These Top 6 Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-cold-climate-conquests-unveiling-beijings-olympic-flair/"><u>[Updated] Cold Climate Conquests Unveiling Beijing's Olympic Flair</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-system-call-failure-in-win11/"><u>Eliminating System Call Failure in Win11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-insight-into-the-best-6-harnesses-for-gopro-headsets/"><u>Essential Insight Into The Best 6 Harnesses for GoPro Headsets</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/explore-the-best-websites-for-dynamic-sky-imaging/"><u>Explore the Best Websites for Dynamic Sky Imaging</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-v29-promirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo V29 ProMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-install-the-latest-usb-c-drivers-on-windows-11/"><u>How to Install the Latest USB-C Drivers on Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-upside-down-and-sideways-iphone-photos/"><u>Mastering Upside-Down and Sideways iPhone Photos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-selections-premium-webcam-platforms/"><u>Ultimate Selections Premium Webcam Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-achieving-professional-results-radial-effects-in-ps/"><u>[New] Achieving Professional Results Radial Effects in PS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-way-of-the-warrior-game-lineup-mirroring-ghost-of-tsushima/"><u>[New] The Way of the Warrior Game Lineup Mirroring Ghost of Tsushima</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-facebooks-secrets-to-impressive-cover-video-setup/"><u>[Updated] 2024 Approved Facebook's Secrets to Impressive Cover Video Setup</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-craft-your-own-podcast-success-with-writing-tips-and-sample-templates/"><u>[Updated] Craft Your Own Podcast Success with Writing Tips and Sample Templates</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-elevate-video-quality-mastering-fb-1080p-streams/"><u>[Updated] In 2024, Elevate Video Quality Mastering FB 1080P Streams</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-youtube-to-high-definition-prime-downloader-choices/"><u>From YouTube to High Definition Prime Downloader Choices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-aerial-shooting-essentials/"><u>In 2024, Aerial Shooting Essentials</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/your-ultimate-walkthrough-of-the-lenovo-9-tablet-nook-edition/"><u>Your Ultimate Walkthrough of the Lenovo 9 Tablet (Nook Edition)</u></a></li>
 </ul></div>
 

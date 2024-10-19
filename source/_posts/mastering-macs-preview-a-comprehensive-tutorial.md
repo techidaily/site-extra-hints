@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Mac's Preview  A Comprehensive Tutorial\""
-date: 2024-10-12T20:58:17.526Z
-updated: 2024-10-13T19:01:56.234Z
+date: 2024-10-18T22:43:48.274Z
+updated: 2024-10-19T16:36:20.175Z
 tags: 
   - screen-recording
   - ai video
@@ -37,16 +37,10 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
@@ -94,10 +88,10 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
@@ -111,13 +105,6 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -135,13 +122,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -157,6 +137,13 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -185,6 +172,13 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -235,24 +229,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-effortless-spotify-to-youtube-playlist-conversion-5-must-have-apps/"><u>[New] 2024 Approved Effortless Spotify-to-YouTube Playlist Conversion 5 Must-Have Apps</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-free-capture-precision-best-apps-for-windows-desktop-recording/"><u>[New] Free Capture Precision Best Apps for Windows Desktop Recording</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-action-filming-at-its-peak-garmin-virb-ultra-30-analysis/"><u>[Updated] Action Filming at Its Peak Garmin VIRB Ultra 30 Analysis</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-insta-tones-101-learn-to-design-and-download-on-your-own/"><u>[Updated] Insta Tones 101 Learn to Design and Download on Your Own</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-browse-and-download-top-free-extractors-for-your-pinterest-content/"><u>2024 Approved Browse & Download Top Free Extractors for Your Pinterest Content</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-charting-a-course-through-public-domain-landmarks/"><u>2024 Approved Charting a Course Through Public Domain Landmarks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/adventure-capturing-toolskit-for-2024/"><u>Adventure Capturing Toolskit for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/basics-in-the-realm-of-tale-construction-for-2024/"><u>Basics in the Realm of Tale Construction for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/clearing-up-missing-file-alert-in-win-11/"><u>Clearing Up Missing File Alert in Win 11</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ic-shots-infusing-energy-into-your-youtube-videos/"><u>Dynamic Shots Infusing Energy Into Your YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/enhance-watchability-with-full-screen-on-fb-videos/"><u>Enhance Watchability with Full-Screen on FB Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/exclusive-list-of-cost-free-video-downloaders-from-pinterest/"><u>Exclusive List of Cost-Free Video Downloaders From Pinterest</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/facebook-broadcast-keepers-2023-for-2024/"><u>Facebook Broadcast Keepers 2023 for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-fixed-frames-to-fluid-films-an-introduction-to-pixizs-video-magic/"><u>From Fixed Frames to Fluid Films An Introduction to Pixiz's Video Magic</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722965659216-get-your-behringer-usb-audio-device-ready-secure-instant-downloads/"><u>Get Your Behringer USB Audio Device Ready - Secure Instant Downloads!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/guiding-steps-for-effective-gopro-time-lapse-capture/"><u>Guiding Steps for Effective GoPro Time-Lapse Capture</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/hack-the-airwaves-mastering-a-viral-solo-podcast/"><u>Hack the Airwaves Mastering a Viral Solo Podcast</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/how-to-sign-upinto-google-meet-from-your-tech-for-2024/"><u>How to Sign Up/Into Google Meet From Your Tech for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-podcasters-playbook-writing-and-editing-for-engaging-audio/"><u>The Podcaster's Playbook Writing & Editing for Engaging Audio</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-essential-guide-11-easy-to-use-waterproof-cams-for-young-filmmakers/"><u>[New] 2024 Approved Essential Guide 11 Easy-to-Use Waterproof Cams For Young Filmmakers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-analyzing-the-goofy-journey-vhs-review-insights/"><u>[New] Analyzing 'The Goofy Journey' VHS Review Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-compatibility-score-which-phones-work-with-gear-vr/"><u>[New] Compatibility Score Which Phones Work with Gear VR?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-curating-personalized-instagram-stories-overlays/"><u>[New] In 2024, Curating Personalized Instagram Stories Overlays</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-direct-access-to-streams-how-to-download-youtube-videos-to-your-ios-device/"><u>[Updated] 2024 Approved Direct Access to Streams How to Download YouTube Videos to Your iOS Device</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-analysis-of-samsung-image-editor/"><u>[Updated] Comprehensive Analysis of Samsung Image Editor</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-best-webcam-recorders-for-windows-11/"><u>[Updated] In 2024, The Best Webcam Recorders for Windows 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-tune-and-trends-a-guide-to-sound-in-social-media-snapshots-for-2024/"><u>[Updated] Tune & Trends A Guide to Sound in Social Media Snapshots for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-world-of-prompt-engineering-in-ai-for-sustainable-careers/"><u>Exploring the World of Prompt Engineering in AI for Sustainable Careers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fast-track-your-mobile-vids-with-these-tools/"><u>Fast-Track Your Mobile Vids with These Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-your-lag-problems-in-league-of-legends/"><u>Fixing Your 'Lag' Problems in League of Legends</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/most-popular-gratuitous-vfx-websites/"><u>Most Popular Gratuitous VFX Websites</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/natural-inside-glow-techniques-for-homes/"><u>Natural Inside Glow Techniques for Homes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-upgrading-your-steelseries-arcteus-5-audio-experience-via-driver-download/"><u>Step-by-Step Guide to Upgrading Your SteelSeries Arcteus 5 Audio Experience via Driver Download</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/strengthening-your-presence-networking-techniques-for-youtubers/"><u>Strengthening Your Presence Networking Techniques for YouTubers</u></a></li>
 </ul></div>
 

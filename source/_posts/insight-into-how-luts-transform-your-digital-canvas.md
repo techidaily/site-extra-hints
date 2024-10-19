@@ -1,7 +1,7 @@
 ---
 title: "Insight Into How LUTs Transform Your Digital Canvas"
-date: 2024-09-30T21:14:05.405Z
-updated: 2024-10-08T05:05:31.727Z
+date: 2024-10-16T22:15:08.338Z
+updated: 2024-10-19T17:27:35.185Z
 tags: 
   - screen-recording
   - ai video
@@ -58,13 +58,6 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Choose Adjustment Layer
 
 1. Opt for Color Lookup.
@@ -74,10 +67,10 @@ Choose Adjustment Layer
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 load 3d lut
@@ -94,6 +87,13 @@ LUTs come pre-installed in Photoshop, and you can use them as adjustment layers.
 2. When discussing Photoshop, the project is typically an image, so go ahead and open it. Open a new one by pressing 'Ctrl+O' or importing something from your cloud.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Here's the second one
 
@@ -112,10 +112,10 @@ Grow Together
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -129,10 +129,10 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -165,16 +165,20 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-cant-see-only-cursor-a6400-issue/"><u>[Updated] Can't See, Only Cursor! - A6400 Issue</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-curated-cinematic-journeys-the-best-yt-film-selections/"><u>[Updated] In 2024, Curated Cinematic Journeys The Best YT Film Selections</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/creating-a-streamlined-podcast-rss-feed-structure-for-2024/"><u>Creating a Streamlined Podcast RSS Feed Structure for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discover-the-top-15-free-web-based-editing-solutions/"><u>Discover the Top 15 FREE Web-Based Editing Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/fast-framerates-in-photos-innovating-with-windows-paint-app/"><u>Fast Framerates in Photos Innovating with Windows Paint App</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-5-pro-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Honor Magic 5 Pro Phone without Any Data Loss</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-microsoft-ergonomic-surface-keyboard-premium-design-superior-performance/"><u>In-Depth Analysis of the Microsoft Ergonomic Surface Keyboard – Premium Design, Superior Performance</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-photopeas-background-erase-technique/"><u>Mastering Photopea's Background Erase Technique</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/open-new-doors-in-life-and-career-by-learning-hindi-reveal-top-8-reasons-to-choose-mondlys-platform/"><u>Open New Doors in Life and Career by Learning Hindi: Reveal Top 8 Reasons to Choose Mondly's Platform</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-best-fbx-game-recorder-alternatives-for-2024/"><u>[New] Best FBX Game Recorder Alternatives for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-comprehensively-reviewing-top-10-no-cost-video-communication-apps-for-professional-and-academic-needs/"><u>[New] Comprehensively Reviewing Top 10 No-Cost Video Communication Apps for Professional and Academic Needs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-visual-tales-the-essential-guide-to-text-effects/"><u>[New] Crafting Visual Tales The Essential Guide to Text Effects</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-prime-platforms-for-asmr-experience/"><u>[Updated] 2024 Approved Prime Platforms for ASMR Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-charting-the-evolution-of-windows-movie-maker/"><u>[Updated] Charting the Evolution of Windows Movie Maker</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-how-to-edit-audio-on-youtube/"><u>[Updated] In 2024, How to Edit Audio on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-resources-for-text-style-adjustment-files/"><u>[Updated] Prime Resources for Text Style Adjustment Files</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-annotating-emotions-through-trailer-tunes/"><u>2024 Approved Annotating Emotions Through Trailer Tunes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-software-bundles-for-animation-modelers/"><u>2024 Approved Best Software Bundles for Animation Modelers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-guide-to-choosing-podcast-names-plus-creative-ideas-list/"><u>2024 Approved Comprehensive Guide to Choosing Podcast Names + Creative Ideas List</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-3g2-avi/"><u>用 Movavi 在线自由转换 3G2 成AVI，亲身体验卓越效果</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/canvas-hidden-power-ups-for-stunning-visuals/"><u>Canva's Hidden Power-Ups for Stunning Visuals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/digital-painting-made-easy-with-free-online-editors/"><u>Digital Painting Made Easy with Free Online Editors</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-simplified-techniques-for-high-quality-webcam-videos/"><u>In 2024, Simplified Techniques for High-Quality Webcam Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/memetic-masterpieces-a-photo-journey/"><u>Memetic Masterpieces A Photo Journey</u></a></li>
 </ul></div>
 
