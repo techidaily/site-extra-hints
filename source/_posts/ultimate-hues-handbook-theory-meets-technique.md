@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Hues Handbook  Theory Meets Technique\""
-date: 2024-10-18T20:23:40.758Z
-updated: 2024-10-19T20:19:12.917Z
+date: 2024-10-19T17:29:50.114Z
+updated: 2024-10-25T17:39:45.408Z
 tags: 
   - screen-recording
   - ai video
@@ -29,10 +29,10 @@ Color theory consists of many elements that could fill a library on its own but 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Color Wheel
@@ -42,13 +42,20 @@ Using red, green and blue as primary colors we can mix the colors to one another
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Color Harmony
 
@@ -70,33 +77,26 @@ You may still be unsure as to how to implement color theory into your videos. Le
 
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
 As you can see from this example the base color for the scene is a dark blue/purple and using the analogous color of pink they created a point of interest within the scene that doesn't look out of place. This is a very good way to pull the viewers eyes towards something you want them to take in above all else.
 
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
-As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
 ### Conclusion
 
@@ -132,24 +132,24 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-chip-efficiency-exposed-unleashing-top-notch-editing-performance/"><u>[New] 2024 Approved Chip Efficiency Exposed Unleashing Top-Notch Editing Performance</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-best-focus-effects-iphone-vs-android-photo-solutions/"><u>[New] Best Focus Effects IPhone vs Android Photo Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-chucklechief-easy-meme-design-tool/"><u>[New] ChuckleChief Easy Meme Design Tool</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-elite-cloud-saving-solutions-compilation-for-2024/"><u>[New] Elite Cloud Saving Solutions Compilation for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-optimize-your-social-media-with-autoplay-vids-on-fb/"><u>[New] In 2024, Optimize Your Social Media with Autoplay Vids on FB</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unlocking-premiere-pro-full-screen-magic/"><u>[New] Unlocking Premiere Pro Full-Screen Magic</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-audio-equipment-matched-with-4k-cameras/"><u>Best Audio Equipment Matched with 4K Cameras</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/breezy-setup-for-podcast-broadcasts-for-2024/"><u>Breezy Setup for Podcast Broadcasts for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/creating-captivating-podcast-summaries-for-2024/"><u>Creating Captivating Podcast Summaries for 2024</u></a></li>
-<li><a href="https://win-guides.techidaily.com/easy-steps-restore-your-lost-files-with-these-simple-tricks/"><u>Easy Steps: Restore Your Lost Files with These Simple Tricks</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-gameplay-upgrade-to-the-asus-rog-strix-geforce-rtx-3080/"><u>Enhance Your Gameplay: Upgrade to the ASUS ROG Strix GeForce RTX 3080</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-zoom-experience-on-chromebooks/"><u>Enhancing Zoom Experience on Chromebooks</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/expertly-mend-damaged-media-explore-grau-gmbhs-video-restoration-solutions/"><u>Expertly Mend Damaged Media - Explore Grau GmbH’s Video Restoration Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/exploring-the-magic-behind-color-grading-with-luts/"><u>Exploring the Magic Behind Color Grading with LUTs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/high-speed-windows-viewer-for-images/"><u>High-Speed Windows Viewer for Images</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-t2x-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/masterful-color-grading-explore-these-7-methods-for-2024/"><u>Masterful Color Grading Explore These 7 Methods for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/selecting-excellent-steadicams-to-elevate-your-dslr-cinematic-outputs-for-2024/"><u>Selecting Excellent Steadicams to Elevate Your DSLR Cinematic Outputs for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-videography-equipment/"><u>Top Videography Equipment</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-5-ways-to-record-vr-gameplay-for-2024/"><u>[New] 5 Ways to Record VR Gameplay for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guidance-for-effortless-addition-of-youtube-playlists-to-your-site-for-2024/"><u>[New] Guidance for Effortless Addition of YouTube Playlists to Your Site for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-eclipse-etiquette-secrets-to-stunning-night-photos/"><u>[Updated] 2024 Approved Eclipse Etiquette Secrets to Stunning Night Photos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-explore-the-premier-free-overlay-tools-to-elevate-images/"><u>[Updated] 2024 Approved Explore the Premier Free Overlay Tools to Elevate Images</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-5-innovative-approaches-to-choosing-a-dynamic-podcast-name/"><u>[Updated] 5 Innovative Approaches to Choosing a Dynamic Podcast Name</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-complete-visual-field-review-with-cam/"><u>[Updated] Complete Visual Field Review with Cam</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-conquering-the-complexities-of-360-video-post-production-in-premiere/"><u>[Updated] Conquering the Complexities of 360° Video Post-Production in Premiere</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-proficient-content-tagging-made-simple-the-best-7-budget-friendly-online-taggification-apps-reviewed-for-2024/"><u>[Updated] Proficient Content Tagging Made Simple The Best 7 Budget-Friendly Online Taggification Apps Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-unlock-your-videos-hidden-potential-with-these-top-20-shortcuts/"><u>2024 Approved Unlock Your Video's Hidden Potential with These Top 20 Shortcuts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bend-the-rules-of-livestreaming-on-youtube-without-a-subscriber-hurdle/"><u>Bend the Rules of Livestreaming on YouTube, Without a Subscriber Hurdle</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-subtitle-converters-reviewed-the-top-8-win-osx-sbt-to-srts-software/"><u>Best Subtitle Converters Reviewed The Top 8 Win-OSX SBT to SRTS Software</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/access-best-free-youtube-subtitle-extractors/"><u>Easy Access Best Free YouTube Subtitle Extractors</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/ejecucion-sencilla-del-intercambio-del-disco-duro-en-laptops-hp-sin-riesgo-de-perder-datos/"><u>Ejecución Sencilla Del Intercambio Del Disco Duro en Laptops HP Sin Riesgo De Perder Datos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-huawei-p60-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Huawei P60 Unlock Without Password</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-boosting-creativity-the-most-outstanding-free-slide-show-templates/"><u>In 2024, Boosting Creativity The Most Outstanding Free Slide Show Templates</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-choosing-pro-stream-vmix-vs-wirecast-battle/"><u>In 2024, Choosing Pro Stream VMix Vs. Wirecast Battle</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/investigating-other-stickers-in-augmented-reality/"><u>Investigating Other Stickers in Augmented Reality</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-cloud-services-on-android-the-ultimate-2024-compilation/"><u>Premium Cloud Services on Android The Ultimate 2024 Compilation</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-avidemux-audio-not-playing-fix-it-now-for-2024/"><u>Updated Avidemux Audio Not Playing? Fix It Now for 2024</u></a></li>
 </ul></div>
 

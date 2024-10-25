@@ -1,7 +1,7 @@
 ---
 title: "\"Honoring Heritage  Photo Conversion and Visual Storytelling\""
-date: 2024-08-29T18:09:44.619Z
-updated: 2024-08-30T18:09:44.619Z
+date: 2024-10-19T17:34:31.447Z
+updated: 2024-10-25T16:14:06.769Z
 tags: 
   - screen-recording
   - ai video
@@ -98,6 +98,13 @@ Just above the timeline, you can find all kinds of tools to edit your video. For
 
 ![Edit Digitized Photos ](https://images.wondershare.com/filmora/article-images/edit-digitized-photos.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The edit option will present tons of additional features that you can implement on the video. Here, you can go to the “Motion” feature to get different transitions for your photos. This will let you select how any photo would appear in the video collage.
 
 #### 4\. Add effects, transitions, audio, and more
@@ -114,17 +121,35 @@ Besides that, you can also add a track to the video by visiting the “Audio” 
 
 ![Add Audio to Digitized Photos ](https://images.wondershare.com/filmora/article-images/add-audio-old-photo-video.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### 5\. Export your video
 
 That’s it! After making all the changes, you can preview your video on the right side. If you are satisfied with the results, then click on the “Export” button from the top. This will open a dedicated window, letting you select a preferred format to export your file. You can also select a resolution for your video to adjust its size as well.
 
 ![Export Book Trailer File](https://images.wondershare.com/filmora/article-images/book-trailer-export-file.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Find more fancy ways to make the best photo and video slideshow with Filmora!
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## More Editing Tips for Creating Memorable Videos
 
 To get better results while making your video collage, you can consider following these suggestions.
@@ -153,23 +178,15 @@ Most importantly, pick a user-friendly and effective video editor like Filmora. 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 There you go! I’m sure that after reading this guide, you would be able to digitize photos pretty easily. Not just that, you can also come up with memorable videos using your old photographs with a tool like Filmora. The resourceful application offers a wide range of video editing tools that will certainly come handy to you on numerous occasions.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -177,3 +194,24 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-accelerate-audio-playback-on-spotify-safely-and-effectively/"><u>[New] Accelerate Audio Playback on Spotify Safely & Effectively</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-elevate-hd-imagery-comprehensive-guide-for-windows-enthusiasts/"><u>[New] In 2024, Elevate HD Imagery Comprehensive Guide for Windows Enthusiasts</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-freed-images-public-domain-canvas/"><u>[Updated] 2024 Approved Freed Images Public Domain Canvas</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-constructing-coherent-cinematic-introductions/"><u>[Updated] Constructing Coherent Cinematic Introductions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transform-your-videos-simple-steps-to-include-youtube-subtitlescc/"><u>[Updated] Transform Your Videos Simple Steps to Include YouTube Subtitles/CC</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-mastery-over-multiple-tiktok-video-harvest/"><u>2024 Approved Mastery Over Multiple TikTok Video Harvest</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-critical-evaluation-of-ustream-with-equivalents-for-2024/"><u>A Critical Evaluation of Ustream with Equivalents for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/array-of-unique-video-cameras-by-type-for-2024/"><u>Array of Unique Video Cameras by Type for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/correcting-unsteady-flight-footage-artifacts/"><u>Correcting Unsteady Flight Footage Artifacts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-boundless-playlist-public-domain-music-for-games/"><u>In 2024, Boundless Playlist Public Domain Music for Games</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-tecno-spark-20-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Tecno Spark 20 Phone?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-samsung-galaxy-a34-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Samsung Galaxy A34 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/progopro-session-series-evolution/"><u>ProGoPro Session Series Evolution</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-great-digital-debate-meta-vs-omni-for-2024/"><u>The Great Digital Debate Meta Vs. Omni for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-efficiency-on-your-mac-with-an-essential-yet-underappreciated-automatic-shortcut-feature/"><u>Unlocking Efficiency on Your Mac with an Essential, Yet Underappreciated, Automatic Shortcut Feature</u></a></li>
+</ul></div>
+

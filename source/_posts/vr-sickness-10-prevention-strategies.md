@@ -1,7 +1,7 @@
 ---
 title: "\"VR Sickness  10 Prevention Strategies\""
-date: 2024-08-29T18:11:26.525Z
-updated: 2024-08-30T18:11:26.525Z
+date: 2024-10-21T17:18:28.441Z
+updated: 2024-10-25T16:11:38.121Z
 tags: 
   - screen-recording
   - ai video
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/8ab6ea565c08148258cccefd3c4e69bde02c4b3db
 
 **10\. Try not to move your head a lot.** Since motion sickness directly corresponds to movement, reducing your head movement left and right and up and down in one place can help you lower the chances of sickness.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Oculus have done to reduce motion sickness
 
  With the new, innovative VR devices and the head gear technology has taken a huge leap. Oculus Rift has become widely popular among its enthusiastic users. When Oculus released its first Development kit (DevKit 1) the users experienced the symptoms such as nausea, dizziness, sweating and vomiting. Even Oculus CEO Brendan Iribe experienced “motion sickness” with his own product, while using last year’s “DevKit 1” prototype. These sickness issues were so common while using DevKit 1 that its users called it the “Rift Sickness”.
@@ -58,13 +65,18 @@ thumbnail: https://thmb.techidaily.com/8ab6ea565c08148258cccefd3c4e69bde02c4b3db
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -72,6 +84,22 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-ultimate-source-guide-4-top-skype-ringtones/"><u>[New] In 2024, The Ultimate Source Guide 4 Top Skype Ringtones</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-ultimate-guide-to-cinematography-on-youtube/"><u>[New] The Ultimate Guide to Cinematography on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dvd6and/"><u>【推奨】究極のDVDリッピングツールベスト6選！無料版&有料版があります</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-48-hour-memelore-creation-via-kinemaster/"><u>2024 Approved 48-Hour Memelore Creation via KineMaster</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/brainy-broadcasts-top-trivia-video-channels-for-the-year-2024/"><u>Brainy Broadcasts Top Trivia Video Channels for the Year 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/easy-voice-transformation-on-pc-flippers-guide-to-sound-switcheroo/"><u>Easy Voice Transformation on PC Flipper's Guide to Sound Switcheroo</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/how-to-address-windows-answer-3-troubleshooting-non-detectable-cddvd-devices-in-windows-10-environments/"><u>How to Address 'Windows [Answer]: 3. Troubleshooting Non-Detectable CD/DVD Devices in Windows 10 Environments</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-authoritative-list-affordable-visuals-online/"><u>In 2024, Authoritative List Affordable Visuals Online</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-free-youtube-earning-predictors/"><u>In 2024, Free YouTube Earning Predictors</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-prime-picks-top-10-unrivaled-digital-backdrop-switchers/"><u>In 2024, Prime Picks Top 10 Unrivaled Digital Backdrop Switchers</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-g-drive-force-gt-steering-wheel-driver-software-compatible-with-win-7-10-and-11-download/"><u>Logitech G: Drive Force GT Steering Wheel Driver Software - Compatible with Win 7, 10 & 11 [Download]</u></a></li>
+<li><a href="https://os-tips.techidaily.com/stay-alert-with-wazes-real-time-notifications-for-speed-limits-curves-and-road-hazards/"><u>Stay Alert with Waze's Real-Time Notifications for Speed Limits, Curves, and Road Hazards</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-sony-s3700-bd-review-2023/"><u>Updated Sony S3700 BD REVIEW 2023</u></a></li>
+<li><a href="https://network-issues.techidaily.com/visual-aid-issue-cleared/"><u>Visual Aid: Issue Cleared</u></a></li>
+</ul></div>
+

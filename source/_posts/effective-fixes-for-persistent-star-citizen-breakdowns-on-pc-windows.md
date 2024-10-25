@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Persistent Star Citizen Breakdowns on PC Windows
-date: 2024-10-14T18:44:14.982Z
-updated: 2024-10-19T19:48:58.741Z
+date: 2024-10-23T17:15:48.803Z
+updated: 2024-10-25T16:48:42.985Z
 tags:
   - win11
   - win10
@@ -41,20 +41,13 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 3. Go to[the official Java website](https://java.com/en/download/) to download the latest version to your computer. Double-clcik the installation file and follow the instructions on the screen to install it on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch Lunar Client and see if this fix works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -69,14 +62,35 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Run Lunar Client and see if the latest graphics driver stops the crash. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Change launch directory
 
@@ -89,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Run-appdata.png)
 3. **Double-click** on the**.minecraft** folder to open it. Then create a new folder and name it as_new launch directory_ (or whatever you like).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![lunar client new launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/lunar-client-new-launch-directory.jpg)
 4. In Lunar Client, go to**Settings** and click**Change Directory** .  
 
@@ -103,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 5. Select the new folder you created in step 3) and click**Select Folder** to set it to the launch directory.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Change launch directory 1](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory-1.jpg)
@@ -137,20 +144,20 @@ To perform a clean boot, just follow the steps below:
 5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
@@ -160,13 +167,6 @@ To perform a clean boot, just follow the steps below:
  Once you find out the software that crashes your game, you may need to close or uninstall it before you launch Lunar Client.
 
  See if this fix works. If Lunar Client doesn’t crash, congratultions! You’ve fixed this issue. If not, you try the next fix below to reinstall Minecraft and Lunar.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Reinstall Minecraft and Lunar Client
 
@@ -196,16 +196,20 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-elite-5-emulators-transforming-old-ps1-games-on-pcs/"><u>[Updated] 2024 Approved Elite 5 Emulators Transforming Old PS1 Games on PCs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-blur-proof-iphones-achieving-flawless-budget-friendly-edits/"><u>2024 Approved Blur-Proof iPhones Achieving Flawless, Budget-Friendly Edits</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/craft-superior-canon-chrono-series-for-2024/"><u>Craft Superior Canon Chrono Series for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effortlessly-resolve-your-rage-2-game-crashing-woes-step-by-step-guide-inside/"><u>Effortlessly Resolve Your RAGE 2 Game-Crashing Woes – Step-by-Step Guide Inside</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/exclusive-auditory-selections-for-filmmaking/"><u>Exclusive Auditory Selections for Filmmaking</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/the-shadows-to-spotlight-rise-in-popularity-with-these-steps-on-youtube-for-2024/"><u>From the Shadows to Spotlight Rise in Popularity with These Steps on YouTube for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-optimal-zoom-for-your-videos-top-10-editor-guide/"><u>In 2024, Optimal Zoom for Your Videos - Top 10 Editor Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Vivo Y56 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transforming-flat-text-into-3d-masterpieces-photo/"><u>Transforming Flat Text Into 3D Masterpieces PHOTO</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-guide-to-convert-srt-to-txt-in-minutes-2023-for-2024/"><u>Ultimate Guide to Convert SRT to TXT in Minutes 2023 for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-error-files-without-preview-thumbnails/"><u>Windows 11 Error: Files Without Preview Thumbnails</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-free-high-quality-streaming-tools-for-webm-video-files/"><u>[New] Best Free, High-Quality Streaming Tools for WebM Video Files</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-evaluating-bandicam-and-camtasia-for-mac-users/"><u>[New] In 2024, Evaluating Bandicam and Camtasia for Mac Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-inside-the-world-of-digital-screen-recording/"><u>[New] Inside the World of Digital Screen Recording</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-adding-apple-music-a-guide-to-enhanced-videos/"><u>[Updated] Adding Apple Music A Guide to Enhanced Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-price-point-in-online-advertising/"><u>[Updated] The Price Point in Online Advertising</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ultimate-guide-on-how-to-create-srt-file-plus-tips/"><u>[Updated] Ultimate Guide on How to Create SRT File (Plus Tips)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-top-10-best-drones-for-kids-and-beginners/"><u>2024 Approved Top 10 Best Drones for Kids and Beginners</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fast-tracking-music-in-spotify-efficiency-and-security-in-harmony-for-2024/"><u>Fast-Tracking Music in Spotify Efficiency & Security in Harmony for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-honor-x8b-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Honor X8b to Protect Your Individual Information</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-fixing-fallout-76-on-your-computer-comprehensive-guide/"><u>Master the Art of Fixing Fallout 76 on Your Computer: Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/melodic-masterpieces-top-sites-for-legal-skype-files/"><u>Melodic Masterpieces Top Sites for Legal Skype Files</u></a></li>
+<li><a href="https://article-posts.techidaily.com/novice-path-to-prosperity-making-money-on-periscope/"><u>Novice Path to Prosperity Making Money on Periscope</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamlining-your-process-tools-and-tricks-for-smooth-broadcasting/"><u>Streamlining Your Process Tools and Tricks for Smooth Broadcasting</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-new-era-of-framing-life-with-nikon-d500/"><u>The New Era of Framing Life with Nikon D500</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-creative-potential-fix-and-master-photoshop-cs8-on-windows-today/"><u>Unlock Creative Potential: Fix and Master PhotoShop CS8 on Windows Today!</u></a></li>
 </ul></div>
 

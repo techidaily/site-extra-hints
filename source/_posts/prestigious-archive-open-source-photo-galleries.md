@@ -1,7 +1,7 @@
 ---
 title: "\"Prestigious Archive  Open-Source Photo Galleries\""
-date: 2024-08-29T18:07:12.339Z
-updated: 2024-08-30T18:07:12.339Z
+date: 2024-10-19T18:06:09.313Z
+updated: 2024-10-25T18:45:46.781Z
 tags: 
   - screen-recording
   - ai video
@@ -47,15 +47,23 @@ Today Unsplash has grown into one of the most popular free stock photo sites, wi
 ![kaboompics](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-03.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Kaboompics is a free stock photo site that offers a good selection of images. The search functionality on Kaboompics works pretty well and allows for quick indexing of keywords that are relevant to your searches. Their database contains an extensive list of categories, each with hundreds of photos.
 
 Kaboompics also has a "free commercial" section which provides more than 1 million images for your commercial projects without any restrictions or attribution required.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. [Pixabay](https://pixabay.com/)
 
 ![pixabay](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-04.JPG)
@@ -65,8 +73,18 @@ Pixabay is one of the most popular websites for free images. It has a wide range
 The site is easy to navigate and searchable by keyword or category. You can also browse by "popular" images, which will show you what other people are looking at on Pixabay at any given time.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. [Snappa](https://snappa.com/)
 
 ![snappa](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-05.JPG)
@@ -77,17 +95,28 @@ The site has an extensive library of free stock photos, vectors, mockups, and te
 
 It can be a little hard to find exactly what you're looking for as there are so many options; if you have trouble finding what you want in Snappa's search engine, try clicking on one of the categories listed above to narrow it down some more.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. [Freerange](https://freerangestock.com/)
 
 ![freerange](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-06.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Freerange is a photo agency that offers free and premium photos.
 
 The site has a wide range of subjects, including nature, animals, food, etc. Photos are high-quality, royalty-free images you can use commercially if you choose.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 7\. [Shutterstock Collection](https://www.shutterstock.com/)
 
 ![shutterstocks collection](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-07.JPG)
@@ -97,8 +126,12 @@ One of the best places to get free images is Shutterstock. They have a collectio
 You can search through the site's entire collection or narrow it down by category (e.g., animals or nature). You can also download all images in full resolution or view them as thumbnails on their website.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Morguefile
 
 ![morguefile](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-08.JPG)
@@ -111,23 +144,21 @@ Here, you can find free, high-resolution digital stock photos for business or pu
 
 ![dreamstime images](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-09.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Dreamstime is a stock photography website with over 20 million images. It allows you to search for images by keyword, color, and style. Dreamstime also offers thousands of different licenses, from $1 to $50 per image.
 
 If you're looking for something specific, Dreamstime has many categories, including animals, architecture, people, nature, and more.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 10\. CC Search
 
 ![cc search](https://images.wondershare.com/filmora/article-images/2022/12/10-sites-to-get-free-images-10.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 CC Search is a search engine for Creative Commons photos, which means you can use the images on your website without paying anything. CC Search has an extensive collection of images to choose from, and they are all free. Just type your keyword in the search bar, and you'll find plenty of relevant results.
 
 You can also choose whether you want to display ads on your site. If you want to keep them off completely, there is an option that allows users who visit your site to download high-resolution copies at no cost (as long as they attribute credit).
@@ -166,4 +197,18 @@ Remember, if you're looking for images that aren't copyrighted or stock photos, 
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-elevate-your-ppt-presentations-avoiding-common-voiceover-pitfalls/"><u>[Updated] Elevate Your PPT Presentations Avoiding Common Voiceover Pitfalls</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-advice-from-toms-computer-and-component-analysis/"><u>Expert Advice From Tom's Computer & Component Analysis</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/fixing-the-issue-how-to-restore-the-disappeared-system-protection-option-on-windows-server-2016/"><u>Fixing the Issue: How to Restore the Disappeared System Protection Option on Windows Server 2016</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-blaze-2-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Blaze 2 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a59-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Oppo A59 5G Phone without PIN</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-bring-a-smile-simple-meme-creation-with-kapwing/"><u>In 2024, Bring a Smile Simple Meme Creation With Kapwing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-poco-m6-pro-4g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Poco M6 Pro 4G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/look-up-tables-enhancing-visual-storytelling/"><u>Look-Up Tables Enhancing Visual Storytelling</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pro-level-drone-racing-techniques-and-quintessential-fpvs/"><u>Pro-Level Drone Racing Techniques & Quintessential FPVs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smartphone-showdown-pixel-9xl-vs-iphone-15-pro-battle-of-the-cameras-reveals-unexpected-victor/"><u>Smartphone Showdown: Pixel 9XL Vs. IPhone 15 Pro Battle of the Cameras Reveals Unexpected Victor!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transformative-video-techniques-for-zoom-mastery/"><u>Transformative Video Techniques for Zoom Mastery</u></a></li>
+</ul></div>
 

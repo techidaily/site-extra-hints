@@ -1,7 +1,7 @@
 ---
 title: "Foremost Companies Pioneering VR Technology"
-date: 2024-10-16T17:32:28.338Z
-updated: 2024-10-19T17:34:15.835Z
+date: 2024-10-23T18:59:45.163Z
+updated: 2024-10-25T19:06:12.662Z
 tags: 
   - screen-recording
   - ai video
@@ -44,16 +44,10 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Art Work of With.in
@@ -69,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## About Chris Milk
@@ -89,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -110,22 +104,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-authenticating-your-instagram-photos/"><u>[New] Authenticating Your Instagram Photos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-converting-moments-into-art-gopro-studios-time-lapse-blueprint/"><u>[New] Converting Moments Into Art GoPro Studio's Time Lapse Blueprint</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/aximizing-youtube-gaming-income-for-2024/"><u>[New] Maximizing YouTube Gaming Income for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-photography-tips-for-seamless-instagram-posting/"><u>[Updated] 2024 Approved Photography Tips for Seamless Instagram Posting</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-a-complete-breakdown-lg-bp350-monitors-specifications-and-reviews/"><u>[Updated] A Complete Breakdown LG BP350 Monitor's Specifications and Reviews</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-best-10-web-based-hd-screen-capture-tools-for-2024/"><u>[Updated] Best 10 Web-Based HD Screen Capture Tools for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-places-to-find-3d-silver-and-gold-lettering-effects/"><u>[Updated] Best Places to Find 3D Silver and Gold Lettering Effects</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-brilliant-hues-ranking-11-expert-color-correction-tutorials/"><u>[Updated] Brilliant Hues Ranking 11 Expert Color Correction Tutorials</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-breaking-down-lg-27ud88-uhd-tv-with-usb-type-c/"><u>2024 Approved Breaking Down LG 27UD88-UHD TV with USB Type-C</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/banishing-bogus-followers-from-instagram-landscape/"><u>Banishing Bogus Followers From Instagram Landscape</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/birthstones-and-emojis-tailoring-your-whatsapp-profile-by-sign-for-2024/"><u>Birthstones and Emojis Tailoring Your WhatsApp Profile by Sign for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-slomo-app-evaluation-future-prospects/"><u>In 2024, Comprehensive SloMo App Evaluation - Future Prospects</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-how-to-add-custom-youtube-shorts-thumbnails-with-ease/"><u>In 2024, How to Add Custom YouTube Shorts Thumbnails with Ease?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-screen-recorder-showcase-apowersofts-place-in-the-market/"><u>In 2024, Screen Recorder Showcase Apowersoft's Place in the Market</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Vivo X90S? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/innovating-ai-dialogues-5-best-online-classes/"><u>Innovating AI Dialogues: 5 Best Online Classes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/zooming-up-your-video-game-with-custom-filters/"><u>Zooming Up Your Video Game with Custom Filters</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-joyride-collection-for-young-ones/"><u>[New] 2024 Approved The Joyride Collection for Young Ones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-checklist-what-makes-dji-phantom-4-special/"><u>[New] The Ultimate Checklist What Makes DJI Phantom 4 Special?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-top-10-software-to-create-and-edit-vector-images-that-you-should-know/"><u>[New] Top 10 Software to Create and Edit Vector Images That You Should Know</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-capturing-every-frame-the-apeaksoft-reviewed-screen-recorder/"><u>[Updated] Capturing Every Frame The Apeaksoft Reviewed Screen Recorder</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-comprehensive-breakdown-using-googles-speech-recognition-tool-for-2024/"><u>[Updated] Comprehensive Breakdown Using Google's Speech Recognition Tool for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creating-a-visual-statement-with-stellar-podcast-artwork/"><u>Creating a Visual Statement with Stellar Podcast Artwork</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-unshackled-gpt-on-windows/"><u>Discover Unshackled GPT on Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fostering-flourishing-visuals-with-after-effects-fonts/"><u>Fostering Flourishing Visuals with After Effects Fonts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-realme-gt-neo-5-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Realme GT Neo 5 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/indiana-jones-series-in-order-a-perfect-viewing-plan-for-fans/"><u>Indiana Jones Series in Order: A Perfect Viewing Plan for Fans</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-spectacular-lg-ud88w-4k-widescreen-monitor-review/"><u>The Spectacular LG UD88W 4K Widescreen Monitor Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-tally-unveiling-the-highest-rated-threads-on-reddit/"><u>The Ultimate Tally Unveiling the Highest-Rated Threads on Reddit</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/understanding-the-magic-behind-quantum-hdr-for-2024/"><u>Understanding the Magic Behind Quantum HDR for 2024</u></a></li>
 </ul></div>
 

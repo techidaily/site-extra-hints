@@ -1,7 +1,7 @@
 ---
 title: "Amazon Echo (4Gen): A Breakdown of Key Upgrades and Revamped Features"
-date: 2024-10-15T20:32:23.598Z
-updated: 2024-10-19T16:00:58.510Z
+date: 2024-10-19T18:36:41.291Z
+updated: 2024-10-25T18:17:46.768Z
 categories:
   - BestProducts
 description: "This Article Describes Amazon Echo (4Gen): A Breakdown of Key Upgrades and Revamped Features"
@@ -44,13 +44,6 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NT3lnZ3hOwaGUbS2tHARE7zRT1Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_Hero_Square-cced3e5a3d3e4d24af1b85a59c76932d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Jeremy Laukkonen
 
 [View On Amazon](https://www.amazon.com/luna/landing-page?tag=lifewire-onsite-prod-20&ascsubtag=5119523%7Cnc95ba131dcd04d8fadef0bfb2a313e6816%7C)
@@ -76,6 +69,13 @@ Lifewire / Jeremy Laukkonen
 
  Luna is an impressive service with what seems like solid underlying tech right out of the gate. The biggest questions seem to be how and when Amazon will go about filling holes in the library, how well the service will work when they eventually roll out 4K streaming, and whether we’ll see better Android support in the future.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Design and Controls: Decent enough app and a nearly flawless controller
 
  Luna isn’t a traditional game console, so there isn’t much design to speak of in terms of hardware. The two important elements here are the Luna app, which operates as an Android app on Fire TV and a web app in[Chrome](https://www.lifewire.com/what-is-google-chrome-4687647) and[Safari](https://www.lifewire.com/what-is-safari-4173608) , and the controller that’s technically optional.
@@ -92,13 +92,6 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/jNDwaMGOVuF5UIISPsmdb5uQdGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_04-985a4419a93945d2879b09d61fafae5a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Jeremy Laukkonen
 
  In addition to the offset analog sticks, the Luna controller also features a fairly standard array of buttons. A somewhat mushy directional pad sits below the left analog stick, and four familiar face buttons sit above the right stick. The triggers are fairly shallow but feel responsive, and shoulder buttons are easily accessed without moving your fingers off the triggers. In addition to the standard array, the Luna controller also includes a microphone button to access Alexa.
@@ -112,10 +105,10 @@ Lifewire / Jeremy Laukkonen
  Overall, the Luna controller has quickly become one of my favorite alternatives to the Xbox One or Xbox Series X/S controller; the only real issues being the mushy d-pad and the texture of the analog sticks. I ended up snapping on some performance thumb grips, which worked great.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Setup Process: Quick and easy
@@ -152,6 +145,13 @@ Lifewire / Jeremy Laukkonen
 
  If you have a slow internet connection or suffer from poor connectivity, then it’s likely that the brief issues I experienced could be amplified to an unacceptable point. If you have a decent connection, live closer to a major metropolitan area than I do, and have more than 10Mbps of downstream bandwidth available, the service should work just fine.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Software: Dozens of games, but the library is a bit thin with a lot of holes
 
  Luna’s biggest issue, and its biggest question mark going forward, is its streaming library. Amazon is taking a page from Microsoft’s book in that they’re trying to function as a Netflix of game streaming, but Amazon just doesn’t have the same deep library as Microsoft.
@@ -176,13 +176,6 @@ Lifewire / Jeremy Laukkonen
 
  The Luna controller has a heftier price tag of $50, but that’s actually pretty reasonable if you compare it to other wireless controllers. It’s cheaper than a lot of the other options, and you can use it via Wi-Fi with Luna, or via Bluetooth or USB-C to play non-Luna games on your PC. All in all, it’s a good controller that’s priced competitively.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Amazon Luna vs. Microsoft Game Pass Ultimate
 
  Microsoft Game Pass Ultimate, which includes the xCloud streaming service, is the closest analog to Luna. They’re both monthly subscription services, and they both use a Netflix model where you can stream whatever you want, however much you want, whenever you want, without needing to actually buy the games.
@@ -201,6 +194,13 @@ Lifewire / Jeremy Laukkonen
 
  Amazon Luna is an impressive game streaming service that works surprisingly well whether or not you buy the optional controller. It isn’t perfect, and you’re likely to experience hiccups here and there, but it’s an extremely affordable way to experience dozens of games, many of which would otherwise require an expensive gaming PC or console, without any kind of initial investment. The future of the service remains uncertain, and the precedent of locking Ubisoft games behind an expensive additional paywall isn’t a great sign, but Amazon has a chance to make a real splash in the gaming world with Luna.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Similar Products We've Reviewed
 
 * [Xbox Series X|S Controller](https://www.lifewire.com/xbox-series-x-or-s-controller-review-5113227)
@@ -208,10 +208,10 @@ Lifewire / Jeremy Laukkonen
 * [Xbox One Elite Controller](https://www.lifewire.com/xbox-one-elite-controller-review-4770957)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -244,24 +244,21 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-developing-dynamic-instagram-highlight-summaries/"><u>[New] 2024 Approved Developing Dynamic Instagram Highlight Summaries</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-basic-procedure-swapping-video-playback-in-vlc-media-player-for-2024/"><u>[New] Basic Procedure Swapping Video Playback in VLC Media Player for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-top-10-premier-android-and-ios-video-chat-tools/"><u>[New] Top 10 Premier Android & iOS Video Chat Tools</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-smooth-sailing-with-instagram-fixes-for-frustrations-for-2024/"><u>[Updated] Smooth Sailing with Instagram Fixes for Frustrations for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unlock-follower-growth-secrets-on-facebook-in-10-simple-ways-for-2024/"><u>[Updated] Unlock Follower Growth Secrets on Facebook in 10 Simple Ways for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-bridging-still-life-with-moving-picture-magic/"><u>2024 Approved Bridging Still Life with Moving Picture Magic</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-unleashing-power-plays-exclusive-insights-into-best-7-total-war-battles/"><u>2024 Approved Unleashing Power Plays Exclusive Insights Into Best 7 Total War Battles</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-free-online-tools-for-precise-srt-translation/"><u>Best FREE Online Tools for Precise SRT Translation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/clarifying-gap-between-full-view-and-immersive-videos-for-2024/"><u>Clarifying Gap Between Full View & Immersive Videos for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-creativity-with-filmoras-best-tools/"><u>Enhancing Creativity with Filmora's Best Tools</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-vivo-y100i-power-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo Y100i Power 5G Phone Screen?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/htcs-masterpiece-in-vr-the-immersive-experience/"><u>HTC's Masterpiece in VR The Immersive Experience</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-exceptional-sounds-spotlight-on-the-best-mixers-for-podcasters/"><u>In 2024, Crafting Exceptional Sounds Spotlight on the Best Mixers for Podcasters</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mobile-memories-iphone-recording-2024/"><u>Mobile Memories IPhone Recording 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009678024-navigating-through-star-wars-squadrons-crash-mysteries-now-resolved/"><u>Navigating Through Star Wars Squadrons Crash Mysteries - Now Resolved</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-performance-issues-how-to-stop-code-vein-lagging/"><u>Overcoming Performance Issues: How to Stop Code Vein Lagging?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/strategies-to-outlast-your-competitors-in-snapping-for-2024/"><u>Strategies to Outlast Your Competitors in Snapping for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-editors-edge-advanced-techniques-in-chromatic-manipulation/"><u>The Editor's Edge Advanced Techniques in Chromatic Manipulation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/uniting-melodies-and-images-with-youtube-music-for-video-projects/"><u>Uniting Melodies & Images with YouTube Music for Video Projects</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-blend-into-black-premiere-pro-trick/"><u>[New] Blend Into Black Premiere Pro Trick</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-fiery-friendship-keeping-your-snapstreak-hot-and-steady-for-2024/"><u>[New] Fiery Friendship Keeping Your Snapstreak Hot and Steady for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-amplify-content-with-free-audio-samples/"><u>[Updated] In 2024, Amplify Content with Free Audio Samples!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capturing-movie-scenes-as-single-image-snapshots-windows-10/"><u>2024 Approved Capturing Movie Scenes as Single Image Snapshots (Windows 10)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-commence-your-journey-with-xps-film-editor-suite/"><u>2024 Approved Commence Your Journey with XP's Film Editor Suite</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-how-to-download-and-convert-youtube-twittersongs-videos-to-mp3/"><u>2024 Approved How to Download and Convert YouTube Twittersongs (Videos) to MP3</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-essentials-of-stylistic-self-discovery-high-impact/"><u>2024 Approved The Essentials of Stylistic Self-Discovery [High Impact]</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/collage-creation-step-by-step-tutorial/"><u>Collage Creation Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/first-timer-accessories-transform-your-gopro-experience/"><u>First-Timer Accessories - Transform Your GoPro Experience</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/get-your-favorite-wdr-programs-with-our-easy-to-use-downloader-for-pc-and-apple-devices/"><u>Get Your Favorite WDR Programs with Our Easy-to-Use Downloader for PC and Apple Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-14-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 14 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-detailed-exploration-samsungs-photo-editor-capabilities-2023/"><u>In 2024, A Detailed Exploration Samsung's Photo Editor Capabilities, 2023</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-nubia-z50s-pro-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Nubia Z50S Pro</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-oppo-reno-9a-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Oppo Reno 9A</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/key-players-in-top-6-4k-youtube-to-mp3-conversion-software/"><u>Key Players in Top 6 4K YouTube-to-MP3 Conversion Software</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-rezensierte-ersatzprodukte-fur-xcopy-unter-windows-11-7-und-xp-eine-umfassende-liste/"><u>Top-Rezensierte Ersatzprodukte Für Xcopy Unter Windows 11, 7 Und XP - Eine Umfassende Liste</u></a></li>
 </ul></div>
 

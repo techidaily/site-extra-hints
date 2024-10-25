@@ -1,7 +1,7 @@
 ---
 title: "Tips & Tricks: Fixing Common Arise Game-Crash Issues"
-date: 2024-10-16T19:13:26.781Z
-updated: 2024-10-19T21:22:35.076Z
+date: 2024-10-23T16:22:57.903Z
+updated: 2024-10-25T18:28:31.792Z
 tags:
   - win11
   - win10
@@ -47,13 +47,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After it finishes validating the game files, you can relaunch World of Warships to check if crashes are still there. If yes, proceed to **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  below.
 
 #### If you play on Wargaming launcher
@@ -68,20 +61,14 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-6.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for the process to complete, and relaunch World of Warships to test this method. If it fails to cure the crash, move on to the fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics card driver
 
@@ -111,16 +98,16 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
@@ -128,13 +115,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Now that you’ve installed the most recent graphics driver, you can expect a smooth and enhanced game performance. If updating the driver doesn’t work, keep reading the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Delete the preferences.xml file
 
@@ -146,9 +126,23 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click the**preferences.xml file** and press the**Delete key** on your keyboard.
 
 See if the crashing issue goes away. If not, try the fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Launch World of Warships in safe mode
 
@@ -175,10 +169,10 @@ Do the crashes disappear now? If not, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click**World of Warships** from the list, and click**Uninstall** . Then, follow the on-screen instructions to complete the process.
@@ -186,10 +180,10 @@ Do the crashes disappear now? If not, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-3-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
@@ -222,17 +216,18 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-10-premium-text-tricks-for-videos/"><u>[New] 10 Premium Text Tricks for Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ace-bgm-selection-perfect-backdrops-for-video-calling/"><u>[New] 2024 Approved Ace BGM Selection Perfect Backdrops for Video Calling</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-cost-free-match-mastery-how-to-stream-and-slice/"><u>[Updated] 2024 Approved Cost-Free Match Mastery How to Stream and Slice</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-logic-pro-xs-audio-magic-tricks-for-seamless-sounds/"><u>[Updated] 2024 Approved Logic Pro X's Audio Magic Tricks for Seamless Sounds</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-androvid-video-editor-complete-review/"><u>[Updated] AndroVid Video Editor – Complete Review</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-samsung-galaxy-s24-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Samsung Galaxy S24 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/building-brands-through-innovative-design-work/"><u>Building Brands Through Innovative Design Work</u></a></li>
-<li><a href="https://extra-information.techidaily.com/essential-vlc-mac-tips-and-tricks-guide/"><u>Essential VLC Mac Tips & Tricks Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/flight-friendly-robot-categories/"><u>Flight-Friendly Robot Categories</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/iconic-screenplays-a-cinematic-legacy/"><u>Iconic Screenplays A Cinematic Legacy</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-chilly-champs-beijings-best-of-the-2022-games/"><u>In 2024, Chilly Champs Beijing's Best of the 2022 Games</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/step-by-step-guide-converting-your-dvds-into-quicktime-movie-files/"><u>Step-by-Step Guide: Converting Your DVDs Into QuickTime Movie Files</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-auditory-mastery-selecting-background-music-for-vids/"><u>[New] Auditory Mastery Selecting Background Music for Vids</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-comedy-in-catchy-notes-best-parody-songs-list/"><u>[New] In 2024, Comedy in Catchy Notes Best Parody Songs List</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-engage-more-with-facebook-sharing-panoramic-photos-via-iosandroid-apps/"><u>2024 Approved Engage More with Facebook Sharing Panoramic Photos via iOS/Android Apps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-unveiling-the-hidden-treasures-youtubes-top-makeup-talents/"><u>2024 Approved Unveiling the Hidden Treasures YouTube's Top Makeup Talents</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-motivational-life-vlogs-for-fan-engagement-for-2024/"><u>Crafting Motivational Life Vlogs for Fan Engagement for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/download-c-spans-historical-recordings-without-cost/"><u>Download C-Span's Historical Recordings Without Cost</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-y100i-power-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo Y100i Power 5G FRP?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-straightforward-route-scrolling-through-popular-youtube-feedbacks/"><u>In 2024, The Straightforward Route Scrolling Through Popular YouTube Feedbacks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-google-pixel-8-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Google Pixel 8 Pro to Gmail | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/professional-audio-recording-strategies-for-windows-10/"><u>Professional Audio Recording Strategies for Windows 10</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-to-clearing-your-dns-cache-on-windows-10-and-11/"><u>Step-by-Step Guide to Clearing Your DNS Cache on Windows 10 & 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-lenovo-ideapad-130s-exploring-its-modest-battery-life-and-impressive-functionality/"><u>Unveiling the Lenovo IdeaPad 130S: Exploring Its Modest Battery Life and Impressive Functionality</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/voice-broadcasting-made-easy-on-your-idevice-tips-and-tricks/"><u>Voice Broadcasting Made Easy on Your iDevice Tips & Tricks</u></a></li>
 </ul></div>
 

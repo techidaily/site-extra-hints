@@ -1,7 +1,7 @@
 ---
 title: "[New] Breaking Ground in VR Content Development"
-date: 2024-10-14T17:20:13.669Z
-updated: 2024-10-19T22:16:40.182Z
+date: 2024-10-23T18:31:38.109Z
+updated: 2024-10-25T18:30:07.016Z
 tags: 
   - screen-recording
   - ai video
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Art Work of With.in
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## About Chris Milk
@@ -83,10 +83,16 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -104,17 +110,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-chilly-competition-unveiling-highlights-of-2022s-snowboard-cross-showdown-for-2024/"><u>[Updated] Chilly Competition Unveiling Highlights of 2022'S Snowboard Cross Showdown for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-crafting-connectivity-with-metaverse-strategies/"><u>[Updated] Crafting Connectivity with Metaverse Strategies</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/hatch-humorous-habits/"><u>Hatch Humorous Habits</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-12-pro-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 12 Pro After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/logic-pro-method-to-gradually-reduce-audio-levels/"><u>Logic Pro Method to Gradually Reduce Audio Levels</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/optimal-space-stewards-premium-service-review/"><u>Optimal Space Stewards Premium Service Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcome-quick-windows-setup-failures-successfully/"><u>Overcome Quick Windows Setup Failures Successfully</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-process-to-refresh-amd-driver-versions-in-windows-os/"><u>Step-by-Step Process to Refresh AMD Driver Versions in Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/tivo-television-sets-set-to-hit-american-markets-in-upcoming-spring-season/"><u>TiVO Television Sets Set to Hit American Markets in Upcoming Spring Season</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-affordable-asmr-recording-setup-excellence/"><u>Ultimate Affordable ASMR Recording Setup Excellence</u></a></li>
-<li><a href="https://fox-links.techidaily.com/unravel-the-complexity-of-background-removal-with-affinity-photo-for-2024/"><u>Unravel the Complexity of Background Removal with Affinity Photo for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-photo-perfection-seamless-text-integration-on-pc-and-mac-systems-for-2024/"><u>[New] Photo Perfection Seamless Text Integration on PC & Mac Systems for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unleashing-creativity-capturing-and-editing-impressive-videos-in-adobe-connect-for-2024/"><u>[Updated] Unleashing Creativity Capturing & Editing Impressive Videos in Adobe Connect for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/8-best-drawing-apps-for-iphones/"><u>8 Best Drawing Apps for iPhones</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-lava-blaze-curve-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Lava Blaze Curve 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/charting-a-course-through-public-domain-landmarks/"><u>Charting a Course Through Public Domain Landmarks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comparing-magix-audio-tools-for-2024/"><u>Comparing MAGIX Audio Tools for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-tecno-spark-20c-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Tecno Spark 20C.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/environmental-conditions-such-as-temperature-humidity-and-uv-exposure-affect-the-performance-of-self-healing-mechanisms-in-concrete/"><u>Environmental Conditions Such as Temperature, Humidity, and UV Exposure Affect the Performance of Self-Healing Mechanisms in Concrete</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-still-to-story-the-art-of-adding-text-to-photos-os-style/"><u>From Still to Story The Art of Adding Text to Photos, OS Style</u></a></li>
+<li><a href="https://techtrends.techidaily.com/macos-15-sequoia-unleashed-a-deep-dive-into-release-information-and-groundbreaking-features/"><u>MacOS 15 (Sequoia) Unleashed: A Deep Dive Into Release Information & Groundbreaking Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-multitasking-firefox-picture-in-picture-explained/"><u>Mastering Multitasking Firefox Picture-in-Picture Explained</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/threefold-stabilization-to-shine-your-iphone-videos/"><u>Threefold Stabilization to Shine Your iPhone Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/wattpad-stars-moments-on-snapchat/"><u>Wattpad Stars Moments on Snapchat</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-infinix-smart-7-hd-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Infinix Smart 7 HD Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/zooming-into-success-a-guide-to-sharper-views-on-google-meets/"><u>Zooming Into Success A Guide to Sharper Views on Google Meets</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Beyond Basic Editing  Innovative Use of LUTs for Photography\""
-date: 2024-10-14T22:15:45.380Z
-updated: 2024-10-19T16:26:26.641Z
+date: 2024-10-23T16:59:28.315Z
+updated: 2024-10-25T17:30:42.819Z
 tags: 
   - screen-recording
   - ai video
@@ -51,10 +51,10 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use LUTs using Photoshop CC?
@@ -81,19 +81,19 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
 2. When discussing Photoshop, the project is typically an image, so go ahead and open it. Open a new one by pressing 'Ctrl+O' or importing something from your cloud.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Here's the second one
 
@@ -112,10 +112,10 @@ Grow Together
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -129,10 +129,16 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -165,14 +171,22 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-achieving-professional-results-radial-effects-in-ps/"><u>[New] Achieving Professional Results Radial Effects in PS</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-way-of-the-warrior-game-lineup-mirroring-ghost-of-tsushima/"><u>[New] The Way of the Warrior Game Lineup Mirroring Ghost of Tsushima</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-facebooks-secrets-to-impressive-cover-video-setup/"><u>[Updated] 2024 Approved Facebook's Secrets to Impressive Cover Video Setup</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-craft-your-own-podcast-success-with-writing-tips-and-sample-templates/"><u>[Updated] Craft Your Own Podcast Success with Writing Tips and Sample Templates</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-elevate-video-quality-mastering-fb-1080p-streams/"><u>[Updated] In 2024, Elevate Video Quality Mastering FB 1080P Streams</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-youtube-to-high-definition-prime-downloader-choices/"><u>From YouTube to High Definition Prime Downloader Choices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-aerial-shooting-essentials/"><u>In 2024, Aerial Shooting Essentials</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/your-ultimate-walkthrough-of-the-lenovo-9-tablet-nook-edition/"><u>Your Ultimate Walkthrough of the Lenovo 9 Tablet (Nook Edition)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-bend-and-shape-your-text-with-3d-effects-in-illustrator/"><u>[New] Bend and Shape Your Text with 3D Effects in Illustrator</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-bypassing-edgenuity-a-guide-to-focused-self-study/"><u>[New] Bypassing Edgenuity A Guide to Focused Self-Study</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-from-beginner-to-pro-your-guide-to-mac-audio-with-audacity/"><u>[New] From Beginner to Pro Your Guide to Mac Audio with Audacity</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-stream-power-showdown-vmix-clashes-with-wirecast-for-broadcast-excellence-for-2024/"><u>[New] Stream Power Showdown VMix Clashes with Wirecast for Broadcast Excellence for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-androids-secret-weapon-for-stunning-time-lagged-footage/"><u>[Updated] Android's Secret Weapon for Stunning Time-Lagged Footage</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-voice-memo-techniques-an-in-depth-walkthrough/"><u>2024 Approved Voice Memo Techniques An In-Depth Walkthrough</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-standard-tokens-expanding-chatgpt-capabilities/"><u>Beyond Standard Tokens: Expanding ChatGPT Capabilities</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/clipcomposer-critique-full-report/"><u>ClipComposer Critique – Full Report</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-leading-ai-assisted-search-engines-to-revolutionize-your-web-queries/"><u>Discover Leading AI Assisted Search Engines to Revolutionize Your Web Queries</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-change-your-x-formerly-twitter-password/"><u>How to Change Your X (Formerly Twitter) Password</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-xiaomi-redmi-a2-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Xiaomi Redmi A2 Without PUK Codes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-use-obs-streamlabs-on-mac/"><u>How to Use OBS Streamlabs on Mac？</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ideal-high-res-displays-the-best-5-for-ps5/"><u>Ideal High-Res Displays The Best 5 For PS5</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-clearer-photos-unveiling-the-top-10-web-edits/"><u>Master Clearer Photos Unveiling the Top 10 Web Edits</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-easy-video-reversal-top-online-solutions/"><u>New 2024 Approved Easy Video Reversal Top Online Solutions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-tip-guide-effortlessly-updating-wi-fi-drivers-in-windows-10/"><u>Quick Tip Guide: Effortlessly Updating Wi-Fi Drivers in Windows 10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/seamless-srt-to-video-leading-10-free-online-conversion-tools/"><u>Seamless SRT to Video - Leading 10 Free Online Conversion Tools</u></a></li>
 </ul></div>
 

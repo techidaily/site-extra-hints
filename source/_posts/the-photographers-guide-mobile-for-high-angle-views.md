@@ -1,7 +1,7 @@
 ---
 title: "\"The Photographer's Guide  Mobile for High-Angle Views\""
-date: 2024-08-29T18:11:54.141Z
-updated: 2024-08-30T18:11:54.141Z
+date: 2024-10-20T18:07:19.945Z
+updated: 2024-10-25T16:31:17.039Z
 tags: 
   - screen-recording
   - ai video
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
 * [Part 1: For iPhone Users](#part1)
 * [Part 2: For Android Users](#part2)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### For iPhone users
 
  The iPhone users can follow the steps given below to execute vertorama.
@@ -54,9 +61,12 @@ thumbnail: https://thmb.techidaily.com/a08727f11a7832f787474e1a64a135e87ab43cd2d
 * Once finished and satisfied, just tap on "Done" option.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### For Android users
 
  To capture vertical panorama on Android, the steps are given just below.
@@ -67,18 +77,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Image source: mac-fusion
 
 * To shoot picture, keep holding the target circle on the gray dot until it vanishes.
 * Repeat the same with other dots as well. In other words, move camera towards the gray dots one by one until they get disappear.
 * Tap on "Done" when completed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Some Beneficial Tips for shooting vertical panorama photo
 
 * Firstly, we would suggest you using a tripod when you need to take **vertical panorama on iPhone** or Android smoothly i.e. to avoid shakiness.
@@ -89,15 +99,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -105,3 +117,25 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-secure-and-save-your-sessions-a-pc-and-smartphone-recorders-haven/"><u>[New] In 2024, Secure & Save Your Sessions A PC & Smartphone Recorder's Haven</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-64gb-ideal-for-light-video-content/"><u>[Updated] 64Gb Ideal for Light Video Content?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-audacity-workshop-eloquent-silent-transitions/"><u>2024 Approved Audacity Workshop Eloquent Silent Transitions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/behind-the-scenes-look-at-dji-inspire-2/"><u>Behind-the-Scenes Look at DJI Inspire 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-s23-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy S23 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a1-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A1 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-combine-movie-tracks-in-youtube-repertoire/"><u>In 2024, Combine Movie Tracks in YouTube Repertoire</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pexels-101-finding-the-picture-of-your-dreams/"><u>In 2024, Pexels 101 Finding the Picture of Your Dreams</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-techs-time-capsule-a-screen-review/"><u>In 2024, Tech's Time Capsule A Screen Review</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mastering-makeup-tutorials-launching-your-glam-vlog/"><u>Mastering Makeup Tutorials Launching Your Glam Vlog</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamlessly-update-how-to-get-the-latest-intel-wireless-ac-7260-networking-driver-installed/"><u>Seamlessly Update: How to Get the Latest Intel Wireless A/C 7260 Networking Driver Installed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-guide-to-stunning-collage-artistry/"><u>Step-by-Step Guide to Stunning Collage Artistry</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/symphony-of-sights-picture-plus-sound-videography/"><u>Symphony of Sights Picture + Sound Videography</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-meme-making-tools-discover-your-favorites/"><u>Top Meme-Making Tools Discover Your Favorites</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-nokia-c12-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Nokia C12</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/viral-victory-your-kinemaster-journey/"><u>Viral Victory Your KineMaster Journey</u></a></li>
+</ul></div>
+

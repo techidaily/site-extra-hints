@@ -1,7 +1,7 @@
 ---
 title: "\"Crafting a Viral Solo Podcast  Step-by-Step Guide\""
-date: 2024-10-16T22:47:53.255Z
-updated: 2024-10-19T21:15:27.461Z
+date: 2024-10-24T16:32:10.029Z
+updated: 2024-10-25T18:23:18.451Z
 tags: 
   - screen-recording
   - ai video
@@ -71,35 +71,22 @@ Keep your content focused on your unique story, and be as transparent as possibl
 
 Now, we are going to look into the ins and outs of creating a Bang-Up Solo Podcast that would grab your viewers' maximum attention. But first, we must share something interesting in a way that they understand, And this is what will make your podcast an excellent solo podcast.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### A list of solo episode topics
 
 First, while working on the episode, we must remember that connecting audience with your subject matters.
 
 ![podcast episode list to talk about](https://images.wondershare.com/filmora/article-images/2022/12/solo-podcasting-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 For example, if you're a musician who wants to share insights on improving your songwriting craft, you may need to focus on it. Secondly, before creating an episode, our Listeners may want to hear the story behind the product, so it's helpful to explain why you built it, what your goals were, what you learned, what you got done, and how the product has evolved.
 
 It will help you give clear instructions for deciding on solo episode topics that are creative, unique, helpful & engaging to share.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### An outline for an episode
 
@@ -157,6 +144,13 @@ You can export your episodes as MP3 files, which can then be uploaded to any pod
 
 The world of podcasts is changing, so how can podcasters succeed when there's so much competition? We asked three podcasters how to get started, who have grown as solo podcasters. Here are their top tips and lessons, plus advice from fellow podcasters.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Don't worry about mistakes
 
 The first tip for solo podcasters is to not worry about making mistakes. We all make mistakes. And when we do, we learn. So don't stress out over your first podcast. Instead, take notes after each episode and use those as your learning curve. You don't need to be perfect from the very beginning.
@@ -193,19 +187,6 @@ If your podcast is mostly monologue or narration, and you don't do any interview
 
 To deliver a montage effectively, you must first create a soundtrack of voiceover audio in your mind. It would be best to hear it repeatedly until you've committed the track to memory. Once you have that, you must record the monologue audio and edit it into a montage.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5\. The Best 10 Solo Podcasts Examples
 
 The most popular podcasts have millions of listeners; some even have billions. The problem is, listening to a podcast takes time. That's why we created this list of the best solo podcasts to help you connect with your type of audience faster and easier.
@@ -221,6 +202,13 @@ Like his live shows, the daily podcast is whimsical, thoughtful, and funny. He s
 ### 2\. [You Must Remember This](http://www.youmustrememberthispodcast.com/)
 
 ![you must remember this cover](https://images.wondershare.com/filmora/article-images/2022/12/solo-podcasting-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 "You Must Remember This" is a podcast that explores the history and the forgotten stories of the first century of Hollywood. Since launching in April 2014, You Must Remember This has quickly become one of the best film podcasts. This podcast is an illustrated work of creative nonfiction. Karina Longworth solely has written, produced, and narrated this podcast.
 
@@ -242,6 +230,13 @@ The award-winning and critically acclaimed podcast from George the Poet delivers
 
 It is a wildly creative podcast filled with nuance and poetic genius. The way George addresses all the issues our society is tackling is uniquely captivating. George takes you on a journey to greater understanding in this insightful podcast that will challenge you to think deeper about real life. Plus, this podcast has incredible soundtracks, storylines, and dream-like narratives.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. [Casefile True Crime](https://casefilepodcast.com/)
 
 ![casefile cover](https://images.wondershare.com/filmora/article-images/2022/12/solo-podcasting-9.jpg)
@@ -249,6 +244,13 @@ It is a wildly creative podcast filled with nuance and poetic genius. The way Ge
 This podcast is an award-winning true-crime podcast that offers unforgettable stories professionally produced and delivered to your ears. This one-person side project has evolved into an entirely different business and has expanded across multiple continents. Casefile episodes are about solving and investigating the world's mysteries. They feature stories about unsolved cases from all over the world.
 
 Well, there are many reasons to listen to this podcast. First, it is engaging, well-researched, and most refreshing of all for this genre. If you want an in-depth analysis of any case, look no further than Casefile because their reporting is detailed, and they have access to the right sources.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. [This American Life](https://www.thisamericanlife.org/)
 
@@ -290,6 +292,13 @@ A great comedian with some serious insights into astrology and Tarot cards, Kele
 
 Kelechi, with a great mind, teaches and guides her listeners to lean into their inner selves while boldly speaking on world events others seek to avoid. She mixes humor with the truth and commentary on current affairs/pop culture.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final words
 
 It's important to note here that while podcasting has been around for quite some time, the "Solo" style, which focuses on the creative process and inspiration behind the creation of a podcast, is relatively new.
@@ -305,6 +314,13 @@ Part 1\. Why Solo Podcasting?
 ![solo podcasting](https://images.wondershare.com/filmora/article-images/2022/12/solo-podcasting-1.jpg)
 
 Solo podcasting is all about the personal connection with listeners. It's a chance to express yourself, a platform to share your ideas and thoughts with people. Also, to show people who you are and what you're about—the beauty of solo podcasting. You are free, and it's a great feeling. The idea is simple: You are the protagonist of your own story.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Go at your own pace
 
@@ -338,31 +354,11 @@ Keep your content focused on your unique story, and be as transparent as possibl
 
 Now, we are going to look into the ins and outs of creating a Bang-Up Solo Podcast that would grab your viewers' maximum attention. But first, we must share something interesting in a way that they understand, And this is what will make your podcast an excellent solo podcast.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### A list of solo episode topics
 
 First, while working on the episode, we must remember that connecting audience with your subject matters.
 
 ![podcast episode list to talk about](https://images.wondershare.com/filmora/article-images/2022/12/solo-podcasting-2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 For example, if you're a musician who wants to share insights on improving your songwriting craft, you may need to focus on it. Secondly, before creating an episode, our Listeners may want to hear the story behind the product, so it's helpful to explain why you built it, what your goals were, what you learned, what you got done, and how the product has evolved.
 
@@ -393,6 +389,13 @@ If you're struggling to come up with a hook for an episode of your podcast, here
 Length is everything. Podcasting is about the length of your content, and you will struggle if you have a short episode. You need at least 30 minutes of material for your episode, or you risk alienating listeners and driving them away from your brand.
 
 You'll lose listeners' attention if you don't know what to say during your episode. So instead, think of your podcast as a mini-publication. You can get away with making shorter episodes because you can fill more content into your episodes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Recap the episode
 
@@ -454,13 +457,6 @@ Even if you manage to pull it off, some people don't like your podcast and have 
 
 The problem with solo podcasts is that there is no built-in motivation. You must do it because you enjoy it or hope it will help someone else. There's no intrinsic reason to do it. That said, the biggest problem with making solo podcasts is that it becomes harder and harder to stay motivated to keep making episodes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Harder to deliver a Montage
 
 If your podcast is mostly monologue or narration, and you don't do any interviews or interviews with yourself, you will feel like a hamster in a wheel with no release.
@@ -486,13 +482,6 @@ Like his live shows, the daily podcast is whimsical, thoughtful, and funny. He s
 "You Must Remember This" is a podcast that explores the history and the forgotten stories of the first century of Hollywood. Since launching in April 2014, You Must Remember This has quickly become one of the best film podcasts. This podcast is an illustrated work of creative nonfiction. Karina Longworth solely has written, produced, and narrated this podcast.
 
 It is an exciting show. If you like movies, Hollywood, or captivating storytelling, this podcast is a must-listen!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. [Live From the 405](https://lft405.libsyn.com/)
 
@@ -533,13 +522,6 @@ This podcast is about journalism, but it's about a more entertaining kind of jou
 Comedy legend Marc Maron has turned his brilliant comedy into a bestselling podcast that gets more than 55 million listens per year. His best interviews include icons like Keith Richard, Robin Williams, Nicole Kidman, and former U.S. president Barack Obama.
 
 In WTF with Marc Maron, he takes his unique blend of humor and emotional vulnerability and shares it with us. The conversation doesn't stay dark for long-his own self-deprecating sense of humor keeps it moving.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 8\. [Reply All](https://gimletmedia.com/shows/reply-all)
 
@@ -599,18 +581,24 @@ If you're planning to do a solo podcast, you need to create a clear outline of w
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-micro-movie-plot-draft/"><u>[New] Micro-Movie Plot Draft</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-new-iphone-x-camera-features-you-need-to-know/"><u>[Updated] 2024 Approved New iPhone X Camera Features You Need to Know</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-co-creating-content-brands-team-up-for-youtube-success/"><u>[Updated] Co-Creating Content Brands Team Up for YouTube Success</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-crafted-clicks-guide-to-software-and-sites-for-superior-photo-framing/"><u>[Updated] Crafted Clicks Guide to Software & Sites for Superior Photo Framing</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-optimizing-your-youtube-video-presentation/"><u>2024 Approved Optimizing Your YouTube Video Presentation</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-photoshop-lightroom-alternative-insights/"><u>2024 Approved Photoshop Lightroom Alternative Insights</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/asserting-ownership-on-social-platforms-instagrams-watermarking-secrets/"><u>Asserting Ownership on Social Platforms Instagram's Watermarking Secrets</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/beginners-bounty-understanding-screen-clarity-in-digital-media/"><u>Beginner's Bounty Understanding Screen Clarity in Digital Media</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-8-free-4k-uhd-video-player-software-for-windows-pcandmac/"><u>Best 8 Free 4K UHD Video Player Software for Windows PC&Mac</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/breaking-boundaries-in-video-content-creation-within-limit/"><u>Breaking Boundaries in Video Content Creation (Within Limit)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-motorola-moto-g-stylus-2023-devices-by-drfone-android/"><u>How to Reset Gmail Password on Motorola Moto G Stylus (2023) Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/innovative-title-crafting-with-top-10-ai-tools/"><u>Innovative Title Crafting with Top 10 AI Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/online-opschriften-van-nsv-archive-vervangen-in-tweemaal-minuutie-zonder-kosten-movavi/"><u>Online Opschriften Van NSV-Archive Vervangen in Tweemaal Minuutie Zonder Kosten - Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-chuckle-chamber-fast-track-to-funny-memes/"><u>[Updated] Chuckle Chamber Fast Track to Funny Memes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-navigating-through-youtubes-top-favorite-shorters-for-2024/"><u>[Updated] Navigating Through YouTube’s Top Favorite Shorters for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-websites-to-discover-glossy-gold-letter-effects/"><u>2024 Approved Leading Websites to Discover Glossy Gold Letter Effects</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-evolution-of-video-from-full-length-to-yt-shorts/"><u>2024 Approved The Evolution of Video From Full-Length to YT Shorts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-tonal-transformation-for-android-users/"><u>2024 Approved The Ultimate Tonal Transformation for Android Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-a-following-with-stunning-unboxing-content/"><u>Building a Following with Stunning Unboxing Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-list-top-18-cam-recorders-compiled/"><u>Comprehensive List Top 18 Cam Recorders Compiled</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cost-breakdown-for-youtube-ads-for-2024/"><u>Cost Breakdown for YouTube Ads for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-advanced-gadgets-with-toms-electronic-insights/"><u>Exploring Advanced Gadgets with Tom's Electronic Insights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-narzo-n53-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme Narzo N53 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-the-pros-and-cons-of-pidgin-instant-messaging-platform/"><u>In-Depth Analysis: The Pros and Cons of Pidgin Instant Messaging Platform</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/master-the-switch-making-your-graphic-style-a-sticker-on-every-platform/"><u>Master the Switch Making Your Graphic Style a Sticker on Every Platform</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/online-au-ogg-movavi/"><u>Online AU OGG 파일을 제공할 수 있는 무료 변환 도구 - Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/portrait-of-creativity-discover-the-bestiary-of-8-inspiring-ios-drawing-apps/"><u>Portrait of Creativity Discover the Bestiary of 8 Inspiring iOS Drawing Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/superior-video-quality-best-webcams-for-zoom-excellence/"><u>Superior Video Quality Best Webcams for Zoom Excellence</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-future-of-virtual-spaces-comparing-meta-and-omniverse/"><u>The Future of Virtual Spaces Comparing Meta and Omniverse</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-guide-to-simple-driver-upgrades-on-your-pc/"><u>Ultimate Guide to Simple Driver Upgrades on Your PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-pdf-editing-skills/"><u>Ultimate PDF Editing Skills</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/voice-alteration-apps-magic-edition-amongst-the-best/"><u>Voice Alteration Apps Magic Edition Amongst the Best</u></a></li>
 </ul></div>
 

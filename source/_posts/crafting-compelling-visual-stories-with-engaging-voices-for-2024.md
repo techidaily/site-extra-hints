@@ -1,7 +1,7 @@
 ---
 title: "Crafting Compelling Visual Stories With Engaging Voices for 2024"
-date: 2024-08-29T18:11:57.111Z
-updated: 2024-08-30T18:11:57.111Z
+date: 2024-10-20T18:42:54.197Z
+updated: 2024-10-25T16:21:50.679Z
 tags: 
   - screen-recording
   - ai video
@@ -44,11 +44,31 @@ But here's the good news: the way you add either option is the same in Filmora.
 
 ![add either option](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to add narration
 
 So the easiest way to add narration is directly to a project. The benefit of this is that you can record your narration inside Filmora while you watch the preview of your edited video.
 
 ![add narration to project](https://images.wondershare.com/filmora/guide/stt-tts-srt-09.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 A good example of this would be narrating a story on top of some still images and video clips from a recent vacation. (In most cases you would want to turn off the sound of the video clip, or at least use ducking to help the viewer focus on the narration.)
 
@@ -62,9 +82,6 @@ You can record your narration and click stop.
 
 After recording, you can trim and edit your narration, you can delete it and record it again, and can move it and edit it like any other feature.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Some Tips for Recording Narration
 
 Try playing the clip in the preview window to get a sense of what you want to say fits well with the space available in the project.
@@ -76,8 +93,12 @@ You can edit pauses or weak parts out of the voiceover to trim it up. But if it 
 Fortunately, [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) comes equipped with video b-roll which is another great option. When using b-roll, it's better to use multiple shorter clips than one longer clip in most cases. But adding the same b-roll clip near the beginning and another section of the same b-roll clip, later on, should help you match the length of your narration to the video timeline.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Narration is a great storytelling device
 
 Narration is a fantastic tool to have in your arsenal as a young filmmaker. It allows you to quickly communicate feelings, backstory, and context quickly and effectively.
@@ -87,22 +108,20 @@ Practice adding it to your videos to see how it adds depth and dimension to your
 It can also help make a connection with your audience because you can be relating to the images on the screen as they watch them. This is effective in building your YouTube audience.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Always use a good mic
 
 When adding voiceover or narration to your project, be sure to use a good USB microphone. A good quality sound will elevate your entire project and just requires a little planning.
 
 ![use good microphone](https://images.wondershare.com/filmora/article-images/2022/11/use-good-microphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Also, be sure to check that your external microphone is selected when you start recording. There's nothing worse than nailing the perfect narration and realizing it was recorded with the built-in mic, not your USB microphone.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Should you use narration in your next project?
 
 The best way to learn something is by doing it. So the next time you record a video, think about how you could augment your video project with narration.
@@ -139,4 +158,24 @@ Filmora makes it easy to add narration of voice-overs to your video projects. Do
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-analyzing-investment-for-video-promotion/"><u>[New] Analyzing Investment for Video Promotion</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-build-haha-images/"><u>[New] Build Haha Images</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-innovative-education-prime-15-youtube-science-outlets/"><u>[New] Innovative Education Prime 15 YouTube Science Outlets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-aplus-game-streaming-tech-reviews/"><u>[Updated] A+ Game Streaming Tech Reviews</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-harmonized-high-res-overlays-for-devices/"><u>[Updated] Harmonized High-Res Overlays for Devices</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-insiders-guide-to-capturing-crisp-vr-games/"><u>[Updated] In 2024, The Insider's Guide to Capturing Crisp VR Games</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-under-the-surface-sound-savers-top-6-stealthy-recorders-iosandroid/"><u>[Updated] In 2024, Under-the-Surface Sound Savers Top 6 Stealthy Recorders (iOS/Android)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-crafting-spectaculous-fb-ad-videos-with-creativity/"><u>2024 Approved Crafting Spectaculous Fb Ad Videos with Creativity</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-masterful-webcam-hacks-for-creative-sessions/"><u>2024 Approved Masterful Webcam Hacks for Creative Sessions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-your-phones-alerts-personalizing-ringtones-and-sounds-on-android/"><u>Elevate Your Phone's Alerts Personalizing Ringtones & Sounds on Android</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-motorola-moto-g13-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Motorola Moto G13 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/overcoming-biometric-blockades-in-iphone-x-fixing-face-id/"><u>Overcoming Biometric Blockades in iPhone X - Fixing Face ID</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/palette-perfection-in-11-step-by-step-lessons/"><u>Palette Perfection in 11 Step-by-Step Lessons</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/saving-big-on-final-cut-pro-without-paying/"><u>Saving Big on Final Cut Pro without Paying</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/smartwatch-evolution-through-ai-discover-the-6-ways-chatgpt-makes-a-difference/"><u>Smartwatch Evolution Through AI: Discover the 6 Ways ChatGPT Makes a Difference</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-tech-review-dji-phantom-3-professional-drone/"><u>The Ultimate Tech Review DJI Phantom 3 Professional Drone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-vr-frontier-who-holds-the-crown/"><u>The VR Frontier Who Holds the Crown?</u></a></li>
+</ul></div>
 
