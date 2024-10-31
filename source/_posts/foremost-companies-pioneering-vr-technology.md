@@ -1,7 +1,7 @@
 ---
 title: "Foremost Companies Pioneering VR Technology"
-date: 2024-10-23T18:59:45.163Z
-updated: 2024-10-25T19:06:12.662Z
+date: 2024-10-28T03:48:01.317Z
+updated: 2024-10-30T21:48:27.840Z
 tags: 
   - screen-recording
   - ai video
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Art Work of With.in
@@ -63,10 +63,16 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## About Chris Milk
@@ -83,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -104,18 +110,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-joyride-collection-for-young-ones/"><u>[New] 2024 Approved The Joyride Collection for Young Ones</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-checklist-what-makes-dji-phantom-4-special/"><u>[New] The Ultimate Checklist What Makes DJI Phantom 4 Special?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-top-10-software-to-create-and-edit-vector-images-that-you-should-know/"><u>[New] Top 10 Software to Create and Edit Vector Images That You Should Know</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-capturing-every-frame-the-apeaksoft-reviewed-screen-recorder/"><u>[Updated] Capturing Every Frame The Apeaksoft Reviewed Screen Recorder</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-comprehensive-breakdown-using-googles-speech-recognition-tool-for-2024/"><u>[Updated] Comprehensive Breakdown Using Google's Speech Recognition Tool for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/creating-a-visual-statement-with-stellar-podcast-artwork/"><u>Creating a Visual Statement with Stellar Podcast Artwork</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-unshackled-gpt-on-windows/"><u>Discover Unshackled GPT on Windows</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/fostering-flourishing-visuals-with-after-effects-fonts/"><u>Fostering Flourishing Visuals with After Effects Fonts</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-realme-gt-neo-5-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Realme GT Neo 5 For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/indiana-jones-series-in-order-a-perfect-viewing-plan-for-fans/"><u>Indiana Jones Series in Order: A Perfect Viewing Plan for Fans</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-spectacular-lg-ud88w-4k-widescreen-monitor-review/"><u>The Spectacular LG UD88W 4K Widescreen Monitor Review</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-tally-unveiling-the-highest-rated-threads-on-reddit/"><u>The Ultimate Tally Unveiling the Highest-Rated Threads on Reddit</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/understanding-the-magic-behind-quantum-hdr-for-2024/"><u>Understanding the Magic Behind Quantum HDR for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-become-proficient-at-note-management-through-mematic/"><u>[Updated] Become Proficient at Note Management Through Mematic</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-excellent-choice-for-capturing-professional-quality-on-youtube/"><u>[Updated] In 2024, Excellent Choice for Capturing Professional Quality on YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-optimal-screen-capture-chromeos-enhanced-for-2024/"><u>[Updated] Optimal Screen Capture ChromeOS Enhanced for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/amazon-fire-or-ipad-a-comprehensive-guide-to-selecting-yours/"><u>Amazon Fire or iPad: A Comprehensive Guide to Selecting Yours</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/anatomy-of-hand-tracking-techniques-and-types/"><u>Anatomy Of Hand Tracking Techniques and Types</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-laughs-in-layout-designer/"><u>Best Laughs in Layout Designer</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-xiaomi-13t-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Xiaomi 13T Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-list-of-8-best-free-and-paid-movie-apps-for-iphone/"><u>In 2024, List of 8 Best Free and Paid Movie Apps for iPhone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-motorola-edge-2023-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Motorola Edge 2023 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/make-every-frame-count-a-list-of-the-hottest-50-video-reducing-apps-for-your-phone/"><u>Make Every Frame Count A List of the Hottest 50 Video-Reducing Apps for Your Phone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigate-your-mac-with-ease-top-mice-recommendations-for-a-smooth-experience/"><u>Navigate Your Mac with Ease - Top Mice Recommendations for a Smooth Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quick-video-wins-essential-ideas-for-vloggers/"><u>Quick Video Wins Essential Ideas for Vloggers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quickening-ppt-tempo-a-guide-to-faster-slides/"><u>Quickening PPT Tempo A Guide to Faster Slides</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/superior-panzoid-constructs-guide/"><u>Superior Panzoid Constructs Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Oppo Find X6 Pro | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mini Movie Script Concept"
-date: 2024-10-18T17:41:19.785Z
-updated: 2024-10-25T17:35:10.905Z
+date: 2024-10-28T06:32:13.335Z
+updated: 2024-10-31T10:32:44.285Z
 tags: 
   - screen-recording
   - ai video
@@ -28,13 +28,6 @@ There's never been a better time to learn the craft of writing short film script
 
 But writing a successful short script is not easy. It requires the craft and concentration of a medieval artist carving scenes into walnut. So here are seven tips for creating a short script.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Storyline
 
 This is always, always, the number one problem for my screenwriting students. They come up with big story ideas, often feature screenplay ideas, but quickly find that their idea doesn't fit or work in short form. The result is what I call "narrative cramming." The story can't breathe. So, you need an idea that is small, specific, and significant to your main character.
@@ -44,6 +37,13 @@ This is always, always, the number one problem for my screenwriting students. Th
 ### 2\. Characterization
 
 Writing compelling short scripts requires what Thornton Wilder called "shortcuts to the imagination." And knowing what your main character wants in your story is the most important shortcut to understanding and discovering who your main character is. So, give your main character a desire or yearning for something that matters deeply to her. Then let your story flow from your character's efforts to achieve that wish. The best stories, short or long, are about the human heart.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. An independent story
 
@@ -68,10 +68,10 @@ It's helpful to think of a screenplay as a pattern of significant human change t
 If you want to see a well-crafted surface and deep action/character arc in a fifteen-page script, read Chapter 17 _"Killer Kart"_ in the book Making Short Scripts That Connect 5e, and screen the movie on the book's website. It's no surprise that the film is the most screened film ever made at the FSU Film School.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Sublimation
@@ -89,10 +89,17 @@ The end of a script is often more important than the 90 pages that preceded it. 
 ![example script defining](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2\. How to edit your short film?
@@ -102,13 +109,6 @@ Have you ever stored various videos and photos on a memory card or on a computer
 **Make a short film with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) Easy Movie Maker**.
 
 Below, we will show you have to use this easy movie maker to create a video with Filmora in clicks.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Import your files and arrange the order
 
@@ -128,13 +128,6 @@ To add text to the video, click the "Text" button, choose a text type, and drag 
 
 * More features to discover can be found by clicking [**Extraordinary Features of Filmora**](https://tools.techidaily.com/wondershare/filmora/download/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3.Save the video in the format of your choice
 
 When everything is done, hit the “Create” button, and you'll see several options: save it as a video file, convert it for viewing on your mobile phone or tablet, directly upload to your YouTube or Facebook account and burn to DVD. Choose an output method as you like and click “Create”. After a few seconds, a folder with the newly reformatted video will open automatically.
@@ -142,16 +135,10 @@ When everything is done, hit the “Create” button, and you'll see several opt
 ![save the video](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-6.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -164,6 +151,13 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
 
 </article
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Characterization
 
 Writing compelling short scripts requires what Thornton Wilder called "shortcuts to the imagination." And knowing what your main character wants in your story is the most important shortcut to understanding and discovering who your main character is. So, give your main character a desire or yearning for something that matters deeply to her. Then let your story flow from your character's efforts to achieve that wish. The best stories, short or long, are about the human heart.
@@ -175,10 +169,16 @@ It's also a useful way to think of the script as an energy system, as William Gi
 ![an independent story](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Conflict
@@ -237,18 +237,18 @@ To add text to the video, click the "Text" button, choose a text type, and drag 
 
 * More features to discover can be found by clicking [**Extraordinary Features of Filmora**](https://tools.techidaily.com/wondershare/filmora/download/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3.Save the video in the format of your choice
 
 When everything is done, hit the “Create” button, and you'll see several options: save it as a video file, convert it for viewing on your mobile phone or tablet, directly upload to your YouTube or Facebook account and burn to DVD. Choose an output method as you like and click “Create”. After a few seconds, a folder with the newly reformatted video will open automatically.
 
 ![save the video](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -282,15 +282,14 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-icy-inspirations-top-olympic-triumphs/"><u>[New] 2024 Approved Icy Inspirations Top Olympic Triumphs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-above-and-beyond-perfecting-your-drone-video-craft/"><u>[New] Above and Beyond Perfecting Your Drone Video Craft</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-capture-clear-movies-10-smartphones-with-excellent-video-ois/"><u>[New] Capture Clear Movies 10 Smartphones With Excellent Video OIS</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-top-sites-for-downloading-desired-youtube-ringtones-for-2024/"><u>[Updated] Top Sites for Downloading Desired YouTube Ringtones for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/collective-virtual-fun-in-the-metaverse/"><u>Collective Virtual Fun in the Metaverse</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-novice-to-pro-steps-for-social-success/"><u>From Novice to Pro Steps for Social Success</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guide-complet-aux-meilleures-configurations-dhandbrake-pour-encoder-en-x265hevc/"><u>Guide Complet Aux Meilleures Configurations D'HandBrake Pour Encoder en X265/HEVC</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveiling-the-best-e-commerce-destinations-for-hidden-box-deals/"><u>Unveiling the Best E-Commerce Destinations for Hidden Box Deals</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unveiling-vidas-power-for-film-and-video-professionals/"><u>Unveiling Vida's Power for Film and Video Professionals</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-comparing-magix-audio-tools/"><u>[New] In 2024, Comparing MAGIX Audio Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-resolve-instagram-video-glitches-today/"><u>[New] Resolve Instagram Video Glitches Today</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capturing-every-angle-not-just-a-single-plane/"><u>[Updated] Capturing Every Angle, Not Just a Single Plane</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-adapt-video-dimensions-anytime-anywhere/"><u>2024 Approved Adapt Video Dimensions Anytime, Anywhere</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-an-insiders-take-on-instagram-highlights/"><u>2024 Approved An Insider's Take on Instagram Highlights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-bringing-virtuality-closer-a-tale-of-two-cardboards-and-gear-vrs/"><u>2024 Approved Bringing Virtuality Closer A Tale of Two Cardboards & Gear VRs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-on-iphone-6-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 On iPhone 6</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-androidiphones-best-free-imagery-modification-apps-ranked/"><u>In 2024, Android/iPhone's Best FREE Imagery Modification Apps Ranked</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/step-by-step-incorporating-songs-into-your-facebook-timeline/"><u>Step-by-Step Incorporating Songs Into Your Facebook Timeline</u></a></li>
 </ul></div>
 

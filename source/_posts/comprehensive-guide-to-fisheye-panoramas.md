@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to Fisheye Panoramas"
-date: 2024-10-19T16:18:06.491Z
-updated: 2024-10-25T18:50:16.613Z
+date: 2024-10-29T08:16:52.514Z
+updated: 2024-10-31T08:34:28.244Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
  The process of shooting panoramas with fisheye lenses involves a number of considerations and they are as follows-:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1. The equipment and setup
 
  To shoot quality 360 degrees panoramas with fisheye, it is imperative to get the equipment as well as the set up right. Your equipment needs to be calibrated properly to make the stitching process nice and easy. To find the best setting for your equipment, the grid method is recommended on the panohead.
@@ -37,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 ![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2. Leveling and rotating
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
  Other than setting up and calibrating the equipment in the right manner, it is important to keep the camera steady and leveled as you make the rotations to take shots. For leveling, it is recommended to use an appropriate leveling base, while for rotation, using a panning clamp on top of the ballhead is highly recommended.
 
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3. The actual shooting
 
@@ -61,19 +75,6 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
  In normal photography, it always pays to remember what to include and what to exclude in your shots. When it comes to shooting 360s, it becomes more complicated since everything is included. For you to take successful 360s with fisheye therefore, you need to consider keenly where you stand. The fisheye lens will introduce a lot of space between you and the subject, hence you must consider how close or far away you are from the subject so that the pieces of the compositional puzzle will fall in place smoothly both in the horizontal and vertical planes.
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Stitching 360 degrees panoramas after shooting
 
  To stitch 360s taken by fisheye lenses after shooting, you will need panorama software like [Autopano Pro](http://www.kolor.com/) or [PTGui](https://www.ptgui.com/). For Autopano Pro, you begin by importing the images into the software and ensuring that the EXIF are displayed correctly on the program. With the right settings in place, the next step is to launch the direct stitching feature if you don’t want to go the manual way. Once the stitching is done, it will be important to present the output online. This can be done using [Pano2VR](http://www.ggnome.com/pano2vr) or you could simply upload the finished panoramas to [360cities](https://www.360cities.net/) for online viewing.
@@ -83,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 [How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's fisheye lenses
@@ -98,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
  The fisheye lenses are used for a myriad of applications, especially in digital photography. They can also be used for re-projecting images captured by a fisheye lens or computer generated graphics onto hemispherical screens. Additionally, the lenses can be used in scientific photography such as studying canopy geometry, recording meteors and aurora, calculating near-ground solar radiation as well as in peepholes to offer a wide field of view to the users.
 
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Conclusion
 
@@ -127,21 +121,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-creating-a-tranquil-auditory-space-with-tech/"><u>[New] Creating a Tranquil Auditory Space with Tech</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-overcoming-inaudibility-in-obs-captured-audio-for-2024/"><u>[New] Overcoming Inaudibility in OBS Captured Audio for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-screen-recording-mastery-with-vsdc-reviewed/"><u>[New] Screen Recording Mastery with VSDC Reviewed</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-streamline-your-youtube-experience-manage-video-comments/"><u>2024 Approved Streamline Your YouTube Experience Manage Video Comments</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/designed-dreamscape-selecting-premium-online-laps-background-sites/"><u>Designed Dreamscape Selecting Premium Online Laps Background Sites</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discover-6-premier-nft-services-boosting-artist-imagination/"><u>Discover 6 Premier NFT Services Boosting Artist Imagination</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-motorola-moto-g84-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Motorola Moto G84 5G Unlock Without Password</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-advanced-strategies-for-rl-capture-success/"><u>In 2024, Advanced Strategies for RL Capture Success</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-capturing-motion-with-gopro-time-lapse-techniques/"><u>In 2024, Capturing Motion with GoPro Time-Lapse Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-chromatic-creativity-enhancing-your-craft/"><u>In 2024, Chromatic Creativity Enhancing Your Craft</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-unleash-speed-prime-biking-games-list/"><u>In 2024, Unleash Speed Prime Biking Games List</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/master-the-art-of-striking-gopro-time-lapse-videos/"><u>Master the Art of Striking GoPro Time-Lapse Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/prime-selection-of-affordable-cams-for-action-sports/"><u>Prime Selection of Affordable Cams for Action Sports</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/snippets-from-cinema-to-skillful-editors-arsenal/"><u>Snippets From Cinema to Skillful Editors' Arsenal</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-repairing-windows-11-with-system-file-checker-sfc-and-deployment-image-servicing-management-tool-dism/"><u>Step-by-Step: Repairing Windows 11 With System File Checker (SFC) & Deployment Image Servicing Management Tool (DISM)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-insight-into-ai-hallucinations-tips-for-spotting-them-effectively/"><u>The Insight Into AI Hallucinations: Tips for Spotting Them Effectively</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-cost-efficiency-in-yt-promotional-campaigns/"><u>[New] Cost Efficiency in YT Promotional Campaigns</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-future-proofing-your-mp4s-srt-integration-hacks/"><u>[New] Future-Proofing Your MP4s SRT Integration Hacks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-guide-to-effortless-vrecorder-setup-for-2024/"><u>[New] The Ultimate Guide to Effortless VRecorder Setup for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-8-best-selfie-sticks-in-iphone-2024-review/"><u>[New] Top 8 Best Selfie Sticks in iPhone 2024 Review</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-proiphone-close-ups-unlocking-stunning-image-potential/"><u>[Updated] Proiphone Close-Ups Unlocking Stunning Image Potential</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/accelerate-your-iphone-and-android-videos-with-top-free-slo-motion-apps-for-2024/"><u>Accelerate Your iPhone and Android Videos with Top Free Slo-Motion Apps for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-film-crafting-with-kinemaster-tools-for-2024/"><u>The Art of Film Crafting with Kinemaster Tools for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-wireless-travel-routers-your-ultimate-guide/"><u>Top-Rated Wireless Travel Routers : Your Ultimate Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-filmmakers-choice-leading-15-creative-gopro-luts/"><u>Ultimate Filmmaker's Choice Leading 15 Creative GOPRO LUTs</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-champion-of-ai-bots-in-depth-review-of-chatgpt-for-next-level-conversations/"><u>Unveiling the Champion of AI Bots: In-Depth Review of ChatGPT for Next-Level Conversations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/z2-play-analysis-next-gen-tech-insights/"><u>Z2 Play Analysis Next-Gen Tech Insights</u></a></li>
 </ul></div>
 

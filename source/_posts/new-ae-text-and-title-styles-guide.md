@@ -1,7 +1,7 @@
 ---
 title: "[New] AE Text & Title Styles Guide"
-date: 2024-10-18T18:25:41.459Z
-updated: 2024-10-25T17:40:00.250Z
+date: 2024-10-27T17:46:48.617Z
+updated: 2024-10-31T01:22:51.693Z
 tags: 
   - screen-recording
   - ai video
@@ -45,29 +45,9 @@ Generally, when you type a text in After Effects, by default, it comes out to be
 
 After Effects has “Enable per-character 3D” property to all Z axis to applicable properties so that you can get the desired effect. You can go to properties like rotation or position to find Z axis that you can modify and get the perfect 3D text.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Rotation and Anchor Point
 
 Rotation is one of the most commonly used parameters in text animations. There are unlimited variations of text animations and effects that you can create using rotation parameter in After Effects. The rotation takes place in proportion to the anchor points of the text. When you change the value of Rotation parameter, the actual rotation takes place around the anchor points.
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Scale and Position
 
@@ -78,6 +58,13 @@ There are different variations of zoom in and out effect that you can try on you
 ### 4\. Blur and Opacity
 
 You must have seen the text animation where the blurry text comes into focus and this can be achieved using Blur parameter. Many people confused Blur with Opacity but blur refers to out of focus while opacity can be understood by fade in and fade out effect. You can adjust the horizontal and vertical blur amount separately and you can come up with stunning text animations by changing Blur value.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Fill and Stroke
 
@@ -93,13 +80,6 @@ If you want your text to be distorted and unusual, the skew parameter is there f
 
 Tracking refers to the spacing between the characters in a word for a text. You must have seen so many different types of text animations where the spacing between the characters is changing. You can create amazing funny and eye-catching text effects in After Effects by combining tracking and keyframe properly. Along with tracking, there is line anchor that determines the alignment of tracking. Similarly, there is line spacing parameter that controls the spacing between the lines.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 8\. Keyframe
 
 Keyframe is like stretching two points into multiple points and for every point, you can change the value of the different parameters we have mentioned. When different keyframes have different parameters, the text will automatically animate once you play the video.
@@ -114,13 +94,34 @@ Step1 Go to Tool panel, click on Type tool. Click on Composition panel and type 
 
 ![text style parameters after effects](https://images.wondershare.com/filmora/article-images/2022/09/text-style-parameters-after-effects.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Go to Effects and Presets panel, search for the desired text effect preset that you want to apply on your text. Drag and drop the selected preset on the text layer and you will see your text getting transformed instantly.
 
 ![preview effects and presets ae](https://images.wondershare.com/filmora/article-images/2022/09/preview-effects-and-presets-ae.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3 Go to Timeline and click on the text layer to expand it. Click on Animate option and select any property that you want to adjust and create animation based on the parameters. Go to Keyframe section and add keyframes and change parameters for different keyframes for the text to animate.
 
 ![add keyframes in after effects](https://images.wondershare.com/filmora/article-images/2022/09/add-keyframes-in-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Apart from the animate option and its parameters, there are several parameters such as transform that you can adjust to edit the text effect as per your preference.
 
@@ -136,16 +137,16 @@ Step1 Install Wondershare Filmora on your computer and launch the application. C
 
 ![install wondershare filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Drag and drop the video clip onto timeline. Go to Titles option and you will see different categories of text effects on the left panel. Select any one of text effect templates and drop onto the timeline above the background video.
 
 ![select background for text filmora](https://images.wondershare.com/filmora/article-images/2022/09/select-background-for-text-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step3 Double-click on the text layer on the timeline to edit the text preset. You can select any available text style as well as adjust parameters from font and settings sections.
 
@@ -154,13 +155,6 @@ Step3 Double-click on the text layer on the timeline to edit the text preset. Yo
 Step4 Go to Animation section and click on Advanced button. Change different parameters under Customize section such as Blue, Opacity, Shadow, and much more. You can create keyframes on the timeline like AE and edit parameters as per your preference.
 
 ![add animation text in filmora](https://images.wondershare.com/filmora/article-images/2022/09/add-animation-text-in-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4\. Related FAQs of Title Effects in After Effects
 
@@ -186,13 +180,6 @@ Generally, when you type a text in After Effects, by default, it comes out to be
 
 After Effects has “Enable per-character 3D” property to all Z axis to applicable properties so that you can get the desired effect. You can go to properties like rotation or position to find Z axis that you can modify and get the perfect 3D text.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Rotation and Anchor Point
 
 Rotation is one of the most commonly used parameters in text animations. There are unlimited variations of text animations and effects that you can create using rotation parameter in After Effects. The rotation takes place in proportion to the anchor points of the text. When you change the value of Rotation parameter, the actual rotation takes place around the anchor points.
@@ -202,6 +189,13 @@ Rotation is one of the most commonly used parameters in text animations. There a
 If you want to zoom in and zoom out animation for your text or title, you can use the Scale property in After Effects. You can use keyframes and for each keyframe, you can adjust the scale value and create an illustration of zooming in and out very easily.
 
 There are different variations of zoom in and out effect that you can try on your text and title to make animation creative and visually appealing. On the other hand, position refers to the location of the text on the video frame depending on X, Y, and Z axis values.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Blur and Opacity
 
@@ -217,13 +211,6 @@ Similarly, the stroke color can be changed and you can create an animation with 
 
 If you want your text to be distorted and unusual, the skew parameter is there for you in After Effects. Skew means the character will not stay parallel and at right angles. You can adjust the skew value make texts distorted and this is useful in several text animations where distorted texts become normal texts. You can also skew texts in respect to different axis for creative animation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Tracking
 
 Tracking refers to the spacing between the characters in a word for a text. You must have seen so many different types of text animations where the spacing between the characters is changing. You can create amazing funny and eye-catching text effects in After Effects by combining tracking and keyframe properly. Along with tracking, there is line anchor that determines the alignment of tracking. Similarly, there is line spacing parameter that controls the spacing between the lines.
@@ -233,6 +220,13 @@ Tracking refers to the spacing between the characters in a word for a text. You 
 Keyframe is like stretching two points into multiple points and for every point, you can change the value of the different parameters we have mentioned. When different keyframes have different parameters, the text will automatically animate once you play the video.
 
 Therefore, keyframes are the building blocks for text animations and you have to use keyframes to create all the different online text effects. You can put the keyframes far apart or close and speed up or slow down the animation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. How to Edit Text Effects in Videos with AE
 
@@ -249,6 +243,13 @@ Step2 Go to Effects and Presets panel, search for the desired text effect preset
 Step3 Go to Timeline and click on the text layer to expand it. Click on Animate option and select any property that you want to adjust and create animation based on the parameters. Go to Keyframe section and add keyframes and change parameters for different keyframes for the text to animate.
 
 ![add keyframes in after effects](https://images.wondershare.com/filmora/article-images/2022/09/add-keyframes-in-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Apart from the animate option and its parameters, there are several parameters such as transform that you can adjust to edit the text effect as per your preference.
 
@@ -275,13 +276,6 @@ Step3 Double-click on the text layer on the timeline to edit the text preset. Yo
 Step4 Go to Animation section and click on Advanced button. Change different parameters under Customize section such as Blue, Opacity, Shadow, and much more. You can create keyframes on the timeline like AE and edit parameters as per your preference.
 
 ![add animation text in filmora](https://images.wondershare.com/filmora/article-images/2022/09/add-animation-text-in-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4\. Related FAQs of Title Effects in After Effects
 
@@ -321,21 +315,16 @@ Motion title is a dynamic text effect template available in After Effects throug
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-a-curated-compilation-of-online-videoaudio-magicians/"><u>[New] A Curated Compilation of Online Video/Audio Magicians</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-a-step-by-step-guide-to-crafting-captivating-podcast-scripts-plus-free-examples/"><u>[New] A Step-By Step Guide to Crafting Captivating Podcast Scripts (Plus Free Examples)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-comprehensive-guide-to-multitasking-audience-interactions-via-fb-live/"><u>[New] In 2024, Comprehensive Guide to Multitasking Audience Interactions via FB Live</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-2023s-ultimate-list-of-affordable-live-stream-software-and-apps/"><u>[Updated] 2023’S Ultimate List of Affordable Live Stream Software and Apps</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-adobe-premiere-power-enhancing-your-youtube-presence/"><u>[Updated] 2024 Approved Adobe Premiere Power Enhancing Your YouTube Presence</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-complete-handbook-for-saving-movies-on-desktop-laptop-and-android/"><u>[Updated] The Complete Handbook for Saving Movies on Desktop, Laptop & Android</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-budget-deals-on-high-quality-gopros/"><u>2024 Approved Budget Deals on High-Quality GoPros</u></a></li>
-<li><a href="https://win-great.techidaily.com/1728462841369-pc/"><u>最も早くて安全な PC 間での大きなデータ移動 - 専門家指南</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/all-inclusive-breakdown-deciphering-google-podcasts-for-2024/"><u>All-Inclusive Breakdown Deciphering Google Podcasts for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apple-watch-series-8-sneak-peek-projected-launch-schedule-detailed-specs-and-pricing-info-plus-exclusive-news-coverage/"><u>Apple Watch Series 8 Sneak Peek - Projected Launch Schedule, Detailed Specs and Pricing Info + Exclusive News Coverage</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/basic-techniques-for-effective-color-grading-in-ps/"><u>Basic Techniques for Effective Color Grading in PS</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/comment-transformer-votre-fichier-mkv-en-disque-dur-dvd-sans-cout-a-laide-de-winx-dvd-creator-sur-windows-10-8-ou-7/"><u>Comment Transformer Votre Fichier MKV en Disque Dur DVD Sans Coût À L'aide De WinX DVD Creator Sur Windows 10, 8 Ou 7 ?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-instant-access-to-the-latest-intel-dual-band-wifi-card-ac-7260-driver-downloads/"><u>Get Instant Access to the Latest Intel Dual Band WiFi Card (AC 7260) Driver Downloads!</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-zte-axon-40-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-celestial-journey-enhanced-by-these-sj4000-gear-must-haves/"><u>In 2024, Celestial Journey Enhanced by These SJ4000 Gear Must-Haves</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-top-10-places-to-download-inspiring-slideshow-designs/"><u>The Ultimate Guide Top 10 Places to Download Inspiring Slideshow Designs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-leading-edge-top-15-on-the-go-video-gear/"><u>[New] Leading Edge Top 15 On-the-Go Video Gear</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-next-big-thing-in-action-videos-sj7s-ultra-hd-star-4k-camera-explained-for-2024/"><u>[New] The Next Big Thing in Action Videos? SJ7's Ultra HD Star 4K Camera Explained for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-content-calendar-for-successful-instagram-filmmaking/"><u>[Updated] Content Calendar for Successful Instagram Filmmaking</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-techniques-for-efficient-media-navigation/"><u>2024 Approved Advanced Techniques for Efficient Media Navigation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/covert-concepts-in-composing-captivating-images-for-2024/"><u>Covert Concepts in Composing Captivating Images for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-itel-p55-5g-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Itel P55 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-ai-forecasting-more-accurate-than-horoscope-claims/"><u>Is AI Forecasting More Accurate Than Horoscope Claims?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/joyful-journeys-in-cinema-summers-top-10-for-families/"><u>Joyful Journeys in Cinema Summer's Top 10 for Families</u></a></li>
+<li><a href="https://article-files.techidaily.com/pixelpunmatic-device-for-2024/"><u>PixelPunmatic Device for 2024</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/tutorial-expert-transformer-votre-video-mp4-en-une-copie-durable-de-dvd/"><u>Tutorial Expert: Transformer Votre Vidéo MP4 en Une Copie Durable De DVD</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/weaving-individual-snaps-into-a-cohesive-tapestry/"><u>Weaving Individual Snaps Into a Cohesive Tapestry</u></a></li>
 </ul></div>
 

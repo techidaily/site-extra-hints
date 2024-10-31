@@ -1,7 +1,7 @@
 ---
 title: "[New] Breaking Ground in VR Content Development"
-date: 2024-10-23T18:31:38.109Z
-updated: 2024-10-25T18:30:07.016Z
+date: 2024-10-30T04:55:31.193Z
+updated: 2024-10-31T10:13:06.301Z
 tags: 
   - screen-recording
   - ai video
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Art Work of With.in
@@ -63,10 +63,16 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## About Chris Milk
@@ -83,16 +89,10 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -110,20 +110,17 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-photo-perfection-seamless-text-integration-on-pc-and-mac-systems-for-2024/"><u>[New] Photo Perfection Seamless Text Integration on PC & Mac Systems for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-unleashing-creativity-capturing-and-editing-impressive-videos-in-adobe-connect-for-2024/"><u>[Updated] Unleashing Creativity Capturing & Editing Impressive Videos in Adobe Connect for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/8-best-drawing-apps-for-iphones/"><u>8 Best Drawing Apps for iPhones</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-lava-blaze-curve-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Lava Blaze Curve 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/charting-a-course-through-public-domain-landmarks/"><u>Charting a Course Through Public Domain Landmarks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comparing-magix-audio-tools-for-2024/"><u>Comparing MAGIX Audio Tools for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-tecno-spark-20c-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Tecno Spark 20C.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/environmental-conditions-such-as-temperature-humidity-and-uv-exposure-affect-the-performance-of-self-healing-mechanisms-in-concrete/"><u>Environmental Conditions Such as Temperature, Humidity, and UV Exposure Affect the Performance of Self-Healing Mechanisms in Concrete</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-still-to-story-the-art-of-adding-text-to-photos-os-style/"><u>From Still to Story The Art of Adding Text to Photos, OS Style</u></a></li>
-<li><a href="https://techtrends.techidaily.com/macos-15-sequoia-unleashed-a-deep-dive-into-release-information-and-groundbreaking-features/"><u>MacOS 15 (Sequoia) Unleashed: A Deep Dive Into Release Information & Groundbreaking Features</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-multitasking-firefox-picture-in-picture-explained/"><u>Mastering Multitasking Firefox Picture-in-Picture Explained</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/threefold-stabilization-to-shine-your-iphone-videos/"><u>Threefold Stabilization to Shine Your iPhone Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/wattpad-stars-moments-on-snapchat/"><u>Wattpad Stars Moments on Snapchat</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-infinix-smart-7-hd-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Infinix Smart 7 HD Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/zooming-into-success-a-guide-to-sharper-views-on-google-meets/"><u>Zooming Into Success A Guide to Sharper Views on Google Meets</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-essential-guide-to-affordable-video-conferencing-tools-for-corporateeducational-use/"><u>[New] In 2024, The Essential Guide to Affordable Video Conferencing Tools For Corporate/Educational Use</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-premier-source-of-no-cost-creative-tools-in-ae/"><u>[Updated] The Premier Source of No-Cost Creative Tools in AE</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-androids-leading-collage-tools-the-ultimate-list/"><u>2024 Approved Android's Leading Collage Tools The Ultimate List</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-bsplayer-9-pro-top-choice-for-streaming/"><u>2024 Approved BSPlayer 9 Pro Top Choice for Streaming</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/dable-methods-to-craft-your-own-youtube-intros-for-2024/"><u>Affordable Methods to Craft Your Own YouTube Intros for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-nostalgic-notions-integrating-timeless-vhs-effects-into-modern-video-production/"><u>In 2024, Nostalgic Notions Integrating Timeless VHS Effects Into Modern Video Production</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/les-10-maitres-des-spots-publicitaires-des-tirez-largues-gratuits-aux-outils-premium-experimentes/"><u>Les 10 Maîtres Des Spots Publicitaires : Des Tirez-Largues Gratuits Aux Outils Premium Expérimentés</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/loop-maker-assembly/"><u>Loop Maker Assembly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/spectaculuxe-video-recordings-best-of-the-seventeen-for-2024/"><u>Spectaculuxe Video Recordings Best of the Seventeen for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/upload-wizardry-selecting-the-best-youtube-to-twitter-convertors/"><u>Upload Wizardry Selecting the Best YouTube to Twitter Convertors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/virtual-efficiency-boosted-setting-up-zoom-right/"><u>Virtual Efficiency Boosted Setting Up Zoom Right</u></a></li>
 </ul></div>
 

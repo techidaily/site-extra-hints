@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Beyond Basic Editing  Innovative Use of LUTs for Photography\""
-date: 2024-10-23T16:59:28.315Z
-updated: 2024-10-25T17:30:42.819Z
+date: 2024-10-30T10:05:23.156Z
+updated: 2024-10-31T05:19:30.731Z
 tags: 
   - screen-recording
   - ai video
@@ -51,10 +51,10 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use LUTs using Photoshop CC?
@@ -65,6 +65,13 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Choose Adjustment Layer
 
 1. Opt for Color Lookup.
@@ -72,6 +79,13 @@ Choose Adjustment Layer
 3. Select Load 3D LUT. A list of LUTs that come with Photoshop will appear.
 
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 load 3d lut
 
@@ -81,19 +95,19 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
 2. When discussing Photoshop, the project is typically an image, so go ahead and open it. Open a new one by pressing 'Ctrl+O' or importing something from your cloud.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Here's the second one
 
@@ -111,13 +125,6 @@ Grow Together
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Closing Thoughts:
 
 LUTs are extremely useful since they allow photographers to save time by using the same LUTs or a set of LUTs for several photographs. Instead of making individual modifications to your photographs, you may color grade them all with the same LUTs. This gives a series a more unified vibe. You can even put them up as Actions in Photoshop.
@@ -127,19 +134,6 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Closing Thoughts:
 
@@ -171,22 +165,19 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-bend-and-shape-your-text-with-3d-effects-in-illustrator/"><u>[New] Bend and Shape Your Text with 3D Effects in Illustrator</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-bypassing-edgenuity-a-guide-to-focused-self-study/"><u>[New] Bypassing Edgenuity A Guide to Focused Self-Study</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-from-beginner-to-pro-your-guide-to-mac-audio-with-audacity/"><u>[New] From Beginner to Pro Your Guide to Mac Audio with Audacity</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-stream-power-showdown-vmix-clashes-with-wirecast-for-broadcast-excellence-for-2024/"><u>[New] Stream Power Showdown VMix Clashes with Wirecast for Broadcast Excellence for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-androids-secret-weapon-for-stunning-time-lagged-footage/"><u>[Updated] Android's Secret Weapon for Stunning Time-Lagged Footage</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-voice-memo-techniques-an-in-depth-walkthrough/"><u>2024 Approved Voice Memo Techniques An In-Depth Walkthrough</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-standard-tokens-expanding-chatgpt-capabilities/"><u>Beyond Standard Tokens: Expanding ChatGPT Capabilities</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/clipcomposer-critique-full-report/"><u>ClipComposer Critique – Full Report</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-leading-ai-assisted-search-engines-to-revolutionize-your-web-queries/"><u>Discover Leading AI Assisted Search Engines to Revolutionize Your Web Queries</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-change-your-x-formerly-twitter-password/"><u>How to Change Your X (Formerly Twitter) Password</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-xiaomi-redmi-a2-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Xiaomi Redmi A2 Without PUK Codes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-use-obs-streamlabs-on-mac/"><u>How to Use OBS Streamlabs on Mac？</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ideal-high-res-displays-the-best-5-for-ps5/"><u>Ideal High-Res Displays The Best 5 For PS5</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/master-clearer-photos-unveiling-the-top-10-web-edits/"><u>Master Clearer Photos Unveiling the Top 10 Web Edits</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-easy-video-reversal-top-online-solutions/"><u>New 2024 Approved Easy Video Reversal Top Online Solutions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-tip-guide-effortlessly-updating-wi-fi-drivers-in-windows-10/"><u>Quick Tip Guide: Effortlessly Updating Wi-Fi Drivers in Windows 10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/seamless-srt-to-video-leading-10-free-online-conversion-tools/"><u>Seamless SRT to Video - Leading 10 Free Online Conversion Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-adding-sparkle-to-your-content-incorinasing-unique-story-emojis/"><u>[New] Adding Sparkle to Your Content Incorinasing Unique Story Emojis</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-streaming-directly-from-facebook-to-your-screen/"><u>[Updated] Streaming Directly From Facebook to Your Screen</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tier-extended-reality-experience-makers/"><u>[Updated] Top-Tier Extended Reality Experience Makers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-step-by-step-podcast-rss-feeds-a-practical-approach/"><u>2024 Approved Step-by-Step Podcast RSS Feeds A Practical Approach</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/harmonious-hues-mastering-color-dynamics/"><u>Harmonious Hues Mastering Color Dynamics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-complete-tutorial-for-professional-gopro-vlogs/"><u>In 2024, A Complete Tutorial for Professional GoPro Vlogs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-creating-a-channel-focused-on-reviewing-marketplace-items/"><u>In 2024, Creating a Channel Focused on Reviewing Marketplace Items</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-high-quality-1-ranked-4k-laptops-for-gaming/"><u>In 2024, High-Quality #1 Ranked 4K Laptops for Gaming</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-asus-rog-phone-7-ultimate-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Asus ROG Phone 7 Ultimate FRP In 3 Different Ways</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Teleport Your GPS Location On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/music-infused-videos-perfecting-sound-with-inshot/"><u>Music-Infused Videos Perfecting Sound with InShot</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/next-gen-screen-in-depth-look-at-the-hp-envy-27/"><u>Next Gen Screen In-Depth Look at the HP Envy 27</u></a></li>
+<li><a href="https://discover-help.techidaily.com/ripping-dvds-and-blu-ray-discs-effectively-a-comparative-analysis-of-makemkv-and-dvdfab-tools/"><u>Ripping DVDs & Blu-Ray Discs Effectively: A Comparative Analysis of MakeMKV and DVDFab Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/taming-figmas-backgrounds-a-comprehensive-guide/"><u>Taming Figma's Backgrounds A Comprehensive Guide</u></a></li>
 </ul></div>
 

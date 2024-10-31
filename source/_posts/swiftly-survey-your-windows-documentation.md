@@ -1,7 +1,7 @@
 ---
 title: "Swiftly Survey Your Windows Documentation"
-date: 2024-10-15T18:54:19.651Z
-updated: 2024-10-19T16:08:40.835Z
+date: 2024-10-27T04:36:47.067Z
+updated: 2024-10-31T11:08:17.109Z
 tags: 
   - screen-recording
   - ai video
@@ -50,22 +50,15 @@ Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and
 
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
 
 ![install the quicklook for windows msi](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
@@ -76,6 +69,13 @@ Step4 After a successful installation, find the file you want to preview and sel
 
 **Pro tip**: We recommend installing the QuickLook OfficeViewer plugin to rip open your Office files and view the content inside. This method is recommended if you haven’t installed Microsoft Office on your PC. However, you might notice that the OfficeViewer plugin isn’t supported on your Windows PC. So to install OfficeViewer, select the file and click the space bar to preview it on QuickLook. Then, tap the “Click here to install this plugin” button. Now restart QuickLook and view all your office documents without opening them on their respective programs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Should We Expect Built-in Quick Look on Windows in the Future?
 
 Mac users have enjoyed the powerful QuickLook capabilities for at least 15 years. But are we going to see QuickLook coming to Windows 10/11 anytime soon? According to sources, plans are already underway to add this feature to Microsoft Windows and rename it Peek. After selecting a file on Explorer, simply tap the Shift + Space bar to preview the content. Like the macOS version, you can preview PDFs, Excels, Words, images, videos, audio, and pretty much anything.
@@ -85,10 +85,10 @@ Meanwhile, it’s expected that QuickLook will come with a small preview screen.
 In other related news, Microsoft will be answering the prayers of their loyal patrons to get tabbed browsing. This is another feature similar to what you currently have on macOS, where you can open new tabs for numerous file locations. In return, this makes moving and copying files more straightforward. This easy-to-navigate addition will definitely make Microsoft Windows users more productive than before.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: Frequently Asked Questions
@@ -106,10 +106,10 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -146,24 +146,20 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-mastering-webinar-recording-on-a-budget-for-2024/"><u>[New] Mastering Webinar Recording on a Budget for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-tips-for-crafting-an-engaging-video-closure-on-youtub/"><u>[New] Tips for Crafting an Engaging Video Closure on YouTub</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-budget-blueprint-for-creating-musical-cinematic-pieces/"><u>[Updated] Budget Blueprint for Creating Musical Cinematic Pieces</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-amplifying-image-size-unchanged-crispness/"><u>2024 Approved Amplifying Image Size, Unchanged Crispness</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-finding-fame-on-insta-month-by-month-guide-to-reaching-the-million-mark/"><u>2024 Approved Finding Fame on Insta Month by Month Guide to Reaching the Million Mark</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/25-groundbreaking-metaverse-initiatives-for-comprehension-for-2024/"><u>25 Groundbreaking Metaverse Initiatives for Comprehension for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/boost-your-wi-fi-game-with-the-compact-and-efficient-ourlink-u631-usb-stick-adapter/"><u>Boost Your Wi-Fi Game with the Compact and Efficient Ourlink U631 USB Stick Adapter</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/critical-layer-error-windows-c-runtime-missing/"><u>Critical Layer Error: Windows C Runtime Missing</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/full-colors-unavailable-on-printout/"><u>Full Colors Unavailable on Printout</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-honor-100-pro-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Honor 100 Pro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/powerdirector-elite-edition-review-the-ultimate-2024/"><u>PowerDirector Elite Edition Review - The Ultimate 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/professional-stability-essentials-for-youtube-videographers/"><u>Professional Stability Essentials for YouTube Videographers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/radiance-hdr-examined-value-or-not/"><u>Radiance HDR Examined Value or Not?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/sharp-cinematic-edge-choosing-the-phone-that-offers-unmatched-video-ois/"><u>Sharp Cinematic Edge Choosing the Phone that Offers Unmatched Video OIS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/skycheap-fileserver-economical-efficient-large-data-for-2024/"><u>SkyCheap Fileserver Economical, Efficient Large Data for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/step-by-step-inserting-tracks-in-youtube-playlists/"><u>Step-by-Step Inserting Tracks in YouTube Playlists</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-highlight-reel-of-2022-skating-stars/"><u>Ultimate Highlight Reel of 2022 Skating Stars</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/windows-wizardry-for-swift-image-editing/"><u>Window's Wizardry for Swift Image Editing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-breaking-down-face-id-barriers-in-iphone-x-a-fix-guide/"><u>[New] Breaking Down Face ID Barriers in iPhone X - A Fix Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-guide-to-ae-type-effects/"><u>[New] Comprehensive Guide to AE Type Effects</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-methods-to-rectify-obs-fullscreen-crash/"><u>[New] In 2024, Methods to Rectify OBS Fullscreen Crash</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-optimizing-tasks-in-teams-with-these-8-social-media-apps/"><u>[Updated] In 2024, Optimizing Tasks in Teams with These 8 Social Media Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-celestial-vision-high-definition-touch-screens/"><u>2024 Approved Celestial Vision High Definition Touch Screens</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-ways-to-address-the-missing-launchdll-file-issue/"><u>Effective Ways to Address the Missing Launch.dll File Issue</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-mini-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 mini To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-ios-and-android-photo-editing-face-tools/"><u>In 2024, Best iOS and Android Photo-Editing Face Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-complete-visual-field-review-with-cam/"><u>In 2024, Complete Visual Field Review with Cam</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-text-overlays-on-photos-in-windows-10s-photos-app/"><u>In 2024, Mastering Text Overlays on Photos in Windows 10'S Photos App</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/865011--psychic-kids/"><u>Psychic Kids | Free Book</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/simple-solutions-for-capturing-playthroughs/"><u>Simple Solutions for Capturing Playthroughs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/totv-multimedia-player-wmp-alternative/"><u>TOTV Multimedia Player WMP Alternative</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-tecno-spark-10c-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Tecno Spark 10C Screen | Dr.fone</u></a></li>
 </ul></div>
 

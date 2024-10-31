@@ -1,7 +1,7 @@
 ---
 title: "\"Flight to Perfection  Assessing GoPro Karma's Capabilities\""
-date: 2024-08-29T18:06:06.767Z
-updated: 2024-08-30T18:06:06.767Z
+date: 2024-10-27T17:19:41.973Z
+updated: 2024-10-30T17:02:18.190Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
 
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Detailed review for GoPro Karma
 
 #### 1\.  Price
@@ -87,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/ca553c30ee84db192e99fa5840738c6a29a319bf3
 
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
 
 #### Conclusion
@@ -95,13 +109,18 @@ Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -109,6 +128,21 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-initiating-meetings-on-the-move-tech-advice/"><u>[New] Initiating Meetings on the Move Tech Advice</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/astering-youtube-images-your-complete-thumbnail-handbook-for-2024/"><u>[New] Mastering YouTube Images Your Complete Thumbnail Handbook for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-aurora-vs-traditional-hdr-the-battle-for-best-quality/"><u>[Updated] Aurora vs Traditional HDR The Battle for Best Quality</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-honor-x7b-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/achieving-subtle-volume-diminishment-in-logic-pro/"><u>Achieving Subtle Volume Diminishment in Logic Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/brief-guide-to-obscured-faces-on-piscart-platforms/"><u>Brief Guide to Obscured Faces on PiscArt Platforms</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-apc-back-ups-pro-1500va-maximum-output-and-versatile-connectivity/"><u>Comprehensive Analysis of APC Back-UPS Pro 1500VA: Maximum Output & Versatile Connectivity</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/guide-to-top-frame-rates-in-slow-motion-video-production/"><u>Guide to Top Frame Rates in Slow-Motion Video Production</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-boot-into-advanced-startup-options-in-windows-10-easily/"><u>How to Boot Into Advanced Startup Options in Windows 10 Easily?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-ensure-the-best-live-experience-with-top-networks/"><u>How to Ensure the Best Live Experience with Top Networks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tranquility-techniques-managing-in-system-sounds/"><u>Tranquility Techniques Managing In-System Sounds</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-reddit-winners-a-collection-of-best-posts/"><u>Ultimate Reddit Winners A Collection of Best Posts</u></a></li>
+</ul></div>
+

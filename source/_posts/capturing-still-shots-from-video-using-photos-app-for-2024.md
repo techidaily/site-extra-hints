@@ -1,7 +1,7 @@
 ---
 title: "Capturing Still Shots From Video Using Photos App for 2024"
-date: 2024-08-24T22:47:22.554Z
-updated: 2024-08-25T22:47:22.554Z
+date: 2024-10-25T21:37:48.148Z
+updated: 2024-10-31T14:33:40.758Z
 tags: 
   - screen-recording
   - ai video
@@ -65,22 +65,33 @@ In case, you are not able to save photos from video on Windows 10 Photos App. Th
 We are explaining the solutions here –
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Part 3: Alternative way to save photo from video
 
 When you want to save photo from video Windows 10 Photos but fail to do so, you can look for alternate ways that are fruitful. ‘ScreenShot’ is an online tool that enables you to capture and edit anything popping up on your screen. From webpages, windows, media files, menus, objects, to webcams, you can literally capture anything. It supports Mac, Windows PC, Android devices etc. it supports AVI, FLV, MPEG, WMV, MOV, and MKV files and enables you to add shapes, texts, lines, arrows, and stylish effects while editing the captured images. You can even upload images to cloud or social networking sites like Facebook, Google Plus, Twitter etc. The pictures are saved in JPG, PNG, BMP, GIF, and TIFF format on your computer. Automatic video capture at fixed intervals is also supported.
@@ -94,30 +105,33 @@ Here comes the guide –
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -125,3 +139,27 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-celebrating-tiktok-raps-with-cultural-impact/"><u>[New] 2024 Approved Celebrating TikTok Raps with Cultural Impact</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-how-to-keep-your-videos-quiet-and-clear/"><u>[New] 2024 Approved How to Keep Your Videos Quiet and Clear</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-transitioning-audio-realms-in-reapers-bouncing-beats/"><u>[New] Transitioning Audio Realms in Reaper's Bouncing Beats</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-reestablishing-connection-with-dormant-obs-camera/"><u>[Updated] 2024 Approved Reestablishing Connection with Dormant OBS Camera</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-bridge-gaps-in-distance-mastering-xbox-one-zooming/"><u>[Updated] Bridge Gaps in Distance Mastering Xbox One Zooming</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-beginners-tutorial-composing-youtube-video-content/"><u>2024 Approved Beginner's Tutorial Composing YouTube Video Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-masterclass-in-brief-lapses-top-5/"><u>2024 Approved Masterclass in Brief Lapses #Top 5</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ae-excellence-select-best-templates-for-free-access/"><u>AE Excellence Select Best Templates for Free Access</u></a></li>
+<li><a href="https://video-capture.techidaily.com/click-your-way-to-fun-top-12-pc-titles-of-2021-for-2024/"><u>Click Your Way to Fun Top 12 PC Titles of 2021 for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/clipcutting-masterwin8-for-2024/"><u>ClipCutting MasterWin8 for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/decoding-whatsapp-voice-communication/"><u>Decoding WhatsApp Voice Communication</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-samples-the-finest-free-after-effects-templates/"><u>Essential Samples The Finest Free After Effects Templates</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/hear-and-engage-speech-technology-gratis/"><u>Hear & Engage Speech Technology Gratis</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-13c-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi 13C to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-free-memes-unlock-humor-in-everyday-life/"><u>In 2024, Best FREE Memes Unlock Humor in Everyday Life</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-nokia-c12-plus-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Nokia C12 Plus? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimal-voice-processing-software-solutions/"><u>Optimal Voice Processing Software Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-essential-powerdirector-handbook-24/"><u>The Essential PowerDirector Handbook '24</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-the-secrets-to-fixing-major-glitches-by-restarting-your-mobile/"><u>Unlocking the Secrets to Fixing Major Glitches by Restarting Your Mobile</u></a></li>
+</ul></div>
+

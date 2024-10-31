@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Guide to Transcribing with Google's Speech API\""
-date: 2024-10-15T16:58:56.805Z
-updated: 2024-10-19T16:29:38.659Z
+date: 2024-10-26T07:16:23.728Z
+updated: 2024-10-31T03:14:04.899Z
 tags: 
   - screen-recording
   - ai video
@@ -69,9 +69,23 @@ Do I need a Chrome Browser to use Google Docs?
 
 No, Google Docs work fine on Firefox and Safari.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Use Google Docs speech to text service?
 
 Once you fulfill the requirements above, you can begin transcribing your documents. Google Docs speech to text service has two input methods. Here is an extensive guide to each.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Input with a microphone
 
@@ -113,10 +127,10 @@ Alternatively, you can transcribe in speech to text google docs using an audio f
 6. Tap the microphone again to stop transcribing the audio file.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: Best Alternatives to Google Docs speech to text service
@@ -163,28 +177,21 @@ Click [here](https://tools.techidaily.com/wondershare/filmora/download/) too che
 ## Part 4: FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Q1: Can you use Google Docs on speech to text mobile?
 
 Yes, you can. Download Gboard on your android device to avail the feature. Once done, launch the Google Docs app. Then, touch and hold the microphone on your keyboard. You can start transcribing after the words Speak Now appear on your screen. However, not all android versions offer the service. Therefore, check your device's compatibility by accessing Google PlayStore.
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Q2: Can you use Google Docs speech to text offline?
 
@@ -217,20 +224,34 @@ No. You can access Google Docs from any device, provided you have the chrome bro
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: What do you need to use google docs speech to text service?
 
 Like all other programs, speech to text google docs service requires you to meet specific requirements. In addition, these requirements apply to both desktop and mobile devices. Below is what you need to use the service.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Google accounts
 
 Voice to text google docs is only available to google account holders. Therefore, to access the Google service on your device, proceed to the google homepage and use the **Create an Account** Form to get one. Fill in the details as requested to finalize the process. Remember, Google accounts are available to individuals and businesses alike.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Microphone
 
@@ -245,13 +266,6 @@ No, the service is free to use in Google Docs so far.
 Do I need a Chrome Browser to use Google Docs?
 
 No, Google Docs work fine on Firefox and Safari.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Use Google Docs speech to text service?
 
@@ -271,19 +285,6 @@ You will find it on the top left corner of your browser, below the back and forw
 1. Click on the + from Google Docs main page to open a new document.
 
 ![open a new document](https://images.wondershare.com/filmora/article-images/2022/07/speech-to-text-google-docs-2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Tap on Tools from the top menu bar, followed by Voice Typing from the sub menu.
 
@@ -350,25 +351,18 @@ Click [here](https://tools.techidaily.com/wondershare/filmora/download/) too che
 
 [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) speech to text is available on Windows and macOS as a subscription service. Depending on your subscription, you can transcribe up to 10 hours of audio per month. Check the Filmora speech to text website for more information on the plugin's features.
 
-## Part 4: FAQs
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Part 4: FAQs
 
 ### Q1: Can you use Google Docs on speech to text mobile?
 
 Yes, you can. Download Gboard on your android device to avail the feature. Once done, launch the Google Docs app. Then, touch and hold the microphone on your keyboard. You can start transcribing after the words Speak Now appear on your screen. However, not all android versions offer the service. Therefore, check your device's compatibility by accessing Google PlayStore.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Q2: Can you use Google Docs speech to text offline?
 
@@ -406,21 +400,19 @@ No. You can access Google Docs from any device, provided you have the chrome bro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-5-best-mac-software-for-cutting-edge-media-production/"><u>[New] 5 Best Mac Software for Cutting-Edge Media Production</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-advanced-practices-for-capturing-iptv-visuals-for-2024/"><u>[New] Advanced Practices for Capturing IPTV Visuals for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-complete-overview-harnessing-the-power-of-googles-text-conversion/"><u>[New] Complete Overview Harnessing the Power of Google's Text Conversion</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-ace-your-brand-strategy-with-these-reddit-mastery-methods/"><u>[Updated] Ace Your Brand Strategy with These Reddit Mastery Methods</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-configure-youtubes-audience-options-with-ease/"><u>[Updated] In 2024, Configure YouTube's Audience Options with Ease</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-asmr-quality-high-standards-meet-affordable-costs/"><u>2024 Approved ASMR Quality High Standards Meet Affordable Costs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-images-to-go-viral-the-ultimate-step-by-step-guide-for-youtube-success/"><u>2024 Approved Crafting Images to Go Viral The Ultimate Step-by-Step Guide for YouTube Success</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-look-inside-magix-pixel-management-for-2024/"><u>A Look Inside MAGIX Pixel Management for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/acme-audio-playwriting-compendium-for-2024/"><u>Acme Audio Playwriting Compendium for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elemental-concepts-in-kinetic-design-workflow/"><u>Elemental Concepts in Kinetic Design Workflow</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/gopros-superhero-5-and-sj7-showdown/"><u>GoPro's Superhero 5 and SJ7 Showdown</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-full-access-your-in-depth-look-at-fcp/"><u>In 2024, Full Access Your In-Depth Look at FCP</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/masterclass-how-to-remove-the-hidden-partition-on-your-windows-machine/"><u>Masterclass: How to Remove the Hidden Partition on Your Windows Machine</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-virtual-meeting-room-key-strategies-for-a-winning-skype-interview-2024-edition/"><u>Mastering the Virtual Meeting Room: Key Strategies for a Winning Skype Interview, 2024 Edition</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/top-3-effektivste-ansatze-fur-eine-erfolgreiche-p2v-migration/"><u>Top 3 Effektivste Ansätze Für Eine Erfolgreiche P2V Migration</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/ultimate-guide-to-convert-srt-to-txt-in-minutes/"><u>Ultimate Guide to Convert SRT to TXT in Minutes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-launching-successful-online-gaming-shows-on-youtube/"><u>[New] 2024 Approved Launching Successful Online Gaming Shows on YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-vistas-backgrounds-boosting-live-quality/"><u>[Updated] Best Vistas Backgrounds Boosting Live Quality</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-multi-user-android-calls-the-top-8-tools-for-2024/"><u>[Updated] Multi-User Android Calls The Top 8 Tools for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ee-youtube-playlist-downloaders-onlinepcandroidios-for-2024/"><u>11 FREE YouTube Playlist Downloaders [Online/PC/Android/iOS] for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-boosting-productivity-with-zoom-and-a-chromebook/"><u>2024 Approved Boosting Productivity with Zoom and a Chromebook</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-realme-10t-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Realme 10T 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevating-your-filmmaking-skills-on-the-windows-10-platform/"><u>Elevating Your Filmmaking Skills on the Windows 10 Platform</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/football-inscriptions-premier-fifa-youtube-insights-for-2024/"><u>Football Inscriptions Premier FIFA YouTube Insights for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-30-metaverse-phenomena-making-your-mark-with-memes/"><u>In 2024, 30 Metaverse Phenomena Making Your Mark with Memes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-se-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone SE Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/interactive-media-platform-breakdown/"><u>Interactive Media Platform Breakdown</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mastering-the-art-of-high-definition-a-step-by-step-guide-to-using-hd-video-converter-factory-pro/"><u>Mastering the Art of High-Definition: A Step-by-Step Guide to Using HD Video Converter Factory Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-guide-transform-hevc-files-into-mp3s-using-your-computer/"><u>Simple Guide: Transform HEVC Files Into MP3s Using Your Computer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-cheapest-cloud-storage-service-for-mass-file/"><u>The Cheapest Cloud Storage Service for Mass File</u></a></li>
 </ul></div>
 

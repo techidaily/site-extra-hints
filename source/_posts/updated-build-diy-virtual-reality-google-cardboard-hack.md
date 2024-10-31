@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Build DIY Virtual Reality  Google Cardboard Hack\""
-date: 2024-10-24T18:35:32.685Z
-updated: 2024-10-25T16:36:09.645Z
+date: 2024-10-28T13:37:01.290Z
+updated: 2024-10-31T02:05:01.989Z
 tags: 
   - screen-recording
   - ai video
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
  In not more than 3 hours, people were able to construct their own virtual reality viewer. Do you also want to successfully make your own? Here’s what you will need, together with some important tips and tools to properly do it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1.The accessories you will need
@@ -54,16 +54,10 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
  It is recommended to use the right type of cardboard, with the same thickness as that of a durable shoe box. You can use a pizza box, but make sure it offers enough flat surfaced material to work with. Of course, you want something durable, yet slim to work with. In some cases, a couple of additional items might be needed such as ceramic disc magnet, neodymium magnet, some pieces of Velcro, big rubber band and at least 45 mm lenses.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2.How to assemble accessories
@@ -79,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 * If necessary, affix the NFC tag to the cardboard.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Pros and cons of DYI Google cardboard
@@ -105,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -126,19 +120,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/expert-ideal-approaches-to-correct-iphone-hdr-overexposure-in-adobe-premiere/"><u>[Expert] Ideal Approaches to Correct iPhone HDR Overexposure in Adobe Premiere</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-how-to-elevate-your-digital-self-with-memetic-skills-in-the-metaverse/"><u>[New] In 2024, How to Elevate Your Digital Self with Memetic Skills in the Metaverse</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boosting-youtube-videos-activating-av1-support/"><u>[Updated] 2024 Approved Boosting YouTube Videos Activating AV1 Support</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-cloud-costs-2024s-top-storages-and-cheapest-options/"><u>[Updated] Cloud Costs 2024'S Top Storages & Cheapest Options</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-13-quick-and-simple-income-ideas-for-reddit-novices/"><u>2024 Approved 13 Quick and Simple Income Ideas for Reddit Novices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-compreran-list-efficient-platforms-for-downloading-your-favorite-tones/"><u>2024 Approved Compreran List Efficient Platforms for Downloading Your Favorite Tones</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-financial-frontier-acquiring-high-value-youtubes/"><u>2024 Approved The Financial Frontier Acquiring High-Value Youtubes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/beyond-hd-an-in-depth-analysis-of-eizos-cg318-4k-for-2024/"><u>Beyond HD An In-Depth Analysis of EIZO's CG318-4K for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-comprehensive-look-at-ffpm-your-pip-guide/"><u>In 2024, A Comprehensive Look at FFPM Your PIP Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/iphone-pro-photography-mastery-of-leading-lines/"><u>IPhone Pro Photography Mastery of Leading Lines</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/key-factors-to-assess-when-purchasing-an-unlockable-mobile-device/"><u>Key Factors To Assess When Purchasing An Unlockable Mobile Device</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-15-aesthetic-background-music-for-youtube-videos-or-vlogs/"><u>New 15 Aesthetic Background Music For YouTube Videos or Vlogs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-your-windows-11-devices-bluetooth-connection-fixed/"><u>Troubleshooting Your Windows 11 Device's Bluetooth Connection - Fixed!</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-reimagining-auditory-experiences-with-these-industry-standards/"><u>Updated 2024 Approved Reimagining Auditory Experiences with These Industry Standards</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-avoiding-drone-pitfalls-key-factors-for-a-smart-purchase/"><u>2024 Approved Avoiding Drone Pitfalls Key Factors for a Smart Purchase</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-bridging-audio-gaps-the-complete-guide-to-smooth-blending-in-audacity/"><u>2024 Approved Bridging Audio Gaps The Complete Guide to Smooth Blending in Audacity</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-data-driven-decision-making-in-your-youtube-shorts-strategy/"><u>2024 Approved Data-Driven Decision Making in Your YouTube Shorts Strategy</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-lava-blaze-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-brilliance-one-piece-at-a-time-for-2024/"><u>Building Brilliance One Piece at a Time for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/generate-funny-image-for-giphy/"><u>Generate Funny Image for Giphy</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximize-your-mobile-battery-life-with-halo-bolt-the-top-portable-charger-and-jump-starter/"><u>Maximize Your Mobile Battery Life with Halo Bolt - The Top Portable Charger and Jump Starter</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-through-the-maze-creating-seamless-video-experienences-in-pixiz/"><u>Navigating Through the Maze Creating Seamless Video Experienences in Pixiz</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/safe-techniques-to-restore-your-permanently-lost-iphone-photos/"><u>Safe Techniques to Restore Your Permanently Lost iPhone Photos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/tech-insights-the-best-browser-screen-capture-tools-of-the-year/"><u>Tech Insights The Best Browser Screen Capture Tools of the Year</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-7-camcorders-for-extreme-weather-and-splashes-review/"><u>Top 7 Camcorders for Extreme Weather and Splashes Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transcode-un-fichier-avi-en-format-ogg-pour-la-video-gratuite-et-facile-movavi/"><u>Transcode Un Fichier AVI en Format Ogg Pour La Vidéo, Gratuite Et Facile - Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-errors-how-to-fix-failed-attempts-at-opening-word-files/"><u>Troubleshooting Errors: How to Fix Failed Attempts at Opening Word Files</u></a></li>
 </ul></div>
 

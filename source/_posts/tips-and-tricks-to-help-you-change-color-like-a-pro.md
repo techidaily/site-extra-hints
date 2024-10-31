@@ -1,7 +1,7 @@
 ---
 title: "Tips and Tricks to Help You Change Color Like A Pro"
-date: 2024-08-24T22:48:27.023Z
-updated: 2024-08-25T22:48:27.023Z
+date: 2024-10-24T16:34:52.788Z
+updated: 2024-10-30T22:59:39.478Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,13 @@ Another way to change the color of the shirt is by navigating to the “Solid Co
 
 ![select hue or color mode](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Tips 2: Use Black and White Colors
 
 Another option in Adobe Photoshop photo color editor to add black or white color to the shirt is by using the "Hue and Saturation Adjustment Layer.” For this, you need to create a group and then apply a layer mask to it by reducing its saturation. After that, you can apply a hue and saturation adjustment layer to it to have a white or black effect on the shirt.
@@ -49,8 +56,12 @@ Now do the tuning by navigating to the layer mask and also select the layers. Af
 ![use sliders to black or white](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Tip 3: Add Color to White Object
 
 If you want to add color to your black or white shirt, you can do it by “Hue and Saturation Adjustment Layer.” On this layer, tap on “Colorize” and choose the color you want to add. Another technique is to create a “Fill Adjustment Layer” and then change the blending mode into “Multiple.” Now, click on the “Color Picker,” and you can pick and choose your preferred color. If you want to add a dark color rather than a subtle color, change the mode to “Screen.”
@@ -58,11 +69,12 @@ If you want to add color to your black or white shirt, you can do it by “Hue a
 ![ pick the color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### 4\. Tip 4: Use Direct Selection Color Picker
 
 Through the direct selection color picker, you can change the color of an object instantly. For this, create a “Hue and Saturation Adjustment Layer,” click any part of the picture to change its color. Now drag the sliders of saturation to change the color accordingly. On the reset adjustment layer, you can pick the color from the direct selection, such as from the drop-down menu, you can select colors like reds, blues, greens, and blues.
@@ -71,9 +83,6 @@ At the bottom of the options, you can see two points that will tell you about yo
 
 ![ change specific color to another color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. Tip 5: Choose Object Color Range
 
 Do you want to change the color of a specific part of the image? You can do this on Adobe Photoshop photo color editor by going to the "Quick Selection Tool" and then applying the colors, but it may leave edges and curves of the object. So, the recommended way is to navigate to the “Select” tab and then click on “Color Range” from its drop-down menu.
@@ -85,19 +94,23 @@ After clicking on the color range option, a pop-up window will appear from which
 ![select complete object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Afterward, create a group in which add layers, mask, and adjustment layers to change the saturation, color, and brightness of the selected area accurately. To only change the color, drag the sliders of hue to do it instantly.
 
 ![change hue for changing color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
+
 ### 6\. Tip 6: Use Blend IF
 
 If you want to change the color of leaves on a tree, you can use the “Blend IF” option of Adobe Photoshop to precisely do the changes. Start with duplicating the existing layer and then hiding the second layer. Double click on the layer to open the menu and then use “Blend IF” sliders. This option works when you drag the sliders to black points, and it automatically hides the dark pixels of your photo.
@@ -115,8 +128,12 @@ It helps the user create transparency across the layer. After hiding the layer a
 ![select your new color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 7\. Tip 7: Use Online Photo Editor to Change Colors
 
 If you don’t have an offline tool like Adobe Photoshop, you can use an online photo color editor to replace the colors quickly. In this part, we will suggest [BeFunky](https://www.befunky.com/) photo color editor change the photo colors efficiently.
@@ -130,8 +147,12 @@ To increase or decrease the intensity of your color, use the “Tolerance” opt
 ![choose target color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Changing the color of a photo can save us a lot of work done and effort. To effortlessly change the photo color, use the mentioned photo color editor in this article to easily execute the changes. Also, we have mentioned an online tool through which you can also change the photo color flawlessly.
@@ -158,4 +179,24 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-advanced-strategies-for-changing-user-numbers-in-tiktok/"><u>[New] Advanced Strategies for Changing User Numbers in TikTok</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-3-innovative-ways-to-record-on-your-ipad/"><u>[Updated] 2024 Approved 3 Innovative Ways to Record on Your iPad</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-50plus-text-wonders-in-video-editing/"><u>[Updated] 50+ Text Wonders in Video Editing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-crafting-captivating-youtube-thumbnails-on-smartphones/"><u>[Updated] Crafting Captivating YouTube Thumbnails on Smartphones</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-optimizing-tweets-a-guide-to-full-hd-video-experience-for-2024/"><u>[Updated] Optimizing Tweets A Guide to Full HD Video Experience for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-break-down-barriers-with-cost-free-vob-player/"><u>2024 Approved Break Down Barriers with Cost-Free VOB Player</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-breaking-down-complex-gif-concepts-for-beginners/"><u>2024 Approved Breaking Down Complex GIF Concepts for Beginners</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/celebrating-the-best-top-stop-motion-films-of-all-times/"><u>Celebrating the Best Top Stop-Motion Films of All Times</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-the-ideal-playlist-video-integration-on-youtube-platform/"><u>Crafting the Ideal Playlist Video Integration on YouTube Platform</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-boost-your-broadcast-game-mastering-obs-plus-streamlabs-mac/"><u>In 2024, Boost Your Broadcast Game Mastering OBS + Streamlabs, Mac</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-your-trusty-old-ipad-falling-short-in-the-modern-tech-world/"><u>Is Your Trusty Old iPad Falling Short in the Modern Tech World?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/izing-video-visibility-on-youtube-with-seo-insights/"><u>Maximizing Video Visibility on YouTube with SEO Insights</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-cinemac/"><u>New In 2024, CineMac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-content-production-with-these-8-cutting-edge-ai-tools/"><u>Revolutionize Your Content Production with These 8 Cutting-Edge AI Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/schnelle-und-verlustfreie-umwandlung-von-mkv-zu-mp4-dateien-eine-einfache-anleitung/"><u>Schnelle Und Verlustfreie Umwandlung Von MKV- Zu MP4-Dateien – Eine Einfache Anleitung</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-art-of-slow-motion-in-instagram-reels/"><u>The Art of Slow Motion in Instagram Reels</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/yt-titling-excellence-with-smart-technology/"><u>YT Titling Excellence with Smart Technology</u></a></li>
+</ul></div>
 

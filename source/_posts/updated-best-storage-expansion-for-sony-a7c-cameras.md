@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Best Storage Expansion for Sony A7C Cameras"
-date: 2024-08-24T22:46:07.471Z
-updated: 2024-08-25T22:46:07.471Z
+date: 2024-10-29T00:36:11.304Z
+updated: 2024-10-30T22:40:29.910Z
 tags: 
   - screen-recording
   - ai video
@@ -67,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 * Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -107,13 +114,18 @@ thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -121,6 +133,22 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/-beginners-pathway-to-effective-video-tag-usage-for-2024/"><u>[New] A Beginner's Pathway to Effective Video Tag Usage for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-a-hit-solo-podcast-trendsetting-tips/"><u>[New] Crafting a Hit Solo Podcast Trendsetting Tips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nlisting-youtube-videos-a-guide-to-non-indexable-content/"><u>[New] Unlisting YouTube Videos A Guide to Non-Indexable Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-exploration-of-3d-luts-in-image-processing/"><u>[Updated] Comprehensive Exploration of 3D LUTs in Image Processing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-navigating-instagrams-live-broadcasting/"><u>[Updated] In 2024, Navigating Instagram's Live Broadcasting</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-tutorial-transforming-video-content-into-captivating-animated-gifs-for-2024/"><u>[Updated] Tutorial Transforming Video Content Into Captivating Animated GIFS for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-a-perfect-power-pair-lipo-and-drones/"><u>2024 Approved Crafting a Perfect Power Pair LiPo and Drones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/7-effective-solutions-to-prevent-diablo-iv-from-crashing-on-pc-ps5-and-xbox/"><u>7 Effective Solutions to Prevent Diablo IV From Crashing on PC, PS5 & Xbox</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-realme-c51-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Realme C51</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/breaking-down-advertising-budgets-on-youtube-for-2024/"><u>Breaking Down Advertising Budgets on YouTube for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhancing-compatibility-download-the-latest-mono-laser-printer-drivers-for-dells-2330-series/"><u>Enhancing Compatibility: Download the Latest Mono Laser Printer Drivers for Dell's 2330 Series</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-bridging-audio-and-web-mastering-the-podcast-rss-format/"><u>In 2024, Bridging Audio & Web Mastering the Podcast RSS Format</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/precision-and-panache-creating-perfect-crossfades/"><u>Precision and Panache Creating Perfect Crossfades</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-5-digital-tools-for-enhancing-web-streams/"><u>Top 5 Digital Tools for Enhancing Web Streams</u></a></li>
+</ul></div>
+

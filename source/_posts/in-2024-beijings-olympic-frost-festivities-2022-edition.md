@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Beijing's Olympic Frost Festivities, 2022 Edition"
-date: 2024-08-24T22:46:04.909Z
-updated: 2024-08-25T22:46:04.909Z
+date: 2024-10-30T11:17:17.110Z
+updated: 2024-10-31T04:09:47.951Z
 tags: 
   - screen-recording
   - ai video
@@ -30,7 +30,21 @@ American snowboarder Lindsey Jacobellis wins the gold medal in the women's snowb
 
 ![lindsey jacobellis wins the gold medal](https://images.wondershare.com/filmora/article-images/lindsey-jacobellis-wins-the-gold-medal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lindsey Jacobellis become a viral internet figure after her premature celebration at Turin 2006 Winter Olympics that cost her medal at the event. The 36-year-old snowboarder has now become the oldest American to win a gold medal at Winter Games.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Nathan Chen Breaks World Record
 
@@ -38,9 +52,6 @@ Nathan Chen of the United States set a world-record score in men's figure skatin
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-breaks-world-record.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 Chen won the gold medal in men's figure skating with a combined score of 332.60 in the short program and free skate competitions. The defending champion Yuzuru Hanyu was not even in the top three and did not manage to win any medal which is naturally a major disappointment. On the contrary, Chen was elated and said that his performance is close to his best and that we could see even better performance going ahead.
 
 ## 3\. Nina O'Brien Suffered a Terrifying Crash
@@ -60,22 +71,27 @@ Born in America, Eileen Gu represented China at Winter Olympics and managed to w
 Eileen Gu's father is American while her mother is Chinese and she belongs to San Francisco. Yet, she represented China in the Winter Olympics which has sparked controversies. She has been representing China since 2019\. She wishes to represent China going forward and she has become a fan favorite in China.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Van der Poel Breaks the World Record
 
 Nil Van der Poel broke his own record to win the Olympic gold medal. The 25-year-old Swede started strongly and crossed the finish line in 12 minutes 30.74 seconds to set the world record. His victory also made Sweden taste an Olympic medal after 1988\. The victory also made him the tenth man to win both the 10,000 races and 5,000 races in the same event. It is also the largest Olympic victory as he triumphed the record set by Johan Olav Kloss in 1994 by 18.70 seconds.
 
 ![van poel breaks the world record](https://images.wondershare.com/filmora/article-images/van-poel-breaks-the-world-record.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Following the victory, he stated that he was sure to win the gold with eight laps remaining. However, he went not just for the gold but the world record with the remaining four laps. Patrick Roest from the Netherlands won the silver and the third spot went to Davide Ghittio of Italy.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Yan Wengang Wins China's First Medal in Sliding Sport
 
 Yan Wengang becomes the first medalist from China in a sliding sport. In a four-run total time of 4:01.77, he secured himself a bronze medal. The gold and silver went to Christopher Grotheer and Alex Jung of Germany. With the victory of Wengwang, there was a good feat for China as the nation sent its first skeleton athlete to the Olympics only 4 years ago.
@@ -83,8 +99,12 @@ Yan Wengang becomes the first medalist from China in a sliding sport. In a four-
 ![yan wen gang](https://images.wondershare.com/filmora/article-images/yan-wen-gang.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 The competitiveness of Wengwang has made him the first medalist for China in men's skeleton. The 24-year-old Tianjin native was happy as well as disappointed after the competition. With a fighting spirit, he gave everything he had in the last heat. His victory makes only the second time when a non-North American or non-European stood on the Olympic podium for skeleton.
 
 ## 7\. Chloe Kim Wins Second Straight Olympic Gold
@@ -94,22 +114,20 @@ The competitiveness of Wengwang has made him the first medalist for China in men
 ![chloe kim](https://images.wondershare.com/filmora/article-images/chloe-kim.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 With the triumph, she joins Shaun White to be the only snowboarders to successfully defend their Olympic title. Following the victory, she was overwhelmed and emotional. Despite having the worst practice before the final, Kim went on to create history.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Ukrainian Athlete Shows ‘No War' Sign During Skeleton Event
 
 We are all aware of the tensions between Ukraine and Russia are at their peak and there are many experts who believe the countries are on the verge of declaring war. Even though The Winter Olympics should have ideally been an apolitical event, Ukrainian skeleton athlete Vladyslav Heraskevych flashed a sign that read “No War in Ukraine” to spark a political controversy.
 
 ![ukrainian athlete](https://images.wondershare.com/filmora/article-images/ukrainian-athlete.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 He showed the sign directly to the cameras after he finished his run at Beijing Olympics. It remains to be seen if any penalty will be imposed on him but Heraskevych has said that he is ready to face any repercussion even though he hopes that the Olympics will support him instead.
 
 ## 9\. American Favorite Out of the Tournament
@@ -121,8 +139,12 @@ US skater Vincent Zhou has tested positive for coronavirus and therefore, he is 
 Zhou is considering the silver win as a consolation prize but he could not showcase his brilliance at the singles competitions. However, he said that he would prepare for the Winter Olympics in Milan and make a bigger comeback the world has not seen yet.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 10\. Russian Figure Skater Tests Positive for Banned Substance
 
 Doping scandals have become a part of the Olympics and this year is no different. According to International Testing Agency, Russian skater Kamila Valieva failed the doping test. On further examination, she tested positive for a performance-enhancing banned substance. She was told that she could not train, compete and participate during the Olympic Winter Games.
@@ -131,11 +153,25 @@ Doping scandals have become a part of the Olympics and this year is no different
 
 However, due to some miscommunication, she was allowed to be a participant in the team figure skating competition. She led the team to win gold but the medal is yet to be awarded due to the big confusion regarding the timeline of her drug test, suspension order, and miscommunication. The issue has become a controversial Beijing winter Olympics highlights.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-adding-words-to-pictures-easy-photo-text-editing-tips/"><u>[New] Adding Words to Pictures Easy Photo Text Editing Tips</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-capture-comprehensive-screen-shot-for-2024/"><u>[Updated] Capture Comprehensive Screen Shot for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-perfect-pick-the-best-microphones-for-all-yt-content-types/"><u>[Updated] Perfect Pick The Best Microphones For All YT Content Types</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-redmi-13c-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Xiaomi Redmi 13C Phone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-capture-clearer-nights-iphone-photo-hacks/"><u>In 2024, Capture Clearer Nights IPhone Photo Hacks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-high-end-gamers-guide-to-switch-recordings/"><u>In 2024, High-End Gamers' Guide to Switch Recordings</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-make-a-great-educational-video-for-youtube/"><u>In 2024, How to Make a Great Educational Video for YouTube?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/standout-vr-film-highlights-to-discover/"><u>Standout VR Film Highlights to Discover</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-guide-to-applying-luts-for-vivid-imagery-in-obs-videos/"><u>Step-by-Step Guide to Applying LUTs for Vivid Imagery in OBS Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sunny-side-up-videography-for-android/"><u>Sunny Side-Up Videography for Android</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+</ul></div>
+
