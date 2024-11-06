@@ -1,7 +1,7 @@
 ---
 title: "Disabling and Erasing Your Old, Unused LinkedIn Profile"
-date: 2024-08-24T22:40:29.499Z
-updated: 2024-08-25T22:40:29.499Z
+date: 2024-11-04T05:24:57.719Z
+updated: 2024-11-05T23:56:57.557Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,19 @@ thumbnail: https://www.lifewire.com/thmb/8VYsYYrfyGRkzFtE5GDtnXvVBP4=/400x300/fi
 * Do you have more than one LinkedIn account? You may merge or delete LinkedIn account.
 * Reopening your LinkedIn account is possible within 20days but the data like recommendations, pending invitations, followings, or group memberships will be lost.
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part2: How to Delete LinkedIn Account on PC
 
 **Step 1:** To delete LinkedIn account, sign in by entering the username and the password. On the top right hand side corner, you can find the "Me" tab. From the "Me" tab drop down menu, you can go to Settings & Privacy. Now, under the "Account" tab find the "Account Management" option.
@@ -58,6 +71,13 @@ thumbnail: https://www.lifewire.com/thmb/8VYsYYrfyGRkzFtE5GDtnXvVBP4=/400x300/fi
 
 ![close linkedin accout](https://images.wondershare.com/filmora/article-images/close-linkedin-account.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Then, you need to click on the answer why you wish to delete LinkedIn account from the options available like I have a duplicate account, I'm getting too many emails, I'm not getting any value from my membership, I have a privacy concern, I'm receiving unwanted contact, and Other. At the bottom of the page, click on "Next". You are asked to enter your password. Now, click on Close "Close Account".
 
 ![linkedin click answer](https://images.wondershare.com/filmora/article-images/linkedin-click-answer.JPG)
@@ -65,8 +85,12 @@ thumbnail: https://www.lifewire.com/thmb/8VYsYYrfyGRkzFtE5GDtnXvVBP4=/400x300/fi
  This automatically deletes LinkedIn account officially but, it takes few more weeks to remove LinkedIn account from the search engines as well.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part3: How To Close Linkedin Account On Android Phone
 
  If you wish to close LinkedIn account on Android phone, there’s nothing to worry about. It is very similar to how you delete LinkedIn account on PC.
@@ -75,19 +99,10 @@ thumbnail: https://www.lifewire.com/thmb/8VYsYYrfyGRkzFtE5GDtnXvVBP4=/400x300/fi
 
 ![linkedin android setting](https://images.wondershare.com/filmora/article-images/linkedin-android-setting.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. A message appears if you wish to "continue", so tap on the continue option.Once you click on the continue option, a similar message like the above in delete LinkedIn account from PC appears as to why you wish to close LinkedIn account. Click on any one reason for leaving LinkedIn and then, proceed to tap "Next". It asks for your password to ensure it’s you and for the security of your account and once entering the password is complete, tap "done".
 
 ![linkedin android close account](https://images.wondershare.com/filmora/article-images/linkedin-android-close-account.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## Conclusion
 
  LinkedIn is not rigid about deleting the account or losing a user. It is completely up to you and your convenience, if you wish to remove LinkedIn account completely. Whether mobile browser or Android phone or your computer, the process to cancel LinkedIn account is quite simple and does not involve much of any critical steps. Follow the above points to delete LinkedIn account from your PC or Android.
@@ -95,15 +110,17 @@ thumbnail: https://www.lifewire.com/thmb/8VYsYYrfyGRkzFtE5GDtnXvVBP4=/400x300/fi
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -111,3 +128,21 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-audiovisual-elements-in-eye-catching-fb-advertising/"><u>[New] In 2024, Audiovisual Elements in Eye-Catching FB Advertising</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-efficient-avi-to-gif-conversion-made-simple-windowsmac-edition-with-filmora/"><u>[New] In 2024, Efficient AVI-to-GIF Conversion Made Simple Windows/Mac Edition with Filmora</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-enhancing-engagement-10-must-have-tools-for-ig-gurus/"><u>[New] In 2024, Enhancing Engagement 10 Must-Have Tools for IG Gurus</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-prime-7-fps-titles-you-cant-miss/"><u>[New] Prime 7 FPS Titles You Can't Miss</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-instant-annotation-text-overlaying-on-images-and-videos-using-windows-photos-for-2024/"><u>[Updated] Instant Annotation Text Overlaying on Images & Videos Using Windows Photos for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-vloggers-guide-to-top-5-game-microphones-for-2024/"><u>[Updated] Vloggers’ Guide to Top 5 Game Microphones for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-6-social-media-platforms-for-business/"><u>Best 6 Social Media Platforms for Business</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-browser-usability-with-pip-in-chrome/"><u>Enhancing Browser Usability with PIP in Chrome</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explaining-instagrams-sudden-video-pivot/"><u>Explaining Instagram's Sudden Video Pivot</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/full-mobility-examination-2023/"><u>Full Mobility Examination 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-guide-to-essential-uav-upgrades-and-parts/"><u>In 2024, The Complete Guide to Essential UAV Upgrades & Parts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mitigating-risks-in-ai-with-governments-four-part-strategy/"><u>Mitigating Risks in AI with Government's Four-Part Strategy</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-performance-of-google-nest-wi-fis-seamless-networking-technology/"><u>Unveiling the Performance of Google Nest Wi-Fi's Seamless Networking Technology</u></a></li>
+</ul></div>
+

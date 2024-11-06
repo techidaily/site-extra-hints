@@ -1,7 +1,7 @@
 ---
 title: "Tips & Tricks: Fixing Common Arise Game-Crash Issues"
-date: 2024-10-26T20:27:30.264Z
-updated: 2024-10-31T02:27:17.279Z
+date: 2024-10-31T20:27:18.426Z
+updated: 2024-11-05T17:53:09.141Z
 tags:
   - win11
   - win10
@@ -29,19 +29,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  The screenshots below come from Windows 10, but the fixes also apply to Windows 7 and Windows 8.
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Repair the game files
 
  Corrupted and damaged game file is one of the most common causes of game crashes, so an integrity check should be your first step for troubleshooting. We’ll show you how to do this on[**Steam**](https://tools.techidaily.com/drivereasy/download/) and **[Wargaming launcher](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -53,10 +40,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Right-click**World of Warships** and click**Properties** .
@@ -68,10 +55,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After it finishes validating the game files, you can relaunch World of Warships to check if crashes are still there. If yes, proceed to **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  below.
@@ -84,16 +71,22 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-8.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for the process to complete, and relaunch World of Warships to test this method. If it fails to cure the crash, move on to the fixes below.
 
@@ -136,6 +129,13 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  Now that you’ve installed the most recent graphics driver, you can expect a smooth and enhanced game performance. If updating the driver doesn’t work, keep reading the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Delete the preferences.xml file
 
  This is a simple but useful trick reported by many players to stop World of Warships from crashing. Please note that this process will clear the corrupted cache and revert the game settings, including audio, graphics and controls to default.
@@ -150,6 +150,13 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 See if the crashing issue goes away. If not, try the fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4 – Launch World of Warships in safe mode
 
  If you’re accustomed to playing World of Warships with installed modifications but found the game started to malfunction after an update, the problem is possibly related to the mods. To identify whether that’s the case, you can try the safe mode.
@@ -160,14 +167,20 @@ See if the crashing issue goes away. If not, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-4.jpg)
 
-Do the crashes disappear now? If not, continue to the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Do the crashes disappear now? If not, continue to the next fix.
 
 ### Fix 5 – Reinstall the game
 
@@ -180,13 +193,6 @@ Do the crashes disappear now? If not, continue to the next fix.
 **2)** Select**Category** next to View by, and click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Click**World of Warships** from the list, and click**Uninstall** . Then, follow the on-screen instructions to complete the process.
 
@@ -222,24 +228,20 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-easy-transition-from-local-to-global-stream-spotify-playlists-on-youtube/"><u>[New] 2024 Approved Easy Transition From Local to Global Stream Spotify Playlists on YouTube</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-game-on-unlock-the-secrets-of-effective-lol-recording/"><u>[New] 2024 Approved Game-On! - Unlock the Secrets of Effective LOL Recording</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-transformative-power-of-vlc-from-mp4-to-a-multitude-of-formats/"><u>[New] 2024 Approved Transformative Power of VLC From MP4 to a Multitude of Formats</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-a-step-by-step-guide-to-perfecting-the-art-of-podcast-naming/"><u>[Updated] A Step-by-Step Guide to Perfecting the Art of Podcast Naming</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-achieving-flawless-photos-with-size-tweaks-on-ios/"><u>[Updated] Achieving Flawless Photos with Size Tweaks on iOS</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-blending-primary-and-b-roll-for-smooth-transitions/"><u>[Updated] In 2024, Blending Primary and B-Roll for Smooth Transitions</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-lowering-sounds-strength-progressively-with-lumafusion/"><u>[Updated] In 2024, Lowering Sounds' Strength Progressively with Lumafusion</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-boost-your-tiktok-presence-zoom-integration-guide/"><u>2024 Approved Boost Your TikTok Presence Zoom Integration Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/architectural-marvels-for-vr-display-for-2024/"><u>Architectural Marvels for VR Display for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/behind-the-magic-cinematic-technique-1-5-insights/"><u>Behind the Magic Cinematic Technique #1-5 Insights</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/cease-non-filtered-youtube-video-trail/"><u>Cease Non-Filtered YouTube Video Trail</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/celebrating-the-best-top-stop-motion-films-of-all-times-for-2024/"><u>Celebrating the Best Top Stop-Motion Films of All Times for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cutting-edge-conversion-tips-avi-to-gif-using-filmora-for-windowsmac-users/"><u>Cutting-Edge Conversion Tips AVI to GIF Using Filmora for Windows/Mac Users</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-10-open-source-video-player-for-linux-windows-and-mac/"><u>In 2024, 10 Open Source Video Player for Linux, Windows and Mac</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-choosing-google-pixel-music-matches-online/"><u>In 2024, Choosing Google Pixel Music Matches Online</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-stunning-sound-editing-tool-exploring-features-advantages-limitations-and-competitors/"><u>New Stunning Sound Editing Tool Exploring Features, Advantages, Limitations, and Competitors</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/optimal-drone-options-for-gopro-hd-imaging/"><u>Optimal Drone Options for GoPro HD Imaging</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/podcasts-vs-youtube-making-an-informed-media-decision-for-2024/"><u>Podcasts Vs. YouTube Making an Informed Media Decision for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-the-reasons-behind-a-malfunctioning-youtube-experience/"><u>Understanding the Reasons Behind a Malfunctioning YouTube Experience</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-way-to-update-old-photos-and-videos-with-ig-filters-for-2024/"><u>[New] The Ultimate Way to Update Old Photos and Videos with IG Filters for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-5-high-quality-online-meeting-capture-devices/"><u>[New] Top 5 High-Quality Online Meeting Capture Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-visionary-entry-critique-and-dissection-for-2024/"><u>[New] Visionary Entry Critique and Dissection for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-affordable-flight-masters-top-drone-selections-below-500/"><u>2024 Approved Affordable Flight Masters Top Drone Selections Below $500</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-build-your-affordable-virtual-reality-headgear-using-google-cards/"><u>2024 Approved Build Your Affordable Virtual Reality Headgear Using Google Cards</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/clockwise-conundrum-video-undo-for-iphone-users/"><u>Clockwise Conundrum Video Undo for iPhone Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/close-up-power-in-videoleap-zooming-made-easy-for-2024/"><u>Close-Up Power in VideoLeap Zooming Made Easy for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-different-facets-of-ar-stickers-a-focus-on-google/"><u>Discovering Different Facets of AR Stickers A Focus on Google</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-new-horizons-with-samsungs-updated-image-tools/"><u>Discovering New Horizons with Samsung’s Updated Image Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/edit-and-elevate-instagrams-ultimate-toolkit-for-2024/"><u>Edit & Elevate Instagram's Ultimate Toolkit for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-free-jpeg-to-gif-conversion-websites-ranked/"><u>Essential Free JPEG to GIF Conversion Websites Ranked</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exclusive-guide-365-days-of-no-cost-text-files/"><u>Exclusive Guide 365 Days of No-Cost Text Files</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-lava-agni-2-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Lava Agni 2 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/top-10-tiktok-secrets-to-social-success/"><u>Top 10 TikTok Secrets to Social Success</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>What is Fake GPS Location Pro and Is It Good On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Hues Handbook  Theory Meets Technique\""
-date: 2024-10-24T11:32:51.699Z
-updated: 2024-10-30T23:53:21.797Z
+date: 2024-10-30T17:49:42.730Z
+updated: 2024-11-05T23:45:16.868Z
 tags: 
   - screen-recording
   - ai video
@@ -34,14 +34,14 @@ Using red, green and blue as primary colors we can mix the colors to one another
 
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Color Harmony
 
@@ -50,16 +50,10 @@ So now we know how the wheel is made and what it looks like. What does it do? We
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
@@ -70,13 +64,6 @@ The blue lines represent what is known as split contrasting colors and these wil
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## But How Do I Use This
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
@@ -84,10 +71,10 @@ You may still be unsure as to how to implement color theory into your videos. Le
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
@@ -95,6 +82,13 @@ In this scene the director decided that the backdrop should complement the top t
 As you can see from this example the base color for the scene is a dark blue/purple and using the analogous color of pink they created a point of interest within the scene that doesn't look out of place. This is a very good way to pull the viewers eyes towards something you want them to take in above all else.
 
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
@@ -132,22 +126,22 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-auroras-influence-on-modern-image-processing-techniques/"><u>[New] Aurora's Influence on Modern Image Processing Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leap-into-efficiency-with-quick-srt-to-txt-2023-guide/"><u>[New] Leap Into Efficiency with Quick SRT to TXT 2023 Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-top-7-best-waterproof-action-camera/"><u>[Updated] Top 7 Best Waterproof Action Camera</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-aps-hdr-essentials-for-professionals-and-enthusiasts/"><u>2024 Approved APS HDR Essentials for Professionals & Enthusiasts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/androids-latest-advancements-for-immersive-video-viewing/"><u>Android's Latest Advancements for Immersive Video Viewing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-enterprise-overview-key-services-unique-propositions-and-edge-in-industry/"><u>ChatGPT Enterprise Overview: Key Services, Unique Propositions & Edge in Industry</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ensuring-smooth-sailing-for-iphone-xs-face-recognition/"><u>Ensuring Smooth Sailing for iPhone X's Face Recognition</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Vivo V29? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/master-photo-editing-seamless-integration-of-timestamps/"><u>Master Photo Editing Seamless Integration of Timestamps</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-m34-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy M34 5G – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/plunge-into-the-magic-9-premium-full-length-christmas-movies-for-free-for-2024/"><u>Plunge Into the Magic 9 Premium Full-Length Christmas Movies for Free for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/real-time-streaming-with-manycam-premium-video-chat-software-and-digital-camera-alternative/"><u>Real-Time Streaming with ManyCam: Premium Video Chat Software and Digital Camera Alternative</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/shine-a-light-on-your-content-creation-for-2024/"><u>Shine a Light on Your Content Creation for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-to-winx-error-0x80246007-fix/"><u>Step-by-Step Guide to WinX Error 0X80246007 Fix</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-list-of-mobile-audio-brilliance-for-android-top-6/"><u>The Ultimate List of Mobile Audio Brilliance for Android (Top 6)</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-tactical-cut-discarding-audible-elements-from-multimedia-files-mp4-mkv-avi-mov-wmv-for-2024/"><u>Updated Tactical Cut Discarding Audible Elements From Multimedia Files (MP4, MKV, AVI, MOV, WMV) for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/visionaryzoom-x7pro-elevate-images-to-new-heights/"><u>VisionaryZoom X7Pro Elevate Images to New Heights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-accelerate-or-slow-down-on-the-screen-netflix/"><u>[New] Accelerate or Slow Down on the Screen (Netflix)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-winning-over-viewers-the-top-20-must-try-tiktok-caption-strategies-for-2024/"><u>[New] Winning Over Viewers The Top 20 Must-Try TikTok Caption Strategies for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-18-best-tools-for-live-webcam-streaming-and-saving/"><u>[Updated] 18 Best Tools for Live Webcam Streaming & Saving</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boost-video-quality-on-youtube-the-essential-webcams-guide/"><u>[Updated] 2024 Approved Boost Video Quality on YouTube - The Essential Webcams Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-camera-shake-in-photographyvideo-what-you-need-to-know/"><u>[Updated] Camera Shake In Photography/Video | What You Need to Know</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafted-perfection-transforming-pics-into-words-with-apps/"><u>2024 Approved Crafted Perfection Transforming Pics Into Words with Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cloud-storage-expenses-made-simple-comparison-guide/"><u>Cloud Storage Expenses Made Simple Comparison Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/deciphering-the-complexity-of-online-content-monetization-for-2024/"><u>Deciphering the Complexity of Online Content Monetization for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-best-places-for-free-and-lawful-mp3-downloads-top-5-picks/"><u>Discover the Best Places for Free & Lawful MP3 Downloads: Top 5 Picks!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/pening-list-of-the-top-12-yt-gamers-intros-freepaid-sessions/"><u>Eye-Opening List of the Top 12 YT Gamers' Intros (Free/Paid Sessions)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-5-ultimate-recording-devices-for-hunting/"><u>In 2024, 5 Ultimate Recording Devices for Hunting</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-softer-sounds-with-live-software/"><u>In 2024, Crafting Softer Sounds with Live Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-q500-typhoon-yuneecs-high-resolution-bliss/"><u>In 2024, Q500 Typhoon - Yuneec's High-Resolution Bliss</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-earning-trajectory-of-youtube-star-pewdopeep/"><u>The Earning Trajectory of YouTube Star PewDoPeep</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-top-iphone-video-editing-apps-you-cant-live-without-for-2024/"><u>The Top iPhone Video Editing Apps You Cant Live Without for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transforming-brands-with-language-mastery-techniques/"><u>Transforming Brands with Language Mastery Techniques</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-se-2020-screen-lock-without-data-loss-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone SE (2020) screen lock without data loss</u></a></li>
 </ul></div>
 

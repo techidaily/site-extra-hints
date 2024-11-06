@@ -1,7 +1,7 @@
 ---
 title: "Swift Windows Document Reviewing Techniques"
-date: 2024-10-27T16:27:21.357Z
-updated: 2024-10-31T00:01:19.345Z
+date: 2024-10-29T23:08:17.792Z
+updated: 2024-11-05T20:35:36.807Z
 tags: 
   - screen-recording
   - ai video
@@ -41,10 +41,10 @@ Step3 After successfully installing QuickLook, head to File Explorer and select 
 Unfortunately, you won’t preview the content inside the document file. Instead, you’ll only see details like the file type/format, size, image name, and more. You can also directly choose the opening app. As for videos and audio, the media file will automatically play on the QuickLook media player. But don’t fret because the following section will teach you to read your documents, presentations, PDFs, and other files on QuickLook without opening the file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Get the App on GitHub
@@ -57,38 +57,31 @@ Step1 Visit the [QuickLook GitHub](https://github.com/QL-Win/QuickLook) page and
 
 ![click the latest quicklook for windows version](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Scroll down and download the .msi file. After downloading the installation file successfully, install it on your computer.
 
 ![install the quicklook for windows msi](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step3 Now go back to the QuickLook GitHub home page and click [plugin](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins). Then, download the plugins to add additional preview capabilities to Microsoft QuickLook. For example, install the FontViewer, FFmpeg, and OfficeViewer plugins by clicking the respective “Link” buttons.
 
 ![install quicklook for windows plugins](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step4 After a successful installation, find the file you want to preview and select it. Then, tap the space bar to preview the files. And remember, browse ZIP files to view all content.
 
 **Pro tip**: We recommend installing the QuickLook OfficeViewer plugin to rip open your Office files and view the content inside. This method is recommended if you haven’t installed Microsoft Office on your PC. However, you might notice that the OfficeViewer plugin isn’t supported on your Windows PC. So to install OfficeViewer, select the file and click the space bar to preview it on QuickLook. Then, tap the “Click here to install this plugin” button. Now restart QuickLook and view all your office documents without opening them on their respective programs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Should We Expect Built-in Quick Look on Windows in the Future?
 
@@ -97,6 +90,13 @@ Mac users have enjoyed the powerful QuickLook capabilities for at least 15 years
 Meanwhile, it’s expected that QuickLook will come with a small preview screen. However, that should be enough space to preview whatever file you’re searching for. Also, it’s expected that Windows will embed the QuickLook capabilities into the Photos app. But it’s not yet clear if Peek will work with media files like videos and audio as it is on Mac.
 
 In other related news, Microsoft will be answering the prayers of their loyal patrons to get tabbed browsing. This is another feature similar to what you currently have on macOS, where you can open new tabs for numerous file locations. In return, this makes moving and copying files more straightforward. This easy-to-navigate addition will definitely make Microsoft Windows users more productive than before.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Frequently Asked Questions
 
@@ -146,17 +146,20 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-crucial-picks-the-most-influential-6-networking-websites-for-biz/"><u>[New] 2024 Approved Crucial Picks The Most Influential 6 Networking Websites for Biz</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-culinary-cinematography-step-by-step-recipe-tutorials-for-2024/"><u>[New] Culinary Cinematography Step-by-Step Recipe Tutorials for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-zombies-unleashed-a-curated-list/"><u>[New] Essential Zombies Unleashed A Curated List</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-creating-a-captivating-instagram-cover-for-your-topics-highlight/"><u>[New] In 2024, Creating a Captivating Instagram Cover for Your Topics Highlight</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-can-you-master-artificial-intelligence-without-technical-expertise-unraveling-the-need-for-multidisciplinary-education-in-intricate-systems-zdnet/"><u>How Can You Master Artificial Intelligence Without Technical Expertise? Unraveling the Need for Multidisciplinary Education in Intricate Systems | ZDNET</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-honor-magic5-ultimate-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Honor Magic5 Ultimate Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-online-bunches-of-premium-quality-vector-icons/"><u>In 2024, Best Online Bunches of Premium-Quality Vector Icons</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/infinite-free-design-inspiration-for-corporate-slideshows/"><u>Infinite Free Design Inspiration for Corporate Slideshows</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/live-action-top-9-gaming-portals/"><u>Live Action Top 9 Gaming Portals</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/photosweeperxtreme-ultimate-bg-eraser-suite/"><u>PhotoSweeperXtreme Ultimate BG Eraser Suite</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/quick-cut-screenplay-snippet/"><u>Quick-Cut Screenplay Snippet</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/spark-conversation-crafting-questions-for-ig-story-boost/"><u>Spark Conversation Crafting Questions for IG Story Boost</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-fix-for-iphone-video-length-and-scope-reduction/"><u>[New] Quick-Fix for iPhone Video Length & Scope Reduction</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-simple-processes-for-logging-vimeo-content/"><u>[Updated] Simple Processes for Logging Vimeo Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-acid-pro-reviewed-comparable-professional-tools-explored/"><u>2024 Approved ACID Pro Reviewed Comparable Professional Tools Explored</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamline-animated-subscribe-buttons-in-filmora-for-youtube-success/"><u>2024 Approved Streamline Animated Subscribe Buttons in Filmora for YouTube Success</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-practices-for-b-roll-utilization-for-2024/"><u>Best Practices for B-Roll Utilization for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/clearer-captures-await-with-next-gen-tracker-tech/"><u>Clearer Captures Await with Next-Gen Tracker Tech</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-microsoft-windows-8-plus-amd-radeon-gpu-support-for-free/"><u>Download Microsoft Windows 8 + AMD Radeon GPU Support for Free!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enchanting-audiences-crafting-captivating-animation-with-wmm/"><u>Enchanting Audiences Crafting Captivating Animation with WMM</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ied-design-making-your-youtube-banner-unforgettable/"><u>Gamified Design Making Your YouTube Banner Unforgettable</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y78-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y78 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-1111-store-error-x800704cf/"><u>Overcoming Windows 11/11 Store Error X800704CF</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/mlined-conversion-at-your-fingertips-top-6-free-apps-for-youtube-and-mp3-for-2024/"><u>Streamlined Conversion at Your Fingertips Top 6 Free Apps for YouTube & MP3 for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-comprehensive-guide-to-top-8-collaborative-video-collage-tools-android/"><u>The Comprehensive Guide to Top 8 Collaborative Video Collage Tools (Android)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-guide-to-choosing-your-best-flight-vr-goggles/"><u>Ultimate Guide to Choosing Your Best Flight VR Goggles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleash-your-inner-beauty-with-leading-smartphone-apps/"><u>Unleash Your Inner Beauty with Leading Smartphone Apps</u></a></li>
 </ul></div>
 

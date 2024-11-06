@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Beyond Basic Editing  Innovative Use of LUTs for Photography\""
-date: 2024-10-30T10:05:23.156Z
-updated: 2024-10-31T05:19:30.731Z
+date: 2024-11-04T22:39:25.426Z
+updated: 2024-11-06T06:18:42.108Z
 tags: 
   - screen-recording
   - ai video
@@ -51,10 +51,10 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to use LUTs using Photoshop CC?
@@ -66,10 +66,10 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Choose Adjustment Layer
@@ -81,10 +81,10 @@ Choose Adjustment Layer
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 load 3d lut
@@ -94,13 +94,6 @@ load 3d lut
 3. You can change the Layer Blending mode at any time.
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Here's the first method
 
@@ -124,6 +117,13 @@ Grow Together
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Closing Thoughts:
 
@@ -165,19 +165,18 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-adding-sparkle-to-your-content-incorinasing-unique-story-emojis/"><u>[New] Adding Sparkle to Your Content Incorinasing Unique Story Emojis</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-streaming-directly-from-facebook-to-your-screen/"><u>[Updated] Streaming Directly From Facebook to Your Screen</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-tier-extended-reality-experience-makers/"><u>[Updated] Top-Tier Extended Reality Experience Makers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-step-by-step-podcast-rss-feeds-a-practical-approach/"><u>2024 Approved Step-by-Step Podcast RSS Feeds A Practical Approach</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/harmonious-hues-mastering-color-dynamics/"><u>Harmonious Hues Mastering Color Dynamics</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-complete-tutorial-for-professional-gopro-vlogs/"><u>In 2024, A Complete Tutorial for Professional GoPro Vlogs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-creating-a-channel-focused-on-reviewing-marketplace-items/"><u>In 2024, Creating a Channel Focused on Reviewing Marketplace Items</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-high-quality-1-ranked-4k-laptops-for-gaming/"><u>In 2024, High-Quality #1 Ranked 4K Laptops for Gaming</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-asus-rog-phone-7-ultimate-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Asus ROG Phone 7 Ultimate FRP In 3 Different Ways</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Teleport Your GPS Location On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/music-infused-videos-perfecting-sound-with-inshot/"><u>Music-Infused Videos Perfecting Sound with InShot</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/next-gen-screen-in-depth-look-at-the-hp-envy-27/"><u>Next Gen Screen In-Depth Look at the HP Envy 27</u></a></li>
-<li><a href="https://discover-help.techidaily.com/ripping-dvds-and-blu-ray-discs-effectively-a-comparative-analysis-of-makemkv-and-dvdfab-tools/"><u>Ripping DVDs & Blu-Ray Discs Effectively: A Comparative Analysis of MakeMKV and DVDFab Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/taming-figmas-backgrounds-a-comprehensive-guide/"><u>Taming Figma's Backgrounds A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-capturing-quality-lens-recommendations-for-content-makers/"><u>[New] 2024 Approved Capturing Quality Lens Recommendations for Content Makers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-celebrating-creativity-otu-samples-freepaid/"><u>[Updated] Celebrating Creativity OTU Samples (Free/Paid)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-5-pinterest-video-clips-download-for-no-cost/"><u>2024 Approved Best 5 Pinterest Video Clips, Download for No Cost</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-can-photoshops-image-smoothing-revolutionize-editing/"><u>2024 Approved Can Photoshop’s Image Smoothing Revolutionize Editing?</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-reno-11-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo Reno 11 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/amv-movavi/"><u>全自由線上AMV動畫鏈接服務 - Movavi</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/becoming-a-windows-insider-your-guide-to-enrollment-in-the-microsoft-community-and-its-benefits-zdnet/"><u>Becoming a Windows Insider: Your Guide to Enrollment in the Microsoft Community and Its Benefits - ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-a-repository-of-metaverse-comedy-artifacts/"><u>Building a Repository of Metaverse Comedy Artifacts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effizientes-cd-brennen-mit-windows-11-schritt-fur-schritt-anleitungen-zum-brennen-von-iso-auf-eine-dvd/"><u>Effizientes CD-Brennen Mit Windows 11: Schritt-Für-Schritt Anleitungen Zum Brennen Von ISO Auf Eine DVD</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-on-how-to-free-up-iphone-11-pro-max-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up iPhone 11 Pro Max Space | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/harmonic-highlights-incorrante-the-beat-to-insta-vids/"><u>Harmonic Highlights Incorrante the Beat to Insta Vids</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unique-identity-creation-accessible-logo-base-and-personal-customization-for-no-cost/"><u>In 2024, Unique Identity Creation Accessible Logo Base & Personal Customization for No-Cost</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-time-for-podcast-debuts/"><u>Prime Time for Podcast Debuts</u></a></li>
 </ul></div>
 
