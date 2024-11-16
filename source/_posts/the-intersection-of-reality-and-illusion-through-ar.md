@@ -1,7 +1,7 @@
 ---
 title: "The Intersection of Reality and Illusion Through AR"
-date: 2024-08-24T22:37:02.207Z
-updated: 2024-08-25T22:37:02.207Z
+date: 2024-11-12T12:54:17.298Z
+updated: 2024-11-15T20:38:13.358Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/ce1836626dd4307cd42ffb8054ede87619858d1bf
 
  The presentation of augmented reality is in some form of futuristic technology, despite the fact that it has been around for many years. For example, the heads-up display in many fighter jets utilizes the principles of augmented reality, and these date back to the early 1990s when they were used to show information about altitude, speed and direction of the aircraft.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How does Augmented Reality work
 
  The kind of augmented reality you are likely to experience these days utilizes a range of sensors such as cameras and computer components as well as display devices in creating the illusion of virtual objects in the real world. Some of the smartphones in the market today have all the necessary components needed in the creation of augmented reality hence they are commonly used for most of AR experiences. The basic working of augmented reality is as follows-:
@@ -41,8 +48,12 @@ thumbnail: https://thmb.techidaily.com/ce1836626dd4307cd42ffb8054ede87619858d1bf
  In general, the device will search for a particular object, which can be anything, but in most cases, they are usually 2D images like in the form of a movie poster. The augmented reality application will recognize the target through the camera and it will then process the image and augment it in some form through the utilization of sound and pictures. For example, if the target object was a movie poster, you may see it spring into life to play a trailer of the movie. So long as you continue viewing the poster through the “window” of the display object, you will see augmented reality rather than the plain old normal poster in normal reality.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## The future of Augmented Reality
 
  The future of augmented reality has never been brighter as it is at the moment. Though mobile devices are the primary avenues for VR at the moment, this is not expected to remain the case since a lot of developments, enhancements and innovations are currently taking place in the industry. For instance, work is currently on in the development of augmented reality ear buds which will allow users to adjust sounds coming from the environment.
@@ -52,8 +63,12 @@ thumbnail: https://thmb.techidaily.com/ce1836626dd4307cd42ffb8054ede87619858d1bf
  Like with every new technology, augmented reality comes with a plethora or ethical and political issues. For example, the Google Glass came along with a lot of privacy concerns, with some people worried that pictures may be snapped or conversations may be recorded surreptitiously. But amidst all these concerns, AR technology is expected to gather more steam in the near future and it will be a part of life for the majority.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Applications of Augmented Reality
 
  Augmented reality is used widely across different industries for various applications, with education and gaming taking the lion’s share of the uses. Discussed below are some of the applications of augmented reality:
@@ -89,20 +104,17 @@ thumbnail: https://thmb.techidaily.com/ce1836626dd4307cd42ffb8054ede87619858d1bf
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -110,3 +122,25 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-11-innovative-metaverse-projects-for-insightful-analysis/"><u>[New] 11 Innovative Metaverse Projects for Insightful Analysis</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-platform-debate-which-appliance-prevails-podcast-or-youtube-in-2024/"><u>[New] The Platform Debate Which Appliance Prevails – Podcast or YouTube, In 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-ultimate-tutorial-iphoneipad-time-lapse-recording/"><u>[Updated] 2024 Approved The Ultimate Tutorial IPhone/iPad Time Lapse Recording</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-advanced-photo-editing-how-to-clean-up-unwanted-space/"><u>[Updated] Advanced Photo Editing How to Clean Up Unwanted Space</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-ai-powered-best-titles-makers-online/"><u>[Updated] AI-Powered Best Titles Makers Online</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-secure-mobile-video-calls-best-10-safe-and-free-applications-for-phones/"><u>2024 Approved Secure Mobile Video Calls Best 10 Safe and Free Applications for Phones</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/add-panache-to-videos-border-magic-on-insta-for-2024/"><u>Add Panache to Videos Border Magic on Insta for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/detailed-reviews-by-toms-hardware-experts-on-latest-devices/"><u>Detailed Reviews by Tom's Hardware Experts on Latest Devices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-insert-a-vimeo-video-into-powerpoint/"><u>How to Insert a Vimeo Video Into PowerPoint</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-2022-speed-skating-spectacle/"><u>In 2024, 2022 Speed Skating Spectacle</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-anonymous-legacy-non-protected-creative-pieces/"><u>In 2024, Anonymous Legacy Non-Protected Creative Pieces</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-beyond-code-the-story-of-virtual-reality/"><u>In 2024, Beyond Code The Story of Virtual Reality</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-techno-titans-earnings-forecast-on-gaming-channels/"><u>In 2024, Techno Titans Earnings Forecast on Gaming Channels</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/layers-of-plot-and-character-design/"><u>Layers of Plot and Character Design</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/mastering-the-art-of-page-optimization-for-search-engine-success/"><u>Mastering the Art of Page Optimization for Search Engine Success</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/next-gen-photography-apps-for-smarter-ios-and-android-edits/"><u>Next-Gen Photography Apps for Smarter iOS & Android Edits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-9gag-pathway-to-piling-up-popular-memes/"><u>The 9GAG Pathway to Piling Up Popular Memes</u></a></li>
+</ul></div>
+

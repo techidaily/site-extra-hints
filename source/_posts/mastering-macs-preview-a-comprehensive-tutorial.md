@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Mac's Preview  A Comprehensive Tutorial\""
-date: 2024-11-05T05:12:54.331Z
-updated: 2024-11-06T01:18:43.021Z
+date: 2024-11-10T07:56:37.682Z
+updated: 2024-11-16T02:33:05.862Z
 tags: 
   - screen-recording
   - ai video
@@ -37,10 +37,10 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
@@ -56,13 +56,6 @@ As mentioned earlier, the **Preview app** is a default photo viewer on Mac that 
 
 * Use the tools present on the standard toolbar at the top of the interface
 * Alternatively, click **Tools** from the top, and choose your preferred editing option from the menu
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Show Markup Tools in Preview on Mac
 
@@ -122,6 +115,19 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -139,10 +145,16 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Combine Images into One
@@ -162,10 +174,10 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
@@ -229,19 +241,16 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-maximizing-memories-techniques-for-gameplay-recording-for-2024/"><u>[New] Maximizing Memories Techniques for Gameplay Recording for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-unspoken-rules-for-asmr-enthusiasts-for-2024/"><u>[New] The Unspoken Rules for ASMR Enthusiasts for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-elevating-experience-with-the-right-music-for-vids/"><u>[Updated] 2024 Approved Elevating Experience with the Right Music for Vids</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ssd-hdd-ssd/"><u>最佳免費 SSD 克隆程式清單：如何容易地從 HDD 移動到 SSD</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/aerial-choreography-the-fresh-take-on-bebops-parrot-for-2024/"><u>Aerial Choreography – The Fresh Take on Bebop's Parrot for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-sequential-visual-narratives-with-photos-for-2024/"><u>Crafting Sequential Visual Narratives with Photos for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/delivering-quality-imagery-applying-lut-techniques-in-adobes-tools/"><u>Delivering Quality Imagery Applying LUT Techniques in Adobe's Tools</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-apple-iphone-12-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on Apple iPhone 12 Safe and Legal</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/making-the-leap-to-digital-readers/"><u>Making the Leap to Digital Readers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-powershell-a-key-for-administrators/"><u>Mastering PowerShell: A Key for Administrators</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/notable-20-anime-series-theme-tracks/"><u>Notable 20 Anime Series Theme Tracks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/professional-secrets-to-flawless-photo-cropping-online/"><u>Professional Secrets to Flawless Photo Cropping Online</u></a></li>
-<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-itel-a60-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-installing-the-western-digital-smart-explorer-ses-usb-driver-on-windows-8-and-newer/"><u>Step-by-Step Guide: Installing the Western Digital Smart Explorer (SES) USB Driver on Windows 8 and Newer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-mastering-the-art-of-twitters-live-video-engagement/"><u>[Updated] 2024 Approved Mastering the Art of Twitter's Live Video Engagement</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-aim-for-perfection-selecting-superior-hd-live-streaming-equipment/"><u>[Updated] Aim for Perfection Selecting Superior HD Live-Streaming Equipment</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1-how-to-safely-transfer-your-cloned-drive-from-a-dynamic-disk-to-an-hdd-or-ssd-without-losing-any-files-in-windows-7/"><u>1. How to Safely Transfer Your Cloned Drive From a Dynamic Disk to an HDD or SSD Without Losing Any Files in Windows 7</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fuse-sounds-with-slides-a-guide-to-mp3-integration-for-2024/"><u>Fuse Sounds with Slides A Guide to MP3 Integration for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-streaming-equipment-for-broadcasters/"><u>In 2024, Advanced Streaming Equipment for Broadcasters</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-crash-free-editing-tips-and-tricks-for-a-stable-final-cut-pro-x-experience/"><u>In 2024, Crash-Free Editing Tips and Tricks for a Stable Final Cut Pro X Experience</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-6s-plus-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 6s Plus Lock Screen with Notifications?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quick-and-easy-apods-episodes-access-on-gadgets/"><u>Quick and Easy APods Episodes Access on Gadgets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/select-selections-ideal-pages-for-acquiring-snapalert-tunes/"><u>Select Selections Ideal Pages for Acquiring SnapAlert Tunes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tailoring-audio-alerts-setting-custom-ringtones-and-sounds-on-android-devices/"><u>Tailoring Audio Alerts Setting Custom Ringtones & Sounds on Android Devices</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-in-social-networking-navigating-facebook-twitter-instagram-and-youtube/"><u>The Big Four in Social Networking: Navigating Facebook, Twitter, Instagram, and YouTube</u></a></li>
 </ul></div>
 

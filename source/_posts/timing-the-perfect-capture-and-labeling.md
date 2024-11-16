@@ -1,7 +1,7 @@
 ---
 title: "Timing the Perfect Capture and Labeling"
-date: 2024-11-03T02:50:52.210Z
-updated: 2024-11-06T05:07:44.392Z
+date: 2024-11-12T01:14:20.812Z
+updated: 2024-11-16T01:57:30.292Z
 tags: 
   - screen-recording
   - ai video
@@ -58,6 +58,13 @@ Step2Install the app after downloading.
 Step3Add data/timestamps to both new and old pictures.
 
 You can download Timestamp for [Android](https://play.google.com/store/apps/details?id=com.jeyluta.timestampcamerafree&gl=US) and [iPhone](https://apps.apple.com/us/app/timestamp-it-photo-stamper/id327756085)here.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. Edit Photos and Add Date Stamps on The Phone
 
@@ -206,19 +213,6 @@ Step5When ready, drag and slide the date to the area of the image where you wish
 
 Step6Finally, select File>Save to add your date to the picture.
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Use an inbuilt app to edit photos on Windows
 
 Step1Enter "Photos " in the taskbar's search field. Click on it. Decide the image you want to edit.
@@ -240,13 +234,6 @@ Step2Select Edit & Create > Edit with Paint 3D in the upper right corner of the 
 Step3Go to the screen's top and click Text.
 
 ![click on text](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4To create a text box, click and drag.
 
@@ -286,6 +273,13 @@ Canva is a standout online photo editor where you can edit your and **add date t
 
 ![ftor](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-20.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Key Features**
 
 * Portrait Retouching
@@ -298,13 +292,6 @@ Canva is a standout online photo editor where you can edit your and **add date t
 PIXLR is another great online platform that can be used to **edit pictures online**. PIXLR offers amazing features with its services. To use the platform, you must **sign up and upload a photo**.
 
 ![pixlp](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-21.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Key features**
 
@@ -432,6 +419,13 @@ VSCO is another editing app you can use for your photo editing. VSCO has an easy
 
 ![vsco](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Key Features**
 
 * Color Correction
@@ -471,13 +465,6 @@ When retouching your image in the Photos app, select the Adjust tab, then drag t
 
 ![adjust lighting and exposure](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Use inbuilt photo app on mac to add date stamps
 
 **Adding a date in a photo** can also be done on a Mac pc. Below are the steps to take to **add the date to a photo** with a Mac
@@ -500,6 +487,13 @@ Step5When ready, drag and slide the date to the area of the image where you wish
 
 ![place the date and time](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step6Finally, select File>Save to add your date to the picture.
 
 ### Use an inbuilt app to edit photos on Windows
@@ -512,6 +506,13 @@ Step2At the top of your screen, click on Edit & Create to get.
 
 Step3After clicking Edit, choose any option (Crop & rotate, Filters, or Adjustments)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Add date stamps using Windows PC
 
 Step1Launching the Photos app will **add a date to a photo** when using a windows PC.
@@ -520,16 +521,16 @@ Step2Select Edit & Create > Edit with Paint 3D in the upper right corner of the 
 
 ![select edit create](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step3Go to the screen's top and click Text.
 
 ![click on text](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step4To create a text box, click and drag.
 
@@ -540,10 +541,10 @@ Step5Enter the date you want.
 ![enter date](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-16.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step6Select Menu in the upper-left corner.
@@ -558,13 +559,6 @@ Step7Proceed to click on the Save option.
 
 **You can add dates to photos online** via several platforms. Several websites make that possible. Let’s look at some of the platforms and the features they provide.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. [Canva](https://www.canva.com/photo-editor/)
 
 Canva is a standout online photo editor where you can edit your and **add date to photos**. To start, you must **sign up and upload the photo** you want to edit.
@@ -572,10 +566,10 @@ Canva is a standout online photo editor where you can edit your and **add date t
 ![canva](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-19.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Key Features**
@@ -641,20 +635,21 @@ Hopefully, these steps will be helpful if you ever want to **add a date** or **e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-unlock-mastery-the-beginners-guide-to-editing-excellence/"><u>[New] 2024 Approved Unlock Mastery The Beginner's Guide to Editing Excellence</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-steps-to-adobe-audition-fade-in/"><u>[New] Steps to Adobe Audition Fade In</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-budgeting-approach-to-making-music-videos/"><u>[Updated] Budgeting Approach to Making Music Videos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-safeguarding-your-listening-pleasure-with-3-steps/"><u>2024 Approved Safeguarding Your Listening Pleasure with 3 Steps</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/como-configurar-autenticacion-de-doble-factor-con-id-de-apple-para-seguridad-mejorada/"><u>Cómo Configurar Autenticación De Doble Factor Con ID De Apple Para Seguridad Mejorada</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/hearing-heroism-essential-online-picks-for-tts-files/"><u>Hearing Heroism Essential Online Picks for TTS Files</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-honor-90-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Honor 90 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/jest-jar-compreenas-best-no-cost-templates/"><u>Jest Jar Compreenas Best No-Cost Templates</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-mobile-camera-best-android-practices/"><u>Mastering Mobile Camera Best Android Practices</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726028756163-pc/"><u>PC用画面収め動画音量設定方法 - 最新ガイド</u></a></li>
-<li><a href="https://article-tips.techidaily.com/recipe-reels-reimagined-the-top-7-edible-videography-secrets/"><u>Recipe Reels Reimagined The Top 7 Edible Videography Secrets</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-compact-guide-to-joining-and-scheduling-zoom-on-your-android-phone/"><u>The Compact Guide to Joining & Scheduling Zoom on Your Android Phone</u></a></li>
-<li><a href="https://win11.techidaily.com/the-power-couple-in-mindfulness-cognitive-function-and-emotional-mastery/"><u>The Power Couple in Mindfulness: Cognitive Function & Emotional Mastery</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlocking-visual-wonders-essential-knowledge-on-ps-3d-luts/"><u>Unlocking Visual Wonders Essential Knowledge on PS 3D Luts</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-ableton-live-mastering-volume-dampening/"><u>[New] Ableton Live Mastering Volume Dampening</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-efficient-protocols-for-high-quality-iptv-screening/"><u>[New] In 2024, Efficient Protocols for High-Quality IPTV Screening</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-list-8-key-steps-for-irresistible-unboxing-reels/"><u>[New] The Ultimate List 8 Key Steps for Irresistible Unboxing Reels</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-acquiring-drone-racing-skills-and-exploring-top-fpv-drones/"><u>[Updated] Acquiring Drone Racing Skills & Exploring Top FPV Drones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-balancing-primary-and-b-footage-for-dynamic-video-production/"><u>[Updated] Balancing Primary & B-Footage for Dynamic Video Production</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-pro-mobile-techniques-for-snapchat-recording/"><u>[Updated] Pro Mobile Techniques for Snapchat Recording</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-unleash-creativity-adding-professional-radial-effect-to-photos/"><u>2024 Approved Unleash Creativity Adding Professional Radial Effect to Photos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-xiaomi-redmi-note-12-pro-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Xiaomi Redmi Note 12 Pro 5G Unlock Without Password</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/alternative-connection-methods-for-your-logitech-wireless-mouse/"><u>Alternative Connection Methods for Your Logitech Wireless Mouse</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boost-your-game-strategy-experience-the-best-free-voice-transformer-today/"><u>Boost Your Game Strategy Experience the Best Free Voice Transformer Today</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-online-clarity-a-zoomers-guide/"><u>Capturing Online Clarity A Zoomer's Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/finding-your-ideal-broadcast-channel-top-10-guidelines/"><u>Finding Your Ideal Broadcast Channel Top 10 Guidelines</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-edge-speech-to-text-programs-for-2024/"><u>Leading Edge Speech-to-Text Programs for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quick-cinematic-creations-your-ultimate-guide-to-at-home-filmmaking-hacks/"><u>Quick Cinematic Creations Your Ultimate Guide to At-Home Filmmaking Hacks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/samsung-photography-essentials-a-detailed-review-2023/"><u>Samsung Photography Essentials – A Detailed Review, 2023</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capturing Motion  Canon Camera Time-Lapse Basics\""
-date: 2024-11-05T01:02:38.514Z
-updated: 2024-11-05T22:27:53.161Z
+date: 2024-11-14T16:34:32.738Z
+updated: 2024-11-16T03:18:41.869Z
 tags: 
   - screen-recording
   - ai video
@@ -76,13 +76,6 @@ You will have to import the clips to your library.
 
 ![drag files into filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
@@ -93,6 +86,13 @@ After importing the video, you must drag it to the video column. Choose a loaded
 
 ![tap reels on facebook app](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 3 \- Speed up creating a time-lapse video
 
 You will have to right-click on your clip in the timeline to choose the duration and speed. After choosing all of this, a window will appear. You must adjust the speed and drag the slider to the right to increase the video speed. After that, you can click on "Ok." Now, you can preview the video by tapping on the Play button. Also, you should know that Filmora supports up to 0.01x slow motion and 100x fast.
@@ -104,10 +104,10 @@ You will have to right-click on your clip in the timeline to choose the duration
 If you have the necessary changes and previewed the video, then you can save the video. Also, now, you can export it to the output of video footage. Your **Canon r5 time-lapse** is ready.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -122,13 +122,6 @@ After importing the video, you must drag it to the video column. Choose a loaded
 
 ![tap reels on facebook app](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 3 \- Speed up creating a time-lapse video
 
 You will have to right-click on your clip in the timeline to choose the duration and speed. After choosing all of this, a window will appear. You must adjust the speed and drag the slider to the right to increase the video speed. After that, you can click on "Ok." Now, you can preview the video by tapping on the Play button. Also, you should know that Filmora supports up to 0.01x slow motion and 100x fast.
@@ -139,41 +132,12 @@ You will have to right-click on your clip in the timeline to choose the duration
 
 If you have the necessary changes and previewed the video, then you can save the video. Also, now, you can export it to the output of video footage. Your **Canon r5 time-lapse** is ready.
 
-## Conclusion
-
-Now, you are aware of how to shoot time-lapse with your Canon camera. After you have captured the clips, you can edit your clips in Filmora. Also, this is done to make the video more attractive and presentable for your social media or projects. Now, what are you waiting for? Grab your camera and shoot some magical moments.
-
-[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
-
-##### Step 2 \- Cut out the unnecessary part for time lapse editing
-
-After importing the video, you must drag it to the video column. Choose a loaded video and tap on the "Play" button. When playing the video, you must drag a slide bar. Then, tap on the "Split" icon to cut the unnecessary parts.
-
-![tap reels on facebook app](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-##### Step 3 \- Speed up creating a time-lapse video
-
-You will have to right-click on your clip in the timeline to choose the duration and speed. After choosing all of this, a window will appear. You must adjust the speed and drag the slider to the right to increase the video speed. After that, you can click on "Ok." Now, you can preview the video by tapping on the Play button. Also, you should know that Filmora supports up to 0.01x slow motion and 100x fast.
-
-![uniform speed on filmora](https://images.wondershare.com/filmora/guide/uniform-speed-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-##### Step 4 \- Export the video
-
-If you have the necessary changes and previewed the video, then you can save the video. Also, now, you can export it to the output of video footage. Your **Canon r5 time-lapse** is ready.
 
 ## Conclusion
 
@@ -197,11 +161,47 @@ You will have to right-click on your clip in the timeline to choose the duration
 
 If you have the necessary changes and previewed the video, then you can save the video. Also, now, you can export it to the output of video footage. Your **Canon r5 time-lapse** is ready.
 
+## Conclusion
+
+Now, you are aware of how to shoot time-lapse with your Canon camera. After you have captured the clips, you can edit your clips in Filmora. Also, this is done to make the video more attractive and presentable for your social media or projects. Now, what are you waiting for? Grab your camera and shoot some magical moments.
+
+[Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
+
+##### Step 2 \- Cut out the unnecessary part for time lapse editing
+
+After importing the video, you must drag it to the video column. Choose a loaded video and tap on the "Play" button. When playing the video, you must drag a slide bar. Then, tap on the "Split" icon to cut the unnecessary parts.
+
+![tap reels on facebook app](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+##### Step 3 \- Speed up creating a time-lapse video
+
+You will have to right-click on your clip in the timeline to choose the duration and speed. After choosing all of this, a window will appear. You must adjust the speed and drag the slider to the right to increase the video speed. After that, you can click on "Ok." Now, you can preview the video by tapping on the Play button. Also, you should know that Filmora supports up to 0.01x slow motion and 100x fast.
+
+![uniform speed on filmora](https://images.wondershare.com/filmora/guide/uniform-speed-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+##### Step 4 \- Export the video
+
+If you have the necessary changes and previewed the video, then you can save the video. Also, now, you can export it to the output of video footage. Your **Canon r5 time-lapse** is ready.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -232,22 +232,22 @@ Now, you are aware of how to shoot time-lapse with your Canon camera. After you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-essential-editing-tricks-for-peak-obs-performance/"><u>[New] Essential Editing Tricks for Peak OBS Performance</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-grasping-youtube-seo-a-guide-to-keyword-discovery/"><u>[New] In 2024, Grasping YouTube SEO A Guide to Keyword Discovery</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-8-real-life-strategies-to-increase-youtube-reach/"><u>[Updated] 2024 Approved Top 8 Real-Life Strategies to Increase YouTube Reach</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-exploring-youtubes-ownership-vs-cc-freedom-for-2024/"><u>[Updated] Exploring YouTube's Ownership Vs. CC Freedom for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-nokia-c32-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/canvas-on-a-screen-ranking-the-best-8-drawing-apps-for-iphones/"><u>Canvas on a Screen Ranking the Best 8 Drawing Apps for iPhones</u></a></li>
-<li><a href="https://extra-information.techidaily.com/cha-cha-chickadees-for-2024/"><u>Cha-Cha Chickadees for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-video-stability-on-portable-devices/"><u>Enhancing Video Stability on Portable Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-narrative-youtube-stars-to-watch-out-for/"><u>Essential Narrative YouTube Stars to Watch Out For</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/hot-oculus-vr-games-that-everyones-playing/"><u>Hot Oculus VR Games That Everyone's Playing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/maximizing-inner-illumination-with-natures-glow/"><u>Maximizing Inner Illumination with Nature's Glow</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/swift-and-secure-video-shipment-sending-oversized-content-from-ios/"><u>Swift & Secure Video Shipment Sending Oversized Content From iOS</u></a></li>
-<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-wbk-file-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .wbk file documents online</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-insiders-guide-to-top-ranking-titles/"><u>The Insider's Guide to Top-Ranking Titles</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transforma-tus-archivos-ape-en-formato-wma-sin-coste-con-el-conversor-en-linea-de-movavi/"><u>Transforma Tus Archivos APE en Formato WMA Sin Coste Con El Conversor en Línea De Movavi</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/tutorial-bringing-twitter-videos-into-instagram-world/"><u>Tutorial Bringing Twitter Videos Into Instagram World</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/virtual-gallery-combining-crescendos-with-clarity/"><u>Virtual Gallery Combining Crescendos with Clarity</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-tricks-for-speedy-vimeo-streams/"><u>[New] 2024 Approved Tricks for Speedy Vimeo Streams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-closing-the-distance-zoom-in-for-a-clearer-picture/"><u>[New] Closing the Distance Zoom in for a Clearer Picture</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-gentle-sound-declines-with-logic-pro/"><u>[New] Crafting Gentle Sound Declines with Logic Pro</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-toolkit-disabling-background-noise-during-gmeets/"><u>[Updated] 2024 Approved The Ultimate Toolkit Disabling Background Noise During GMeets</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-awesome-igtv-channels-that-deliver-quality-content/"><u>[Updated] Awesome IGTV Channels That Deliver Quality Content</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-images-jpg-png-straightforward-conversion-guide/"><u>[Updated] IPhone Images (JPG, PNG) - Straightforward Conversion Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/budgetclouds-vault-spaceful-large-data-sanctuary-for-2024/"><u>BudgetCloud's Vault Spaceful Large Data Sanctuary for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-guide-to-utilizing-telegram-web-services-for-2024/"><u>Comprehensive Guide to Utilizing Telegram Web Services for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-for-installing-brother-dcp-l2540dw-printers-driver-on-your-window-system-free-downloads-included/"><u>Easy Guide for Installing Brother DCP-L2540dw Printer's Driver on Your Window System - Free Downloads Included!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/imovie-magic-ranking-the-best-8-free-and-paid-film-apps/"><u>IMovie Magic Ranking the Best 8 Free and Paid Film Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-creating-captivating-podcast-highlights/"><u>In 2024, Creating Captivating Podcast Highlights</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-win11s-quickest-image-viewing-experience/"><u>In 2024, Win11's Quickest Image Viewing Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-fast-forward-on-snapchat-a-starters-manual/"><u>Mastering Fast-Forward on Snapchat A Starter's Manual</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-restore-wi-fi-on-your-disconnected-surface-pro/"><u>Step-by-Step Guide to Restore Wi-Fi on Your Disconnected Surface Pro</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721480045568-struggling-to-store-your-data-in-icloud-from-iphone-try-these-9-fixes/"><u>Struggling to Store Your Data in iCloud From iPhone? Try These 9 Fixes!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-great-gimbal-debate-hero-black-vs-km-170/"><u>The Great Gimbal Debate HERO Black vs KM-170</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-persistent-frozen-screen-solutions-and-tips/"><u>Troubleshooting Persistent Frozen Screen: Solutions & Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Amazon Echo (4Gen): A Breakdown of Key Upgrades and Revamped Features"
-date: 2024-10-30T03:30:43.587Z
-updated: 2024-11-05T19:07:37.112Z
+date: 2024-11-09T09:21:14.969Z
+updated: 2024-11-16T12:40:23.645Z
 categories:
   - BestProducts
 description: "This Article Describes Amazon Echo (4Gen): A Breakdown of Key Upgrades and Revamped Features"
@@ -69,13 +69,6 @@ Lifewire / Jeremy Laukkonen
 
  Luna is an impressive service with what seems like solid underlying tech right out of the gate. The biggest questions seem to be how and when Amazon will go about filling holes in the library, how well the service will work when they eventually roll out 4K streaming, and whether we’ll see better Android support in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Design and Controls: Decent enough app and a nearly flawless controller
 
  Luna isn’t a traditional game console, so there isn’t much design to speak of in terms of hardware. The two important elements here are the Luna app, which operates as an Android app on Fire TV and a web app in[Chrome](https://www.lifewire.com/what-is-google-chrome-4687647) and[Safari](https://www.lifewire.com/what-is-safari-4173608) , and the controller that’s technically optional.
@@ -93,10 +86,10 @@ Lifewire / Jeremy Laukkonen
 ![Amazon Luna](https://www.lifewire.com/thmb/jNDwaMGOVuF5UIISPsmdb5uQdGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_04-985a4419a93945d2879b09d61fafae5a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
@@ -125,6 +118,19 @@ Lifewire / Jeremy Laukkonen
 
  After the initial setup process, your Luna controller is ready to go regardless of platform. Power on the controller, launch the Luna app or website, and everything automatically connects without any additional work or input.
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Performance: Impressive game streaming, but no 4K
 
  I tested Luna with the optional Wi-Fi Luna controller and a wired Xbox Series X/S controller on my Windows laptop and with the Luna controller on my Fire TV Cube,[M1 MacBook](https://www.lifewire.com/macbook-air-13-inch-m1-2020-review-5092793) , Pixel 3 phone, and Fire TV Edition Insignia television. Each of these devices was connected to a 1GB cable internet connection from Mediacom via my Eero mesh 5GHz Wi-Fi network.
@@ -145,13 +151,6 @@ Lifewire / Jeremy Laukkonen
 
  If you have a slow internet connection or suffer from poor connectivity, then it’s likely that the brief issues I experienced could be amplified to an unacceptable point. If you have a decent connection, live closer to a major metropolitan area than I do, and have more than 10Mbps of downstream bandwidth available, the service should work just fine.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Software: Dozens of games, but the library is a bit thin with a lot of holes
 
  Luna’s biggest issue, and its biggest question mark going forward, is its streaming library. Amazon is taking a page from Microsoft’s book in that they’re trying to function as a Netflix of game streaming, but Amazon just doesn’t have the same deep library as Microsoft.
@@ -170,11 +169,25 @@ Lifewire / Jeremy Laukkonen
 
  It’s clear that Amazon is working to bring a nice mix of games to the service, but the depth and breadth of the titles you can access with a basic subscription remain the biggest question as Luna moves through beta and toward general launch.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Price: Affordable fee reflects the thin library
 
  Luna comes with a price tag of $4.95 per month during the beta period, with the insinuation that it will increase later on. It’s uncertain as to whether or not the price will actually go up, but right now it’s a pretty good deal. The only real caveat is that the attractive price tag is balanced by a somewhat thin library. Go ahead and check the library before you sign up. If you see more than a handful of games you’re interested in, then Luna is absolutely worth the price of admission.
 
  The Luna controller has a heftier price tag of $50, but that’s actually pretty reasonable if you compare it to other wireless controllers. It’s cheaper than a lot of the other options, and you can use it via Wi-Fi with Luna, or via Bluetooth or USB-C to play non-Luna games on your PC. All in all, it’s a good controller that’s priced competitively.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Amazon Luna vs. Microsoft Game Pass Ultimate
 
@@ -195,10 +208,16 @@ Lifewire / Jeremy Laukkonen
  Amazon Luna is an impressive game streaming service that works surprisingly well whether or not you buy the optional controller. It isn’t perfect, and you’re likely to experience hiccups here and there, but it’s an extremely affordable way to experience dozens of games, many of which would otherwise require an expensive gaming PC or console, without any kind of initial investment. The future of the service remains uncertain, and the precedent of locking Ubisoft games behind an expensive additional paywall isn’t a great sign, but Amazon has a chance to make a real splash in the gaming world with Luna.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
@@ -206,13 +225,6 @@ Lifewire / Jeremy Laukkonen
 * [Xbox Series X|S Controller](https://www.lifewire.com/xbox-series-x-or-s-controller-review-5113227)
 * [Sony DualSense Wireless Controller](https://www.lifewire.com/sony-dualsense-wireless-controller-review-feel-the-quality-5101639)
 * [Xbox One Elite Controller](https://www.lifewire.com/xbox-one-elite-controller-review-4770957)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -244,24 +256,18 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-aerial-cinematography-secrets-unveiled/"><u>[New] Aerial Cinematography Secrets Unveiled</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-firefox-screen-recorders-and-add-ons/"><u>[Updated] Firefox Screen Recorders and Add-Ons</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-endless-eradication-guide-bypassing-youtubes-snappy-content/"><u>[Updated] In 2024, Endless Eradication Guide Bypassing YouTube's Snappy Content</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-bridging-social-platforms-a-guide-for-linktree-on-tiktok-profiles/"><u>2024 Approved Bridging Social Platforms A Guide for Linktree on TikTok Profiles</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-definitive-handbook-to-reacting-on-youtube-tweets/"><u>2024 Approved The Definitive Handbook to Reacting on YouTube Tweets</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/4k-resolution-unveiled-in-chroma-focused-lenses-for-2024/"><u>4K Resolution Unveiled in Chroma-Focused Lenses for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ent-online-broadcasting-houses/"><u>Affluent Online Broadcasting Houses</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-top-5-featherweight-camcorders-for-adventures-for-2024/"><u>Best Top 5 Featherweight Camcorders for Adventures for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dive-into-action-footage-selecting-top-notch-cams-addons/"><u>Dive Into Action Footage Selecting Top-Notch Cams Addons</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elite-selection-of-text-motion-packages/"><u>Elite Selection of Text Motion Packages</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-fantasy-to-reality-vrs-path/"><u>From Fantasy to Reality VR’s Path</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-choosing-excellence-hdr-cameras-decoded/"><u>In 2024, Choosing Excellence HDR Cameras Decoded</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/precision-flight-matching-cameras-to-ideal-gimbal-models/"><u>Precision Flight Matching Cameras to Ideal Gimbal Models</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/techniques-for-reducing-sound-amplitude-with-lumafusion/"><u>Techniques for Reducing Sound Amplitude with Lumafusion</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-honor-play-8t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-10-streaming-software-in-the-gaming-world/"><u>Top 10 Streaming Software in the Gaming World</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveiling-changes-in-sony-bdp-s670/"><u>Unveiling Changes in Sony BDP-S670</u></a></li>
-<li><a href="https://win11.techidaily.com/unveiling-the-technique-to-effortlessly-install-win11-with-workstation-17/"><u>Unveiling the Technique to Effortlessly Install Win11 with Workstation 17</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/be-videos-making-a-statement-on-instagram/"><u>YouTube Videos Making a Statement on Instagram</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beyond-popularity-metrics-understanding-trillers-distinct-features/"><u>[Updated] Beyond Popularity Metrics Understanding Triller's Distinct Features</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unleashing-potential-the-best-seo-practices-for-your-youtube-videos/"><u>[Updated] In 2024, Unleashing Potential The Best SEO Practices for Your YouTube Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-6-comprehensive-metaverse-scenarios/"><u>2024 Approved Unveiling 6 Comprehensive Metaverse Scenarios</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/essential-tips-for-snapchat-enterprise-marketing/"><u>Essential Tips for Snapchat Enterprise Marketing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/framing-fantasy-elite-tips-for-elevating-your-photography/"><u>Framing Fantasy Elite Tips for Elevating Your Photography</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/graphics-relic-package-for-2024/"><u>Graphics Relic Package for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-augment-your-design-abilities-the-10-most-powerful-android-graphics-tools/"><u>In 2024, Augment Your Design Abilities The 10 Most Powerful Android Graphics Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-chortlechamps-excellent-platforms-for-hilarious-tones/"><u>In 2024, ChortleChamps Excellent Platforms for Hilarious Tones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/lgs-ultrafine-4k-display-unpacked-a-detailed-analysis/"><u>LG's UltraFine 4K Display Unpacked A Detailed Analysis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-logo-design-10-keys-to-podcast-prominence/"><u>Mastering Logo Design 10 Keys to Podcast Prominence</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-stalls-in-pathfinder-wrath-of-the-righteous-for-windows-gaming-experience/"><u>Resolving Stalls in Pathfinder: Wrath of the Righteous for Windows Gaming Experience</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-startech-printer-driver-complications-on-windows-10-8-and-7/"><u>Resolving StarTech Printer Driver Complications on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://common-error.techidaily.com/unlocking-secure-access-fixing-windows-hello-availability-on-windows-11-devices/"><u>Unlocking Secure Access: Fixing Windows Hello Availability on Windows 11 Devices</u></a></li>
 </ul></div>
 

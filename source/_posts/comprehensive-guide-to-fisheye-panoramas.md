@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to Fisheye Panoramas"
-date: 2024-11-05T02:23:45.489Z
-updated: 2024-11-05T23:49:01.502Z
+date: 2024-11-11T08:23:32.071Z
+updated: 2024-11-15T17:08:01.958Z
 tags: 
   - screen-recording
   - ai video
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 ![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2. Leveling and rotating
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
  Other than setting up and calibrating the equipment in the right manner, it is important to keep the camera steady and leveled as you make the rotations to take shots. For leveling, it is recommended to use an appropriate leveling base, while for rotation, using a panning clamp on top of the ballhead is highly recommended.
 
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3. The actual shooting
 
@@ -61,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
  In normal photography, it always pays to remember what to include and what to exclude in your shots. When it comes to shooting 360s, it becomes more complicated since everything is included. For you to take successful 360s with fisheye therefore, you need to consider keenly where you stand. The fisheye lens will introduce a lot of space between you and the subject, hence you must consider how close or far away you are from the subject so that the pieces of the compositional puzzle will fall in place smoothly both in the horizontal and vertical planes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Stitching 360 degrees panoramas after shooting
 
  To stitch 360s taken by fisheye lenses after shooting, you will need panorama software like [Autopano Pro](http://www.kolor.com/) or [PTGui](https://www.ptgui.com/). For Autopano Pro, you begin by importing the images into the software and ensuring that the EXIF are displayed correctly on the program. With the right settings in place, the next step is to launch the direct stitching feature if you don’t want to go the manual way. Once the stitching is done, it will be important to present the output online. This can be done using [Pano2VR](http://www.ggnome.com/pano2vr) or you could simply upload the finished panoramas to [360cities](https://www.360cities.net/) for online viewing.
@@ -75,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
  You might be also interested in:
 
 [How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What's fisheye lenses
 
@@ -93,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Conclusion
 
  Fisheye lenses have been around for a while now and the process of creating 360 panoramas with them may not be very challenging, but great results are achieved through practice and proper stitching. Once the photos are taken, you can use premium panorama software like Autopano Pro or you can use free options like the Microsoft ICE or Hugin. Ones stitching are done, it is imperative to have the final works uploaded online for others to view.
@@ -100,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -121,20 +121,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-voice-customization-leaders-beyond-echo-magic/"><u>[New] In 2024, Voice Customization Leaders Beyond Echo Magic</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-effortless-music-playlist-creation-for-youtube-anywhere-webmobile/"><u>[Updated] 2024 Approved Effortless Music Playlist Creation for YouTube, Anywhere (Web/Mobile)</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-premium-microphones-for-videographers/"><u>[Updated] Premium Microphones for Videographers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-lava-blaze-curve-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Lava Blaze Curve 5G Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/capture-your-inspiration-top-5-pinterest-videos-without-cost-for-2024/"><u>Capture Your Inspiration! Top 5 Pinterest Videos Without Cost for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-solutions-for-a-broken-touch-screen-issue-in-microsoft-surface-pro-4/"><u>DIY Solutions for a Broken Touch Screen Issue in Microsoft Surface Pro 4</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Lava Blaze 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expert-tips-on-finding-optimal-free-srt-translator-services/"><u>Expert Tips on Finding Optimal Free SRT Translator Services</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-speedy-to-steady-on-iphone-a-compreomed-guide-for-slowed-down-visuals/"><u>From Speedy to Steady on iPhone A Compreomed Guide for Slowed-Down Visuals</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/future-frames-the-years-top-cinematographic-innovations-2024/"><u>Future Frames The Year's Top Cinematographic Innovations - 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/professional-video-editing-implementing-the-ken-burns-effect-in-camtasa-for-2024/"><u>Professional Video Editing Implementing the Ken Burns Effect in Camtasa for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/professional-video-shooting-on-the-go-the-10-leading-smartphone-titans-with-ois/"><u>Professional Video Shooting on the Go The 10 Leading Smartphone Titans with OIS</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-essential-guide-to-transferring-tunes-across-platforms/"><u>The Essential Guide to Transferring Tunes Across Platforms</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-10-webcams-elevating-audio-quality-in-podcasts/"><u>Top 10 Webcams Elevating Audio Quality in Podcasts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-samsung-galaxy-s23-tactical-edition-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Samsung Galaxy S23 Tactical Edition Phones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-in-class-top-drone-gimbals-compared/"><u>[New] Best in Class Top Drone Gimbals Compared</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-a-seamless-social-journey-from-instaplustik/"><u>[New] Crafting a Seamless Social Journey From Insta+Tik</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-expert-tips-to-seamlessly-retrieve-youtube-srt-subtitles/"><u>[Updated] In 2024, Expert Tips to Seamlessly Retrieve YouTube SRT Subtitles</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-speed-in-seizing-picture-plus-pitch/"><u>[Updated] Speed in Seizing Picture + Pitch</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-humorous-file-downloader-examination/"><u>2024 Approved Humorous File Downloader Examination</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/design-innovators-top-free-afx-templates-collection/"><u>Design Innovators Top Free AFX Templates Collection</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/digital-picture-perfect-with-audio-touches/"><u>Digital Picture Perfect with Audio Touches</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-reno-8t-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo Reno 8T Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-selecting-top-notch-free-srt-translators-online/"><u>In 2024, Ultimate Guide Selecting Top-Notch Free SRT Translators Online</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lore-masters-collective-essential-eight-for-2024/"><u>Lore Masters Collective - Essential Eight for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/overcoming-technical-hurdles-in-iphone-xs-facial-detection/"><u>Overcoming Technical Hurdles in iPhone X's Facial Detection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/performance-vs-practicality-in-the-lenovo-ideapad-130s-review-power-boundaries-and-usability-breakthroughs/"><u>Performance Vs. Practicality in the Lenovo IdeaPad 130S Review: Power Boundaries and Usability Breakthroughs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-video-game-systems-in-23/"><u>Top Rated Video Game Systems in 2^3</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleash-your-potential-with-periscope-broadcasts/"><u>Unleash Your Potential with Periscope Broadcasts</u></a></li>
 </ul></div>
 

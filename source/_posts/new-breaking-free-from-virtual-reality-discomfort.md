@@ -1,7 +1,7 @@
 ---
 title: "[New] Breaking Free From Virtual Reality Discomfort"
-date: 2024-11-01T23:18:05.369Z
-updated: 2024-11-05T23:59:37.610Z
+date: 2024-11-13T12:48:56.242Z
+updated: 2024-11-16T06:48:22.066Z
 tags: 
   - screen-recording
   - ai video
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/3ee1033fc4776708d60168535df9ce0ace02b9d45
  8. **Properly adjust the head gear.**Make sure your head gear fits you perfectly so there isn’t any calibration problem.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is Virtual reality sickness?
@@ -60,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/3ee1033fc4776708d60168535df9ce0ace02b9d45
  You can definitely not deny all the fun you can have with this new technology once you grab on all the cool gadgets and gears. Putting on a virtual reality headset can take you to a completely different world but would it really be fun when you have to vomit after ten minutes? Virtual reality sickness is a big hurdle to the widespread use of the virtual reality technology. The fact that ‘with virtual reality comes the sickness’ has been a major worry factor to the developers and scientists. Virtual Reality sickness brings along symptoms such as headaches, nausea, vomiting, discomfort, sweating, drowsiness, disorientation and apathy. Virtual reality sickness, however, is not a new problem. It has been known since the test pilots, test drivers and astronauts have been practicing their skills in simulators and mock vehicles.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why virtual reality make people sickness
@@ -73,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/3ee1033fc4776708d60168535df9ce0ace02b9d45
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -94,16 +94,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-ultimate-screen-snatchers-handbook-by-zd-software-experts-for-2024/"><u>[Updated] The Ultimate Screen Snatcher’s Handbook by ZD Software Experts for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-behind-the-headset-todays-vr-tomorrows-trials/"><u>2024 Approved Behind the Headset Today's VR, Tomorrow's Trials</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-signature-background-remover-online-6-incredible-tools/"><u>Best Signature Background Remover Online - 6 Incredible Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-premier-free-options-instead-of-skype/"><u>Discover the Premier FREE Options Instead of Skype</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/o-protectively-download-youtube-audio-without-fear-for-2024/"><u>How to Protectively Download YouTube Audio Without Fear for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/medical-and-health-facebook-ads-campaign-tips/"><u>Medical And Health Facebook Ads Campaign Tips</u></a></li>
-<li><a href="https://fox-access.techidaily.com/next-level-photography-smart-hdr-and-beyond-for-2024/"><u>Next-Level Photography Smart HDR and Beyond for 2024</u></a></li>
-<li><a href="https://win-latest.techidaily.com/quick-solutions-for-when-your-toshiba-hdd-cant-be-restored/"><u>Quick Solutions for When Your Toshiba HDD Can't Be Restored</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/quick-visual-enhancements-using-portable-lut-tools/"><u>Quick Visual Enhancements Using Portable LUT Tools</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/resolution-de-problemes-comment-restaurer-le-processus-denregistrement-de-windows-stuck-a-97/"><u>Résolution De Problèmes : Comment Restaurer Le Processus D'Enregistrement De Windows Stuck À 97%</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-starting-point-for-film-designers/"><u>The Starting Point for Film Designers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-interest-to-action-formulating-video-topics-with-google-trends/"><u>[New] 2024 Approved From Interest to Action Formulating Video Topics with Google Trends</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-5-pro-photoshop-tricks-that-newbies-must-know/"><u>[New] 5 Pro Photoshop Tricks That Newbies Must Know</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-movavi-plus-review-a-detailed-look-at-its-version-for-2024/"><u>[New] Movavi Plus Review – A Detailed Look at Its Version for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-top-10-free-slideshow-designs-for-easy-presentations/"><u>[New] Top 10 Free Slideshow Designs for Easy Presentations</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-impactful-journey-with-gopro-hero5/"><u>[Updated] In 2024, The Impactful Journey with GoPro Hero5</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-rising-through-the-rankings-adding-highlight-channels-to-youtube/"><u>2024 Approved Rising Through the Rankings Adding Highlight Channels to YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/choose-the-best-mac-livestream-software-today-for-2024/"><u>Choose the Best Mac Livestream Software Today for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-review-of-vivavideo-app/"><u>Comprehensive Review of VivaVideo App</u></a></li>
+<li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-apple-iphone-6-by-drfone-ios/"><u>Guide on How To Remove Apple ID From Apple iPhone 6</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-13-mini-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 13 mini Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-gateway-guide-entering-the-world-of-photo-video-with-pixiz/"><u>In 2024, The Gateway Guide Entering the World of Photo-Video with Pixiz</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-tecno-pova-5-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Tecno Pova 5 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-quintessential-guide-to-selecting-premium-drone-engines/"><u>The Quintessential Guide to Selecting Premium Drone Engines</u></a></li>
 </ul></div>
 

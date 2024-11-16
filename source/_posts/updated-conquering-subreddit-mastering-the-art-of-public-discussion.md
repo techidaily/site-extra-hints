@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Conquering Subreddit  Mastering the Art of Public Discussion\""
-date: 2024-08-24T22:34:46.488Z
-updated: 2024-08-25T22:34:46.488Z
+date: 2024-11-12T05:24:04.990Z
+updated: 2024-11-15T18:38:53.715Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,13 @@ Step1 Go to reddit.com and click on "Create Post"
 
 ![post on reddit](https://images.wondershare.com/filmora/article-images/2023/01/create-reddit-post.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step2 Then, choose a community to post in. This is also known as a subreddit
 
 ![select subreddit to post](https://images.wondershare.com/filmora/article-images/2023/01/choose-community.png)
@@ -56,6 +63,13 @@ When you're done creating your post, scroll down and click "Post." It will immed
 
 If nothing is violating the [subreddit's guidelines](#%5FSubreddits), the mods will let it sit there without removing it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Post on Mobile App
 
 Once again, you need a Reddit account from the mobile app before anything else. Then, open the app and do the following:
@@ -68,22 +82,23 @@ Step2 Add your title, message, images, links, and anything else you may want
 
 ![type in title on reddit post](https://images.wondershare.com/filmora/article-images/2023/01/reddit-post-title.PNG)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step3 Click on Next from the top-right corner of the screen
 
 Step4 Choose the subreddit (community) you want to post your message in
 
 ![select a subreddit to post](https://images.wondershare.com/filmora/article-images/2023/01/reddit-subreddit.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step5 Check if everything looks good, add the appropriate tags
 
 Step6 Hit Post
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Essential Tips That WILL Help You When Posting on Reddit
 
 Reddit, like any platform, has its own rules. Its algorithm that, when followed, rewards you with excellent results.
@@ -101,8 +116,12 @@ Some important rules to follow:
 * Most subreddits have their own rules and guidelines within. This is usually displayed on the right-hand side of the page.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Reddiquettes
 
 Simply put, etiquettes refer to Reddit etiquette. They are the dos and don'ts of Reddit. Reddit has posted an[official list of the proper reddiquettes](https://www.reddithelp.com/hc/en-us/articles/205926439) all users should always try and stick to.
@@ -111,9 +130,6 @@ The goal behind this is to make Reddit a safer and more enjoyable platform to us
 
 And we all know that the opinion of users without sufficient Karma isn't as valued as those who have a lot of it. So, if you want to be a valued and influential member of Reddit, follow proper reddiquette.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Karma
 
 Reddit Karma is one of the essential features of the platform. It is what determines your value and status as a Reddit user.
@@ -132,12 +148,16 @@ The second, AVOID these three things at all times:
 2. Posting the same piece of content on as many subreddit as you can
 3. Posting content that violates any guidelines a subreddit may have
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Video Tutorial - How To Use Reddit - Complete Beginner’s Guide
 
 Apart from what has been mentioned above, we also prepared a video to help you with posting on Reddit. If you have any interests, you can watch it to establish your overall outlook on posting on Reddit.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -147,9 +167,6 @@ The only way to get good and learn how to post on Reddit is with practice. So, u
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 The only way to get good and learn how to post on Reddit is with practice. So, use the things you learned here to achieve better results. And keep posting and stay consistent. It will all pay off in the end.
@@ -180,4 +197,17 @@ The only way to get good and learn how to post on Reddit is with practice. So, u
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-enhance-post-strategy-with-these-top-8-ios-and-android-planners-for-2024/"><u>[New] Enhance Post Strategy with These Top 8 iOS & Android Planners for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-insta-vid-techniques-scaling-videos-to-perfect-size-in-fcpx/"><u>[Updated] 2024 Approved Insta-Vid Techniques Scaling Videos to Perfect Size in FCPX</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715860376756-updated-integrated-recorder-functions-mate-10-20-and-p-series-p20-p10-phones/"><u>[Updated] Integrated Recorder Functions Mate 10, 20 & P-Series (P20, P10) Phones.</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beginners-guide-the-ultimate-list-of-5-must-have-mobile-apps-for-learning-code/"><u>Beginner's Guide: The Ultimate List of 5 Must-Have Mobile Apps for Learning Code</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-intel-iris-plus-gvt-3d-655-graphics-driver-for-windows-11/"><u>Download Intel Iris Plus GVT 3D 655 Graphics Driver for Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/drone-color-spectrum-20-initial-free-luts-on-dji-mini-and-air/"><u>Drone Color Spectrum - 20 Initial FREE LUTS on DJI Mini & Air</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/effortless-image-editing-picart-background-removal/"><u>Effortless Image Editing PicArt Background Removal</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-meizu-21-pro-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-is-asmr-good-for-you-learn-the-benefits-here/"><u>In 2024, Is ASMR Good for You? Learn the Benefits Here</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleashing-creativity-in-hd-windows-powered-visionary-editing-and-viewing/"><u>Unleashing Creativity in HD Windows-Powered Visionary Editing & Viewing</u></a></li>
+</ul></div>
 

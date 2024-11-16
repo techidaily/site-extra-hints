@@ -1,7 +1,7 @@
 ---
 title: "[New] Breaking Ground in VR Content Development"
-date: 2024-11-03T00:45:16.889Z
-updated: 2024-11-05T21:41:53.194Z
+date: 2024-11-11T16:20:59.913Z
+updated: 2024-11-15T17:05:03.823Z
 tags: 
   - screen-recording
   - ai video
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Art Work of With.in
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## About Chris Milk
@@ -83,10 +83,16 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -104,18 +110,24 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-revolutionizing-reality-best-vr-gadgets-today/"><u>[New] 2024 Approved Revolutionizing Reality Best VR Gadgets Today</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-next-decades-digital-marketing-shifts-in-facebook-advertising/"><u>[New] In 2024, Next Decade's Digital Marketing Shifts in Facebook Advertising</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-top-edge-video-editing-programs-for-instagram-on-android/"><u>[Updated] Top Edge Video Editing Programs for Instagram on Android</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-stepwise-approach-to-film-color-grading-with-look-up-tables-luts-from-cg-central/"><u>2024 Approved A Stepwise Approach to Film Color Grading with Look-Up Tables (Luts) From CG Central</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-hulu-streaming-errors-after-win11s-latest-update/"><u>Fixing Hulu Streaming Errors After Win11's Latest Update</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/full-utilization-of-final-cut-pro-an-in-depth-guide/"><u>Full Utilization of Final Cut Pro An In-Depth Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-treasure-trove-guide-to-public-domain-images/"><u>In 2024, A Treasure Trove Guide to Public Domain Images</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-beam-yourself-into-vr-android-tips-and-tricks/"><u>In 2024, Beam Yourself Into VR Android Tips & Tricks</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/quick-shift-video-techniques-mastering-transitions-for-2024/"><u>Quick-Shift Video Techniques Mastering Transitions for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-complete-guide-to-audiovideo-settings-in-win11s-zoom-app-for-2024/"><u>The Complete Guide to Audio/Video Settings in Win11's Zoom App for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-fundamentals-of-lut-implementation-in-after-effects/"><u>The Fundamentals of LUT Implementation in After Effects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-avi-images-from-video-to-graphics-using-filmora-for-2024/"><u>Transform Your AVI Images From Video To Graphics Using Filmora for 2024</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/translate-any-hindi-video-into-english-with-ai-for-2024/"><u>Translate Any Hindi Video Into English With AI for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-find-youtube-hidden-videos/"><u>[New] 2024 Approved How to Find YouTube Hidden Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-apples-m1-battle-is-the-air-or-pro-more-efficient/"><u>[New] Apple's M1 Battle Is the Air or Pro More Efficient?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-timely-team-setups-adjusting-backdrop-beforeafter-calls/"><u>[Updated] In 2024, Timely Team Setups Adjusting Backdrop Before/After Calls</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-inside-the-best-windows-10-features/"><u>[Updated] Inside the Best Windows 10 Features</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-flip-it-right-youtube-video-retrospectives-with-tips/"><u>2024 Approved Flip It Right YouTube Video Retrospectives (With Tips!)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-framefulness-selecting-the-top-websites-and-apps-for-photoshopping/"><u>2024 Approved Framefulness Selecting the Top Websites & Apps for Photoshopping</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/high-end-horizons-the-elite-8k-camera-selection/"><u>High-End Horizons The Elite 8K Camera Selection</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-step-by-step-journey-into-professional-gopro-editing/"><u>In 2024, A Step-by-Step Journey Into Professional GoPro Editing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-build-your-brand-memes-with-kinemaster/"><u>In 2024, Build Your Brand Memes with KineMaster</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-cost-effective-aerospace-for-huge-datasets-at-low-rates/"><u>In 2024, Cost-Effective AeroSpace for Huge Datasets at Low Rates</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-xiaomi-redmi-note-12-proplus-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Xiaomi Redmi Note 12 Pro+ 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-slow-motion-into-fast-action/"><u>In 2024, Transforming Slow Motion Into Fast Action</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeos-lifesaver-for-free-video-editors/"><u>In 2024, Vimeo's Lifesaver for Free Video Editors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-ideas-for-images-with-professional-color-palette/"><u>Innovative Ideas for Images with Professional Color Palette</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/key-steps-to-accurate-and-effective-market-research-analysis/"><u>Key Steps to Accurate and Effective Market Research Analysis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/lightning-flicker-viewer-windows-photos/"><u>Lightning Flicker Viewer - Windows Photos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/scaling-video-size-without-quality-loss-on-youtube/"><u>Scaling Video Size Without Quality Loss on YouTube</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/techniques-for-downloading-vimeo-media-as-mp3-for-2024/"><u>Techniques for Downloading Vimeo Media as MP3 for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-many-users-prefer-this-budget-friendly-laptop-over-macbook-air-without-sacrificing-performance-expert-insights/"><u>Why Many Users Prefer This Budget-Friendly Laptop Over MacBook Air without Sacrificing Performance | Expert Insights</u></a></li>
 </ul></div>
 
