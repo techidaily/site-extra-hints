@@ -1,7 +1,7 @@
 ---
 title: "\"Framing Fantasy  Elite Tips for Elevating Your Photography\""
-date: 2024-11-13T19:47:02.945Z
-updated: 2024-11-16T03:36:50.966Z
+date: 2024-11-18T18:25:39.544Z
+updated: 2024-11-25T23:27:03.902Z
 tags: 
   - screen-recording
   - ai video
@@ -44,13 +44,6 @@ When processing multiple images at once, the editing process can be tiring and b
 
 Image alt: use presets for image editing
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Play With the Colors
 
 If you look around closely, you can find that everything is associated with a specific color. From the lush green grass to the vibrant dreamy blue skies, everything has its shade. But upon closer inspection, you will find that it’s not just a single constituent color. The grass’s green contains shades of yellow, brown, and orange too.
@@ -60,10 +53,7 @@ If you train your eye to see these hidden colors, you can easily make your image
 ![play with the image colors](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Adjust the Contrast
@@ -71,6 +61,14 @@ If you train your eye to see these hidden colors, you can easily make your image
 One of the main reasons your images are looking flat is low contrast. Without a clear difference between foregrounds and backgrounds, the image can seemingly lack focus. You can play with the blacks and whites to adjust the contrast in your photo. Some of the best photography editing software offers a contrast slider that can help refine your image.
 
 ![adjust the image contrast](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Try Overlays
 
@@ -81,16 +79,7 @@ Overlays are also useful for creating double exposure effects in your image. If 
 ![apply overlays to image](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-5.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Straighten the Horizon
@@ -101,13 +90,6 @@ You can choose a baseline in your image and then adjust it to straighten the ima
 
 ![straighten the horizon](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Split the Tone
 
 During the photography editing process, a little split-tone can go a long way. This means you can add specific colors to the shadows and highlights of your image. You can play with these colors to make your photos fall on the warm or cold end of the spectrum. Split tone can get out of hand pretty fast, so remember to keep it subtle.
@@ -115,17 +97,7 @@ During the photography editing process, a little split-tone can go a long way. T
 ![use split tone feature](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Know your White Balance
@@ -136,13 +108,6 @@ While JPEG images can somewhat bend to a specific color temperature, RAW files o
 
 ![adjust image white balance](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 9\. Pay Attention to Details
 
 Being a photographer means having to keep a close eye on the details. No matter what type of photographs you are capturing, everything from nature to headshots requires keen attention to detail. One way of doing so is to remove spots or any background clutter from your picture.
@@ -151,11 +116,19 @@ Most of the prime photography editing apps offer spot removal tools. You will of
 
 ![remove the spots from image](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 10\. Don’t Take It Too Far
 
 It is quite easy to get carried away during photography editing. Remember not to take your editing a step too far. Try to keep the natural element of the image intact and avoid overdoing the contrast and color saturation. Heavy editing can often cause a perfectly good image to fall apart. Steer clear of unnatural editing and strong color grading.
 
 ![do natural image editing](https://images.wondershare.com/filmora/article-images/2022/photography-editing-tips-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Wrapping Up
 
@@ -187,16 +160,15 @@ You can try the photography editing tips mentioned above to enhance your images 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-crafting-news-end-credits-a-step-by-step-guide/"><u>[Updated] 2024 Approved Crafting News End Credits A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-concealed-identities-quick-tips-for-face-obscuration-in-images/"><u>[Updated] Concealed Identities Quick Tips for Face-Obscuration in Images</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-premier-auto-track-cam-mount-for-smooth-shots-for-2024/"><u>[Updated] Premier Auto-Track Cam Mount for Smooth Shots for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-deciphering-the-world-of-augmented-reality-stickers-googles-role/"><u>2024 Approved Deciphering the World of Augmented Reality Stickers Google's Role</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-delving-into-mr-beasts-economic-dominance/"><u>2024 Approved Delving Into Mr. Beast's Economic Dominance</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-views-via-strategic-tagging-tactics-for-2024/"><u>Boost Views via Strategic Tagging Tactics for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-captivating-vlog-narratives/"><u>In 2024, Crafting Captivating Vlog Narratives</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-content-conversations-connecting-with-subscribers/"><u>In 2024, Crafting Content Conversations Connecting With Subscribers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/starting-with-social-giving-best-practices-for-fb-posts/"><u>Starting with Social Giving Best Practices for FB Posts</u></a></li>
-<li><a href="https://win11.techidaily.com/top-10-secure-windows-free-app-downloads/"><u>Top 10 Secure Windows Free App Downloads</u></a></li>
-<li><a href="https://driver-download.techidaily.com/tp-link-wireless-adapter-driver-update-latest-version-now-available-for-windows-1187-systems/"><u>TP-Link Wireless Adapter Driver Update - Latest Version Now Available for Windows 11/8/7 Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-branded-content-collaborations-on-streaming-services/"><u>[Updated] Branded Content Collaborations on Streaming Services</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-acid-pro-evaluation-and-alternative-software/"><u>[Updated] Comprehensive ACID Pro Evaluation & Alternative Software</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-download-today/"><u>1 - Download Today</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-inspiring-book-trailers/"><u>2024 Approved Top 5 Inspiring Book Trailers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-the-power-of-easy-video-editing-in-photos-and-windows-11/"><u>Explore the Power of Easy Video Editing in Photos & Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-11-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 11 With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/starting-with-telegram-advertising-essential-steps-for-newbies/"><u>Starting with Telegram Advertising Essential Steps for Newbies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-art-of-flipping-photo-shades/"><u>Unveiling the Art of Flipping Photo Shades</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Build DIY Virtual Reality  Google Cardboard Hack\""
-date: 2024-11-12T16:58:28.766Z
-updated: 2024-11-15T22:39:11.225Z
+date: 2024-11-18T18:05:32.845Z
+updated: 2024-11-25T16:37:52.842Z
 tags: 
   - screen-recording
   - ai video
@@ -28,15 +28,16 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 
  Google cardboard offers an immersive virtual reality experience in a fun, affordable and simple way. You don’t need to spend quite huge amount of money only to have your own Google cardboard. Just recently, Google introduced DIY virtual reality with some basic tools and at the comfort of your own home. So, how do you get started?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Steps for DIY VR
 
  In not more than 3 hours, people were able to construct their own virtual reality viewer. Do you also want to successfully make your own? Here’s what you will need, together with some important tips and tools to properly do it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1.The accessories you will need
@@ -54,10 +55,7 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
  It is recommended to use the right type of cardboard, with the same thickness as that of a durable shoe box. You can use a pizza box, but make sure it offers enough flat surfaced material to work with. Of course, you want something durable, yet slim to work with. In some cases, a couple of additional items might be needed such as ceramic disc magnet, neodymium magnet, some pieces of Velcro, big rubber band and at least 45 mm lenses.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.How to assemble accessories
@@ -73,10 +71,7 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 * If necessary, affix the NFC tag to the cardboard.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pros and cons of DYI Google cardboard
@@ -99,10 +94,7 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -120,18 +112,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-breaking-ground-in-vr-content-development/"><u>[New] Breaking Ground in VR Content Development</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-bypassing-instagrams-video-roadblocks-effortlessly-for-2024/"><u>[New] Bypassing Instagram's Video Roadblocks Effortlessly for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ssential-gif-creation-best-tools-reviewed-and-compared-for-2024/"><u>[New] Essential GIF Creation Best Tools Reviewed & Compared for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-best-practices-aspect-ratio-in-twitters-videos/"><u>[Updated] Best Practices Aspect Ratio in Twitters Videos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-visualsnitch-capture-and-save-tweets-images-and-videos/"><u>[Updated] In 2024, VisualSnitch Capture and Save Tweets' Images & Videos</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-expert-tips-on-jump-cuts-for-dynamic-video-editing/"><u>2024 Approved Expert Tips on Jump Cuts for Dynamic Video Editing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/decoding-the-best-live-streams-a-compreehsive-guide/"><u>Decoding the Best Live Streams A Compreehsive Guide</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhance-your-cybersecurity-arsenal-with-stellar-file-eraser-tailored-settings-on-windows-and-effortless-scheduled-file-sanitation/"><u>Enhance Your Cybersecurity Arsenal with Stellar File Eraser: Tailored Settings on Windows and Effortless Scheduled File Sanitation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expand-your-online-presence-with-larger-youtube-content/"><u>Expand Your Online Presence with Larger YouTube Content</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-effective-is-chatgpt-in-regulating-smart-home-devices/"><u>How Effective Is ChatGPT in Regulating Smart Home Devices?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-iphone-8-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from iPhone 8 iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/osha-focuses-on-workplace-safety-and-health-standards-rather-than-the-specifics-of-fireworks-commerce/"><u>OSHA Focuses on Workplace Safety and Health Standards Rather than the Specifics of Fireworks Commerce.</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/synergy-strategies-for-ig-and-tiktok/"><u>Synergy Strategies for IG & TikTok</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-adopting-seamless-video-conferencing-via-gmail-and-zoom/"><u>[New] Adopting Seamless Video Conferencing via Gmail & Zoom</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-asus-proart-pa-329q-unveiled-a-critical-perspective-on-a-high-end-monitor/"><u>[New] Asus ProArt PA 329Q Unveiled A Critical Perspective on a High-End Monitor</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-dynamic-book-trailers-illustration-for-2024/"><u>[New] Dynamic Book Trailers Illustration for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-pazeras-2024-audio-liberation-a-review-of-freedom-in-music/"><u>[New] Pazera's 2024 Audio Liberation A Review of Freedom in Music</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-altering-game-console-speech-ps5ps4-upgrades/"><u>[Updated] Altering Game Console Speech PS5/PS4 Upgrades</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-top-10-must-knows-before-elevating-systems/"><u>[Updated] In 2024, Top 10 Must-Knows Before Elevating Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/assessing-your-needs-selecting-the-optimal-4k-camera-lens/"><u>Assessing Your Needs Selecting the Optimal 4K Camera Lens</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/combining-chords-and-pictures-in-the-cloud/"><u>Combining Chords & Pictures in the Cloud</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-y100-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo Y100 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-14-plus-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 14 Plus to Samsung | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-beat-zoom-audio-disruptions-strategic-solutions/"><u>In 2024, Beat Zoom Audio Disruptions Strategic Solutions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-chorus-chronicles-new-speaker-insights/"><u>In 2024, Chorus Chronicles New Speaker Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-captivating-unboxing-reels-top-tips-for-success-on-instagram/"><u>In 2024, Crafting Captivating Unboxing Reels Top Tips for Success on Instagram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ipad-air-assessment-an-outstanding-alternative-that-nearly-makes-me-rethink-my-ipad-pro-purchase-insights-from-zdnet/"><u>IPad Air Assessment: An Outstanding Alternative That Nearly Makes Me Rethink My iPad Pro Purchase - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-data-keepers-expert-top-10-selections/"><u>Prime Data Keepers Expert Top 10 Selections</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-the-secrets-of-clean-windows-11-setup/"><u>Unveiling the Secrets of Clean Windows 11 Setup</u></a></li>
 </ul></div>
 

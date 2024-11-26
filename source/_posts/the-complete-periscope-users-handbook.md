@@ -1,7 +1,7 @@
 ---
 title: "The Complete Periscope User's Handbook"
-date: 2024-08-24T22:31:56.328Z
-updated: 2024-08-25T22:31:56.328Z
+date: 2024-11-23T17:56:04.943Z
+updated: 2024-11-25T16:49:03.054Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f8
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Knowing the functions and settings
 
  Periscope is a Twitter special application for live streaming needs and the best part is it works on mobile platforms. Viewers can add comments on videos and they can also forward “hearts” to streamers as a token of appreciation for their impressive work. The app is actually very interaction with four major tabs:
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f8
 
 ![use-periscope-1 ](https://images.wondershare.com/filmora/article-images/use-periscope-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. **The second tab** on application is used to display list of public broadcasts on global level and users are free to join all of them. They are developed on the basis of your geographical location.
 
 ![use-periscope-2 ](https://images.wondershare.com/filmora/article-images/use-periscope-2.jpg)
@@ -49,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f8
  4\. **The fourth tab** is designed to assist users with easy search for followers. It also displays settings for your own profile and allows users to make basic adjustments for followers.
 
 ![use-periscope-4 ](https://images.wondershare.com/filmora/article-images/use-periscope-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to watch Periscope Video?
 
@@ -64,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f8
 
 ![use-periscope-5 ](https://images.wondershare.com/filmora/article-images/use-periscope-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Broadcast on Periscope?
 
  As per the default setting, broadcasts stay public that means anyone can watch what you have uploaded. But in case if you want to prioritize your audience then Periscope application offers easy personalization. Use private broadcast feature to invite selected audience on your broadcasts. This broadcast setting icon is actually a small camera like shape that can be used from first as well as second tab easily.
@@ -75,44 +84,22 @@ thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f8
 
 ![use-periscope-6 ](https://images.wondershare.com/filmora/article-images/use-periscope-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  Now you are at broadcast screen where you have to enter name or title of your broadcast event. Users can adjust their location preferences while converting broadcasts from private to public or vice versa view. Adjust the chat options and finally you will reach at your Twitter link. If you want to capture feeds from webcam then it can be switched easily by simply double tapping on device screen. Once all these controls have been adjusted then your app provides an event summery, you can approve it or edit before making your post live. It will also provide you details about how many hearts you have received from viewers.
 
 ![use-periscope-7 ](https://images.wondershare.com/filmora/article-images/use-periscope-7.jpg)
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once your broadcast becomes live then it will stay online for next 24 hours and all viewers and followers will be able to replay, watch as well as share the information with other users. The collection of hearts as viewer’s response may go on.
 
 ![use-periscope-8 ](https://images.wondershare.com/filmora/article-images/use-periscope-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Tips to get more followers or viewers on Periscope
 
  There is no doubt to say that Periscope is a wonderful tool if you want to make your career as a live streaming and want to grow size of your followers fast. Below are few important tips to gain more followers/viewers on Periscope:
@@ -133,16 +120,11 @@ No advertising on the website.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -150,3 +132,27 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-ace-memes-top-template-compendium/"><u>[New] Ace Memes Top Template Compendium</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-soundscaping-stories-musical-elements-in-reels/"><u>[Updated] 2024 Approved Soundscaping Stories Musical Elements in Reels</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-6-metaverse-examples-to-help-you-have-a-deep-insight-about-it-useful/"><u>[Updated] 6 Metaverse Examples to Help You Have a Deep Insight About It [Useful]</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-insightful-guide-to-the-top-10-low-cost-online-channels-for-photo-editing-artists/"><u>[Updated] In 2024, Insightful Guide to the Top 10 Low-Cost Online Channels for Photo Editing Artists</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-3-strategies-for-capturing-real-time-sports-events-online-for-2024/"><u>[Updated] Top 3 Strategies for Capturing Real-Time Sports Events Online for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-caption-kings-and-queens-top-10-mobile-writing-aids-iosandroid/"><u>2024 Approved Caption Kings and Queens Top 10 Mobile Writing Aids (iOS/Android)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-list-audio-pace-modification-tools/"><u>2024 Approved Comprehensive List Audio Pace Modification Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creative-image-collage-tools-ranked-10/"><u>Creative Image Collage Tools Ranked #10</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/explore-8-leading-youtube-growth-strategies-for-2024/"><u>Explore 8 Leading Youtube Growth Strategies for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/guide-achieving-steady-video-streaming-on-desktops-laptops-and-mobile-phones-windows-mac-os-android-iphone/"><u>Guide: Achieving Steady Video Streaming on Desktops, Laptops, and Mobile Phones (Windows, Mac OS, Android, iPhone)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-poco-c51-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Poco C51 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-30-innovative-video-themes-and-layouts/"><u>In 2024, 30 Innovative Video Themes and Layouts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-guide-understanding-google-podcasts/"><u>In 2024, Comprehensive Guide Understanding Google Podcasts</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/mastering-dvd-duplication-with-leawo-prof-media-a-complete-tutorial-on-copying-embedding-and-compressed-extracts/"><u>Mastering DVD Duplication with Leawo Prof. Media: A Complete Tutorial on Copying, Embedding & Compressed Extracts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-freeframe-forum-a-collectors-paradise-for-budget-friendly-backgrounds/"><u>The FreeFrame Forum A Collector's Paradise for Budget-Friendly Backgrounds</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-cloud-storage-cost-breakdown-2024-edition/"><u>The Ultimate Cloud Storage Cost Breakdown, 2024 Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-handbook-for-hosting-zoom-events-on-youtube/"><u>The Ultimate Handbook for Hosting Zoom Events on YouTube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-fixing-realtek-universal-drivers-made-easy/"><u>Troubleshooting and Fixing Realtek Universal Drivers Made Easy</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-cpu-demands-caused-by-wudfhost-in-windows-11-systems/"><u>Troubleshooting High CPU Demands Caused by WUDFHost in Windows 11 Systems</u></a></li>
+</ul></div>
+

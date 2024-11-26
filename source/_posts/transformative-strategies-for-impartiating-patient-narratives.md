@@ -1,7 +1,7 @@
 ---
 title: "Transformative Strategies for Impartiating Patient Narratives"
-date: 2024-08-17T13:48:59.520Z
-updated: 2024-08-18T13:48:59.520Z
+date: 2024-11-18T19:55:56.464Z
+updated: 2024-11-25T16:23:29.720Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,17 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 
 If you want to learn how to create video testimonials that convert, then this post is for you. It's time to stop wasting time and money on ineffective videos that don't get results. If you follow the tips below, you'll have a solid strategy for creating professional-looking testimonial videos that your customers will love and share.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Identify Your Perfect Customer
 
 ![identify your perfect customer](https://images.wondershare.com/filmora/article-images/2022/07/identify-your-perfect-customer.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The first key tactic to creating a perfect testimonial video is identifying your perfect customer. The more you know about the type of person who will benefit the most from using your product or service, the better you can tailor your video content to speak directly to them.
 
@@ -41,8 +49,9 @@ It may seem like a daunting task, but there are several ways you can go about de
 * If there's no good reason for asking a question then don't! For example: "How was your experience with our website?"
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Include Strong Opinions
 
 ![include strong opinion](https://images.wondershare.com/filmora/article-images/2022/07/include-strong-opinion.jpg)
@@ -53,9 +62,6 @@ It may seem like a daunting task, but there are several ways you can go about de
 * You can also use the word "they" for an authoritative tone, or "them", which is more casual and vaguer, depending on what you want to convey.
 * Please avoid saying the word "me" because this makes it sound like you're speaking in the third person—which can come across as unnatural and pretentious.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Keep it All Short and Sweet
 
 ![keep video short and sweet](https://images.wondershare.com/filmora/article-images/2022/07/keep-video-short-and-sweet.jpg)
@@ -66,18 +72,6 @@ When asking someone for their thoughts on a topic or issue, there's always going
 
 Asking open-ended questions allows people greater freedom when responding—and while this may sound like an ideal situation when creating content, it often results in less-than-ideal responses when creating content at scale since you won't always get exactly what you want out of every shot.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Lighting, Sound, and Video Quality Matter
 
 ![lighting sound video quality](https://images.wondershare.com/filmora/article-images/2022/07/lighting-sound-video-quality.jpg)
@@ -87,24 +81,13 @@ Lighting, sound, and video quality matter.
 This is a given. If you want your testimonial videos to be effective and believable, they need to be properly lit, recorded with good audio quality, and captured in high resolution. While these may seem like obvious must-haves for any video production project—and they are—it's important to remember that there are many factors at play when it comes to how your audience will perceive the final product.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Really Listen to Your Prospects
 
 ![listen to your prospects](https://images.wondershare.com/filmora/article-images/2022/07/listen-to-your-prospects.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 When you're listening to your customers, don't just take notes on what they say. Also, look at their body language and eye movement. This can tell you a lot about whether they are telling the truth or not, and it will give you an idea of what may be going on in their head.
 
 If someone says "I love this product," but then shows their eyes darting around nervously, that could mean that they're worried about saying something nice about the product because it's not really meeting their needs. If someone says "It's okay," but he or she is nodding along with enthusiasm when talking about it, that probably means he or she really does like it!
@@ -118,8 +101,9 @@ You might have skeptics and negative nellies in your audience. They're the ones 
 These people will try to poke holes in what you've done and make it sound like your product or service isn't worth buying no matter what you do for them. Luckily for us, there are a few things we can do about this!
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 If you're looking to boost your sales with testimonial videos, then you need to be sure that they reflect the quality of your product or service. Customers will be more likely to trust a testimonial if it's given by someone who seems authentic and honest in their praise. Try these tactics out for yourself and see what results in you get!
@@ -154,4 +138,23 @@ If you're looking to boost your sales with testimonial videos, then you need to 
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-complete-guide-for-posting-photos-online/"><u>[New] 2024 Approved The Complete Guide for Posting Photos Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-bypass-spotifys-predicted-podcast-selections/"><u>[New] Bypass Spotify's Predicted Podcast Selections</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-subtitle-converters-win-and-mac-edition-leading-8-sbt-to-srtr-tools/"><u>[Updated] Best Subtitle Converters Win & Mac Edition, Leading 8 SBT to SRTR Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-expert-insight-screening-sweet-indulgences-for-2024/"><u>[Updated] Expert Insight Screening Sweet Indulgences for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-explore-deep-with-these-immersive-vr-clips-for-2024/"><u>[Updated] Explore Deep with These Immersive VR Clips for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-in-search-of-perfection-the-top-10-live-streamers/"><u>[Updated] In 2024, In Search of Perfection The Top 10 Live Streamers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-8-premier-no-lag-screen-capture-tools/"><u>2024 Approved 8 Premier No-Lag Screen Capture Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-boost-your-photo-skills-with-these-top-pixlr-tricks/"><u>2024 Approved Boost Your Photo Skills with These Top Pixlr Tricks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/3gppmp3-movavi/"><u>無需付費，從3GPP到MP3途徑 - 使用Movavi音頻轉換器</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/are-reviews-on-goods-and-services-for-cash-for-2024/"><u>Are Reviews on Goods & Services for Cash for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/craft-professional-edits-with-story-remix-in-windows-photos-app-for-2024/"><u>Craft Professional Edits with Story Remix in Windows Photos App for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/easyshadecleanse-professionally-crafted-erase-software/"><u>EasyShadeCleanse Professionally Crafted Erase Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exclusive-discoveries-prime-websites-and-methods-to-download-tamil-ringtone-files/"><u>Exclusive Discoveries Prime Websites & Methods to Download Tamil Ringtone Files</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-melody-meters-your-guide-to-free-online-pulse-detectors/"><u>In 2024, Melody Meters Your Guide to Free Online Pulse Detectors</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/syncing-sound-with-visuals-on-facebook-essential-guide-for-2024/"><u>Syncing Sound with Visuals on Facebook - Essential Guide for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-gaming-setup-check-out-lgs-27uhd68-monitor/"><u>The Ultimate Gaming Setup? Check Out LG’s 27UHD68 Monitor</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Lighting Setup to Make Your Videos Stand Out"
-date: 2024-11-15T06:42:38.401Z
-updated: 2024-11-16T02:34:03.510Z
+date: 2024-11-20T19:45:59.894Z
+updated: 2024-11-25T23:40:52.098Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 Many people are wondering how to set up lighting for video shooting. While there are many different ways to set up lighting, some methods are more effective than others.
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -68,6 +72,10 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
@@ -75,6 +83,10 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
@@ -86,6 +98,10 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
@@ -93,10 +109,7 @@ We usually set the lights around 50% brightness and a color temperature of 5600K
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Summary
@@ -133,20 +146,20 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-2023-ultimate-guide-sj7s-4k-star-cam-reviews/"><u>[New] 2023 Ultimate Guide SJ7's 4K Star Cam Reviews</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/branding-breakthrough-constructing-logos-for-podcasts-for-2024/"><u>Branding Breakthrough Constructing Logos for Podcasts for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comparative-analysis-64-vs-128gb-video-holding-power/"><u>Comparative Analysis 64 vs 128GB Video Holding Power</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/getting-to-grips-with-snapseed-for-images/"><u>Getting to Grips With Snapseed for Images</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/gratuito-conversor-para-archivos-f4v-y-mov-en-linea-con-movavi-herramienta-de-cambio-sin-coste/"><u>Gratuito Conversor Para Archivos F4V Y MOV en Línea Con Movavi - Herramienta De Cambio Sin Coste</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-vivo-s17t-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Vivo S17t Through Google Earth?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-14-proipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked Apple iPhone 14 Pro/iPad/iPod</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-simple-steps-for-turning-your-smartphone-into-an-effective-camera/"><u>In 2024, Simple Steps for Turning Your Smartphone Into an Effective Camera</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-art-of-piecing-together-digital-images/"><u>In 2024, The Art of Piecing Together Digital Images</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-whatsapps-sound-conversations/"><u>In 2024, Understanding WhatsApp's Sound Conversations</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-infinix-note-30-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Infinix Note 30 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-iphone-photos-discover-prime-angles-for-perfect-shots/"><u>Mastering iPhone Photos Discover Prime Angles for Perfect Shots</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/radial-blurs-made-simple-in-adobe-photoshop-for-2024/"><u>Radial Blurs Made Simple in Adobe Photoshop for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/mline-your-youtube-presence-using-premiere-pro-for-2024/"><u>Streamline Your YouTube Presence Using Premiere Pro for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-art-of-memetic-mastery/"><u>The Art of Memetic Mastery</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-androids-prime-collage-app-selection-overview/"><u>[New] Android's Prime Collage App Selection Overview</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-investigating-how-tseries-makes-money-with-youtube-viewers/"><u>[New] In 2024, Investigating How TSeries Makes Money with YouTube Viewers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-how-to-safeguard-your-live-streams-on-periscope/"><u>[Updated] 2024 Approved How To Safeguard Your Live Streams on Periscope</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-annotating-emotions-through-trailer-tunes/"><u>[Updated] Annotating Emotions Through Trailer Tunes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-free-and-paid-drawing-apps-for-android-os/"><u>[Updated] Best Free and Paid Drawing Apps for Android OS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-perfect-first-impressions-on-any-device/"><u>[Updated] Crafting Perfect First Impressions on Any Device</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-step-by-step-slow-motion-mastery-in-phantom-cameras/"><u>[Updated] In 2024, Step-by-Step Slow Motion Mastery in Phantom Cameras</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-online-no-download-gif-conversion-services-reviewed-for-2024/"><u>Best Online No-Download GIF Conversion Services Reviewed for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-newly-released-windows-compatible-pl2303-chipset-drivers-for-faster-data-transfer/"><u>Download Newly Released Windows-Compatible PL2303 Chipset Drivers for Faster Data Transfer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exclusive-insights-viewing-nba-games-remotely/"><u>Exclusive Insights Viewing NBA Games Remotely</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-infinix-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Infinix Unlock Without Password</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-content-that-encourages-constructive-youtube-commentary/"><u>In 2024, Crafting Content that Encourages Constructive YouTube Commentary</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-navigate-through-dynamic-gifs-find-these-best-recorders-in-winos/"><u>In 2024, Navigate Through Dynamic GIFs Find These Best Recorders in WinOS</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-popularity-of-video-content-on-social-media-networks-has-been-soaring-in-the-last-couple-of-years-and-it-is-only-reasonable-to-expect-this-trend-to-/"><u>New The Popularity of Video Content on Social Media Networks Has Been Soaring in the Last Couple of Years, and It Is only Reasonable to Expect This Trend to Continue. Thats the Reason Why in This Article for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/seeking-a-true-witchs-tongue-are-vocal-changer-apps-legit-find-substitutes/"><u>Seeking a True Witch's Tongue Are Vocal Changer Apps Legit? Find Substitutes</u></a></li>
 </ul></div>
 

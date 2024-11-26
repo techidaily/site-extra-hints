@@ -1,7 +1,7 @@
 ---
 title: "Tips & Tricks: Fixing Common Arise Game-Crash Issues"
-date: 2024-11-09T12:22:03.303Z
-updated: 2024-11-16T06:23:14.689Z
+date: 2024-11-23T18:11:09.232Z
+updated: 2024-11-25T21:43:47.225Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  The screenshots below come from Windows 10, but the fixes also apply to Windows 7 and Windows 8.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Repair the game files
 
  Corrupted and damaged game file is one of the most common causes of game crashes, so an integrity check should be your first step for troubleshooting. We’ll show you how to do this on[**Steam**](https://tools.techidaily.com/drivereasy/download/) and **[Wargaming launcher](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -39,6 +43,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click**World of Warships** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4-2.jpg)
@@ -46,13 +54,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After it finishes validating the game files, you can relaunch World of Warships to check if crashes are still there. If yes, proceed to **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  below.
 
@@ -68,7 +69,15 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the process to complete, and relaunch World of Warships to test this method. If it fails to cure the crash, move on to the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics card driver
 
@@ -102,26 +111,12 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Now that you’ve installed the most recent graphics driver, you can expect a smooth and enhanced game performance. If updating the driver doesn’t work, keep reading the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Delete the preferences.xml file
 
@@ -137,13 +132,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 See if the crashing issue goes away. If not, try the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4 – Launch World of Warships in safe mode
 
  If you’re accustomed to playing World of Warships with installed modifications but found the game started to malfunction after an update, the problem is possibly related to the mods. To identify whether that’s the case, you can try the safe mode.
@@ -153,6 +141,10 @@ See if the crashing issue goes away. If not, try the fixes below.
 **2)** Click the**up arrow icon** next to Play and click**Launch the game in safe mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Do the crashes disappear now? If not, continue to the next fix.
 
@@ -164,22 +156,12 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-1-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Select**Category** next to View by, and click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click**World of Warships** from the list, and click**Uninstall** . Then, follow the on-screen instructions to complete the process.
@@ -216,18 +198,18 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-a-meticulous-review-the-complete-guide-to-androids-lightroom/"><u>[New] 2024 Approved A Meticulous Review The Complete Guide to Android's Lightroom</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-acquiring-visuals-strategies-for-no-cost-picture-videos/"><u>[New] Acquiring Visuals Strategies for No-Cost Picture Videos</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-market-maven-tutorials-top-15-online-stock-streams/"><u>[New] In 2024, Market Maven Tutorials Top 15 Online Stock Streams</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-iphone-hacks-for-minimalist-video-presentation-for-2024/"><u>[New] IPhone Hacks for Minimalist Video Presentation for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-all-you-need-to-know-about-the-apple-m1-max-clip/"><u>2024 Approved All You Need to Know About the Apple M1 Max Clip</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-bring-lut-effects-to-life-with-smartphones/"><u>2024 Approved Bring LUT Effects to Life with Smartphones</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-oppo-f23-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Oppo F23 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/android-and-iphone-collage-kings-the-best-montage-apps/"><u>Android & iPhone Collage Kings The Best Montage Apps</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-12-pro-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 12 Pro After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-basic-understanding-of-animate-graphic-content/"><u>In 2024, Basic Understanding of Animate Graphic Content</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-camon-20-premier-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Camon 20 Premier 5GFRP Lock</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-how-to-correctly-fix-d3dx925dll-errors/"><u>Troubleshooting: How to Correctly Fix d3dx9_25.dll Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-patch-tuesday-an-essential-guide/"><u>Understanding Patch Tuesday: An Essential Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-comprehensive-guide-to-mastering-vivocuts-new-capabilities/"><u>[New] A Comprehensive Guide to Mastering VivoCut's New Capabilities</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-accelerating-ar-development-leveraging-custom-luts/"><u>[Updated] Accelerating AR Development Leveraging Custom LUTs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-expert-tips-on-ipad-screen-casts/"><u>[Updated] In 2024, Expert Tips on iPad Screen Casts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-ios-android-unite-how-to-download-and-make-your-own-whatsapp-tones/"><u>[Updated] In 2024, IOS, Android Unite How to Download and Make Your Own WhatsApp Tones</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-s17-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discreet-methods-to-evade-educational-media/"><u>Discreet Methods to Evade Educational Media</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212343458-expert-tips-to-restore-your-microsoft-surface-pro-4s-touchscreen-functionality-no-more-frustration/"><u>Expert Tips to Restore Your Microsoft Surface Pro 4'S Touchscreen Functionality - No More Frustration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-beacon-of-ringtone-richness-online/"><u>In 2024, Beacon of Ringtone Richness Online</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-your-next-favorite-channel-for-global-adventures/"><u>In 2024, Your Next Favorite Channel for Global Adventures</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/merging-melodies-and-memories-online/"><u>Merging Melodies and Memories Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/next-gen-vr-accessories-your-must-have-guide/"><u>Next-Gen VR Accessories Your Must-Have Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-digital-applications-for-visual-storytelling/"><u>Premier Digital Applications for Visual Storytelling</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/virtual-ventures-top-tech-for-immersive-experiences/"><u>Virtual Ventures Top Tech for Immersive Experiences</u></a></li>
 </ul></div>
 

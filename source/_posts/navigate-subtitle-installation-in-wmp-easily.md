@@ -1,7 +1,7 @@
 ---
 title: "Navigate Subtitle Installation in WMP Easily"
-date: 2024-08-17T13:50:07.877Z
-updated: 2024-08-18T13:50:07.877Z
+date: 2024-11-19T20:33:38.811Z
+updated: 2024-11-25T21:24:19.363Z
 tags: 
   - screen-recording
   - ai video
@@ -40,11 +40,19 @@ The process of adding subtitles to video clips is quite simple; you need to foll
 
 ![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Now, it is time to download DirectVobSub codec and get it installed on your PC. This software is easily available in 32, 64 bit versions so you can easily access any of these. Simply install codec from this source; no need to work on configuration settings. Note that these codecs must be installed from a trusted source so that malware or virus attacks can be avoided.
 
 **Step 4:** Once you are done with step 3 then download Sharkoo7’s Advanced Codec from internet. Get it installed for Window Media Player and then open with 64 bit settings or 32 bit as per your device specifications. To open it, simply right click on icon and from drop down menu choose “Run as administrator”.
 
 ![ ](https://images.wondershare.com/filmora/article-images/subtitle-wmp-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5:** Within very less time application will get opened with a fresh window on your system. Now move to tabs of different video file types then search for the option that says: “Disable Media Foundation for MP4/MKV and AVI etc”. Further, go to the swap tab and then disable window media foundation.
 
@@ -52,35 +60,30 @@ The process of adding subtitles to video clips is quite simple; you need to foll
 
 As soon as you will finish all these settings, your subtitles will appear perfectly over video and you can enjoy great synchronism for all content. Window Media player tool is capable enough to make effective adjustments for subtitle placements and it will take just a few minutes to complete all these steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Websites for Downloading Subtitles
 
 If you are searching for websites that can help you to download subtitles for your videos then this list can be useful for you:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### [1. Moviesubtitles.com:](http://www.moviesubtitles.org/movies.html)
 
 You will be glad to know that this website offers subtitles in wide range of languages. Users can simply initiate search for latest subtitle files, most popular movies or most download subtitles. All these subtitles packs are available for free and they are usually packed in WinZip file formats.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### [2. Subscene.com:](https://subscene.com/browse/latest/film/1)
 
 This website stays one of the top preferences lists of all professionals as well as beginners. It serves with easy to access search function so that users can easily navigate for their desired subtitle file. It also allows users to upload movie subtitle files and they can be rated.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [3\. TVsubtitles.net:](http://www.tvsubtitles.net/tvshow-1568-3.html)
 
 There is no doubt to say that TVSubtitles.com is well known as best site for TV show subtitle download needs. This platform contains largest collection of popular TV show subtitles from every corner of world and they are available in multiple languages. Some of the most commonly downloaded subtitle files use to be in Korean, Russian, German, Greek, French and English language.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### [4. Tvsubs.net:](http://www.tvsubs.net/)
 
 One more online platform for downloading wide range of subtitles and the best thing to know about this website is that it possesses user friendly platform that has super cool appearance. As soon as you will open your website you will notice that well placed search box. Yeah! This is your biggest need when you need to search for subtitles. Enter your details inside this search box and it will soon bring all desired results to your computer screen. One can also access this site for uploading movie subtitles.
@@ -88,15 +91,14 @@ One more online platform for downloading wide range of subtitles and the best th
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -104,3 +106,25 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-secrets-to-successful-twitpicingvideo-edition/"><u>[New] 2024 Approved Secrets to Successful Twitpicing—Video Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-5-tips-for-enhancing-roblox-gaming-recordings-mac-for-2024/"><u>[New] 5 Tips for Enhancing Roblox Gaming Recordings (Mac) for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-capturing-history-securely-saving-old-printed-images/"><u>[New] Capturing History Securely Saving Old Printed Images</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-captivate-with-these-14-astonishing-text-animations/"><u>[Updated] Captivate with These 14 Astonishing Text Animations</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-gradual-volume-curve-of-audio-reduction-in-fl-studio/"><u>[Updated] The Gradual Volume Curve of Audio Reduction in FL Studio</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-visionary-voices-triumph-online/"><u>[Updated] Visionary Voices Triumph Online</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-insights-into-instagram-an-in-depth-analysis-guide-for-professionals/"><u>2024 Approved Insights Into Instagram An In-Depth Analysis Guide for Professionals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audit-your-finances-establishing-podcast-expenses/"><u>Audit Your Finances Establishing Podcast Expenses</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/digital-image-synergy-tactics/"><u>Digital Image Synergy Tactics</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-svchostexe-overusing-system-resources-on-windows-11/"><u>Effective Fixes for svchost.exe Overusing System Resources on Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/effortless-storytelling-using-pixiz-for-photo-videos/"><u>Effortless Storytelling Using Pixiz for Photo Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-digital-engagement-through-tighter-zoomed-scenes/"><u>Enhancing Digital Engagement Through Tighter Zoomed Scenes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-step-by-step-guide-to-perfecting-the-art-of-podcast-naming/"><u>In 2024, A Step-by-Step Guide to Perfecting the Art of Podcast Naming</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-segmentviewer-study-notes/"><u>In 2024, SegmentViewer Study Notes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pro-iphone-tricks-for-stunning-reflection-shots/"><u>Pro iPhone Tricks for Stunning Reflection Shots</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-vivo-x-flip-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Vivo X Flip Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-silent-input-transcription-services/"><u>Ultimate Silent Input Transcription Services</u></a></li>
+</ul></div>
+

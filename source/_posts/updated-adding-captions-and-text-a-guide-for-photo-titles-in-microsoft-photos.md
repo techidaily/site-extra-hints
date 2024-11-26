@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Adding Captions and Text  A Guide for Photo Titles in Microsoft Photos\""
-date: 2024-08-24T22:31:36.935Z
-updated: 2024-08-25T22:31:36.935Z
+date: 2024-11-21T23:05:10.531Z
+updated: 2024-11-25T17:08:24.749Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,10 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
 The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
@@ -62,21 +66,30 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/attach-effects-photos-min.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * To increase or decrease the length of animation time, adjust the slider
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
@@ -84,15 +97,14 @@ To add titles/text to video on Photos in Windows 10 and to make the text move wi
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -100,3 +112,25 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-all-encompassing-review-the-hero4-black-guide/"><u>[New] All-Encompassing Review The Hero4 Black Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/alorant-image-crafting-skilled-thumbnails-created-instantly/"><u>[New] Valorant Image Crafting Skilled Thumbnails Created Instantly</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-professional-thumbnail-tactics-dos-and-donts-guidebook/"><u>[Updated] In 2024, Professional Thumbnail Tactics Do's and Don'ts Guidebook</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-update-to-sonys-premium-blu-ray-player/"><u>2024 Approved Unveiling the Update to Sony’s Premium Blu-Ray Player</u></a></li>
+<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/avoid-wide-text-discrepaninas-tips-and-tricks-for-notebooks/"><u>Avoid Wide Text Discrepaninas: Tips and Tricks for Notebooks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/budgeting-for-effective-youtube-marketing-for-2024/"><u>Budgeting for Effective YouTube Marketing for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-user-experience-with-the-power-of-cookiebot-technology/"><u>Enhance User Experience with the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/game-speed-controls-unveiled-a-comprehensible-guide/"><u>Game Speed Controls Unveiled A Comprehensible Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-start-and-sustain-an-indie-podcast-hit/"><u>How to Start & Sustain an Indie Podcast Hit</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-digital-realms-downloadable-alarm-melodies/"><u>In 2024, Best Digital Realms Downloadable Alarm Melodies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-breaking-down-chromes-multi-tasking-the-pip-experience/"><u>In 2024, Breaking Down Chrome's Multi-Tasking The PIP Experience</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-infinix-hot-30-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Infinix Hot 30 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-freeze-the-frame-choose-the-best-9-gif-recipes-on-windows-systems/"><u>In 2024, Freeze the Frame! Choose the Best 9 GIF Recipes on Windows Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-iphone-cinematography-top-8-tips-for-professional-video-shooting/"><u>Master iPhone Cinematography Top 8 Tips for Professional Video Shooting</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/no-downloads-needed-discover-our-list-of-5-best-online-gif-to-video-services/"><u>No Downloads Needed? Discover Our List of 5 Best Online GIF-to-Video Services</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/strategies-pour-la-maintenance-optimale-de-votre-compte-aomei-guide-complet-en-francais/"><u>Stratégies Pour La Maintenance Optimale De Votre Compte AOMEI: Guide Complet en Français.</u></a></li>
+</ul></div>
+

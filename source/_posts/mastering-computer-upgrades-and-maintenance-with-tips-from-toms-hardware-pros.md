@@ -1,7 +1,7 @@
 ---
 title: Mastering Computer Upgrades and Maintenance with Tips From Tom's Hardware Pros
-date: 2024-11-15T00:32:11.169Z
-updated: 2024-11-16T00:00:25.837Z
+date: 2024-11-20T18:46:35.638Z
+updated: 2024-11-25T21:50:26.122Z
 tags:
   - desktop
 categories:
@@ -35,6 +35,10 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
  Lastly, the new Legion systems come with a standard 32GB DDR5-5600 dual-channel RAM and 1TB[PCIe Gen4 storage](https://www.tomshardware.com/reviews/best-ssds,3891.html) . Again, upgrades shouldn’t be a problem in the future with SODIMMs presumably used for RAM, and two M.2 slots and two SATA ports available for storage.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -62,23 +66,21 @@ Lenovo has launched a new series of gaming desktops powered by laptop CPUs. PCs 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-converting-moments-into-art-gopro-studios-time-lapse-blueprint/"><u>[New] Converting Moments Into Art GoPro Studio's Time Lapse Blueprint</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-steps-to-acquire-free-and-safe-vlc-player-on-a-mac-computer/"><u>[New] Steps to Acquire Free and Safe VLC Player on a Mac Computer</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-on-maximizing-adobes-cloud-storage-capabilities-and-top-contenders/"><u>[Updated] Expert Tips on Maximizing Adobe's Cloud Storage Capabilities and Top Contenders</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-facebooks-2023-vision-mastering-the-art-of-short-videos-for-2024/"><u>[Updated] Facebook's 2023 Vision Mastering the Art of Short Videos for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-5-gif-to-video-converters-online-no-need-to-download/"><u>2024 Approved Best 5 GIF to Video Converters Online [No Need to Download]</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/birthstones-and-emojis-tailoring-your-whatsapp-profile-by-sign-for-2024/"><u>Birthstones and Emojis Tailoring Your WhatsApp Profile by Sign for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/capture-the-thrill-choosing-superior-cam-accessories/"><u>Capture the Thrill Choosing Superior Cam Accessories</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comprerante-guide-to-sierras-cloud-file-accessibility/"><u>Comprerante Guide to Sierra's Cloud File Accessibility</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-iphone-12-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from iPhone 12? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mov-playback-issues-on-samsung-galaxy-f14-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV playback issues on Samsung Galaxy F14 5G</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-tips-how-to-successfully-update-rndis-usb-networking-drivers-for-windows-users/"><u>Troubleshooting Tips: How to Successfully Update RNDIS USB Networking Drivers for Windows Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-remedying-loss-of-color-contrast-in-online-video-playback/"><u>[New] In 2024, Remedying Loss of Color Contrast in Online Video Playback</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/acid-pro-evaluation-finding-reliable-counterparts/"><u>ACID Pro Evaluation Finding Reliable Counterparts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-lg-channels-essential-tips-and-insights-uncovered/"><u>Decoding LG Channels: Essential Tips and Insights Uncovered</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/diving-deep-into-gopro-variants-comprehensive-guide/"><u>Diving Deep Into Gopro Variants Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-electronics-from-toms-gear-hub/"><u>Expert Insights on Electronics From Tom's Gear Hub</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/harnessing-windows-10-tools-for-exquisite-video-editing/"><u>Harnessing Windows 10 Tools for Exquisite Video Editing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/humor-haven-memes-for-iphones/"><u>Humor Haven Memes for iPhones</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-infinix-note-30-vip-racing-edition-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Infinix Note 30 VIP Racing Edition for Streaming | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/inside-chatgpt-enterprise-what-it-provides-how-it-stands-out-and-why-companerates-need-it/"><u>Inside ChatGPT Enterprise: What It Provides, How It Stands Out, and Why Companerates Need It</u></a></li>
+<li><a href="https://win11.techidaily.com/launch-into-productivity-must-have-ms-store-picks/"><u>Launch Into Productivity: Must-Have MS Store Picks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-10-models-premier-4k-dslr-shoulder-rigs/"><u>Leading 10 Models Premier 4K DSLR Shoulder Rigs</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-realme-gt-5-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Realme GT 5 Pro – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/um-video-recorder-for-cutting-edge-youtube-content/"><u>Premium Video Recorder for Cutting-Edge YouTube Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/solving-movie-editing-queries-with-filmora-guidance/"><u>Solving Movie-Editing Queries with Filmora Guidance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-apple-techniques-for-high-quality-interviews-on-air/"><u>Step-by-Step Apple Techniques for High-Quality Interviews on Air</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

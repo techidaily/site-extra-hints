@@ -1,7 +1,7 @@
 ---
 title: "\"Beyond Spectacle  Delving Into VR's Negatives\""
-date: 2024-11-11T16:31:32.654Z
-updated: 2024-11-16T06:39:56.777Z
+date: 2024-11-24T21:49:22.284Z
+updated: 2024-11-25T20:35:27.680Z
 tags: 
   - screen-recording
   - ai video
@@ -32,15 +32,16 @@ thumbnail: https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a4
 _[Differences between VR, AR and MR](https://tools.techidaily.com/wondershare/filmora/download/)_
 _[Virtual Reality Technology: Current State and Future Challenges](https://tools.techidaily.com/wondershare/filmora/download/)_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The equipment used for VR is very expensive
 
  Of course with any early stage technology, there are a host of issues to overcome among the first is cost for consumers to participate. Many systems run between $100 and $600 and we have not yet discussed the cost of purchasing experiences or games.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Low resoultion content, large file size
@@ -64,10 +65,7 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
  There is an addictive quality of Virtual Reality environments that should not be ignored. Those who are regular users of these spaces, even in its developmental state find that it can be hard to stay away. Users find themselves in some cases, preferring the virtual world to the real one. If these anecdotal experiences are being reported by a very small sample size what will be the impact on entire cultures that embrace this technology? Considerations of Virtual Reality must extend into the world of human activity and definitions of normal behavior. And as a reminder most of us who love science fiction have a sense of what true Virtual Reality really is. It should be clear that we are a very long way from enjoying the holodeck.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Video Editor: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -75,19 +73,13 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -105,22 +97,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-14-top-metaverse-initiatives-revealing-potential-futures/"><u>[New] 14 Top Metaverse Initiatives Revealing Potential Futures</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-from-raw-feedback-a-critical-review-of-top-video-editors-for-youtube/"><u>[New] In 2024, From Raw Feedback A Critical Review of Top Video Editors for YouTube</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-trusted-picks-best-5-videographer-software-tools/"><u>[New] In 2024, Trusted Picks Best 5 Videographer Software Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-gathering-of-heartfelt-weddings-youtube-and-vimeo-edition/"><u>[New] The Ultimate Gathering of Heartfelt Weddings - Youtube & Vimeo Edition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-chirping-cha-cha-charade/"><u>[Updated] Chirping Cha-Cha Charade</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-advanced-techniques-for-screen-recorders-in-video-games/"><u>[Updated] In 2024, Advanced Techniques for Screen Recorders in Video Games</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-journey-through-high-definition-with-lgs-31mu97-b-screen-review/"><u>[Updated] In 2024, Journey Through High Definition with LG’s 31MU97-B Screen Review</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/free-lut-strategies-for-enhancing-ar-experiences/"><u>Free LUT Strategies for Enhancing AR Experiences</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-image-quality-hero5-black-vs-sjcam-sj7/"><u>In 2024, Advanced Image Quality Hero5 Black Vs SJCAM SJ7</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-aviation-tech-syma-x8cs-capabilities/"><u>In 2024, Aviation Tech Syma X8C's Capabilities</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-how-to-create-and-grow-an-online-space-for-beauty-product-reviews/"><u>In 2024, How To Create and Grow an Online Space for Beauty Product Reviews</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-silent-notifications-expert-tips-for-reactivating-your-iphones-ringtones/"><u>Overcoming Silent Notifications: Expert Tips for Reactivating Your iPhone's Ringtones</u></a></li>
-<li><a href="https://blog-min.techidaily.com/schlank-konvertieren-sie-ihre-dvds-in-hochwertiges-h265-mp4-fur-streaming-gratis-gerecht-werden-sie-hierbei/"><u>Schlank Konvertieren Sie Ihre DVDs in Hochwertiges H.265 MP4 Für Streaming - Gratis! Gerecht Werden Sie Hierbei!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-artisans-guide-to-picture-in-picture-videos-on-macos-systems/"><u>The Artisan's Guide to Picture in Picture Videos on macOS Systems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-artisans-path-to-precision-zooming-on-kinemaster/"><u>The Artisan’s Path to Precision Zooming on Kinemaster</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-tracks-for-a-professional-unboxing-presentation/"><u>Top Tracks for a Professional Unboxing Presentation</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-step-by-step-guide-to-harnessing-the-power-of-morphvox-in-virtual-worlds/"><u>Updated 2024 Approved Step-by-Step Guide to Harnessing the Power of Morphvox in Virtual Worlds</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-immersion-redefined-vrs-cinematic-promise/"><u>[New] 2024 Approved Immersion Redefined VR's Cinematic Promise</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-captivating-video-characters-through-free-animation/"><u>[New] Captivating Video Characters Through Free Animation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-case-study-approach-learning-from-successful-market-research-examples/"><u>[Updated] Case Study Approach Learning From Successful Market Research Examples</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-ideal-tools-for-secure-vimeo-downloads-for-2024/"><u>[Updated] Ideal Tools for Secure Vimeo Downloads for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-enhancing-video-top-10-text-techniques/"><u>[Updated] In 2024, Enhancing Video Top 10 Text Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-methods-to-revamp-grades-in-photoshop/"><u>[Updated] Top Methods to Revamp Grades in Photoshop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-video-production-windows-11s-moviemaker-toolkit/"><u>Cutting-Edge Video Production Windows 11'S Moviemaker Toolkit</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-5-secrets-to-successful-and-memorable-titles/"><u>In 2024, 5 Secrets to Successful and Memorable Titles</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-light-and-shadow-with-iphone-xs-new-lens-technology/"><u>Mastering Light & Shadow with iPhone X's New Lens Technology</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premier-tools-for-image-transformation-framecraft-pro-for-2024/"><u>Premier Tools for Image Transformation FrameCraft Pro for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210406359-9781786786111-signposts-of-the-spiritual-journey/"><u>Signposts of the Spiritual Journey | Free Book</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-drone-selection-above-9-best-for-cinematic-craft/"><u>Ultimate Drone Selection Above 9 Best for Cinematic Craft</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-savings-on-new-macbook-air-presidents-day-special-offer-with-300-discount-in-2n3/"><u>Unlock Savings on New MacBook Air - President's Day Special Offer with $300 Discount in 2N3!</u></a></li>
 </ul></div>
 

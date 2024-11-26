@@ -1,7 +1,7 @@
 ---
 title: "Experience Next-Gen Performance From Lenovo's International Yoga AI Mini Desktop: 3.7L Capacity, Innovative Intel CPUs, and Classic ThinkCentre Design Elegance"
-date: 2024-11-09T08:47:22.166Z
-updated: 2024-11-16T12:40:32.393Z
+date: 2024-11-19T16:10:53.842Z
+updated: 2024-11-26T00:02:26.065Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/ddf4423afddb9cc05befc8c29dab68251d9067205
 
  The case itself looks like a conventional carrying case. The outer shell appears to be hard plastic, with metal supporting rails filling the lips of the case. The case features two latching mechanisms and a mechanism to attach a lock for[security](https://www.tomshardware.com/tag/security) . You can transport the travel case by rolling it on its two wheels or with another handle that allows you to carry it like a briefcase.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -54,23 +58,24 @@ thumbnail: https://thmb.techidaily.com/ddf4423afddb9cc05befc8c29dab68251d9067205
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-close-up-mastery-in-video-production-via-videoleap/"><u>[New] Close-Up Mastery in Video Production via Videoleap</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-prospective-leaders-in-titling-the-top-5-online-masters-revealed/"><u>[New] Prospective Leaders in Titling The Top 5 Online Masters Revealed</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/exploring-the-world-of-animated-image-design/"><u>Exploring the World of Animated Image Design</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gopro-studio-secrets-building-professional-time-lapses-for-2024/"><u>GoPro Studio Secrets Building Professional Time Lapses for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-creating-spectacle-of-space-transition/"><u>In 2024, Creating Spectacle of Space Transition</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-full-potential-of-googles-podcast-tools/"><u>In 2024, Unlocking the Full Potential of Google's Podcast Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/perfect-5-monitors-to-boost-your-ps5/"><u>Perfect 5 Monitors to Boost Your PS5</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-cold-weather-spectacle-of-beijing-2022/"><u>The Cold-Weather Spectacle of Beijing 2022</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/troubleshooting-why-is-ffxiv-for-pc-frequently-freezing-or-crashing/"><u>Troubleshooting: Why Is FFXIV for PC Frequently Freezing or Crashing?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultimate-video-transcoder-suite-convert-mpeg-avi-mov-and-more-with-factory-software-for-top-results/"><u>Ultimate Video Transcoder Suite - Convert MPEG, AVI, MOV, and More with Factory Software for Top Results</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-an-easy-way-to-amplify-your-instagram-presence-by-sharing-youtube-links-in-stories/"><u>[New] An Easy Way to Amplify Your Instagram Presence by Sharing YouTube Links in Stories</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-ringtone-riches-where-to-acquire-vintage-melodies-online/"><u>[New] Ringtone Riches Where to Acquire Vintage Melodies Online</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/kyrocket-engagement-key-seo-strategies-for-youtube-videos-for-2024/"><u>[New] Skyrocket Engagement Key SEO Strategies for YouTube Videos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-snapshots-of-life-compreenasive-guide-to-capturing-the-journey-of-playing-sims-4/"><u>[New] Snapshots of Life Compreenasive Guide to Capturing the Journey of Playing Sims 4</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-essentials-of-setting-up-and-assessing-fb-instream-ad-efficacy-for-2024/"><u>[New] The Essentials of Setting Up & Assessing FB Instream Ad Efficacy for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-mastering-green-screen-techniques-in-kinemaster-a-step-by-step-guide/"><u>[Updated] 2024 Approved Mastering Green Screen Techniques in Kinemaster - A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-advanced-ai-for-professional-photography/"><u>[Updated] Advanced AI for Professional Photography</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-advanced-subtitling-mastering-the-art-of-srt-editing-on-apple-systems/"><u>[Updated] Advanced Subtitling Mastering the Art of SRT Editing on Apple Systems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ultimate-7-virtual-marksmen-battles/"><u>2024 Approved Ultimate 7 Virtual Marksmen Battles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/avoidance-of-unplanned-pauses-during-photobooth-sessions/"><u>Avoidance of Unplanned Pauses During Photobooth Sessions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creating-nfts-made-simple-a-starters-manual/"><u>Creating NFTs Made Simple A Starter's Manual</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ideal-pixel-gatherings-unique-ringtone-repository/"><u>Ideal Pixel Gatherings Unique Ringtone Repository</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-honor-magic-vs-2-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Honor Magic Vs 2 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-a-resume-that-shines-in-design-industry/"><u>In 2024, Crafting a Resume that Shines in Design Industry</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/no-hassle-just-happiness-effortless-video-edits-on-windows-10/"><u>No Hassle, Just Happiness Effortless Video Edits on Windows 10</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/perfecti-the-ultimate-guide-to-iphone-slideshows-xr-i/"><u>Perfecti The Ultimate Guide to iPhone Slideshows (XR-I)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/reimagining-received-gifts-the-joy-of-openness/"><u>Reimagining Received Gifts The Joy of Openness</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/superior-sd-card-compatible-with-a7s-ii/"><u>Superior SD Card Compatible with A7S II</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

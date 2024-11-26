@@ -1,7 +1,7 @@
 ---
 title: "Amazon Echo (4Gen): A Breakdown of Key Upgrades and Revamped Features"
-date: 2024-11-09T09:21:14.969Z
-updated: 2024-11-16T12:40:23.645Z
+date: 2024-11-20T22:48:00.238Z
+updated: 2024-11-25T16:16:19.904Z
 categories:
   - BestProducts
 description: "This Article Describes Amazon Echo (4Gen): A Breakdown of Key Upgrades and Revamped Features"
@@ -13,9 +13,17 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Amazon Luna
 
 ![Amazon Luna](https://www.lifewire.com/thmb/D9MecP2109T2iYhabM0CPBRirFA=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_Hero_Square-cced3e5a3d3e4d24af1b85a59c76932d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -85,13 +93,6 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/jNDwaMGOVuF5UIISPsmdb5uQdGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_04-985a4419a93945d2879b09d61fafae5a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Jeremy Laukkonen
 
  In addition to the offset analog sticks, the Luna controller also features a fairly standard array of buttons. A somewhat mushy directional pad sits below the left analog stick, and four familiar face buttons sit above the right stick. The triggers are fairly shallow but feel responsive, and shoulder buttons are easily accessed without moving your fingers off the triggers. In addition to the standard array, the Luna controller also includes a microphone button to access Alexa.
@@ -112,24 +113,15 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/6427gP-MSnqe4st8hfuI-7yxlos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_03-f12a92bc606e43caa77b445a2fdcf1c1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Jeremy Laukkonen
 
  If you do opt to link your controller to your Amazon account when you buy it, and you already own other Amazon devices like[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) that are connected to your Wi-Fi connection, then you can take advantage of Amazon’s Wi-Fi simple setup that shaves some time off the setup process. Otherwise, you just use the Luna controller app on your Android or iPhone to hook the controller up to Wi-Fi.
 
  After the initial setup process, your Luna controller is ready to go regardless of platform. Power on the controller, launch the Luna app or website, and everything automatically connects without any additional work or input.
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Performance: Impressive game streaming, but no 4K
 
@@ -163,6 +155,10 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NBB1N6qtwbtdjrUgwr1YaBaTuBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_02-37837bf860d244d3ab11ff01f37c609c-db472e204ada4ccca88e7510eacfae34.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Jeremy Laukkonen
 
  For some reason, the fighting category is populated by titles like the rogue-like shooter Everspace and the co-op brawler River City Girls. No actual fighting games, though. The horror category was empty until Amazon scored Resident Evil 7 Gold Edition and also saddled gorefest pixel art platformer Valfaris with the horror tag.
@@ -170,10 +166,7 @@ Lifewire / Jeremy Laukkonen
  It’s clear that Amazon is working to bring a nice mix of games to the service, but the depth and breadth of the titles you can access with a basic subscription remain the biggest question as Luna moves through beta and toward general launch.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Price: Affordable fee reflects the thin library
@@ -183,10 +176,7 @@ Lifewire / Jeremy Laukkonen
  The Luna controller has a heftier price tag of $50, but that’s actually pretty reasonable if you compare it to other wireless controllers. It’s cheaper than a lot of the other options, and you can use it via Wi-Fi with Luna, or via Bluetooth or USB-C to play non-Luna games on your PC. All in all, it’s a good controller that’s priced competitively.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Amazon Luna vs. Microsoft Game Pass Ultimate
@@ -206,19 +196,6 @@ Lifewire / Jeremy Laukkonen
 **A solid game streaming service.**
 
  Amazon Luna is an impressive game streaming service that works surprisingly well whether or not you buy the optional controller. It isn’t perfect, and you’re likely to experience hiccups here and there, but it’s an extremely affordable way to experience dozens of games, many of which would otherwise require an expensive gaming PC or console, without any kind of initial investment. The future of the service remains uncertain, and the precedent of locking Ubisoft games behind an expensive additional paywall isn’t a great sign, but Amazon has a chance to make a real splash in the gaming world with Luna.
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -256,18 +233,16 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-beyond-popularity-metrics-understanding-trillers-distinct-features/"><u>[Updated] Beyond Popularity Metrics Understanding Triller's Distinct Features</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unleashing-potential-the-best-seo-practices-for-your-youtube-videos/"><u>[Updated] In 2024, Unleashing Potential The Best SEO Practices for Your YouTube Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-6-comprehensive-metaverse-scenarios/"><u>2024 Approved Unveiling 6 Comprehensive Metaverse Scenarios</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/essential-tips-for-snapchat-enterprise-marketing/"><u>Essential Tips for Snapchat Enterprise Marketing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/framing-fantasy-elite-tips-for-elevating-your-photography/"><u>Framing Fantasy Elite Tips for Elevating Your Photography</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/graphics-relic-package-for-2024/"><u>Graphics Relic Package for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-augment-your-design-abilities-the-10-most-powerful-android-graphics-tools/"><u>In 2024, Augment Your Design Abilities The 10 Most Powerful Android Graphics Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-chortlechamps-excellent-platforms-for-hilarious-tones/"><u>In 2024, ChortleChamps Excellent Platforms for Hilarious Tones</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/lgs-ultrafine-4k-display-unpacked-a-detailed-analysis/"><u>LG's UltraFine 4K Display Unpacked A Detailed Analysis</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-logo-design-10-keys-to-podcast-prominence/"><u>Mastering Logo Design 10 Keys to Podcast Prominence</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-stalls-in-pathfinder-wrath-of-the-righteous-for-windows-gaming-experience/"><u>Resolving Stalls in Pathfinder: Wrath of the Righteous for Windows Gaming Experience</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolving-startech-printer-driver-complications-on-windows-10-8-and-7/"><u>Resolving StarTech Printer Driver Complications on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://common-error.techidaily.com/unlocking-secure-access-fixing-windows-hello-availability-on-windows-11-devices/"><u>Unlocking Secure Access: Fixing Windows Hello Availability on Windows 11 Devices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-power-of-branding-in-video-ranks-and-traffic/"><u>[Updated] 2024 Approved The Power of Branding in Video Ranks and Traffic</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-ignite-your-startups-growth-with-these-top-social-media-tips/"><u>[Updated] In 2024, Ignite Your Startup's Growth with These Top Social Media Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-20plus-free-business-slideshow-templates-makers-and-ideas/"><u>2024 Approved 20+ Free Business Slideshow Templates, Makers, and Ideas</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-blend-into-black-premiere-pro-trick/"><u>2024 Approved Blend Into Black Premiere Pro Trick</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-canon-image-masters-10plus-luts-some-are-free/"><u>2024 Approved Canon Image Masters - 10+ LUTs, Some Are Free</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/from-iciness-to-comfort-five-warm-backdrops-ideas/"><u>From Iciness to Comfort Five Warm Backdrops Ideas</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-samsung-phone-debugging-software-get-the-right-driver-here/"><u>Latest Samsung Phone Debugging Software: Get the Right Driver Here</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-11-best-free-mp4-video-cutters/"><u>New Top 11 Best Free MP4 Video Cutters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/podcastpathfinder-moving-past-dacast/"><u>PodcastPathfinder Moving Past DaCast</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/prestigious-top-8-sites-combining-vivid-3d-graphics-and-luxe-text/"><u>Prestigious Top 8 Sites Combining Vivid 3D Graphics & Luxe Text</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-eyewear-challenge-google-vs-samsung-virtual-reality/"><u>The Eyewear Challenge Google Vs. Samsung Virtual Reality</u></a></li>
 </ul></div>
 

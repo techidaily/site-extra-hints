@@ -1,7 +1,7 @@
 ---
 title: "Miniature Movie Dialogue Draft"
-date: 2024-11-02T18:47:33.069Z
-updated: 2024-11-05T17:34:58.181Z
+date: 2024-11-24T20:32:24.472Z
+updated: 2024-11-26T00:15:41.922Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,10 @@ This is always, always, the number one problem for my screenwriting students. Th
 
 **_My Josephine_** was inspired by "an image of two people's legs hanging over a table in my head," according to Barry Jenkins. I saw them, young and intimate, working the night shift in a 24-hour laundry." Even with this small, simple, and significant image as a starting point for a short script, Barry struggled to find a story in six pages that he could tell well. He attempted to include the murder in the Laundromat at one point, which resulted in, yes, narrative cramming. Barry rewrote the script a year later and "made it as simple as I could as a writer," he told me. I was so moved by his transcript that I only wrote three words in the script – “Beautiful and gentle”. Just like his beautiful film.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Characterization
 
 Writing compelling short scripts requires what Thornton Wilder called "shortcuts to the imagination." And knowing what your main character wants in your story is the most important shortcut to understanding and discovering who your main character is. So, give your main character a desire or yearning for something that matters deeply to her. Then let your story flow from your character's efforts to achieve that wish. The best stories, short or long, are about the human heart.
@@ -43,6 +47,10 @@ Writing compelling short scripts requires what Thornton Wilder called "shortcuts
 It's also a useful way to think of the script as an energy system, as William Gibson brilliantly says in Shakespeare's play. An energy system begins with an Inciting Incident - a significant event/discovery that unleashes the energy system - and ends with a Climax - the moment when the story's outcome is known, and the energy system ends. Given the limited number of pages available in your short script, it's essential that your inciting incident appears on the first page.
 
 ![an independent story](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Conflict
 
@@ -55,10 +63,7 @@ Instead, screenwriters are tasked with presenting the conflict on screen through
 ![conflict](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Turning Point
@@ -72,6 +77,10 @@ If you want to see a well-crafted surface and deep action/character arc in a fif
 Scenes are the **"church of drama"**, as William Gibson also brilliantly says. So, it's helpful to think of your scenes as the time and place where a significant moment of change will occur, throwing your script into the next scene and moving your story forward. That is your purpose when you write a scene, to dramatize the moment (or moments) of change. That's what matters. I like to think of a scene as an oyster and a moment of change as a pearl. Then cut to your scenes as close to the moment of change as possible and exit as soon as possible.
 
 I got it, really got it, as a young playwright when the Actors Theater of Louisville commissioned me to write a ten-minute play. And I did—in six scenes that I hit late and left early, each with a small but significant moment of change that moved the story into the next scene. “A tender and effortless glissando that gracefully stretches from moment to wistful moment,” as The Los Angeles Times put it in my all-time favorite review.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Ending
 
@@ -88,13 +97,6 @@ Have you ever stored various videos and photos on a memory card or on a computer
 **Make a short film with [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) Easy Movie Maker**.
 
 Below, we will show you have to use this easy movie maker to create a video with Filmora in clicks.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Import your files and arrange the order
 
@@ -130,16 +132,13 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
 
 </article
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Characterization
 
 Writing compelling short scripts requires what Thornton Wilder called "shortcuts to the imagination." And knowing what your main character wants in your story is the most important shortcut to understanding and discovering who your main character is. So, give your main character a desire or yearning for something that matters deeply to her. Then let your story flow from your character's efforts to achieve that wish. The best stories, short or long, are about the human heart.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. An independent story
 
@@ -148,17 +147,11 @@ It's also a useful way to think of the script as an energy system, as William Gi
 ![an independent story](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Conflict
@@ -178,10 +171,7 @@ It's helpful to think of a screenplay as a pattern of significant human change t
 If you want to see a well-crafted surface and deep action/character arc in a fifteen-page script, read Chapter 17 _"Killer Kart"_ in the book Making Short Scripts That Connect 5e, and screen the movie on the book's website. It's no surprise that the film is the most screened film ever made at the FSU Film School.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Sublimation
@@ -190,19 +180,6 @@ Scenes are the **"church of drama"**, as William Gibson also brilliantly says. S
 
 I got it, really got it, as a young playwright when the Actors Theater of Louisville commissioned me to write a ten-minute play. And I did—in six scenes that I hit late and left early, each with a small but significant moment of change that moved the story into the next scene. “A tender and effortless glissando that gracefully stretches from moment to wistful moment,” as The Los Angeles Times put it in my all-time favorite review.
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Ending
 
 The end of a script is often more important than the 90 pages that preceded it. Because of the magnitude of its importance, many writers struggle to close their scripts with the right resolution. But don't worry, we'll show you everything you need to know about how to end a storyboard with examples of basic storyboard formats from Star Wars: **_The Force Awakens_** and [**_The Big Short_**](https://www.imdb.com/title/tt1596363/). We will discuss the technical aspects of writing THE END into scripts. By the end, you'll have a good understanding of the formatting requirements for how to end the script.
@@ -210,6 +187,10 @@ The end of a script is often more important than the 90 pages that preceded it. 
 **Example Script Defining Above Tips**
 
 ![example script defining](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. How to edit your short film?
 
@@ -226,10 +207,7 @@ Open Wondershare Filmora, click the "Import" button, and use the navigation impo
 ![import files and arrange order](https://images.wondershare.com/filmora/article-images/2022/08/short-film-script-example-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Making stunning short films with various Effects & Filters
@@ -282,18 +260,24 @@ Don't be afraid to start writing your next (or first) short film! It might seem 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-effective-youtube-banners-pros-and-cons-to-avoid/"><u>[New] 2024 Approved Effective YouTube Banners Pros and Cons to Avoid</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-from-novice-to-pro-expert-tips-for-spotifys-advertisers/"><u>[New] In 2024, From Novice to Pro Expert Tips for Spotify's Advertisers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-understanding-instagrams-video-length-cap/"><u>[New] Understanding Instagram's Video Length Cap</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-unlocking-the-potential-of-audacitys-audio-features/"><u>[New] Unlocking the Potential of Audacity's Audio Features</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nveil-the-secrets-of-adventure-with-these-vids/"><u>[New] Unveil the Secrets of Adventure with These Vids</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-foremost-recommendations-audio-customization-pros/"><u>[Updated] Foremost Recommendations Audio Customization Pros</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-webcam-technology-boosting-audio-fidelity/"><u>2024 Approved Best Webcam Technology Boosting Audio Fidelity</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-broadcast-your-google-meet-directly-to-youtubes-stage/"><u>2024 Approved Broadcast Your Google Meet Directly to YouTube's Stage</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-breakdown-of-theta-s-specifications/"><u>2024 Approved Comprehensive Breakdown of Theta S Specifications</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-creating-a-calm-sequence-the-art-of-reducing-sound-in-pp/"><u>2024 Approved Creating a Calm Sequence The Art of Reducing Sound in PP</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/3-pinnacle-phones-for-professional-video-capture/"><u>3 Pinnacle Phones for Professional Video Capture</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210877160-9781601639547-northern-tradition-for-the-solitary-practitioner/"><u>Northern Tradition for the Solitary Practitioner | Free Book</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/streamline-apples-qtp-file-flaws-stellar-ways/"><u>Streamline Apple's QTP File Flaws - Stellar Ways</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ntique-cinematography-in-the-digital-realm-for-2024/"><u>[New] Antique Cinematography in the Digital Realm for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-adaptive-strategies-for-successful-content-on-new-fb-algorithm/"><u>[Updated] 2024 Approved Adaptive Strategies for Successful Content on New FB Algorithm</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-staying-positive-in-the-face-of-internet-skeptics/"><u>[Updated] 2024 Approved Staying Positive in the Face of Internet Skeptics</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/digital-dreamlands-next-gen-movie-magic-for-2024/"><u>Digital Dreamlands Next-Gen Movie Magic for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/economical-immersion-top-vr-options-reviewed/"><u>Economical Immersion: Top VR Options Reviewed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expertise-in-app-performance-review/"><u>Expertise in App Performance Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/face-fluidity-adding-dynamic-blur-to-photos-via-picsart/"><u>Face Fluidity Adding Dynamic Blur to Photos via Picsart</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/first-flight-experience-the-best-beginner-drones/"><u>First Flight Experience The Best Beginner Drones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fond-memories-old-phone-xxs-photography/"><u>Fond Memories Old Phone Xx's Photography</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/grasping-the-advantages-of-av1-in-video-coding/"><u>Grasping the Advantages of AV1 in Video Coding</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-13-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 13 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-straightforward-approach-to-image-distortion/"><u>In 2024, A Straightforward Approach to Image Distortion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-testimonial-videos-the-social-proof-powerhouse/"><u>In 2024, Testimonial Videos The Social Proof Powerhouse</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimal-storage-savings-for-the-digital-age/"><u>Optimal Storage Savings for the Digital Age</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-guide-how-to-fast-track-dell-g7-driver-refreshes/"><u>Quick Guide: How to Fast-Track Dell G7 Driver Refreshes</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/techniques-to-enhance-your-slow-motion-photos-for-instagram-audiences/"><u>Techniques to Enhance Your Slow Motion Photos for Instagram Audiences</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-live-performances-best-audio-platforms/"><u>Top Live Performances Best Audio Platforms</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-oddworld-soulstorm-on-windows-ultimate-guide-to-stability/"><u>Troubleshooting Oddworld: Soulstorm on Windows – Ultimate Guide to Stability</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleash-clean-visuals-step-by-step-guide-to-backdrop-erasure/"><u>Unleash Clean Visuals Step-By-Step Guide to Backdrop Erasure</u></a></li>
 </ul></div>
 

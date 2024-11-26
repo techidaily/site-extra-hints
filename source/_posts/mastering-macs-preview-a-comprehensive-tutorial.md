@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Mac's Preview  A Comprehensive Tutorial\""
-date: 2024-11-10T07:56:37.682Z
-updated: 2024-11-16T02:33:05.862Z
+date: 2024-11-20T22:13:57.150Z
+updated: 2024-11-26T00:32:11.451Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,10 @@ The **Preview app** is a built-in program in macOS, and works as a default viewe
 
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
@@ -37,10 +41,7 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
@@ -115,19 +116,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -143,19 +131,6 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -174,10 +149,7 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Save Images in Different Formats
@@ -191,6 +163,10 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -226,6 +202,10 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -241,16 +221,14 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-mastering-the-art-of-twitters-live-video-engagement/"><u>[Updated] 2024 Approved Mastering the Art of Twitter's Live Video Engagement</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-aim-for-perfection-selecting-superior-hd-live-streaming-equipment/"><u>[Updated] Aim for Perfection Selecting Superior HD Live-Streaming Equipment</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/1-how-to-safely-transfer-your-cloned-drive-from-a-dynamic-disk-to-an-hdd-or-ssd-without-losing-any-files-in-windows-7/"><u>1. How to Safely Transfer Your Cloned Drive From a Dynamic Disk to an HDD or SSD Without Losing Any Files in Windows 7</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fuse-sounds-with-slides-a-guide-to-mp3-integration-for-2024/"><u>Fuse Sounds with Slides A Guide to MP3 Integration for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-streaming-equipment-for-broadcasters/"><u>In 2024, Advanced Streaming Equipment for Broadcasters</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-crash-free-editing-tips-and-tricks-for-a-stable-final-cut-pro-x-experience/"><u>In 2024, Crash-Free Editing Tips and Tricks for a Stable Final Cut Pro X Experience</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-6s-plus-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 6s Plus Lock Screen with Notifications?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/quick-and-easy-apods-episodes-access-on-gadgets/"><u>Quick and Easy APods Episodes Access on Gadgets</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/select-selections-ideal-pages-for-acquiring-snapalert-tunes/"><u>Select Selections Ideal Pages for Acquiring SnapAlert Tunes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tailoring-audio-alerts-setting-custom-ringtones-and-sounds-on-android-devices/"><u>Tailoring Audio Alerts Setting Custom Ringtones & Sounds on Android Devices</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-big-four-in-social-networking-navigating-facebook-twitter-instagram-and-youtube/"><u>The Big Four in Social Networking: Navigating Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-precision-of-portioning-video-length-optimization-on-youtube/"><u>[Updated] The Precision of Portioning Video Length Optimization on YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-fresh-take-on-samsungs-ultrablade-k850-review-for-2024/"><u>A Fresh Take on Samsung’s UltraBlade K850 Review for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ace-selfies-10-top-ranked-face-modifications-on-iphonessamsungs/"><u>Ace Selfies 10 Top-Ranked Face Modifications on iPhones/Samsungs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/complete-directors-guide-to-powerdirector-24-software-for-2024/"><u>Complete Director's Guide to PowerDirector '24 Software for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-analysis-of-samsungs-2023-photo-enhancement-suite/"><u>Expert Analysis of Samsung’s 2023 Photo Enhancement Suite</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-realme-c33-2023-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/is-your-iphone-11-pro-max-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 11 Pro Max in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-reopen-nvidia-control-panel-in-win-11/"><u>Steps to Reopen Nvidia Control Panel in Win 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/tracking-behind-the-scenes-keeping-social-media-favorites-free/"><u>Tracking Behind the Scenes: Keeping Social Media Favorites Free</u></a></li>
 </ul></div>
 

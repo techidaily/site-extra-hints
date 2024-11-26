@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capturing the Illusion  IPhone Tricks for Reflection Photography\""
-date: 2024-08-24T22:30:00.628Z
-updated: 2024-08-25T22:30:00.628Z
+date: 2024-11-24T20:43:28.576Z
+updated: 2024-11-25T21:16:00.092Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/c68e5dfe066870e624209e946a88b5eb21db8406c
 
  So let's get snapping!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tips For Perfect Reflective Photography With Your iPhone
 
 #### 1\.  The Surface
@@ -48,9 +52,17 @@ thumbnail: https://thmb.techidaily.com/c68e5dfe066870e624209e946a88b5eb21db8406c
 
 ![reflection-photography-for-iPhone](https://images.wondershare.com/filmora/article-images/crystal-ball.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Water in a wine glass (turns everything upside down too!)
 
 ![water-reflection](https://images.wondershare.com/filmora/article-images/water-reflection.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\.  Pay Attention to Composition
 
@@ -129,11 +141,19 @@ thumbnail: https://thmb.techidaily.com/c68e5dfe066870e624209e946a88b5eb21db8406c
 
 ![photo-reflection-app](https://images.wondershare.com/filmora/article-images/photo-reflection-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're not looking for professional level images then photo reflection is a good choice because it's free! It lacks some of the advanced features of the other apps but great for the very occasional photographer!
 
 #### 4\. [Photo Mirror Effects](https://itunes.apple.com/us/app/photo-reflection/id484604482?mt=8)
 
 ![photo-mirror-effects-reflection-editor](https://images.wondershare.com/filmora/article-images/photo-mirror-effects-reflection-editor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another great choice for getting started with reflective photography. It has some mid range editing features, but this is made up in it's easy of use. Perhaps one of the best free reflective photography apps and you can even share the images directly to your social media feeds.
 
@@ -147,14 +167,26 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-top-10-ideas-for-making-your-podcast-stand-out-visually/"><u>[New] 2024 Approved Top 10 Ideas for Making Your Podcast Stand Out Visually</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-guide-to-unwavering-visual-captures/"><u>[New] A Guide to Unwavering Visual Captures</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-cutting-edge-video-meeting-techniques-on-slack-plus-filmora/"><u>[New] Cutting-Edge Video Meeting Techniques on Slack + Filmora</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-level-tiktok-edits-techniques-that-increase-viewership/"><u>[New] Pro-Level TikTok Edits Techniques That Increase Viewership</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unveiling-how-content-makers-profit-from-shorter-videos/"><u>[Updated] 2024 Approved Unveiling How Content Makers Profit From Shorter Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-all-you-need-to-know-about-adding-apple-music-to-video/"><u>2024 Approved All You Need to Know About Adding Apple Music to Video</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-itel-a70-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Itel A70 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-8-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 8 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-tips-on-blending-real-and-digital-environments-in-webcasts/"><u>Expert Tips on Blending Real and Digital Environments in Webcasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigate-to-8-elite-free-3d-vids-software-companies/"><u>Navigate to 8 Elite Free 3D Vids Software Companies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamline-your-screen-share-with-enhanced-zoom-on-google-meet/"><u>Streamline Your Screen Share with Enhanced Zoom on Google Meet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-brightness-malfunction-solved-steps-to-regain-control/"><u>Windows 10 Brightness Malfunction Solved: Steps to Regain Control</u></a></li>
+</ul></div>
+

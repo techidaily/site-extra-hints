@@ -1,7 +1,7 @@
 ---
 title: "\"Bright Horizons  Pioneering Light in Video Production\""
-date: 2024-08-17T13:49:17.847Z
-updated: 2024-08-18T13:49:17.847Z
+date: 2024-11-24T19:53:04.791Z
+updated: 2024-11-25T17:14:06.539Z
 tags: 
   - screen-recording
   - ai video
@@ -48,11 +48,19 @@ For this tutorial, we will use the Three-Point Lighting technique:
 
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
 
 ##### Step2 Set the Fill Light
 
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
@@ -72,6 +80,10 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
@@ -82,6 +94,10 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Using Key Light + Fill + Backlight**
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
@@ -91,6 +107,10 @@ After setting up all the lighting above, you can take a look at the comparison b
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -124,8 +144,20 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-fresh-perspective-on-sony-blu-ray-s6500-features/"><u>2024 Approved A Fresh Perspective on Sony Blu-Ray S6500 Features</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/accelerated-norwegian-proficiency-minutes-only/"><u>Accelerated Norwegian Proficiency, Minutes Only</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/brush-up-skills-unveiling-the-ultimate-8-iphone-drawing-tools/"><u>Brush Up Skills Unveiling the Ultimate 8 iPhone Drawing Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/converting-tiktok-audio-into-desired-mobile-ringtones/"><u>Converting TikTok Audio Into Desired Mobile Ringtones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/craftsmanship-in-focus-leading-android-collage-tools/"><u>Craftsmanship in Focus – Leading Android Collage Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/find-your-perfect-vlog-title-best-free-name-generators-for-2024/"><u>Find Your Perfect Vlog Title - Best Free Name Generators for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a14-4g-phone-without-pin-by-drfone-android/"><u>How to Unlock Samsung Galaxy A14 4G Phone without PIN</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-motorola-razr-40-ultra-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Motorola Razr 40 Ultra?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/kotion-g2000-mic-not-working-heres-how-to-restore-functionality-in-easy-steps/"><u>Kotion G2000 Mic Not Working? Here's How to Restore Functionality in Easy Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-the-art-of-photo-display-with-best-frames/"><u>Master the Art of Photo Display with Best Frames</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/precision-zoom-for-clearer-movie-scenes/"><u>Precision Zoom for Clearer Movie Scenes</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-converting-and-importing-pdf-files-into-excel-spreadsheets/"><u>Ultimate Guide: Converting and Importing PDF Files Into Excel Spreadsheets</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->

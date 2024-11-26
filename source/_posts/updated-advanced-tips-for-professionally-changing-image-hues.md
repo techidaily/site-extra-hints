@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Advanced Tips for Professionally Changing Image Hues"
-date: 2024-11-12T14:39:44.078Z
-updated: 2024-11-15T20:36:58.824Z
+date: 2024-11-18T23:31:58.739Z
+updated: 2024-11-25T19:17:29.852Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,10 @@ So instead of hiring various models, you can still display your collection by ch
 
 In this section, we will give you some beneficial tips and guidelines to change the photo color through [Adobe Photoshop](https://www.adobe.com/products/photoshop.html). Moreover, we will also mention a photo color editor online to change the colors instantly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Tip 1: Add Any Color to Your Shirt
 
 Do you want to change the color of any particular shirt in the photo? Then use Adobe Photoshop and open its main interface. Go to its "Quick Selection" tool and select around the shirt to change its color. Now go to the bottom right and click on "New Adjustment Layer," and tap on "Hue and Saturation.”
@@ -38,13 +42,6 @@ Another way to change the color of the shirt is by navigating to the “Solid Co
 
 ![select hue or color mode](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Tips 2: Use Black and White Colors
 
 Another option in Adobe Photoshop photo color editor to add black or white color to the shirt is by using the "Hue and Saturation Adjustment Layer.” For this, you need to create a group and then apply a layer mask to it by reducing its saturation. After that, you can apply a hue and saturation adjustment layer to it to have a white or black effect on the shirt.
@@ -55,6 +52,10 @@ Now do the tuning by navigating to the layer mask and also select the layers. Af
 
 ![use sliders to black or white](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Tip 3: Add Color to White Object
 
 If you want to add color to your black or white shirt, you can do it by “Hue and Saturation Adjustment Layer.” On this layer, tap on “Colorize” and choose the color you want to add. Another technique is to create a “Fill Adjustment Layer” and then change the blending mode into “Multiple.” Now, click on the “Color Picker,” and you can pick and choose your preferred color. If you want to add a dark color rather than a subtle color, change the mode to “Screen.”
@@ -62,10 +63,7 @@ If you want to add color to your black or white shirt, you can do it by “Hue a
 ![ pick the color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Tip 4: Use Direct Selection Color Picker
@@ -76,25 +74,11 @@ At the bottom of the options, you can see two points that will tell you about yo
 
 ![ change specific color to another color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Tip 5: Choose Object Color Range
 
 Do you want to change the color of a specific part of the image? You can do this on Adobe Photoshop photo color editor by going to the "Quick Selection Tool" and then applying the colors, but it may leave edges and curves of the object. So, the recommended way is to navigate to the “Select” tab and then click on “Color Range” from its drop-down menu.
 
 ![access color range option](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After clicking on the color range option, a pop-up window will appear from which tap on “Selection.” You can view your image on the preview window and can select the whole back using the “Selection” tool.
 
@@ -103,6 +87,14 @@ After clicking on the color range option, a pop-up window will appear from which
 Afterward, create a group in which add layers, mask, and adjustment layers to change the saturation, color, and brightness of the selected area accurately. To only change the color, drag the sliders of hue to do it instantly.
 
 ![change hue for changing color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Tip 6: Use Blend IF
 
@@ -117,10 +109,7 @@ This method only hides color based on their luminance values; however, this load
 ![convert to smart object](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 It helps the user create transparency across the layer. After hiding the layer and coming back to another object-specific layer, you can create a certain change in effect through adjustment layers. For instance, you can create a “Hue and Saturation” adjustment layer. With the above settings, Photoshop applies this as a layer mask for you. Use the sliders across the set layer to change the color across the selected areas.
@@ -128,10 +117,7 @@ It helps the user create transparency across the layer. After hiding the layer a
 ![select your new color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Tip 7: Use Online Photo Editor to Change Colors
@@ -142,16 +128,13 @@ To change the color, navigate to this tool and upload the images. Then, head to 
 
 ![select source color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To increase or decrease the intensity of your color, use the “Tolerance” option, and drag it accordingly. If you want to change the hue of the source color, click on the box next to “Target Color.” If you have accidentally applied any color on some part, you can head to erase tab and can remove the alterations from the brush.
 
 ![choose target color](https://images.wondershare.com/filmora/article-images/2022/change-photo-color-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -181,22 +164,21 @@ Changing the color of a photo can save us a lot of work done and effort. To effo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-a-comprehensive-guide-to-high-quality-live-streaming-with-logitech-camera-for-2024/"><u>[New] A Comprehensive Guide to High-Quality Live Streaming with Logitech Camera for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-covert-concepts-in-composing-captivating-images/"><u>[New] Covert Concepts in Composing Captivating Images</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-amplify-your-windows-photos-viewing-incorporating-artistic-filters-and-music/"><u>[Updated] Amplify Your Windows Photos Viewing Incorporating Artistic Filters and Music</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-unmatched-warfare-the-hunt-for-top-fps-games/"><u>[Updated] Unmatched Warfare The Hunt for Top FPS Games</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-achieving-flawless-visual-balance-aspect-ratios-matter/"><u>2024 Approved Achieving Flawless Visual Balance Aspect Ratios Matter</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-review-transform-your-images-with-facetune/"><u>2024 Approved Comprehensive Review Transform Your Images with Facetune</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-upload-and-share-your-visual-content-on-youtube/"><u>2024 Approved Upload & Share Your Visual Content on YouTube</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/comment-resoudre-les-problemes-de-transfert-de-fichiers-sur-windows-11-sujets-daide-et-conseils-rapides/"><u>Comment Résoudre Les Problèmes De Transfert De Fichiers Sur Windows 11? Sujets D'Aide Et Conseils Rapides</u></a></li>
-<li><a href="https://win11.techidaily.com/confirming-the-active-state-in-windows-11/"><u>Confirming the Active State in Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dusk-rising-the-fade-out-process/"><u>Dusk Rising The Fade Out Process</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-your-film-edits-proficient-use-of-kinemaster-and-best-digital-options/"><u>Enhancing Your Film Edits Proficient Use of KineMaster & Best Digital Options</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-citizens-guide-to-poking-through-public-broadcast-archives/"><u>In 2024, A Citizen's Guide to Poking Through Public Broadcast Archives</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/leading-intro-editors-for-device-applications/"><u>Leading Intro Editors for Device Applications</u></a></li>
-<li><a href="https://fox-links.techidaily.com/prime-mobile-hd-video-playback-androids-top-picks/"><u>Prime Mobile HD Video Playback Android's Top Picks</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-xiaomi-redmi-note-12-4g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Xiaomi Redmi Note 12 4G to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-solving-discord-audio-echo-issues-on-pc/"><u>Step-by-Step Solution for Solving Discord Audio Echo Issues on PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-realme-gt-neo-5-se-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Realme GT Neo 5 SE Location | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-expert-review-of-the-leading-no-cost-cam-software-options/"><u>[New] 2024 Approved Expert Review of the Leading No-Cost Cam Software Options</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-top-tier-displays-optimize-your-xbox-series-x-gaming/"><u>[New] Unveiling Top-Tier Displays - Optimize Your Xbox Series X Gaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-castwithease-how-to-make-livestreaming-your-podcast-effortless/"><u>2024 Approved CastWithEase How to Make Livestreaming Your Podcast Effortless</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-imagination-the-best-sci-fi-metaverse-films-for-adventurers-for-2024/"><u>Beyond Imagination The Best Sci-Fi Metaverse Films for Adventurers for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cheap-sky-expeditions-under-500-drone-highlights/"><u>Cheap Sky Expeditions Under $500 Drone Highlights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-claude-and-chatgpt-determining-the-superior-ai-chatbot-for-daily-use/"><u>Comparing Claude and ChatGPT: Determining the Superior AI Chatbot for Daily Use</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/conquering-zoom-meetings-a-tech-savvy-setup-strategy/"><u>Conquering Zoom Meetings A Tech-Savvy Setup Strategy</u></a></li>
+<li><a href="https://win-unique.techidaily.com/embracing-innovation-in-excel-as-suggested-by-microsoft-a-personal-journey-shared-with-zdnet/"><u>Embracing Innovation in Excel as Suggested by Microsoft – A Personal Journey Shared with ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-top-7-floodproof-video-cameras-guide/"><u>Essential Top 7 Floodproof Video Cameras Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-master-the-use-of-winservicesexe-on-windows/"><u>How to Master the Use of Winservices.exe on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-pro-video-recording-on-iphone-meets-instant-photos/"><u>In 2024, Pro Video Recording on iPhone Meets Instant Photos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-photobooks-creating-collages-for-social-sharing/"><u>Mastering Photobooks: Creating Collages for Social Sharing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/smart-setup-for-your-windows-11-journey/"><u>Smart Setup for Your Windows 11 Journey</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-pathway-to-stunning-visuals-these-top-7-graders-secrets/"><u>The Pathway to Stunning Visuals These Top 7 Graders' Secrets</u></a></li>
 </ul></div>
 

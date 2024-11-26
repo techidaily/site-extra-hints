@@ -1,7 +1,7 @@
 ---
 title: "[Updated] BETTING BASEMENT BOOKMARKS"
-date: 2024-08-24T22:27:33.598Z
-updated: 2024-08-25T22:27:33.598Z
+date: 2024-11-20T21:17:58.358Z
+updated: 2024-11-26T00:29:06.337Z
 tags: 
   - screen-recording
   - ai video
@@ -52,11 +52,12 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 * One can enjoy settings for downloadable as well as user designed skins.
 * Users can access keyboard shortcuts for subtitles, contrast, brightness, volume, zooming and seeking.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Pros and Cons of POT Player
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### The Good
 
 * POT Players works fine with all editions of Windows (32/64 bit versions).
@@ -64,22 +65,24 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 * User defined shortcuts makes controlling much easier.
 * It creates minimal loads of memory and CPU.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Bad
 
 * Beginners may find its setup quite difficult with loads of advanced settings.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The Truth
 
  The truth behind its classic design is that POT player is basically dedicated to advanced or professional users. Those who demand higher controls over customization and want to explore wide range of media file formats can enjoy great viewing experience over POT Player.
 
 ## Deep Review of Pot Player
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Adding Files and Managing Playlists
 
  Users can add various files, even a complete directory to POT player library and allow it to play high quality content from URLs directly. The key board shortcuts make playlist editing much easier whereas drag and drop features are more beginners friendly.
@@ -89,8 +92,9 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 ![ pot-add-files](https://images.wondershare.com/filmora/article-images/pot-add-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Playing Audio Files
 
  When you are ready to enjoy playbacks then it is also possible to pair up content with equalizers in order to have rich sound quality. When this paired up connection is dragged into timeline, they work in perfect synchronism and if you want to separate them at any moment then simply drag the playlist.
@@ -102,8 +106,9 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 ![pot-play-audio ](https://images.wondershare.com/filmora/article-images/pot-play-audio.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Playing Video Files
 
  Generally, the video frame appears on left portion of screen and right one stays cluttered with playlist but you can simply close it by pressing the little arrow head on right most corner of screen. In order to bring video to the full screen mode, you need to double click over it. Return back to small window by pressing Esc or double click again.
@@ -114,16 +119,11 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -131,3 +131,17 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-tune-into-success-constructing-your-youtube-playlist/"><u>[New] 2024 Approved Tune Into Success Constructing Your YouTube Playlist</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-rapidrush-framefrozen-recording/"><u>[New] In 2024, RapidRush FrameFrozen Recording</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/decoding-advanced-post-production-techniques-chroma-keying-kinemaster/"><u>Decoding Advanced Post-Production Techniques Chroma Keying (KineMaster)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fixed-installing-and-troubleshooting-the-intel-hd-graphics-nvidia-drivers-on-microsoft-windows-platforms/"><u>Fixed: Installing and Troubleshooting the Intel HD Graphics nVIDIA Drivers on Microsoft Windows Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/game-on-with-premium-screens-for-your-xbox-series-x-console/"><u>Game on with Premium Screens for Your Xbox Series X Console</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/imgburn-pro-scaricabile-gratuitamente-masterizza-disco-e-sicurezza-contro-la-copia-con-formati-iso/"><u>ImgBurn Pro Scaricabile Gratuitamente - Masterizza Disco E Sicurezza Contro La Copia Con Formati ISO</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-podcast-title-craft-the-essential-handbook/"><u>Mastering Podcast Title Craft The Essential Handbook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unraveling-photoshops-magic-with-image-curving/"><u>Unraveling Photoshop’s Magic with Image Curving</u></a></li>
+</ul></div>
+

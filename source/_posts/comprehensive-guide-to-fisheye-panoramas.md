@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to Fisheye Panoramas"
-date: 2024-11-11T08:23:32.071Z
-updated: 2024-11-15T17:08:01.958Z
+date: 2024-11-24T23:18:48.958Z
+updated: 2024-11-25T16:19:56.540Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Shooting 360 degrees panoramas with fisheye lens
 
  The process of shooting panoramas with fisheye lenses involves a number of considerations and they are as follows-:
@@ -36,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
 ![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2. Leveling and rotating
 
  Other than setting up and calibrating the equipment in the right manner, it is important to keep the camera steady and leveled as you make the rotations to take shots. For leveling, it is recommended to use an appropriate leveling base, while for rotation, using a panning clamp on top of the ballhead is highly recommended.
@@ -50,10 +47,11 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3. The actual shooting
@@ -67,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
  **Keep this in mind when shooting 360 degree panoramas with fisheye**
 
  In normal photography, it always pays to remember what to include and what to exclude in your shots. When it comes to shooting 360s, it becomes more complicated since everything is included. For you to take successful 360s with fisheye therefore, you need to consider keenly where you stand. The fisheye lens will introduce a lot of space between you and the subject, hence you must consider how close or far away you are from the subject so that the pieces of the compositional puzzle will fall in place smoothly both in the horizontal and vertical planes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Stitching 360 degrees panoramas after shooting
 
@@ -87,10 +89,7 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Conclusion
@@ -98,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
  Fisheye lenses have been around for a while now and the process of creating 360 panoramas with them may not be very challenging, but great results are achieved through practice and proper stitching. Once the photos are taken, you can use premium panorama software like Autopano Pro or you can use free options like the Microsoft ICE or Hugin. Ones stitching are done, it is imperative to have the final works uploaded online for others to view.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -121,20 +113,19 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-best-in-class-top-drone-gimbals-compared/"><u>[New] Best in Class Top Drone Gimbals Compared</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-crafting-a-seamless-social-journey-from-instaplustik/"><u>[New] Crafting a Seamless Social Journey From Insta+Tik</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-expert-tips-to-seamlessly-retrieve-youtube-srt-subtitles/"><u>[Updated] In 2024, Expert Tips to Seamlessly Retrieve YouTube SRT Subtitles</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-speed-in-seizing-picture-plus-pitch/"><u>[Updated] Speed in Seizing Picture + Pitch</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-humorous-file-downloader-examination/"><u>2024 Approved Humorous File Downloader Examination</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/design-innovators-top-free-afx-templates-collection/"><u>Design Innovators Top Free AFX Templates Collection</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/digital-picture-perfect-with-audio-touches/"><u>Digital Picture Perfect with Audio Touches</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-reno-8t-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo Reno 8T Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-selecting-top-notch-free-srt-translators-online/"><u>In 2024, Ultimate Guide Selecting Top-Notch Free SRT Translators Online</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/lore-masters-collective-essential-eight-for-2024/"><u>Lore Masters Collective - Essential Eight for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/overcoming-technical-hurdles-in-iphone-xs-facial-detection/"><u>Overcoming Technical Hurdles in iPhone X's Facial Detection</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/performance-vs-practicality-in-the-lenovo-ideapad-130s-review-power-boundaries-and-usability-breakthroughs/"><u>Performance Vs. Practicality in the Lenovo IdeaPad 130S Review: Power Boundaries and Usability Breakthroughs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-video-game-systems-in-23/"><u>Top Rated Video Game Systems in 2^3</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unleash-your-potential-with-periscope-broadcasts/"><u>Unleash Your Potential with Periscope Broadcasts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/eginners-steps-to-broadcast-on-youtube-via-obs/"><u>[New] Beginner's Steps to Broadcast on Youtube via OBS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-best-webcam-accessories-top-10-secure-solutions/"><u>[Updated] 2024 Approved Best Webcam Accessories Top 10 Secure Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/aerial-drone-transformation-trial-with-first-20-free-lutts-for-2024/"><u>Aerial Drone Transformation - Trial with First 20 FREE LUTTs for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/dismantling-the-barriers-to-switching-out-of-s-mode/"><u>Dismantling the Barriers to Switching Out of S Mode</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/diymp3-quicktime-and-vlc-media-player/"><u>DIYアプリを使ってビデオからMP3音楽ファイル作成法 - QuickTime & VLC Media Player</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-guide-to-downloading-newgrounds-video-content-discover-three-effective-techniques/"><u>Easy Guide to Downloading Newgrounds Video Content - Discover Three Effective Techniques!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-m6-pro-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco M6 Pro 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/imovie-rhythms-crafting-audio-visual-symphony-for-2024/"><u>IMovie Rhythms Crafting Audio-Visual Symphony for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-immersive-traits-in-filmoras-editing-software/"><u>In 2024, Top 10 Immersive Traits in Filmora's Editing Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/integrating-photos-and-videos-a-guide-to-using-storyremix-in-windows-11/"><u>Integrating Photos & Videos A Guide to Using StoryRemix in Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-nvidia-display-issue-in-control-panel/"><u>Resolving Nvidia Display Issue in Control Panel</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/seamless-snapshots-mobile-tripods-for-iphones-androids/"><u>Seamless Snapshots Mobile Tripods for iPhones, Androids</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-subtle-art-of-easing-audio-intensity-garageband/"><u>The Subtle Art of Easing Audio Intensity (Garageband)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unmatched-clarity-in-filming-top-rated-camera-stabilizers-guide/"><u>Unmatched Clarity in Filming Top-Rated Camera Stabilizers Guide</u></a></li>
 </ul></div>
 

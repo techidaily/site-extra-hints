@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Analyzing Hero5 Black & Yi 4K Cameras for Modern Adventurers"
-date: 2024-11-10T04:47:08.782Z
-updated: 2024-11-16T00:37:55.063Z
+date: 2024-11-24T17:58:57.313Z
+updated: 2024-11-25T16:31:37.057Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 [Best 4K action cameras for 2017 >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 [Best GoPro Alternatives >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Comparison for Hero5 Black and Yi 4K Action Camera
 
@@ -67,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 
 ![Yi 4K action camera touchscreen](https://images.wondershare.com/filmora/article-images/yi-4k-touchscreen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image source:elproducente.com
 
 **Waterproof:** The biggest benefit of GoPro Hero5 is that it can serve you underwater but YI 4K cannot as you need additional protective case for this camera. But you cannot save your recordings from handling noise in case of GoPro unit. When you go underwater with YI 4K while using protective housing then it is not possible to use its touch screen feature and secondly the audio quality decays by large extent.
@@ -89,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/c26754d00328593cefb7ceb60f51391dcd2a8dd93
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -104,27 +116,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-cutting-edge-image-editors-for-text-addition-for-2024/"><u>[New] Cutting-Edge Image Editors for Text Addition for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-perfect-pixels-in-a-minute-quick-fixes-with-studio-editor/"><u>[Updated] Perfect Pixels in a Minute Quick Fixes with Studio Editor</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-unsung-free-speech-to-text-apps-for-your-mac/"><u>Best Unsung Free Speech-to-Text Apps for Your Mac</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-garmin-forerunner/"><u>Comprehensive Garmin Forerunner</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/effortless-methods-for-converting-avchd-footage-into-high-quality-mp4/"><u>Effortless Methods for Converting AVCHD Footage Into High-Quality MP4</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/high-performance-windows-editing-tools-roundup-reviewed/"><u>High Performance Windows Editing Tools Roundup Reviewed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-cut-down-clutter-spot-and-reduce-big-file-usage-windows/"><u>How to Cut Down Clutter: Spot and Reduce Big File Usage Windows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-15-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 15 Data From iOS iTunes? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/hubs-for-high-quality-vr-watching/"><u>Hubs for High-Quality VR Watching</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-artistic-excellence-at-your-fingertesps-the-definitive-10-vector-editors/"><u>In 2024, Artistic Excellence at Your Fingertesps The Definitive 10 Vector Editors</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-creating-an-ideal-oculus-rift-environment/"><u>In 2024, Creating an Ideal Oculus Rift Environment</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/meme-mastery-top-ten-designs-to-share-scream-and-chortle/"><u>Meme Mastery Top Ten Designs to Share, Scream & Chortle</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/pushing-boundaries-top-virtual-reality-game-development-tools/"><u>Pushing Boundaries Top Virtual Reality Game Development Tools</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/social-media-sensations-tiktoks-top-10-tweets/"><u>Social Media Sensations TikTok's Top 10 Tweets</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-how-to-navigate-and-search-with-the-wayback-machine/"><u>Step-by-Step Instructions: How to Navigate and Search with the Wayback Machine</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-vegas-pro-21-reviewed-the-new-frontier-in-sports-betting-software/"><u>[New] Vegas Pro '21 Reviewed - The New Frontier in Sports Betting Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-personalizing-photos-on-insta-the-watermark-process/"><u>[Updated] 2024 Approved Personalizing Photos on Insta The Watermark Process</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-15-luts-for-enhanced-gopro-footage-quality/"><u>[Updated] Best 15 LUTs for Enhanced GoPro Footage Quality</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-best-15-sci-fi-and-educational-youtube-hubs/"><u>2024 Approved Best 15 Sci-Fi & Educational YouTube Hubs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-fb-download-made-simple-free-and-convenient-options-of-23-online/"><u>2024 Approved FB Download Made Simple Free & Convenient Options of '23 Online</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-realistic-facial-rendering-implementing-motion-blur-in-photo-editing-via-picsart/"><u>2024 Approved Realistic Facial Rendering Implementing Motion Blur in Photo Editing via Picsart</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/birdie-ballet-bounce-for-2024/"><u>Birdie Ballet Bounce for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/excellent-8-tripods-ideal-for-4k-camera-shooting/"><u>Excellent 8 Tripods Ideal for 4K Camera Shooting</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-the-best-free-drawing-software-for-mac-users/"><u>Explore the Best FREE Drawing Software for Mac Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/immediate-fixes-tackling-windows-services-non-responsiveness-error-1053/"><u>Immediate Fixes: Tackling Windows Services Non-Responsiveness (Error 1053)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/immediate-gif-to-video-conversion-top-5-free-websites/"><u>Immediate GIF-to-Video Conversion, Top 5 Free Websites</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-the-ultimate-list-of-video-editing-software-for-beginners/"><u>In 2024, The Ultimate List of Video Editing Software for Beginners</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-secret-to-compelling-instagram-colleagues/"><u>The Secret to Compelling Instagram Colleagues</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

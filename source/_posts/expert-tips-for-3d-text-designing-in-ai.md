@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips for 3D Text Designing in AI"
-date: 2024-08-24T22:28:29.017Z
-updated: 2024-08-25T22:28:29.017Z
+date: 2024-11-24T16:05:17.582Z
+updated: 2024-11-26T00:09:35.099Z
 tags: 
   - screen-recording
   - ai video
@@ -44,6 +44,10 @@ Step3 Now, look at the bottom-right corner of the program. Find the **Font** set
 
 ![change font illustrator](https://images.wondershare.com/filmora/article-images/adobe-illustrator-font.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4 Next, choose any color you want for your text from the panel on the screen's left side. Just remember to click on your text first before you start changing colors.
 
 ![change color](https://images.wondershare.com/filmora/article-images/adobe-illustrator-color.png)
@@ -60,6 +64,10 @@ Step7 Click on the box icon on the right side of the screen and select **“Extr
 
 ![turn text into three d](https://images.wondershare.com/filmora/article-images/adobe-illustrator-panel.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step8 Now, all left to do is experiment with the settings in this panel and adjust how you want your 3D text to look. You can adjust its width, rotation, presets, angle, perspective, and so on. Just play around with the settings until you find your ideal result.
 
 ![three d illustrator settings](https://images.wondershare.com/filmora/article-images/adobe-illustrator-settings.png)
@@ -67,9 +75,9 @@ Step8 Now, all left to do is experiment with the settings in this panel and adju
 Step9 Finally, it's time to export the image, and you're all done.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Best Alternative Way to Create 3D Text Animation
 
 You might not believe it, but there's an even more accessible and less expensive way to create 3D text effects. You can use [Filmora](https://tools.techidaily.com/wondershare/filmora/download/). Compared to Illustrator, Filmora is much better for beginners and more affordable.
@@ -94,9 +102,6 @@ Step3 Double-click on the 3D title layer you dragged into the Timeline. When the
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
@@ -110,8 +115,9 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
 If you're just a beginner at video or photo editing, you want to use a more straightforward tool. Illustrator can get very challenging for complete beginners. But Filmora offers a more straightforward interface that still delivers the same professional results. Please read further and see how to realize it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Create a 3D Text Effect In Filmora?
 
 The steps are simple. Just follow them precisely as you see here, and you won't have any problems.
@@ -123,24 +129,21 @@ Step2 Head to the **Titles** tab and search for the **“3D Illustration**” ti
 ![drag title to timeline](https://images.wondershare.com/filmora/guide/get-started-with-filmora-04.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Step3 Double-click on the 3D title layer you dragged into the Timeline. When the settings panel opens, use all the boxes and slide bars to customize your 3D text any way you want. When you’re done customizing it, click on **OK.**
 
 ![edit text settings](https://images.wondershare.com/filmora/guide/win-motion-tracking-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 Step4 Finally, import a video in Filmora and drag it under the text into the Timeline. Choose any video or image you want to display underneath your 3D text. That’s it! Hit **Export,** and you’re all done. Congratulations on creating a 3D text effect in Filmora.
 
 If you want to learn more about Filmora’s fantastic features, please watch the video below to see what the latest version of Filmora 12 brings to you!
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 Both programs will get the job done if you use Adobe Illustrator or Filmora for your 3D text effect. The main difference is that it will be easier with Filmora. The choice is yours. Have fun!
@@ -167,4 +170,19 @@ Both programs will get the job done if you use Adobe Illustrator or Filmora for 
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-harnessing-power-a-complete-ez-grabber-manual/"><u>[New] 2024 Approved Harnessing Power A Complete EZ Grabber Manual</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-creating-a-lasting-impression-the-ultimate-youtube-live-thumbnail-guide/"><u>[Updated] 2024 Approved Creating a Lasting Impression The Ultimate YouTube Live Thumbnail Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-novice-to-virtuoso-your-guide-to-windows-8-movie-maker/"><u>[Updated] From Novice to Virtuoso Your Guide to Windows 8 Movie Maker</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-supercharge-your-smartphones-video-quality/"><u>[Updated] In 2024, Supercharge Your Smartphone's Video Quality</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-lens-mastery-unleashing-creativity/"><u>2024 Approved IPhone Lens Mastery - Unleashing Creativity</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-economics-of-t-series-a-deep-dive-into-youtube-earnings/"><u>2024 Approved The Economics of T-Series A Deep Dive Into YouTube Earnings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-low-speed-photo-and-video-capture-tools-iosandroid/"><u>Best Low-Speed Photo and Video Capture Tools, iOS/Android</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-calculating-20mb-video-length-in-secs/"><u>In 2024, Calculating 20MB Video Length in Secs</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-sparkle-with-screenshots-vlogging-for-value-creation/"><u>In 2024, Sparkle with Screenshots Vlogging for Value Creation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-use-of-codegpt-within-visual-studio-code-installation-and-configuration-steps/"><u>Master the Use of CodeGPT Within Visual Studio Code - Installation and Configuration Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-metaverse-advertising-techniques/"><u>Mastering Metaverse Advertising Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-potential-the-best-6-for-nft-artistry/"><u>Unlocking Potential The Best 6 for NFT Artistry</u></a></li>
+</ul></div>
 

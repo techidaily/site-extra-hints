@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Hidden Functions to Enhance Your Canva Artistry"
-date: 2024-11-13T20:57:35.838Z
-updated: 2024-11-16T03:05:29.656Z
+date: 2024-11-24T21:10:34.179Z
+updated: 2024-11-25T16:03:11.211Z
 tags: 
   - screen-recording
   - ai video
@@ -35,10 +35,7 @@ Moreover, you can design or choose pre-made background templates on this tool to
 ![canva ai background remover feature](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Apply Filters by Quick Search
@@ -50,10 +47,7 @@ Other interesting effects include BadTV, through which you can add cinematic and
 ![search and apply filters](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Add Text to Images
@@ -73,17 +67,7 @@ On the other hand, frames like film 1 and film 2 are extremely trendy, and many 
 ![use different canva photo frames](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Create YouTube Thumbnails
@@ -94,13 +78,6 @@ To create an eye-catchy YouTube thumbnail, use the “Highlight Effect” from t
 
 ![attractive youtube thumbnails](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Add Different Elements
 
 Another amazing feature of the Canva image editor is to add numerous elements to the photos effortlessly. You can add stickers, GIFs, and graphics to make an impactful photo. This tool stands out in adding elements to the images as it consists of more than 90 million graphics and stickers. Through their pre-made templates and in-built library, you can get creative ideas to design your image.
@@ -110,10 +87,7 @@ Hence, explore various stickers and graphics from this platform and instantly ap
 ![ add different canva elements](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Make Photo Collage
@@ -129,16 +103,11 @@ If you are editing images for a product shoot, clothing brand, or any other proj
 ![design mockups through canva](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-8.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 9\. Use Auto Focus and Blur
@@ -149,6 +118,10 @@ By combining both of these features, you can easily craft a professional illustr
 
 ![auto blur effect applied](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 10\. Mix the Colors
 
 What makes the photos look more captivating? It’s a simple rule to play with colors present in the graphics and stickers that you want to apply to the images. Canva photo editor gives a free hand to the users to be more creative and original while editing their photos. For instance, you can design a theme for your image by adding graphics and stickers of the same color.
@@ -156,6 +129,10 @@ What makes the photos look more captivating? It’s a simple rule to play with c
 Moreover, you can use filters and color palettes that match well with your theme. Moreover, you can stylize the image for a magazine cover by mixing color ranges and layers through this exceptional tool. It sounds perfect!
 
 ![play with picture colors canva](https://images.wondershare.com/filmora/article-images/2022/canva-photo-editor-tips-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -185,17 +162,22 @@ Anyone can learn photo editing skills if they are provided with accurate guideli
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-find-the-perfect-mix-funny-touching-ig-meme-stories-of-ten/"><u>[New] 2024 Approved Find the Perfect Mix Funny, Touching IG Meme Stories of Ten</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-background-excision-tool-affinity-photo/"><u>[New] Background Excision Tool Affinity Photo</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-building-a-brand-through-youtube-a-strategic-guide/"><u>[New] In 2024, Building a Brand Through YouTube A Strategic Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-maximizing-memories-the-ultimate-guide-for-overwatch-players-for-2024/"><u>[New] Maximizing Memories The Ultimate Guide for Overwatch Players for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-a-comprehensive-guide-to-using-chrome-pip-across-devices/"><u>[Updated] A Comprehensive Guide to Using Chrome PIP Across Devices</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-perfect-precision-with-zoom-your-ultimate-youtube-live-stream-toolkit/"><u>[Updated] Perfect Precision with Zoom Your Ultimate YouTube Live Stream Toolkit</u></a></li>
-<li><a href="https://win11.techidaily.com/accessing-dialer-on-windows-11/"><u>Accessing Dialer on Windows 11</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/automating-post-publish-actions-integrate-your-created-flipbooks-with-other-tools-using-flipbuilder/"><u>Automating Post-Publish Actions: Integrate Your Created FlipBooks with Other Tools [Using FlipBuilder]</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-zoom-webcams-compared-the-elite-six-for-2024/"><u>Best Zoom Webcams Compared - The Elite Six for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-iphone-techniques-for-seamless-image-to-pdf-conversion/"><u>In 2024, IPhone Techniques for Seamless Image-to-PDF Conversion</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/revolutionize-your-podcasts-rankings-with-effective-seo-methods/"><u>Revolutionize Your Podcast's Rankings with Effective SEO Methods</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-4-sites-for-free-skype-tones/"><u>Top 4 Sites for Free Skype Tones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-begin-animation-ease-in-transition/"><u>[New] Begin Animation Ease-In Transition</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-integrating-youtube-autoplay-smoothly-into-your-facebook-experience/"><u>[New] Integrating Youtube Autoplay Smoothly Into Your Facebook Experience</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-superior-text-styling-methods/"><u>[Updated] 2024 Approved Superior Text Styling Methods</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-best-cutting-edge-tools-for-intro-edits-on-devices/"><u>[Updated] In 2024, Best Cutting-Edge Tools for Intro Edits on Devices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-tapping-into-the-telegraphic-trend-maximizing-your-telegram-presence/"><u>[Updated] In 2024, Tapping Into the Telegraphic Trend Maximizing Your Telegram Presence</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-chromatic-enhancements-a-comprehensive-study-11-parts/"><u>2024 Approved Chromatic Enhancements A Comprehensive Study (11 Parts)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-guide-selecting-the-ideal-sites-and-techniques-for-trimming-tamil-melodies/"><u>Expert Guide Selecting the Ideal Sites & Techniques for Trimming Tamil Melodies</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-xr-in-different-conditionsin-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone XR In Different Conditionsin</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-command-attention-on-instagram-nine-paths-to-social-media-glory/"><u>In 2024, Command Attention on Instagram Nine Paths to Social Media Glory</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-core-6-social-media-tools-for-corporate-engagement/"><u>In 2024, Core 6 Social Media Tools for Corporate Engagement</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-fast-tracked-fine-arts-edits-made-easy-with-windows-10-paint-application/"><u>In 2024, Fast-Tracked Fine Arts Edits Made Easy with Windows 10 Paint Application</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/photographic-prose-weaving-words-into-images-across-operating-systems/"><u>Photographic Prose Weaving Words Into Images Across Operating Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-best-7-color-grades-in-editing/"><u>The Ultimate Guide Best 7 Color Grades in Editing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-free-timers-for-daily-use/"><u>Ultimate Free Timers for Daily Use</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ultimate-tutorial-screen-skype-via-obs-for-2024/"><u>Ultimate Tutorial Screen Skype via OBS for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/zenitherase-leading-edge-background-removal-tech/"><u>ZenithErase Leading-Edge Background Removal Tech</u></a></li>
 </ul></div>
 

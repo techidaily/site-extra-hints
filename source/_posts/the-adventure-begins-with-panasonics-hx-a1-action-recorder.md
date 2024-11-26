@@ -1,7 +1,7 @@
 ---
 title: "\"The Adventure Begins with Panasonic's HX-A1 Action Recorder\""
-date: 2024-11-10T07:11:38.589Z
-updated: 2024-11-15T22:35:22.830Z
+date: 2024-11-23T22:31:13.005Z
+updated: 2024-11-25T16:34:13.721Z
 tags: 
   - screen-recording
   - ai video
@@ -39,10 +39,7 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
  The elongated cylindrical body of this camera is very compact and less quirky and helps in operating it as a single component system. It is available in luminous orange and black colour variants and both of them look smart and classy. Its shock-proof, freeze-proof and dustproof makes it stand out exceptionally. It is compliant with IPX8 and thus you are free from hassles of adding a separate waterproof case! With a weight of only 45 gms, A1 is one of those few smallest action cameras which are easy and safe to carry. There is no built-in screen and the basic three buttons for its functioning rest on top of the camera, which can be termed as one of its shortcoming in design, as it tends to roll from sides when is set down, and thus can damage these controls if not kept carefully. These three buttons help in turning on the device, toggle recording and switch between video, still image and slow motion modes. Its built-in WiFi module allows the camera to connect to the smartphone and then transfer the media easily. This feature can also be used whenever you are framing up your shots, so you don’t feel lack of built-in screen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specification
@@ -69,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 | Waterproof, dustproof, shockproof and freeze proof. No additional housing or case needed to take it underwater as a replacement glass cover for lens is also included. | Not compatible for 4K shooting                                                                         |
 | Allows to record Slow-motion and in dark also.                                                                                                                         | No HDMI output for HD movies                                                                           |
 | Plenty of optional mounts for any activities to increase its operational feasibility at every location.                                                                | Built-in battery does not allow you to swap out for a fresh one so no scope of improving battery life. |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Accessories in the box
 
@@ -108,10 +109,7 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 [Learn more about Action Camera Accessories Buying Guide for 2017](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Features
@@ -143,10 +141,7 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
  A1 connectivity to the Image App eases out its usage drastically. It gives a gateway to adjust the resolution and also provides access to various white balance options including dalylight and cloudy for outdoor and some user and automatic configured ones for indoor shoots. This app can also be used for live preview and toggling record acting as camera’s screen after complete configuration.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -158,10 +153,7 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -179,22 +171,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-auditory-storytelling-in-cinematic-openings/"><u>[New] Auditory Storytelling in Cinematic Openings</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-aurora-hdr-superior-or-subpar-imaging/"><u>[New] Aurora HDR Superior or Subpar Imaging?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-clearsnapzoommax-7-professional-photo-scaling/"><u>[Updated] ClearSnapZoomMax 7 Professional Photo Scaling</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-benq-bl2711u-review-the-zenith-of-high-definition-professional-monitors/"><u>2024 Approved BenQ BL2711U Review The Zenith of High-Definition Professional Monitors</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-boutique-online-portals-for-individualized-gift-artistry-for-2024/"><u>Best Boutique Online Portals for Individualized Gift Artistry for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-software-to-fix-and-repair-corrupt-mp4-mov-avi-video-files-of-oppo-k11-5g-by-stellar-video-repair-mobile-video-repair/"><u>Best software to Fix and Repair Corrupt MP4,MOV,AVI video files of Oppo K11 5G</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/detailed-insight-hero4-black-operations/"><u>Detailed Insight Hero4 Black Operations</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/economical-aerial-surveillance-best-drones-for-less/"><u>Economical Aerial Surveillance Best Drones for Less</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-quick-recovery-from-failed-discord-setup-attempts/"><u>Expert Tips for Quick Recovery From Failed Discord Setup Attempts</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-nokia-g42-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Nokia G42 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-affordable-text-animation-strategies-webreal-world/"><u>In 2024, Affordable Text Animation Strategies Web/Real World</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-all-about-farming-on-ginger-isle/"><u>In 2024, All About Farming on Ginger Isle</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-time-travel-photos-on-snapchat-step-by-step-guide/"><u>In 2024, Time-Travel Photos on Snapchat Step by Step Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-xiaomi-14-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Xiaomi 14 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-nubia-red-magic-8s-proplus-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Nubia Red Magic 8S Pro+ Location | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/increasing-onscreen-detail-in-virtual-spaces-for-2024/"><u>Increasing Onscreen Detail in Virtual Spaces for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-5-best-4k-gaming-monitors-for-2024/"><u>Top 5 Best 4K Gaming Monitors for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-precision-playbacks-mastering-4-methods-of-recording-on-xbox/"><u>[New] 2024 Approved Precision Playbacks Mastering 4 Methods of Recording on Xbox</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-brightening-up-your-videography-gopro-fog-free-techniques/"><u>[New] Brightening Up Your Videography GoPro Fog-Free Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/1717992331918-updated-in-2024-differences-between-iphone-x-face-id-and-samsung-face-recognition/"><u>[Updated] In 2024, Differences Between iPhone X Face ID & Samsung Face Recognition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capture-like-a-pro-gopro-model-comparison-guide-for-2024/"><u>Capture Like a Pro Gopro Model Comparison Guide for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/compile-and-connect-videos-on-youtv-for-2024/"><u>Compile and Connect Videos on YouTV for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/descargue-mp3-de-forma-gratuita-convirtiendo-video-tta-sin-costo-con-movavi/"><u>Descargue Mp3 De Forma Gratuita Convirtiendo Video Tta Sin Costo Con Movavi</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-infinix-note-30-vip-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Infinix Note 30 VIP Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/iphone-cinematic-techniques-top-8-strategies-for-ultimate-video-quality/"><u>IPhone Cinematic Techniques Top 8 Strategies for Ultimate Video Quality</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/tarting-creativity-an-equipment-guide-for-beginners/"><u>Kickstarting Creativity An Equipment Guide for Beginners</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/leading-5-internet-screenshot-kits-for-2024/"><u>Leading 5 Internet Screenshot Kits for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-danger-of-censorship-for-2024/"><u>The Danger of Censorship for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/transcode-avi-a-laide-de-wmv-gratuite-sur-internet-movavi/"><u>Transcode AVI À L'aide De WMV Gratuite Sur Internet - Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/voice-activated-help-enable-siris-text-reading-feature-on-iphone-and-macbook/"><u>Voice-Activated Help: Enable Siri's Text-Reading Feature on iPhone & MacBook</u></a></li>
 </ul></div>
 

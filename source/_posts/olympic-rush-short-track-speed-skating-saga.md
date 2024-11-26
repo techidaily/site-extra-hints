@@ -1,7 +1,7 @@
 ---
 title: "\"Olympic Rush  Short-Track Speed Skating Saga\""
-date: 2024-08-24T22:30:59.174Z
-updated: 2024-08-25T22:30:59.174Z
+date: 2024-11-22T19:11:50.900Z
+updated: 2024-11-25T22:43:40.283Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,10 @@ Short track speed skating Korea Hwang Dae-heon wins the gold medal.
 
 ![dae heon wins the gold medal](https://images.wondershare.com/filmora/article-images/dae-heon-wins-the-gold-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
@@ -61,8 +65,13 @@ Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awa
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
 The best way to present any news related to any sports event is to create a short video containing all the highlights of the event. For example, you can create a video combining all the highlights of short track speed skating 2022 that we have presented in the previous section. You can also collect short clips of the event from social media platforms that have been captured by audiences.
@@ -78,8 +87,9 @@ To create such a highlight video on any sports event, there are certain videos e
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To create a video based on any sport event such as short track speed skating highlights, you need a professional video editor where you can get all the video effects and elements in one place. We recommend Wondershare Filmora where you get a wide range of video effects and editing tools to make your video stand out easily.
@@ -98,9 +108,6 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -112,13 +119,12 @@ Step 5: Select individual slides and apply Transition, Effects or add Titles and
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 South Korean skater Hwang Dae-heon has won the gold medal in men’s short track speed skating 1500m. This has buried the controversy that cropped up due to South Korean disqualification in 1000m short track speed skating. If you want to make a video highlighting all the important scenes and moments of any sports event, we have illustrated how to make a professional-quality video with Wondershare Filmora.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -126,3 +132,19 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-fb-video-download-top-5-tools-list/"><u>[New] 2024 Approved FB Video Download Top 5 Tools List</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-chroma-control-made-simple-with-these-11-expert-tips/"><u>[New] Chroma Control Made Simple with These 11 Expert Tips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-syncing-voice-with-images-online/"><u>[Updated] 2024 Approved Syncing Voice with Images Online</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bring-laughter-to-life-kapwing-creator/"><u>[Updated] Bring Laughter to Life – Kapwing Creator</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/annual-reveal-best-free-luts-with-direct-access-links/"><u>Annual Reveal - Best FREE LUTs with Direct Access Links</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/break-into-everyones-heart-clever-tips-and-examples-for-tinder-bios-for-2024/"><u>Break Into Everyone's Heart - Clever Tips & Examples for Tinder Bios for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-acclaimed-mobile-apps-for-gopro-footage-perfection/"><u>In 2024, Acclaimed Mobile Apps for GoPro Footage Perfection</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/secrets-of-savings-the-ultimate-list-of-boxes-buying-websites/"><u>Secrets of Savings The Ultimate List of Boxes-Buying Websites</u></a></li>
+<li><a href="https://win-dash.techidaily.com/techkey-bluetooth-driver-software-update-compatible-now-with-windows-8-7-and-latest-10/"><u>Techkey Bluetooth Driver Software Update: Compatible Now With Windows 8, 7 and Latest 10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-essence-of-color-in-photography-top-11-tutorials/"><u>The Essence of Color in Photography (Top 11 Tutorials)</u></a></li>
+<li><a href="https://win11.techidaily.com/top-no-cost-arte-video-downloader-seamless-access-to-high-quality-arte-streams-at-zero-price/"><u>Top No-Cost Arte Video Downloader: Seamless Access to High-Quality Arte Streams at Zero Price</u></a></li>
+</ul></div>
+

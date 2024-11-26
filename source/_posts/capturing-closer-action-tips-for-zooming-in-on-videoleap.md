@@ -1,7 +1,7 @@
 ---
 title: "\"Capturing Closer Action  Tips for Zooming In on Videoleap\""
-date: 2024-11-01T04:52:50.269Z
-updated: 2024-11-05T22:59:28.130Z
+date: 2024-11-23T19:53:55.454Z
+updated: 2024-11-25T16:42:03.411Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ Video editing applications are becoming very popular these days because of their
 
 This application has a dozen categories of functions such as filters, effects, adjustments of lights and colors, and many more to add a cinematic look to videos. One such function present in the Videoleap platform is the zoom function that lets users zoom into certain areas of the video screen. This tool in Videoleap can be greatly used as a means to put any subject on focus or can help in reducing irrelevant sections of the video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to static Zoom in Videoleap
 
 Videoleap is famous for providing the best video editing features to its users and because of its lightweight design, there are millions of its users around the world. And from its different tools, zoom is a great function that can be used as a focus tool or can be used as a transition effect. Static zoom-in Videoleap refers to the zoom-in of the screen contents for a particular video in a jump-in or jump-out format. And in case you are wondering how, you can edit your videos with the Videoleap application by applying a static zoom, here is how you can do it:
@@ -39,6 +43,10 @@ Videoleap is famous for providing the best video editing features to its users a
 
 ![transform vdieo videoleap](https://images.wondershare.com/filmora/article-images/2022/07/transform-vdieo-videoleap.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Now, in the preview window where all the clips are shown, pinch in or out to zoom into the video or vice versa until you get a desired portion of the screen.
 
 ![zoom into videoleap](https://images.wondershare.com/filmora/article-images/2022/07/zoom-into-videoleap.jpg)
@@ -55,13 +63,6 @@ Sometimes the video contents need a dramatic zoom effect that should take place 
 
 ![preview timeline videoleap](https://images.wondershare.com/filmora/article-images/2022/07/preview-timeline-videoleap.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Then select the "keyframes" tool from the toolbar at the bottom of your screen.
 * Add the keyframes to the desired portion of the video and then navigate the timecode to the place on the timeline where you want to stop it. After that add another keyframe at that point and pinch in to zoom the video.
 
@@ -69,13 +70,6 @@ Sometimes the video contents need a dramatic zoom effect that should take place 
 
 * Now head to the second time code where you want to focus the subject and then click on it. Then click on the "Preview" icon and see whether it needs further changes.
 * When you are satisfied, simply export the project and your animated zoom video will be saved successfully.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternative way to Zoom Video on Computer
 
@@ -97,10 +91,7 @@ If for some reason you are not able to install and use Videoleap on your system 
 * When you are done with your editing process, save the video and the file will be exported to your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -118,16 +109,17 @@ Videoleap is one of the leading video editing platforms available out there. The
 ![open the filmora application on pc](https://images.wondershare.com/filmora/guide/pan-zoom-feature-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * This will open 4 different types of tools regarding zoom functions. The first tool will help you to go from larger frames to smaller frames by zooming in. Thus, you can use this feature to bring details to a subject in your video. The second option helps you with zooming out from a smaller frame to a larger frame.
 * The third and fourth tools will help you achieve the Pan function from left to right and right to left respectively. This panning will be on a horizontal axis. You can also pan your video screen by using your mouse too.
 * You can select any of these options to zoom in, out, or pan your videos and create a stunning zoom effect on your videos.
 * When you are done with your editing process, save the video and the file will be exported to your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -161,20 +153,16 @@ Videoleap is one of the leading video editing platforms available out there. The
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-decoding-the-modern-content-creators-dilemma-for-2024/"><u>[New] Decoding the Modern Content Creator's Dilemma for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-guidelines-to-create-impactful-youtube-banners/"><u>[New] In 2024, Essential Guidelines to Create Impactful YouTube Banners</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unleash-creativity-filming-and-editing-on-the-go-with-a-phone/"><u>[New] Unleash Creativity Filming & Editing on the Go with a Phone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-auditory-ambiance-within-visual-mediums/"><u>[Updated] In 2024, Auditory Ambiance Within Visual Mediums</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/15-advanced-tips-for-sports-broadcasting-nba/"><u>15 Advanced Tips for Sports Broadcasting (NBA)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-chortle-creators-undead-hilarity/"><u>2024 Approved Chortle Creators Undead Hilarity</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-novices-introduction-to-video-coders-for-2024/"><u>A Novice's Introduction to Video Coders for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-song-of-ice-and-fire-top-sites-to-snatch-game-of-thrones-ringtones-for-2024/"><u>A Song of Ice and Fire Top Sites to Snatch Game of Thrones Ringtones for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/acclaimed-20-open-source-pubg-thumbnail-bundles-for-2024/"><u>Acclaimed 20 Open Source PUBG Thumbnail Bundles for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/advanced-techniques-for-perfecting-your-voice-with-morphvox/"><u>Advanced Techniques for Perfecting Your Voice with MorphVOX</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/all-encompassing-clarification-the-basics-of-googles-podcast-platform/"><u>All-Encompassing Clarification The Basics of Google's Podcast Platform</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/come-utilizzare-clonezilla-per-una-soluzione-efficiente-del-disco-rigido-la-scelta-migliore-per-il-grande-disco/"><u>Come Utilizzare Clonezilla per Una Soluzione Efficiente Del Disco Rigido - La Scelta Migliore per Il Grande Disco</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-resolution-activating-high-level-graphics-in-wwe-2k-battlegrounds-using-directx-11/"><u>Error Resolution: Activating High-Level Graphics in WWE 2K Battlegrounds Using DirectX 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-patch-tuesday-and-its-importance-in-cybersecurity/"><u>Understanding Patch Tuesday and Its Importance in Cybersecurity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-5-rapid-methods-to-upgrade-your-indoor-film-project/"><u>[New] 5 Rapid Methods to Upgrade Your Indoor Film Project</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-vsco-photo-editing-tips-and-tricks/"><u>[New] Unlocking VSCO Photo Editing Tips & Tricks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-content-creators-dilemma-which-site-reigns-vimeo-youtube/"><u>[Updated] 2024 Approved Content Creators' Dilemma Which Site Reigns - Vimeo, YouTube?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-charting-your-path-podcast-income-expectations/"><u>[Updated] Charting Your Path Podcast Income Expectations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/7-key-techniques-to-make-your-instagram-unboxing-videos-shine-for-2024/"><u>7 Key Techniques to Make Your Instagram Unboxing Videos Shine for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-technology-showcase-reviewing-the-top-5-slow-motion-cameras/"><u>Advanced Technology Showcase Reviewing the Top 5 Slow-Motion Cameras</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-newest-hp-deskjet-ink-advantage-3755-all-in-one-printer-drivers-compatible-with-windows-1187/"><u>Download the Newest HP Deskjet Ink Advantage 3755 All-in-One Printer Drivers Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hidden-users-print-request-on-printer-noticed/"><u>Hidden User's Print Request on Printer Noticed</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/no-watermark-guide-quick-conversion-of-mkv-files-to-avi-using-vlc/"><u>No-Watermark Guide: Quick Conversion of MKV Files to AVI Using VLC</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-nokia-g42-5g-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Nokia G42 5G</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-netsvc-how-to-troubleshoot-and-reduce-high-svchostexe-network-activity/"><u>Understanding NETsvc: How to Troubleshoot & Reduce High Svchost.exe Network Activity</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Elite Tale Weaving Resource"
-date: 2024-08-24T22:30:43.530Z
-updated: 2024-08-25T22:30:43.530Z
+date: 2024-11-19T22:14:41.085Z
+updated: 2024-11-25T21:43:29.575Z
 tags: 
   - screen-recording
   - ai video
@@ -34,27 +34,26 @@ We've compiled a comprehensive list of script writing software and websites. Ana
 
 ![the black list loglines](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To see what kinds of screenplays are gaining traction in Hollywood, read these loglines of screenplays that made the **Black List** \- an annual roundup of the best-unproduced screenplays in Hollywood.
 
 The archive goes back to 2005 and contains information on associated management companies.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2\. [Logline It.](https://logline.it/)
 
 ![logline it](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 This site gets it - coming up with an original and exciting idea for a movie or TV show is the most important first step in writing a screenplay.
 
 Logline This is the only scripting website we know of that is dedicated exclusively to loglines. Post your own, get feedback on them, and view other writers' logs. It's the perfect place to refine your ideas and come up with new and better ones.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. [Nicholl Winners' Scripts & Formatting Sample.](https://www.oscars.org/nicholl/screenwriting-resources)
 
 ![nicholl winners' scripts and formatting sample](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-3.jpg)
@@ -63,20 +62,22 @@ Want to see what a script good enough to win a Nicholl competition looks like? H
 
 And if you're confused about script formatting, you can also download this PDF that gives instructions on how to do it in a short scene.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### 4\. [Screenwriting.io.](https://screenwriting.io/)
 
 ![screenwriting.io](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 John August, the author of Go, Charlie's Angels, and Big Fish has created one of the best online screenwriting websites for answering basic questions about the craft and business of writing.
 
 Enter any question into the search bar and, nine times out of ten, you'll find an answer.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2\. Best 5 free websites to download scripts
 
 When I want to see how a more seasoned or, let's be honest, a better writer than me attacks a story, I usually want to read their script. I want to know how they follow the story on the page and for that... I need to see the script.
@@ -85,43 +86,31 @@ But since I don't work in a studio, I must find them online and the search can b
 
 Let's go through them together.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. [IMSDB– Internet Movie Screenplay Database](https://imsdb.com/)
 
 This is the first place I go for scripted stuff. They have an extensive catalog and have proven to be a valuable resource for researching film crews, actors, and trivia. IMSDB is equally useful for those looking for screenplays of all kinds and genres, which they have listed in categories.
 
 ![imsdb](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### 2\. [Go Into the Story](https://gointothestory.blcklst.com/)
 
 ![go into the story](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-6.jpg)
 
 I'm a huge fan of Scott Myers. He gives everything to the writer. Go Into the Story is the official blog for The **_Black List,_** the screenwriting community known for its annual list of the top ten unproduced screenplays in Hollywood. There is always a bank of scripts that you can filter.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. [Simply Scripts](https://www.simplyscripts.com/)
 
 ![simply scripts](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-7.jpg)
 
 Simply Scripts has a large and diverse library that includes Tennessee Williams' plays, classics, and even non-English screenplays. It's also constantly updated, so the most recent scripts are always available.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. [Screenplays For You](https://sfy.ru/)
 
 ![screenplays for you](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Again, there is not much difference between these pages. You can search by genre here or alphabetically. They have it all.
 
@@ -131,38 +120,49 @@ Again, there is not much difference between these pages. You can search by genre
 
 The script database is another useful resource with a large selection of scripts to choose from. If you're interested in a certain type of movie, the site also lets you search its library by genre, allowing you to browse the window displays and find something you didn't even know you were looking for.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3\. Best 5 free websites to grace your scripts
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. [Go Into The Story](https://gointothestory.blcklst.com/)
 
 ![go into the story](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Run by Scott Myers, the Go into The Story blog has been named “Best of the Best” by Writer's Digest magazine.
 
 It covers business, art, and the everyday problems of a writer.
 
 In addition to being an award-winning blog, Scott's blog is also one that we visit almost every day. It's a one-stop shop for interviews, advice, and answers to any reader questions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. [John August](https://johnaugust.com/)
 
 ![john august](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 Everyone seems to have advice about Hollywood, but who can you trust? John August is one of Hollywood's best screenwriters. He was nominated for an Academy Award for Big Fish and continues to work on major studio films such as Aladdin, Charlie and the Chocolate Factory and Charlie's Angels.
 
 John August's blog has become the place people go for screenwriting news and advice from someone who does it every day.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. [StudioBinder](https://www.studiobinder.com/)
 
 ![studiobinder](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Inspiration is half the battle in writing, but what if you hit writer's block and just can't move forward? The StudioBinder blog is dedicated to helping aspiring and experienced filmmakers achieve their dreams, but the StudioBinder platform is where you can shine.
 
@@ -180,9 +180,6 @@ Life is an endless journey of learning. And the site's vast inventory of scripts
 
 You can learn about character development and how to create a solid story structure just by reading. New scripts are added every day, so chances are what you're looking for is inside.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. [The Black List](https://blcklst.com/)
 
 ![the black list](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-14.jpg)
@@ -199,9 +196,6 @@ It has since expanded to an online database where users can submit their scripts
 
 ![using filmora](https://images.wondershare.com/filmora/article-images/2022/08/script-writing-website-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 Users can adjust the white balance and dynamic range of their clips using the color tuning feature. The audio mixer feature allows you to change the audio of each track. The advanced text editor allows you to change the text's color, size, font, and even animation. The screen recording feature efficiently records the computer's screen and webcam. The video stabilization feature compensates for camera shake.
 
 ### Conclusion
@@ -244,4 +238,21 @@ To write a video script quickly, you should use templates, which are designed to
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-targeted-thought-leadership-with-profound-fb-video-strategies/"><u>[New] 2024 Approved Targeted Thought Leadership with Profound FB Video Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-5-top-tier-gaming-displays-in-4k-quality/"><u>[New] 5 Top-Tier Gaming Displays in 4K Quality</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-value-in-4k-cameras-for-under-1000/"><u>[New] Best Value in 4K Cameras for Under $1,000</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-digital-frame-snatchers-top-video-tools/"><u>[New] In 2024, Digital Frame Snatchers Top Video Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-integrating-royalty-free-songs-into-video-projects/"><u>[Updated] 2024 Approved Integrating Royalty-Free Songs Into Video Projects</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unlocking-instagram-success-4-looping-video-strategies/"><u>[Updated] In 2024, Unlocking Instagram Success 4 Looping Video Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/10-notable-distinctions-between-microsofts-bing-chatbot-and-openais-chatgpt/"><u>10 Notable Distinctions Between Microsoft's Bing Chatbot and OpenAI's ChatGPT</u></a></li>
+<li><a href="https://discover-able.techidaily.com/complete-tutorial-on-resetting-a-kindle-or-kindle-fire-tablet/"><u>Complete Tutorial on Resetting a Kindle or Kindle Fire Tablet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-camera-lineup-for-total-sphere-coverage/"><u>Elite Camera Lineup for Total Sphere Coverage</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/harnessing-digital-power-for-maximum-outreach-for-2024/"><u>Harnessing Digital Power for Maximum Outreach for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-cloud-storage-solutions-mematic-app-for-2024/"><u>Innovative Cloud Storage Solutions Mematic App for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/moviemakerpro-insights-full-analysis/"><u>MovieMakerPro Insights – Full Analysis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/securing-access-to-public-broadcasts-no-fee-for-c-span-videos/"><u>Securing Access to Public Broadcasts No Fee for C-Span Videos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-dll-dilemma-quick-fixes-for-when-fm20dll-wont-load/"><u>Troubleshooting the DLL Dilemma: Quick Fixes for When fm20.dll Won’t Load</u></a></li>
+</ul></div>
 
