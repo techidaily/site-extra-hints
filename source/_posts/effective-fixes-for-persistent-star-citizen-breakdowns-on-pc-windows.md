@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Persistent Star Citizen Breakdowns on PC Windows
-date: 2024-11-19T19:32:29.006Z
-updated: 2024-11-25T17:00:06.300Z
+date: 2024-12-04T16:30:24.581Z
+updated: 2024-12-05T18:56:51.148Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/SOLVED-Lunar-Client-keeps-crashing-on-PC-1200x336.jpg)
 
  Lunar Client is a modpack for many versions of Minecraft. Recently, we’ve seen many Minecraft players report that**Lunar Client keeps crashing on their PC** . If you’re experiencing the exact same issue, you’ve come to the right place. Whether it crashes on startup or crashes in the middle of the game, after reading this article, you should be able to resolve this problem on your own easily!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -41,14 +37,18 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 ![appwiz.cpl](https://images.drivereasy.com/wp-content/uploads/2021/04/appwiz.cpl_.jpg)
 2. Locate programs related to Java, then right-click on it and select**Uninstall** . Restart your computer after you uninstalled Java.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Uninstall Java](https://images.drivereasy.com/wp-content/uploads/2021/05/Uninstall-Java.png)
 3. Go to[the official Java website](https://java.com/en/download/) to download the latest version to your computer. Double-clcik the installation file and follow the instructions on the screen to install it on your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Lunar Client and see if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -83,11 +83,15 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Run-appdata.png)
 3. **Double-click** on the**.minecraft** folder to open it. Then create a new folder and name it as_new launch directory_ (or whatever you like).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![lunar client new launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/lunar-client-new-launch-directory.jpg)
 4. In Lunar Client, go to**Settings** and click**Change Directory** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Change launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory.jpg)
@@ -95,15 +99,7 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 
 ![Change launch directory 1](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Lunar Client and see if this issue persists. If it still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Perform a clean boot
 
@@ -119,19 +115,15 @@ To perform a clean boot, just follow the steps below:
 ![Run msconfig](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Under to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
@@ -141,11 +133,19 @@ To perform a clean boot, just follow the steps below:
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Restart** your PC and launch Lunar Client to check if the game crashes. If not, you need to open the **System Configuration** window again and enable services and applications **one by one** until you find the problematic software. After enabling each startup service, you need to restart Windows OS for the changes to take effect.
 
  Once you find out the software that crashes your game, you may need to close or uninstall it before you launch Lunar Client.
 
  See if this fix works. If Lunar Client doesn’t crash, congratultions! You’ve fixed this issue. If not, you try the next fix below to reinstall Minecraft and Lunar.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Reinstall Minecraft and Lunar Client
 
@@ -175,21 +175,14 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-cinemas-finest-techniques-top-5-tips-for-visual-impact/"><u>[New] Cinema's Finest Techniques Top 5 Tips for Visual Impact</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-professional-video-editing-does-m1-macbook-air-hold-up/"><u>[New] Professional Video Editing Does M1 MacBook Air Hold Up?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-breathe-easy-with-knowledge-of-asmr-advantages/"><u>[Updated] Breathe Easy with Knowledge of ASMR Advantages</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-kinetic-insight-study/"><u>[Updated] Comprehensive Kinetic Insight Study</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-scripting-your-storys-visual-heartbeat-at-home/"><u>[Updated] Scripting Your Story's Visual Heartbeat at Home</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/free-fires-sound-alteration-tactics/"><u>Free Fire's Sound Alteration Tactics</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/hype-generator-chief-architect/"><u>Hype Generator Chief Architect</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/ipadwinxmkvmtstodmodavimpegwmv/"><u>IPad向けビデオフォーマッターの使い方：WinXでMKV、MTS、TOD、MOD、AVI、MPEG、WMVを簡単に変換するための手順</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/is-inshot-surging-above-all-else-in-edits/"><u>Is InShot Surging Above All Else in Edits?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/qualcomms-latest-innovation-snapdragon-4-gen-2-transforms-the-budget-phone-market/"><u>Qualcomm's Latest Innovation: Snapdragon 4 Gen 2 Transforms the Budget Phone Market</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/speak-like-a-romanian-with-our-app/"><u>Speak Like a Romanian with Our App</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/strategic-approaches-to-share-ppt-powerfully-in-google-meet/"><u>Strategic Approaches to Share PPT Powerfully in Google Meet</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/egies-in-tagging-and-titling-videos-for-success-for-2024/"><u>Strategies in Tagging and Titling Videos for Success for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-choice-software-transforming-pics-to-videos/"><u>Top Choice Software Transforming Pics to Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-the-secrets-of-prestigious-discord-groups/"><u>Unlock the Secrets of Prestigious Discord Groups</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-ultimate-guide-to-indoor-android-games-no-internet-required-for-2024/"><u>[New] The Ultimate Guide to Indoor Android Games (No Internet Required) for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-awesome-iphone-selfie-solutions-spot-8-now/"><u>[Updated] Awesome iPhone Selfie Solutions - Spot #8 Now</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-the-roadmap-how-to-make-your-covers-shine/"><u>[Updated] In 2024, The Roadmap How To Make Your Covers Shine</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-twitters-videography-policy-including-aspect-ratios-is-crucial/"><u>[Updated] In 2024, Twitter's Videography Policy Including Aspect Ratios Is Crucial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-selection-of-top-10-cinematic-beacons-of-hope/"><u>2024 Approved A Selection of Top 10 Cinematic Beacons of Hope</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/days-viewing-assessing-file-size-in-gb/"><u>Day's Viewing Assessing File Size in GB</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/eliminating-windows-11-photo-app-malfunctions/"><u>Eliminating Windows 11 Photo App Malfunctions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-downloading-fandango-app-onto-your-firestick/"><u>Step-by-Step Guide: Downloading Fandango App Onto Your Firestick</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/untangling-the-video-jams-in-digital-portfolits/"><u>Untangling the Video Jams in Digital Portfolits</u></a></li>
 </ul></div>
 

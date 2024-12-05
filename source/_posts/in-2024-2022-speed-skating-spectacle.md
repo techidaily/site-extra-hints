@@ -1,7 +1,7 @@
 ---
 title: "In 2024, 2022 Speed Skating Spectacle"
-date: 2024-08-17T13:47:55.219Z
-updated: 2024-08-18T13:47:55.219Z
+date: 2024-11-30T16:51:48.119Z
+updated: 2024-12-05T17:03:27.937Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ Putting aside the controversy of getting disqualified in 1000 meter short track 
 
 Just two nights ago, the Beijing 2022 Olympic Winter Games was marred with controversy after the questionable disqualification of South Korean speed skaters - Hwang and Lee in 1000 meter skating. Paying no heed to the controversy and unfortunate loss, skater Hwang Dae-heon captured his first gold medal in his career and brought back everyone’s focus to the game. Check out the short track speed skating highlights and learn how to create a video with highlights of a tournament like Beijing 2022 Olympic Winter Games.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Watch Video: 10 Best Winter Olympics Highlight Moment \[2022\]
 
 ## Part 1\. Introduce some highlights in short track speed skating with images
@@ -36,17 +40,33 @@ Canada’s Steven Dubois wins the silver medal.
 
 ![steven dubois wins the silver medal](https://images.wondershare.com/filmora/article-images/steven-dubois-wins-the-silver-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Russia’s Semen Elistratov wins the bronze medal.
 
 ![elistratovb wins the bronze medal](https://images.wondershare.com/filmora/article-images/elistratov-wins-the-bronze-medal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Hwang Dae-heon beats Steven Dubois by the tightest margin of 0.035 seconds.
 
 ![hwang beats steven dubois](https://images.wondershare.com/filmora/article-images/hwang-beats-steven-dubois.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ren Ziwei shoved Hungarian Shaolin Sandor Liu during the event. The Hungarian naturally could not cope up with time.
 
 ![ren ziwei shoved hungarian](https://images.wondershare.com/filmora/article-images/ren-ziwei-shoved-hungarian.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ren Ziwei was disqualified for arm blocking Liu. Ren Ziwei has won in 1000 meter short track speed skating previously.
 
@@ -60,14 +80,6 @@ Gold medalist Hwang Dae-heon of South Korea poses for the cameras during the awa
 
 ![gold medalist hwang](https://images.wondershare.com/filmora/article-images/gold-medalist-hwang.jpg)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. How to create a video to combine the highlights of short track speed skating 2022?
 
 The best way to present any news related to any sports event is to create a short video containing all the highlights of the event. For example, you can create a video combining all the highlights of short track speed skating 2022 that we have presented in the previous section. You can also collect short clips of the event from social media platforms that have been captured by audiences.
@@ -82,9 +94,6 @@ To create such a highlight video on any sports event, there are certain videos e
 
 **Pan and Zoom** – Pan and Zoom is the most commonly used video effect that is applied to still footage. While the footage zooms out, texts and titles are shown or a voiceover is played so that the graphic on the screen does not stay static.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### A Professional [Video Editor](https://tools.techidaily.com/wondershare/filmora/download/)
 
 To create a video based on any sport event such as short track speed skating highlights, you need a professional video editor where you can get all the video effects and elements in one place. We recommend Wondershare Filmora where you get a wide range of video effects and editing tools to make your video stand out easily.
@@ -103,9 +112,6 @@ Step 1: Download and install Filmora on your computer. Launch the application an
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 Step 2: Go to File > Project Settings and set the aspect ratio and resolution as well as frame rate as required.
 
 Step 3: Go to Import > Import Media Files and bring in all the still footages and short clips you have collected. You can also use the option Import with Instant Cutter Tool to trim the footages and clips for uniformity.
@@ -116,14 +122,9 @@ Step 5: Select individual slides and apply Transition, Effects or add Titles and
 
 Step 6: When all the editing work is done, click on Export to save the video on your hard drive and publish online.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 South Korean skater Hwang Dae-heon has won the gold medal in men’s short track speed skating 1500m. This has buried the controversy that cropped up due to South Korean disqualification in 1000m short track speed skating. If you want to make a video highlighting all the important scenes and moments of any sports event, we have illustrated how to make a professional-quality video with Wondershare Filmora.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -131,3 +132,23 @@ South Korean skater Hwang Dae-heon has won the gold medal in men’s short track
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-best-cameras-for-youtube-from-beginners-to-professionals/"><u>[New] 2024 Approved The Best Cameras for YouTube From Beginners to Professionals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-breaking-through-boundaries-with-hdr-in-editing/"><u>[New] Breaking Through Boundaries with HDR in Editing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beyond-boundaries-the-present-state-and-future-of-vr/"><u>[Updated] Beyond Boundaries The Present State and Future of VR</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-audio-segmentation-made-simple-a-premiere-guide/"><u>2024 Approved Advanced Audio Segmentation Made Simple A Premiere Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capture-and-preserve-a-detailed-look-at-7-ways-to-log-webcasts/"><u>2024 Approved Capture and Preserve A Detailed Look at 7 Ways to Log Webcasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/add-shimmer-to-photos-illustrators-motion-blur-guide/"><u>Add Shimmer to Photos Illustrator's Motion Blur Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-y100i-by-fonelab-android-recover-music/"><u>How to restore wiped music on Y100i</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-composing-persuasive-podcast-introductions/"><u>In 2024, Composing Persuasive Podcast Introductions</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-iphone-7-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From iPhone 7? Heres the Best Fixes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unlocking-the-potential-of-discord-streams/"><u>In 2024, Unlocking the Potential of Discord Streams</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Life360 Circle Everything You Need to Know On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/optimizing-your-online-presence-leading-twitter-de-followers-for-2024/"><u>Optimizing Your Online Presence Leading Twitter De-Followers for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/simplified-file-conversion-for-audio-enthusiasts/"><u>Simplified File Conversion for Audio Enthusiasts</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-overhaul-banishing-biased-politicalreligious-posts/"><u>Social Media Overhaul: Banishing Biased Political/Religious Posts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unveiling-best-free-user-friendly-srt-translators-online-for-2024/"><u>Unveiling Best Free, User-Friendly SRT Translators Online for 2024</u></a></li>
+</ul></div>
+

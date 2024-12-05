@@ -1,7 +1,7 @@
 ---
 title: "[New] Breaking Ground in VR Content Development"
-date: 2024-11-23T21:58:46.888Z
-updated: 2024-11-25T23:44:06.117Z
+date: 2024-11-30T17:00:50.976Z
+updated: 2024-12-05T19:26:03.206Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
  The world of Virtual Reality has been more entertaining throughout the development of technology. The VR content is the latest and most entertaining concept in line with virtual reality. The wide scale innovative technology is set to make the big difference in creating videos and documentations. A high quality and interactive approach on VR content are given by the birth of the VR content company known as With.in. The company was founded by the award-winning director Chris Milk and the famous technologist Aaron Koblin. The goal of the two is discovered more the immersive potential of storytelling. A new line of creative ways is made in order to expand the possibilities of the storytelling concept using VR content.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does [With.in]( https://with.in/ ) Do?
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Art Work of With.in
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## About Chris Milk
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -99,19 +99,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-how-does-youtube-count-views-its-not-as-simple-as-you-think/"><u>[New] 2024 Approved How Does YouTube Count Views? It's Not as Simple as You Think!</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-how-to-use-video-titles-and-youtube-tags-for-more-views/"><u>[New] 2024 Approved How to Use Video Titles and YouTube Tags for More Views?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-unlocking-success-in-live-streaming-of-cricket-matches/"><u>[New] Unlocking Success in Live Streaming of Cricket Matches</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-asmr-explained-why-it-might-be-good-for-you/"><u>[Updated] ASMR Explained Why It Might Be Good For You</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-master-the-art-of-radial-filtering-with-photoshop/"><u>[Updated] Master the Art of Radial Filtering with Photoshop</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/8-ways-to-turn-chatgpt-into-a-profitable-business/"><u>8 Ways to Turn ChatGPT Into a Profitable Business</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-download-for-pro-6s-latest-drivers/"><u>Direct Download for Pro 6'S Latest Drivers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expert-review-of-vivacuts-latest-edits-and-enhancements/"><u>Expert Review of VivaCut's Latest Edits and Enhancements</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-make-a-photo-video-with-pixiz/"><u>How to Make a Photo Video with Pixiz?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/overlooked-marvels-free-transcription-tools-for-macos/"><u>Overlooked Marvels Free Transcription Tools for macOS</u></a></li>
-<li><a href="https://win11.techidaily.com/switching-from-modern-search-bar-design-back-to-icons-in-win11/"><u>Switching From Modern Search Bar Design Back to Icons in Win11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/text-and-title-effect-types-in-after-effects/"><u>Text and Title Effect Types in After Effects</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-virtual-stage-enhancement-zooms-filter-guidebook/"><u>The Virtual Stage Enhancement Zoom's Filter Guidebook</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/uncovering-8-affordable-platform-agnostic-virtual-communication-tools-for-2024/"><u>Uncovering 8 Affordable, Platform-Agnostic Virtual Communication Tools for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-selective-image-blurring-techniques/"><u>[New] Mastering Selective Image Blurring Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-visuals-what-sets-360-apart/"><u>2024 Approved Comprehensive Visuals What Sets 360° Apart?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-harmonic-storage-pc-audio-and-speech/"><u>2024 Approved Harmonic Storage PC Audio and Speech</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/action-camera-faceoff-whos-winning-in-gopro-vs-yi-4k-battle/"><u>Action Camera Faceoff Who's Winning in GoPro Vs. Yi 4K Battle?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/clear-the-way-for-smooth-safari-streaming/"><u>Clear the Way for Smooth Safari Streaming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/detailed-tutorial-correcting-the-not-found-problem-with-d3dx928dll/"><u>Detailed Tutorial: Correcting the 'Not Found' Problem with d3dx9_28.dll</u></a></li>
+<li><a href="https://solve-info.techidaily.com/how-to-fix-windows-cant-access-specified-devicepathfile-step-by-step-guide/"><u>How To Fix 'Windows Can't Access Specified Device/Path/File': Step-by-Step Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-innovative-approaches-to-change-song-speed-on-spotify/"><u>In 2024, Innovative Approaches to Change Song Speed on Spotify</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-tactics-for-smoothly-importing-movies-to-vimeo-from-wmm/"><u>In 2024, Tactics for Smoothly Importing Movies to Vimeo From WMM</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pricing-guide-to-film-a-bands-music-visual/"><u>Pricing Guide to Film a Band's Music Visual</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/sintomas-y-soluciones-efectivas-al-descargador-inactivo-de-windows-aturbo-en-11-acceda-a-las-3-formulas-esenciales/"><u>Síntomas Y Soluciones Efectivas Al Descargador Inactivo De Windows Aturbo en 11 - Acceda a Las 3 Fórmulas Esenciales</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-resource-for-choosing-great-podcast-names-with-examples/"><u>The Ultimate Resource for Choosing Great Podcast Names, With Examples</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watch-the-conjuring-films-perfect-order-and-timeline-explained/"><u>Watch 'The Conjuring' Films - Perfect Order & Timeline Explained</u></a></li>
 </ul></div>
 

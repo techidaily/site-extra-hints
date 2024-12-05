@@ -1,7 +1,7 @@
 ---
 title: Fixing Kodi Connection Issues - Overcoming Directory Retrieval Errors
-date: 2024-08-17T13:45:38.854Z
-updated: 2024-08-18T13:45:38.854Z
+date: 2024-12-04T17:16:50.102Z
+updated: 2024-12-05T17:20:56.083Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Sifu
 
 **Sifu** , the hardcore beat ’em up action-adventure game developed and published by French studio Sloclap, is finally out! Just like any other third-person action game that features intense hand-to-hand combat, Sifu’s gaming experience relies heavily on smooth frame rates. If you’re suffering from FPS and performance drops while playing Sifu on your PC, don’t worry! This article will help you fix these issues. After reading it, you should be able to boost the in-game FPS and play it smoothly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved the Sifu FPS drops for other PC players. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -33,6 +37,10 @@ Sifu
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  The French studio Sloclap releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -42,8 +50,9 @@ Sifu
  Launch Sifu and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Update your graphics driver
 
  One of the most common causes of game stuttering (or FPS dropoping) is that the graphics driver on your computer is outdated or broken. If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, since in most cases, newly-released games like Sifu work better with the latest graphics driver.
@@ -96,9 +105,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch Sifu after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Modify graphics card settings
 
  According to many PC gamers, tweaking the graphics card settings in Nvidia or AMD control panel may also gain some in-game FPS boosts.
@@ -123,8 +129,9 @@ There are mainly two methods for you to update the graphics driver:
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Launch Sifu and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Change Windows power plan
@@ -134,15 +141,8 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Launch Sifu to check if you gain a better PFS. If this doesn’t work on your powerful PC, then try seting the Windows power plan to**Ultimate Performance** , a power plan that is not widely known, which is designed to make the most out of high end setups.
 
  The Ultimate Performance option doesn’t appear on the power plan list? Just follow the steps below to unhide it:
@@ -162,8 +162,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  If you’ve enabled overlays while playing Sifu, try disabling it. Then launch Sifu again and see if the in-game FPS improves. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Disable background recording and Xbox Game Bar
 
  The background recording and Xbox Game Bar feature in Windows 10 / 11 would constantly run in the background once enabled, hogging tons of resources. To gain a better FPS, you may need to disable them. Here is how to do it:
@@ -176,8 +177,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Launch Sifu to see you can play it smoothly.
 
 ---
@@ -194,8 +196,6 @@ Launch Sifu to see you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +203,22 @@ Launch Sifu to see you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-capturing-moments-like-never-before-toolwiz-apps-2023-review/"><u>[New] Capturing Moments Like Never Before Toolwiz App's 2023 Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10-secret-tips-to-better-use-canva-photo-editor/"><u>[Updated] 10 Secret Tips to Better Use Canva Photo Editor</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2023s-premier-action-cameras-for-ocean-thrills-for-2024/"><u>2023'S Premier Action Cameras for Ocean Thrills for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-how-to-get-more-views-with-youtube-shorts/"><u>2024 Approved How to Get More Views with YouTube Shorts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/adding-apple-music-to-video-for-2024/"><u>Adding Apple Music to Video for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-the-whole-picture-not-just-slices-of-it-for-2024/"><u>Capturing the Whole Picture, Not Just Slices of It for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-x6-pro-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of X6 Pro using Video Repair Utility?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oneplus-nord-n30-se-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your OnePlus Nord N30 SE to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-through-top-film-makers-landscape/"><u>Navigating Through Top Film Makers' Landscape</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revolutionizing-smartwatch-experience-the-elevated-capabilities-of-samsung-galaxy-watch-active2-detailed-review/"><u>Revolutionizing Smartwatch Experience: The Elevated Capabilities of Samsung Galaxy Watch Active2 Detailed Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/seamless-sync-incorporating-songs-into-videos-using-your-iphone-for-2024/"><u>Seamless Sync Incorporating Songs Into Videos Using Your iPhone for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-guide-to-crafting-iphone-image-art/"><u>Step-by-Step Guide to Crafting iPhone Image Art</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-10-user-profile-erasure-techniques-for-efficient-system-management/"><u>Windows 10 User Profile Erasure Techniques for Efficient System Management</u></a></li>
+</ul></div>
 

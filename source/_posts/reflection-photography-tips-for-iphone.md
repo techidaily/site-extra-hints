@@ -1,7 +1,7 @@
 ---
 title: "Reflection Photography Tips for iPhone"
-date: 2024-08-17T13:44:58.120Z
-updated: 2024-08-18T13:44:58.120Z
+date: 2024-11-29T16:06:01.924Z
+updated: 2024-12-05T18:00:45.283Z
 tags: 
   - screen-recording
   - ai video
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 
 ![water-reflection](https://images.wondershare.com/filmora/article-images/water-reflection.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2\.  Pay Attention to Composition
 
  Composition is the very basis of good photography, as the person taking the picture you decide the scene. The most integral part of good composition is the rule of thirds. This means you should divide up the scene/subject into 9 equal squares/rectangles (depending on frame).
@@ -63,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
  iPhone already has a feature for you to bring up lines before you take the photo with the rule of thirds:
 
 ![reflection-composition-tips](https://images.wondershare.com/filmora/article-images/reflection-composition-tips.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To activate the lines simply go to **Settings > Camera and Photographs > Grid**
 
@@ -98,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 
 ![make-use-of-texture](https://images.wondershare.com/filmora/article-images/make-use-of-texture.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Post Production Reflective Effects
 
  It's possible to create great reflective photographs by using reflective effects after you have taken it. You can deceptively take one of your great photos and use the reflective effect to make it appear on a reflective looking surface. Here's some examples of photos that were created using this effect through software:
@@ -129,11 +141,19 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 
 ![photo-reflection-app](https://images.wondershare.com/filmora/article-images/photo-reflection-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're not looking for professional level images then photo reflection is a good choice because it's free! It lacks some of the advanced features of the other apps but great for the very occasional photographer!
 
 #### 4\. [Photo Mirror Effects](https://itunes.apple.com/us/app/photo-reflection/id484604482?mt=8)
 
 ![photo-mirror-effects-reflection-editor](https://images.wondershare.com/filmora/article-images/photo-mirror-effects-reflection-editor.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another great choice for getting started with reflective photography. It has some mid range editing features, but this is made up in it's easy of use. Perhaps one of the best free reflective photography apps and you can even share the images directly to your social media feeds.
 
@@ -147,14 +167,33 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-mp3-mastery-guide-top-10-video-to-audio-picks/"><u>[New] In 2024, MP3 Mastery Guide Top 10 Video-to-Audio Picks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-budget-strategies-for-podcasters/"><u>[Updated] Comprehensive Budget Strategies for Podcasters</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-ultimate-tutorial-for-immersive-iphone-vr-viewing/"><u>[Updated] In 2024, The Ultimate Tutorial for Immersive iPhone VR Viewing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-lgs-advanced-4k-visual-display/"><u>[Updated] The Ultimate Guide to LG’s Advanced 4K Visual Display</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-accelerated-adventures-fastest-flash-games-on-devices/"><u>2024 Approved Accelerated Adventures Fastest Flash Games on Devices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-effortlessly-enhanced-images-learn-the-insider-snapchat-tactics/"><u>2024 Approved Effortlessly Enhanced Images Learn the Insider Snapchat Tactics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-beginners-manual-to-windows-8-film-creation-for-2024/"><u>A Beginner's Manual to Windows 8 Film Creation for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/accurate-ranking-top-10-gratuitous-srt-file-tools-for-2024/"><u>Accurate Ranking Top 10 Gratuitous Srt File Tools for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/apex-creative-workspace-report-in-depth-studio-analysis-2023/"><u>Apex Creative Workspace Report In-Depth Studio Analysis, 2023</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/belly-laughs-list-ultimate-guide-to-free-memes-for-2024/"><u>Belly Laughs List Ultimate Guide to Free Memes for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebooks-new-era-breaking-down-2023s-sneak-peek-into-short-video-trends-for-2024/"><u>Facebook's New Era Breaking Down 2023'S Sneak Peek Into Short Video Trends for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/five-iphone-compatible-podcast-services/"><u>Five iPhone-Compatible Podcast Services</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/improve-printers-pace-at-a-glance/"><u>Improve Printer's Pace at a Glance</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-motorola-moto-e13-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Motorola Moto E13</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-14-plus-video-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 14 Plus Video to Computer? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvent-windows-application-performance-through-simple-internet-solutions/"><u>Reinvent Windows Application Performance Through Simple Internet Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/retroactive-video-mastery-for-android-users/"><u>Retroactive Video Mastery for Android Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tangoing-turquoise-toucan/"><u>Tangoing Turquoise Toucan</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Dive Into Easy Aquatic Movie-Making  Quick Methods Revealed\""
-date: 2024-08-17T13:45:24.764Z
-updated: 2024-08-18T13:45:24.764Z
+date: 2024-11-28T16:12:15.842Z
+updated: 2024-12-05T17:39:50.028Z
 tags: 
   - screen-recording
   - ai video
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 
 ![frame shot](https://images.wondershare.com/filmora/article-images/frame-shot.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 2\. Get closer
 
  You need to get as close to your subject as you possibly can. It may take several attempts to get it right, especially if you’ve just about got the shot you want but your subject inevitably floats or swims away.
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 
 ![get closer](https://images.wondershare.com/filmora/article-images/get-closer-underwater.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 3\. Lighting is important
 
  It’s possible to manipulate lighting via white balance and manual exposure. When you use manual white balance, you can obtain outstanding footage without purchasing costly lights.
@@ -59,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
  You can instead make use of natural sunlight, which should help you get the excellence you require even when you’re shooting at more than 30 metres depth. Deeper white balancing can be helpful during cloudy days.
 
 ![lightinng](https://images.wondershare.com/filmora/article-images/lightinng-underwater.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 4\. Stay steady
 
@@ -80,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 
 ![wide angle](https://images.wondershare.com/filmora/article-images/wide-angle-underwater.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 7\. Shoot the best colour
 
  You will be able to include the full spectrum of colour by remaining in the first five metres of the water. Fascinating marine life can be found in shallow reefs. The deeper you go, the more colour you are likely to lose.
@@ -87,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
  Virtually all natural colours when you stay shallow. Go beyond this and you will require a colour correction filter to retrieve the colour lost through depth. When shooting close-up subjects beneath 20 metres, use a wide-angle video light to return vibrant, kaleidoscopic colour to your video.
 
 ![shoot shot](https://images.wondershare.com/filmora/article-images/shoot-colour.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Edit your footage
 
@@ -108,15 +128,29 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-assemble-comic-memes-with-giphy/"><u>[Updated] Assemble Comic Memes with Giphy</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-smooth-media-transition-pc-files-to-iphone/"><u>[Updated] In 2024, Smooth Media Transition PC Files To iPhone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-synchronizing-with-instagram-perfect-video-integration/"><u>[Updated] Synchronizing With Instagram Perfect Video Integration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-benq-bl2711u-elevating-professional-monitors-to-new-heights-in-4k-realms/"><u>2024 Approved BenQ BL2711U Elevating Professional Monitors to New Heights in 4K Realms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiency-at-your-fingertips-discover-how-to-access-win11-disk-management/"><u>Efficiency at Your Fingertips: Discover How to Access Win11 Disk Management</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/finding-the-best-4k-monitors-1-10-rankings/"><u>Finding the Best 4K Monitors #1-10 Rankings</u></a></li>
+<li><a href="https://media-tips.techidaily.com/get-your-free-and-easy-to-install-umplayer-software-on-windows-10-systems-today/"><u>Get Your Free and Easy-to-Install UMPlayer Software on Windows 1ˈ0 Systems Today!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-activating-user-defined-permissions-in-windows-1011/"><u>Guide to Activating User-Defined Permissions in Windows 10/11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/high-definition-magic-cutting-edge-camcorders-reviewed/"><u>High-Definition Magic Cutting-Edge Camcorders Reviewed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-blur-background-of-your-youtube-video-2-easy-ways-for-2024/"><u>How to Blur Background of Your YouTube Video - 2 Easy Ways for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-service-has-failed-to-sign-in-error-by-fixing-the-user-profile-on-windows-11/"><u>Overcoming 'Service Has Failed to Sign In' Error by Fixing the User Profile on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unforgettable-cinematic-journey-top-15-timeless-motion-pictures/"><u>Unforgettable Cinematic Journey - Top 15 Timeless Motion Pictures</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unleash-creativity-on-instagram-mastering-bulk-image-and-video-additions/"><u>Unleash Creativity on Instagram Mastering Bulk Image & Video Additions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-audio-mastery-with-these-mics/"><u>Unlocking Audio Mastery with These Mics</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to Fisheye Panoramas"
-date: 2024-11-24T23:18:48.958Z
-updated: 2024-11-25T16:19:56.540Z
+date: 2024-11-28T18:11:46.252Z
+updated: 2024-12-05T17:58:46.797Z
 tags: 
   - screen-recording
   - ai video
@@ -26,13 +26,13 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Shooting 360 degrees panoramas with fisheye lens
 
  The process of shooting panoramas with fisheye lenses involves a number of considerations and they are as follows-:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1. The equipment and setup
 
@@ -40,19 +40,15 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
 ![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2. Leveling and rotating
 
  Other than setting up and calibrating the equipment in the right manner, it is important to keep the camera steady and leveled as you make the rotations to take shots. For leveling, it is recommended to use an appropriate leveling base, while for rotation, using a panning clamp on top of the ballhead is highly recommended.
 
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3. The actual shooting
 
@@ -67,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
  In normal photography, it always pays to remember what to include and what to exclude in your shots. When it comes to shooting 360s, it becomes more complicated since everything is included. For you to take successful 360s with fisheye therefore, you need to consider keenly where you stand. The fisheye lens will introduce a lot of space between you and the subject, hence you must consider how close or far away you are from the subject so that the pieces of the compositional puzzle will fall in place smoothly both in the horizontal and vertical planes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stitching 360 degrees panoramas after shooting
@@ -77,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
  You might be also interested in:
 
 [How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's fisheye lenses
 
@@ -88,15 +88,15 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Conclusion
 
  Fisheye lenses have been around for a while now and the process of creating 360 panoramas with them may not be very challenging, but great results are achieved through practice and proper stitching. Once the photos are taken, you can use premium panorama software like Autopano Pro or you can use free options like the Microsoft ICE or Hugin. Ones stitching are done, it is imperative to have the final works uploaded online for others to view.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -113,19 +113,20 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/eginners-steps-to-broadcast-on-youtube-via-obs/"><u>[New] Beginner's Steps to Broadcast on Youtube via OBS</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-best-webcam-accessories-top-10-secure-solutions/"><u>[Updated] 2024 Approved Best Webcam Accessories Top 10 Secure Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/aerial-drone-transformation-trial-with-first-20-free-lutts-for-2024/"><u>Aerial Drone Transformation - Trial with First 20 FREE LUTTs for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/dismantling-the-barriers-to-switching-out-of-s-mode/"><u>Dismantling the Barriers to Switching Out of S Mode</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/diymp3-quicktime-and-vlc-media-player/"><u>DIYアプリを使ってビデオからMP3音楽ファイル作成法 - QuickTime & VLC Media Player</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-guide-to-downloading-newgrounds-video-content-discover-three-effective-techniques/"><u>Easy Guide to Downloading Newgrounds Video Content - Discover Three Effective Techniques!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-m6-pro-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco M6 Pro 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/imovie-rhythms-crafting-audio-visual-symphony-for-2024/"><u>IMovie Rhythms Crafting Audio-Visual Symphony for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-immersive-traits-in-filmoras-editing-software/"><u>In 2024, Top 10 Immersive Traits in Filmora's Editing Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/integrating-photos-and-videos-a-guide-to-using-storyremix-in-windows-11/"><u>Integrating Photos & Videos A Guide to Using StoryRemix in Windows 11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-nvidia-display-issue-in-control-panel/"><u>Resolving Nvidia Display Issue in Control Panel</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/seamless-snapshots-mobile-tripods-for-iphones-androids/"><u>Seamless Snapshots Mobile Tripods for iPhones, Androids</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-subtle-art-of-easing-audio-intensity-garageband/"><u>The Subtle Art of Easing Audio Intensity (Garageband)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unmatched-clarity-in-filming-top-rated-camera-stabilizers-guide/"><u>Unmatched Clarity in Filming Top-Rated Camera Stabilizers Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-connect-play-and-share-the-essentials-of-xbox-zoom/"><u>[New] Connect, Play and Share The Essentials of Xbox Zoom</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-content-pc-video-editing-for-effective-youtube-presentations/"><u>[New] In 2024, Elevate Your Content PC Video Editing for Effective YouTube Presentations</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-enhance-visibility-11-must-know-youtube-video-seo-tactics/"><u>[New] In 2024, Enhance Visibility 11 Must-Know YouTube Video SEO Tactics</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-step-by-step-on-instagram-filter-usage-2023/"><u>[New] The Ultimate Step-by-Step on Instagram Filter Usage 2023</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-craft-memes-with-kapwings-design-toolkit/"><u>[Updated] Craft Memes with Kapwing's Design Toolkit</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/all-in-one-app-analysis-tool-az-screen-capturer/"><u>All-in-One App Analysis Tool AZ Screen Capturer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beginners-drone-racing-handbook-plus-leading-fpv-drones-for-2024/"><u>Beginner's Drone Racing Handbook + Leading FPV Drones for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/bidfarewelltomycam-the-quest-for-improved-options/"><u>BidFarewellToMyCam The Quest for Improved Options</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-11-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 11 Pro Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-illusions-simulating-time-jumps-and-space-hopping/"><u>In 2024, Crafting Illusions Simulating Time Jumps & Space Hopping</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-guide-bypassing-your-ipads-security-lock-without-password/"><u>Quick Guide: Bypassing Your iPad's Security Lock without Password</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/strategic-lighting-for-best-iphone-photography/"><u>Strategic Lighting for Best iPhone Photography</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-future-of-task-management-boosting-efficiency-with-chatgpt-for-effective-workflows/"><u>The Future of Task Management: Boosting Efficiency with ChatGPT for Effective Workflows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-video-makers-ultimate-stability-features/"><u>Top Video Makers' Ultimate Stability Features</u></a></li>
 </ul></div>
 

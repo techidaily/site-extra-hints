@@ -1,7 +1,7 @@
 ---
 title: "The Art of Fisheye Lens in 360 Imagery"
-date: 2024-08-17T13:48:23.805Z
-updated: 2024-08-18T13:48:23.805Z
+date: 2024-12-01T19:12:28.127Z
+updated: 2024-12-05T17:00:19.361Z
 tags: 
   - screen-recording
   - ai video
@@ -26,9 +26,17 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Shooting 360 degrees panoramas with fisheye lens
 
  The process of shooting panoramas with fisheye lenses involves a number of considerations and they are as follows-:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1. The equipment and setup
 
@@ -37,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 ![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2. Leveling and rotating
 
  Other than setting up and calibrating the equipment in the right manner, it is important to keep the camera steady and leveled as you make the rotations to take shots. For leveling, it is recommended to use an appropriate leveling base, while for rotation, using a panning clamp on top of the ballhead is highly recommended.
@@ -46,11 +55,9 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ### 3. The actual shooting
 
  For a full frame camera with 15mm fisheye lens in the portrait position, you will require a total of six shot rounds and 1 up to complete a full sphere. If you were using a crop-sensor camera, you will need to have a 10mm fisheye lens to achieve the same sequence.
@@ -71,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 
 [How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What's fisheye lenses
 
  Fisheye lens refers to an ultra wide angle lens used to produce strong visual distortions with the aim of creating a wide hemispherical or panoramic image. Fisheye lenses are able to achieve very wide angles of view not through the production of straight lines of perspectives, but through a special mapping which makes the resulting images have the characteristic convex non-rectilinear appearance.
@@ -84,9 +88,6 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Conclusion
 
  Fisheye lenses have been around for a while now and the process of creating 360 panoramas with them may not be very challenging, but great results are achieved through practice and proper stitching. Once the photos are taken, you can use premium panorama software like Autopano Pro or you can use free options like the Microsoft ICE or Hugin. Ones stitching are done, it is imperative to have the final works uploaded online for others to view.
@@ -94,15 +95,14 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -110,3 +110,25 @@ Follow @Benjamin Arango
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-circling-the-globe-in-one-shot-versus-layered-visuals/"><u>[New] Circling the Globe in One Shot Versus Layered Visuals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gratis-global-photo-perfection-suite/"><u>[New] Gratis Global Photo Perfection Suite</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-importing-audio-steps-for-inshot-video-editing/"><u>[New] Importing Audio Steps for InShot Video Editing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-best-5-digital-recorder-selects/"><u>[New] In 2024, Best 5 Digital Recorder Selects</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gently-ebbing-sounds-with-logic-pros-dimming-function/"><u>2024 Approved Gently Ebbing Sounds with Logic Pro's Dimming Function</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/6-best-microphones-for-live-streaming-overview-for-2024/"><u>6 Best Microphones for Live Streaming Overview for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-get-alerts-during-dnd-discover-these-easy-ways-to-keep-texts-and-calls-coming-on-your-iphone/"><u>Can't Get Alerts During DND? Discover These Easy Ways to Keep Texts & Calls Coming on Your iPhone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-mastery-for-career-success-discover-the-top-6-compelling-reasons/"><u>ChatGPT Mastery for Career Success: Discover the Top 6 Compelling Reasons</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/garmin-gpsmap/"><u>Garmin GPSMAP</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/how-to-add-bilingual-button-labels-in-flipbuilder-english-and-portuguese/"><u>How to Add Bilingual Button Labels in FlipBuilder (English & Portuguese)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-nine-essential-live-gaming-services/"><u>In 2024, Best Nine Essential Live Gaming Services</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-craft-a-richer-user-experience-in-windows-photos-with-music-and-aesthetic-filters/"><u>In 2024, Craft a Richer User Experience in Windows Photos with Music and Aesthetic Filters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/kickstarting-with-a-gopro-unbox-the-perfect-add-ons/"><u>Kickstarting with a GoPro Unbox the Perfect Add-Ons</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-android-listening-helpers/"><u>Premium Android Listening Helpers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/render-blur-effect-on-digital-snaps-in-ps/"><u>Render Blur Effect on Digital Snaps in PS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-evolution-of-audio-liberation-pazeras-advanced-techniques-2e/"><u>The Evolution of Audio Liberation Pazera's Advanced Techniques (2E)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transforming-video-conferencing-with-zoom-and-youtube-for-impactful-live-events/"><u>Transforming Video Conferencing with Zoom and YouTube for Impactful Live Events</u></a></li>
+</ul></div>
+

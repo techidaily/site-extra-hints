@@ -1,7 +1,7 @@
 ---
 title: "\"Elevate Images  Taking Vertical Panoramas on Screens\""
-date: 2024-11-20T20:02:08.971Z
-updated: 2024-11-25T19:52:42.753Z
+date: 2024-12-03T17:17:38.467Z
+updated: 2024-12-05T19:16:45.622Z
 tags: 
   - screen-recording
   - ai video
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
  However, you will need to use a few but simple techniques to efficiently capture the vertical panoramic view. In this article, we’ll explain you how you can carry out those extraordinary views with your Android or iOS device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to take vertical panorama photography with your respective Smartphone
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image source: mac-fusion
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 * Once finished and satisfied, just tap on "Done" option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For Android users
@@ -74,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Image source: mac-fusion
 
 * To shoot picture, keep holding the target circle on the gray dot until it vanishes.
@@ -85,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 * Tap on "Done" when completed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Some Beneficial Tips for shooting vertical panorama photo
@@ -96,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 * Leaving some space is another beautiful tip especially if you are a graphic designer and want to add some text into the picture. The panorama shot will look perfectly enhanced this way.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -112,22 +112,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-simple-guide-to-record-unrooted-android-sounds/"><u>[New] 2024 Approved Simple Guide to Record Unrooted Android Sounds</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-experts-choice-top-10-streamer-pickers-guide/"><u>[New] 2024 Approved The Expert's Choice Top 10 Streamer Pickers Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-top-30-mobile-video-edits-using-dji-technology/"><u>[New] Top 30 Mobile Video Edits Using DJi Technology</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-bridging-the-gap-between-dreams-and-reality-using-magix-vpx/"><u>[Updated] Bridging the Gap Between Dreams & Reality Using Magix VPX</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-complete-collage-manual-tips-and-tricks/"><u>[Updated] Complete Collage Manual Tips and Tricks</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-cosmic-leaps-effects-for-fiction-films-for-2024/"><u>Crafting Cosmic Leaps Effects for Fiction Films for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/fresh-take-on-the-sony-s3700-bdp-performance/"><u>Fresh Take on the Sony S3700 BDP Performance</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-honor-magic5-ultimate-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Honor Magic5 Ultimate? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/immerse-in-pixel-worlds-the-best-pc-vr-playback-titles-compared/"><u>Immerse in Pixel Worlds The Best PC VR Playback Titles Compared</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-xiaomi-14-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Xiaomi 14 to iPad | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-secrets-to-superior-sprouts-in-the-world-of-valheim/"><u>In 2024, Secrets to Superior Sprouts in the World of Valheim</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-13-pro-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 13 Pro Without iTunes in 5 Ways | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/radiance-in-android-video-editing/"><u>Radiance in Android Video Editing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-audiofreexer-extraction-for-2-point-zero-two-four/"><u>The Ultimate Guide to AudioFreexer Extraction for 2 Point Zero Two Four</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveiling-the-charms-filmoras-most-charming-edit-traits/"><u>Unveiling the Charms Filmora's Most Charming Edit Traits</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/vr-headset-showdown-the-best-of-2023-for-pc/"><u>VR Headset Showdown The Best of 2023 for PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-accelerating-productivity-microsoft-azure-speech-recognition/"><u>[New] Accelerating Productivity Microsoft Azure Speech Recognition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-in-class-writing-workshop/"><u>[New] Best-in-Class Writing Workshop</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-discover-unlimited-stories-free-extensions-and-mobile-marvels/"><u>[New] Discover Unlimited Stories – FREE Extensions & Mobile Marvels</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-craft-a-richer-user-experience-in-windows-photos-with-music-and-aesthetic-filters/"><u>[Updated] Craft a Richer User Experience in Windows Photos with Music and Aesthetic Filters</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-sensory-overload-vr-transforming-viewing-habits/"><u>[Updated] In 2024, Sensory Overload VR Transforming Viewing Habits</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-android-video-from-end-to-beginning/"><u>2024 Approved Android Video From End to Beginning</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-cut-through-the-noise-with-these-top-10-yt-short-standout-strategies/"><u>2024 Approved Cut Through the Noise with These Top 10 YT Short Standout Strategies</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-leading-5-open-source-artificial-intelligence-image-creators/"><u>Discover the Leading 5 Open Source Artificial Intelligence Image Creators</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gratis-online-avi-video-naar-mp3-korting-effortloze-conversie-met-movavi/"><u>Gratis Online AVI-Video Naar MP3 Korting: Effortloze Conversie Met Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-guide-to-creating-gentle-sound-cuts-and-fades-with-pp/"><u>In 2024, A Guide to Creating Gentle Sound Cuts and Fades with PP</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-affordable-yet-high-quality-cameras-list/"><u>In 2024, Affordable Yet High-Quality Cameras List</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-chortlechorus-choosing-the-happiest-websites-for-ringtones/"><u>In 2024, ChortleChorus Choosing the Happiest Websites for Ringtones</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-unleash-your-creative-potential-with-these-top-apps/"><u>In 2024, Unleash Your Creative Potential with These Top Apps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-xs-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone XS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-art-of-directing-with-powerdirector-2024/"><u>Mastering the Art of Directing with PowerDirector 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-art-of-pro-grade-gopro-videography/"><u>Mastering the Art of Pro-Grade Gopro Videography</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723203711677-oddworld-soulstorm-pc-game-crash-no-more-discover-effective-fix-strategies-here/"><u>Oddworld: Soulstorm PC Game Crash No More? Discover Effective Fix Strategies Here!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/techniques-avancees-pour-reduire-les-fichiers-video-hd-4k-et-8k-de-90-en-securite/"><u>Techniques Avancées Pour Réduire Les Fichiers Vidéo HD, 4K Et 8K De 90% en Sécurité</u></a></li>
 </ul></div>
 

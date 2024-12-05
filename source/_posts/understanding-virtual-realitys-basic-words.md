@@ -1,7 +1,7 @@
 ---
 title: "Understanding Virtual Reality's Basic Words"
-date: 2024-08-17T13:46:26.834Z
-updated: 2024-08-18T13:46:26.834Z
+date: 2024-12-03T17:19:10.430Z
+updated: 2024-12-05T17:28:01.491Z
 tags: 
   - screen-recording
   - ai video
@@ -30,21 +30,18 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 
 It is a kind of highly controlled physical system which assists in the simulation of display motion into the real motion senses in the VR world. It provides life to all captured digital elements and let users believe that they are playing with a world of all living things.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Eye Tracking
 
 Eye Tracking works the same as that of head tracking and assists to keep users eye in motion as per the requirement of VR stuff. HMD assists in proper tracking of eye and head with integration to VR content, if you talk about VR games then this feature makes you feel the reality inside the gaming world and when you have to aim at targets then they can be controlled like real-world movements.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Head Tracking
 
 Here we are going to talk about the sensors that track the movement of users' heads and keeps images moving in such a manner that they match head positions perfectly. For example, if you are using an Oculus Rift then the head tracking feature will force your head to look up, down, right, and left so that you can see the world in the way virtual reality wish to make you see.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Motion Tracking
 
 It is described in terms of the ability to record all movements in such a manner that they appear to be a part of the real world. It will help you to get a closer look at every element that you want to observe in VR content, the same as that of real life. It is one of the biggest elements in the world of Virtual Reality that forces your senses to get involved with the tricky science of virtual environment with a feeling that you are wandering in a fantasy world.
@@ -53,16 +50,21 @@ It is described in terms of the ability to record all movements in such a manner
 
 When you are looking at a series of images in the world of Virtual reality then refresh rate helps to control the movement of frames so that they can be managed to move at a faster or slower rate as per requirement. Refresh rate controls lead and lag of a series of images in such a manner that users avail a responsive experience. At the standard rate, users need 60 frames per second.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Head Mounted Display (HMD)
 
 This term will be more often used when you enter the world of Virtual Reality because it is associated with reading and hearing abilities in VR technology. In simple terms, HMDs are the specialized form of hardware that is responsible to deliver VR experience to users. It is designed in shape of a helmet or goggle that users can strap on their faces easily or can wear on their heads. The usage depends upon the requirements of your VR gear because some sensors work with head tracking whereas others do not need such elements.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Latency
 
 If you have ever experienced the world of Virtual Reality then you surely might have noticed that whenever you move your head in the directive motion then the visuals do not keep up accordingly, this is called latency. This is an unpleasant thing about Virtual Reality that adds a limitation to match virtual world with the real world. The lag caused by this latency period is a complaint from VR content users and it occurs due to a variety of reasons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Immersion
 
@@ -73,23 +75,21 @@ The combination of VR and MR leads to immersive experience of users where high-e
 The term Field of View presents the angle of the visual field in degrees where it is important to keep FoV higher to that immersion can be extended to a higher end of the scale. Technically, the viewing angle of the human eye reaches up to 200 degrees thus it becomes important to raise the angle of FoV so that higher immersion can be resulted.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Screen Resolution
 
 Screen resolution actually describes the number of pixels to be displayed on-screen during Virtual Reality scenes. Same as the concept of television monitor or computer screen, more number of pixels mean much better resolution and much clearer as well as the realistic quality of images. The technology of Virtual Reality serves with awesome resolution and cameras developed for capturing such images are designed to add more number of pixels per frame. With specially developed VR headsets, the screen is divided into two portions that are observed by each eye separately and the screen door effects added to VR technology makes users feel like they are watching through a door.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Virtual Reality](https://tools.techidaily.com/wondershare/filmora/download/)
 
 First of all, it is important to know the actual meaning of VR that stands for Virtual Reality. The VR immersion is actually achieved by mixing two most important senses of living beings that are vision as well as hearing; for this VR technology utilizes headphones and headsets. With VR environment you will feel real life in photographs also and the experience with memories will go amazing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## [Augmented Reality](https://tools.techidaily.com/wondershare/filmora/download/)
 
 It is simply the process of overlaying digital elements or data on the real world so that you can interact with reality and digital elements on same platform. Although Augmented Reality technology is still running behind Virtual Reality, the day they will converge then real wonders will be created with mixed reality effects.
@@ -106,11 +106,30 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-effective-techniques-for-building-robust-podcast-rss-feeds/"><u>[New] 2024 Approved Effective Techniques for Building Robust Podcast RSS Feeds</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-camera-editing-showdown-hero-vs-cubes-battle-of-the-screens/"><u>[New] Camera Editing Showdown Hero Vs. Cube's Battle of the Screens</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-step-by-step-journey-to-itunes-audio-acquisition-on-ios-devices/"><u>[Updated] A Step-by-Step Journey to iTunes Audio Acquisition on iOS Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-quickcapture-pro-efficient-win11-video-recorder-for-2024/"><u>[Updated] QuickCapture Pro - Efficient Win11 Video Recorder for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-boost-visuals-zoom-in-on-snapchat-content/"><u>2024 Approved Boost Visuals Zoom in on Snapchat Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-speech-to-text-your-all-inclusive-gdoc-training-guide/"><u>2024 Approved From Speech to Text Your All-Inclusive GDoc Training Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-nubia-red-magic-9-proplus-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Nubia Red Magic 9 Pro+ Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/windows-11easy-transfer/"><u>終了したサービス：Windows 11上でEasy Transfer機能を利用不可となる理由</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-detailed-analysis-of-movavi-pro-video-editor-2024plus/"><u>A Detailed Analysis of Movavi Pro Video Editor 2024+</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cookiebots-innovative-technology-drives-digital-marketing-success-and-engagement-optimization/"><u>Cookiebot's Innovative Technology Drives Digital Marketing Success and Engagement Optimization</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/double-location-dongle-all-to-know-about-apple-iphone-13-proipad-gps-spoofing-drfone-by-drfone-virtual-ios/"><u>Double Location Dongle All to Know About Apple iPhone 13 Pro/iPad GPS Spoofing | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-latest-drivers-for-hp-laserjet-pro-mfp-m428fdw-on-windows-11107/"><u>Download Latest Drivers for HP LaserJet Pro MFP M428fdw on Windows 11/10/7</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-free-online-music-beat-detection-tools/"><u>Explore Free Online Music Beat Detection Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-boosting-engagement-adjusting-speed-of-instagram-stories/"><u>In 2024, Boosting Engagement Adjusting Speed of Instagram Stories</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/instant-conferencing-zoom-in-the-eyes-of-gmail/"><u>Instant Conferencing Zoom in the Eyes of Gmail</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-oppo-reno-11-pro-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Oppo Reno 11 Pro 5G Device</u></a></li>
+</ul></div>
+

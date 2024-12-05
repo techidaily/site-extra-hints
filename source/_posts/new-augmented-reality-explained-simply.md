@@ -1,7 +1,7 @@
 ---
 title: "[New] Augmented Reality Explained Simply"
-date: 2024-11-21T16:36:03.311Z
-updated: 2024-11-26T00:35:48.092Z
+date: 2024-11-29T17:19:35.314Z
+updated: 2024-12-05T16:48:03.526Z
 tags: 
   - screen-recording
   - ai video
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
  Mar 27, 2024• Proven solutions
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Definition of AR
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
  The presentation of augmented reality is in some form of futuristic technology, despite the fact that it has been around for many years. For example, the heads-up display in many fighter jets utilizes the principles of augmented reality, and these date back to the early 1990s when they were used to show information about altitude, speed and direction of the aircraft.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does Augmented Reality work
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
  In general, the device will search for a particular object, which can be anything, but in most cases, they are usually 2D images like in the form of a movie poster. The augmented reality application will recognize the target through the camera and it will then process the image and augment it in some form through the utilization of sound and pictures. For example, if the target object was a movie poster, you may see it spring into life to play a trailer of the movie. So long as you continue viewing the poster through the “window” of the display object, you will see augmented reality rather than the plain old normal poster in normal reality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The future of Augmented Reality
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
  Like with every new technology, augmented reality comes with a plethora or ethical and political issues. For example, the Google Glass came along with a lot of privacy concerns, with some people worried that pictures may be snapped or conversations may be recorded surreptitiously. But amidst all these concerns, AR technology is expected to gather more steam in the near future and it will be a part of life for the majority.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Applications of Augmented Reality
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -117,24 +117,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-turning-time-on-its-ear-unique-approaches-to-reversed-youtube-content/"><u>[New] 2024 Approved Turning Time on Its Ear Unique Approaches to Reversed YouTube Content</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-boosting-vividness-in-iphone-videos-three-keys-unveiled/"><u>[Updated] Boosting Vividness in iPhone Videos – Three Keys Unveiled</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-breaking-boundaries-with-6-top-rated-nft-services/"><u>[Updated] Breaking Boundaries with 6 Top-Rated NFT Services</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-crafting-virtual-laughter-the-metaverse-meme-journey/"><u>[Updated] Crafting Virtual Laughter The Metaverse Meme Journey</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-elite-8-high-speed-recording-software/"><u>[Updated] Elite 8 High-Speed Recording Software</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-infographic-insights-small-business-video-mastery/"><u>[Updated] Infographic Insights Small Business Video Mastery</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/25plus-best-practices-for-crafting-witty-metaverse-visual-jokes/"><u>25+ Best Practices for Crafting Witty Metaverse Visual Jokes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-samsung-galaxy-m34-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Samsung Galaxy M34 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/building-brands-through-memes/"><u>Building Brands Through Memes</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-tecno-spark-10-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Spark 10 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-v30-lite-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo V30 Lite 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-book-trailers-for-impact/"><u>In 2024, Best Book Trailers for Impact</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-13-mini-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 13 mini In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/keeping-windows-data-safe-a-must-do-habit/"><u>Keeping Windows Data Safe: A Must-Do Habit</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/key-frames-per-second-in-superior-slow-motion-imaging/"><u>Key Frames per Second in Superior Slow Motion Imaging</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-computer-gear-with-toms-reviews/"><u>Navigating the World of Computer Gear with Tom’s Reviews</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/squeezing-light-from-iphone-nocturnes/"><u>Squeezing Light From iPhone Nocturnes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tailored-titles-for-crafted-merged-and-oriented-videos-android/"><u>Tailored Titles for Crafted, Merged & Oriented Videos (Android)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-airpods-pro-companion-gadgets-techradar/"><u>Top Rated AirPods Pro Companion Gadgets | TechRadar</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-your-path-to-optimal-hdr-camera-selection/"><u>[New] Crafting Your Path to Optimal HDR Camera Selection</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-funimate-the-game-changers-manual/"><u>[New] In 2024, Funimate The Game Changer's Manual</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-celebrating-cinemas-most-uplifting-scenes-and-stories/"><u>[Updated] Celebrating Cinema's Most Uplifting Scenes & Stories</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capturing-breathtaking-photos-with-iphone-hdr/"><u>2024 Approved Capturing Breathtaking Photos with iPhone HDR</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-metaverse-and-omniverse-a-detailed-breakdown/"><u>2024 Approved The Metaverse & Omniverse A Detailed Breakdown</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-y78t-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo Y78t to Roku | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-honor-100-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Honor 100 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhanced-viewing-experience-apply-filters-on-videos/"><u>Enhanced Viewing Experience Apply Filters on Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expanding-horizons-the-vr-in-classroom-effect/"><u>Expanding Horizons The VR in Classroom Effect</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-tips-iphones-secrets-to-perfect-movement-capture/"><u>Expert Tips IPhone's Secrets to Perfect Movement Capture</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/frosty-slopes-showdown-olympic-snowboard-cross-action/"><u>Frosty Slopes Showdown Olympic Snowboard Cross Action</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-chuckle-clips-for-iphone/"><u>In 2024, Chuckle Clips for iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-full-length-youtube-watching-mode/"><u>Master Full-Length YouTube Watching Mode</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016994045-no-more-silence-restore-fortnite-microphone-functionality-easy-fixes-inside/"><u>No More Silence: Restore Fortnite Microphone Functionality – Easy Fixes Inside</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pros-and-tips-building-realistic-3d-text-in-photos/"><u>Pros and Tips Building Realistic 3D Text in PHOTOS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-world-of-warcraft-failure-to-launch-problems-on-pc/"><u>Resolving World of Warcraft Failure to Launch Problems on PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-list-premier-networks-for-live-viewing/"><u>Ultimate List Premier Networks for Live Viewing</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/what-to-look-for-in-a-gaming-laptop/"><u>What to Look For in a Gaming Laptop</u></a></li>
 </ul></div>
 

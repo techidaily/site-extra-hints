@@ -1,7 +1,7 @@
 ---
 title: "\"How to See Deleted Reddit Posts in 10 Seconds - 5 Simple Ways\""
-date: 2024-08-10T15:27:34.519Z
-updated: 2024-08-11T15:27:34.519Z
+date: 2024-11-30T18:38:00.552Z
+updated: 2024-12-05T18:52:28.393Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,10 @@ We'll cover the best ones below and explain how to use each one.
 4. [The Wayback Machine](#part1-4)
 5. [Google Cache](#part1-5)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 Ways to See Deleted Reddit Posts
 
 ### 1\. Unddit
@@ -42,10 +46,11 @@ Step1 First, go to [Unddit.com](https://www.unddit.com/).
 
 Step2 Click on the red "Unddit" button and drag it to your bookmark bar
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unddit button pointing to bookmark](https://images.wondershare.com/filmora/article-images/2023/01/red-unddit-button.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Go to the deleted Reddit post
 
@@ -54,6 +59,10 @@ Step4 Click on the Unddit bookmark you just saved
 This will automatically lead you to a new page. There, Unddit analyses and displays all the deleted comments from that post.
 
 ![results page on unddit tool](https://images.wondershare.com/filmora/article-images/2023/01/unddit-results.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 On the downside, Reddit doesn't work well with most Reddit posts. It's more effective for revealing deleted comments. Additionally, it may show an error from time to time. Unfortunately, the reason isn't always displayed, and it's something we need to live with.
 
@@ -95,6 +104,10 @@ Step3 It will display a list of Google results with Reddit posts that have delet
 
 The main disadvantage of Resavr is its search feature. There's no way to search for a specific Reddit post. Instead, you can only view recent posts with deleted comments. Or you can type in a specific word and go through all the posts that pop up to find what you're looking for.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. The Wayback Machine
 
 The Wayback Machine is a powerful tool that stores archives of other websites' caches. It's a non-profit site that lets you see deleted Reddit posts and comments that have been stored in the past.
@@ -105,34 +118,24 @@ Step1 Visit archive.org. (Wayback Machine's official website)
 
 Step2 Paste the link to the deleted post and hit "Enter"
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![wayback machine search bar](https://images.wondershare.com/filmora/article-images/2023/01/wayback-machine-search-bar.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Wayback Machine will display the results in a calendar format. Click on a date to see all deleted posts on that day in history.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![result page on wayback machine website](https://images.wondershare.com/filmora/article-images/2023/01/wayback-machine-search-results.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Wayback Machine is a little slower when loading the results than other tools. But it gives you a comprehensive list of all the deleted content highlighted when it loads.
 
 There is another downside. This tool doesn't archive everything instantly. So, there is a chance that some posts won't pop up if a Reddit moderator deleted the post before Wayback Machine could archive it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. Google Cache
 
 Last but not least, it's the Google Cache method. This isn't so much a tool as it is a way to reveal deleted Reddit posts. It won't go as far back in time as Wayback Machine to display deleted Reddit posts. It only shows recently deleted ones.
@@ -143,19 +146,23 @@ Step1 Search for the deleted Reddit post on Google
 
 Step2 When you find the result, click on the three dots next to the page's link
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![google search result three dots](https://images.wondershare.com/filmora/article-images/2023/01/google-cache-method.png)
 
 Step3 Then, select "Cached" from the small new window that pops up
 
 ![google search result cached feature](https://images.wondershare.com/filmora/article-images/2023/01/google-cached-button.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This takes you to a previous version of the page when Google bots last visited it. Hopefully, this was when the post wasn't yet deleted. You can't know until you see the page and check it out.
 
 Google Cache can be either a huge win or a total failure. It depends on the post itself. If it works, it will show you everything. However, if you're too late to the party, you won't be able to see anything from the deleted post.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -169,9 +176,6 @@ Just remember, these tools can often stop working. This is because they don't me
 
 5 Ways to See Deleted Reddit Posts
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Unddit
 
 Unddit is a third-party tool that uses Pushshift.io. This is a database that stores comments users leave on Reddit.
@@ -184,22 +188,20 @@ Step2 Click on the red "Unddit" button and drag it to your bookmark bar
 
 ![unddit button pointing to bookmark](https://images.wondershare.com/filmora/article-images/2023/01/red-unddit-button.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step3 Go to the deleted Reddit post
 
 Step4 Click on the Unddit bookmark you just saved
 
 This will automatically lead you to a new page. There, Unddit analyses and displays all the deleted comments from that post.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![results page on unddit tool](https://images.wondershare.com/filmora/article-images/2023/01/unddit-results.png)
 
 On the downside, Reddit doesn't work well with most Reddit posts. It's more effective for revealing deleted comments. Additionally, it may show an error from time to time. Unfortunately, the reason isn't always displayed, and it's something we need to live with.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### 2\. Reveddit
 
 Unlike Unddit, Reveddit will always help you find deleted Reddit posts. It's a powerful tool and much more stable compared to so many others out there.
@@ -212,9 +214,6 @@ Step1 Go to Reveddit.com
 
 Step2 Type in a specific username, subreddit name, or simply insert the link of the deleted post
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![search bar on reveddit tool](https://images.wondershare.com/filmora/article-images/2023/01/reveddit-search.png)
 
 Step3 Click "Go" and it will display every deleted Reddit post within that search query
@@ -251,9 +250,6 @@ Step1 Visit archive.org. (Wayback Machine's official website)
 
 Step2 Paste the link to the deleted post and hit "Enter"
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![wayback machine search bar](https://images.wondershare.com/filmora/article-images/2023/01/wayback-machine-search-bar.png)
 
 Step3 Wayback Machine will display the results in a calendar format. Click on a date to see all deleted posts on that day in history.
@@ -264,9 +260,6 @@ Wayback Machine is a little slower when loading the results than other tools. Bu
 
 There is another downside. This tool doesn't archive everything instantly. So, there is a chance that some posts won't pop up if a Reddit moderator deleted the post before Wayback Machine could archive it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. Google Cache
 
 Last but not least, it's the Google Cache method. This isn't so much a tool as it is a way to reveal deleted Reddit posts. It won't go as far back in time as Wayback Machine to display deleted Reddit posts. It only shows recently deleted ones.
@@ -277,25 +270,20 @@ Step1 Search for the deleted Reddit post on Google
 
 Step2 When you find the result, click on the three dots next to the page's link
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![google search result three dots](https://images.wondershare.com/filmora/article-images/2023/01/google-cache-method.png)
 
 Step3 Then, select "Cached" from the small new window that pops up
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google search result cached feature](https://images.wondershare.com/filmora/article-images/2023/01/google-cached-button.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This takes you to a previous version of the page when Google bots last visited it. Hopefully, this was when the post wasn't yet deleted. You can't know until you see the page and check it out.
 
 Google Cache can be either a huge win or a total failure. It depends on the post itself. If it works, it will show you everything. However, if you're too late to the party, you won't be able to see anything from the deleted post.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Being able to see deleted posts on Reddit can be tricky. Reddit doesn't allow this, but it often gets overlooked, thanks to some of the tools we've discussed here. Even though it's not permitted, sometimes we all want to read a post we saved a while ago.
@@ -328,4 +316,21 @@ Just remember, these tools can often stop working. This is because they don't me
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-bringing-down-the-time-barrier-for-fastening-fb-video-content/"><u>[New] Bringing Down the Time Barrier for Fastening FB Video Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-laugh-loophole-ideas-for-7-hilarious-youtube-showcases/"><u>[New] Laugh Loophole Ideas for 7 Hilarious YouTube Showcases</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-buy-smart-top-picks-for-high-definition-21-hdmi-screens/"><u>[Updated] 2024 Approved Buy Smart Top Picks for High-Definition 2.1 HDMI Screens</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-ios-filmmaking-software/"><u>[Updated] Best iOS Filmmaking Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-frame-perfect-videos-with-these-1-10-zoom-editors/"><u>[Updated] Frame Perfect Videos with These #1-10 Zoom Editors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-appreciation-series-unlimited-freepaid-otus/"><u>2024 Approved Appreciation Series Unlimited Free/Paid OTUs</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-random-pc-turn-offs-heres-how-to-fix-it/"><u>Dealing with Random PC Turn-Offs? Here's How to Fix It!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exploring-immersive-tech-vr-explained-simply/"><u>Exploring Immersive Tech VR Explained Simply</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-youtube-permanently-stop-video-snips-complete-guide-for-2024/"><u>Mastering YouTube Permanently Stop Video Snips [Complete Guide] for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/peering-through-the-colors-with-advanced-blade-cameras/"><u>Peering Through the Colors with Advanced Blade Cameras</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/snapmaster-z7-pro-excellence-in-picture-magnification/"><u>SnapMaster Z7 Pro Excellence in Picture Magnification</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-choreography-of-audio-and-visuals-a-guide-to-editing-videos/"><u>The Choreography of Audio and Visuals A Guide to Editing Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-nokia-c32-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Nokia C32 Bypass FRP Tools for PC That Actually Work</u></a></li>
+</ul></div>
 

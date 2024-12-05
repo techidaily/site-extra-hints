@@ -1,7 +1,7 @@
 ---
 title: "Optimal After Effects Scripting Solutions"
-date: 2024-08-17T13:45:41.838Z
-updated: 2024-08-18T13:45:41.838Z
+date: 2024-12-03T18:07:25.155Z
+updated: 2024-12-05T17:15:30.648Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,10 @@ TextDelay is a native plugin, meaning that you will find it already installed on
 
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## TextExploder
 
 Link: <https://aescripts.com/textexploder/>
@@ -35,6 +39,14 @@ Link: <https://aescripts.com/textexploder/>
 TextExploder is an After Effects plugin that is developed by MamoWorld and it allows you to split the text layers in After Effects into words, lines, characters, and more. These splits are so powerful that you can very easily isolate a single word or even a single letter.
 
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iExpressions 2
 
@@ -44,9 +56,6 @@ If you want to effectively use the After Effects expressions even if you are not
 
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## TextBox
 
 Link: <https://aescripts.com/textbox/>
@@ -56,8 +65,9 @@ If you want to create the perfect shape behind your text, then TextBox is a good
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Font Manager
 
 Link: <https://aescripts.com/font-manager/>
@@ -67,11 +77,9 @@ Font Manager is an After Effects text plugin that is useful when creating and wo
 ![font manager plugin](https://images.wondershare.com/filmora/article-images/2022/07/font-manager-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
+
 ## Cartoon Moblur
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Fcartoon%5Fmoblur>
@@ -87,8 +95,9 @@ If you are looking for shadow styles that will go very well with your project, S
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Texts Animation Bundle
 
 Link: <https://aedownload.com/download-texts-animation-bundle-free-videohive/>
@@ -97,9 +106,6 @@ This is a bundle of more than 80 different templates to add text effects to any 
 
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Artificial Intelligence Titles
 
 Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%5Frank=1>
@@ -109,8 +115,9 @@ The Artificial Intelligence Titles is an After Effects text plugin that is desig
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Text Library
 
 Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
@@ -119,9 +126,6 @@ This is another great text animation bundle with different options for just abou
 
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 On its own After Effects comes with so many post-production effects and features to make your project appear professional and well made. But if you would like to have a unique video production that stands head and shoulders above all others, plugins are a great way to do that. The good news is that After Effects allows for the use of plugins developed by third-party developers and some of the them like the text plugins, we have listed above can be very useful to a video’s production.
@@ -154,4 +158,20 @@ On its own After Effects comes with so many post-production effects and features
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-innovative-prime-lenses-for-professionals-shooting-4k/"><u>[New] 2024 Approved Innovative Prime Lenses for Professionals Shooting 4K</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-transform-your-old-vhs-with-new-online-techniques/"><u>[New] 2024 Approved Transform Your Old VHS with New Online Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-backdrop-bassline-tunes-to-enhance-media/"><u>[New] Backdrop Bassline Tunes to Enhance Media</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-compiling-top-notch-video-grabbers-for-win11-devices/"><u>[New] Compiling Top-Notch Video Grabbers for Win11 Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2-methods-to-add-effects-on-tiktok-for-2024/"><u>2 Methods To Add Effects On TikTok for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a6400s-visual-void-finding-video-fix/"><u>2024 Approved A6400's Visual Void - Finding Video Fix</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/box-by-strategy-market-success-blueprints/"><u>Box by Strategy Market Success Blueprints</u></a></li>
+<li><a href="https://blog-min.techidaily.com/discover-and-geniell-installing-guide-till-18-gratis-filmtjuvkar-for-windows-1187/"><u>DiscoveR & Geniell Installing-Guide Till 18 Gratis Filmtjuvkar För Windows (11/8/7)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-honor-magic-5-pro-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Honor Magic 5 Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-keep-it-real-keep-it-right-tips-for-authentic-daily-videos/"><u>In 2024, Keep It Real, Keep It Right Tips for Authentic Daily Videos</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sprint-through-photo-composition-googles-easy-way/"><u>Sprint Through Photo Composition - Google's Easy Way</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-enduring-appeal-of-the-samsung-galaxy-tab-s3-our-latest-assessment/"><u>The Enduring Appeal of the Samsung Galaxy Tab S3: Our Latest Assessment</u></a></li>
+</ul></div>
 

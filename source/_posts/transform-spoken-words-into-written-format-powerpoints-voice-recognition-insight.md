@@ -1,7 +1,7 @@
 ---
 title: "\"Transform Spoken Words Into Written Format  PowerPoint’s Voice Recognition Insight\""
-date: 2024-08-17T13:42:08.410Z
-updated: 2024-08-18T13:42:08.410Z
+date: 2024-11-29T17:38:44.582Z
+updated: 2024-12-05T18:37:18.940Z
 tags: 
   - screen-recording
   - ai video
@@ -53,19 +53,17 @@ Aside from the regular Cortana speech recognition on Windows, you can use the sp
 
 ![click on the microphone icon](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 * Click on the search button and type **“dictation”** or “**speech services**,” and the device redirects you to settings. Here, you activate the dictation button as the Mac option explained earlier. You may also press **“windows key + H”** to start the dictation option.
 
 ![click on the search button](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How do I dictate PowerPoint for Mac?
 
 It is easy to use PowerPoint on a Mac after activating the **“dictation”** button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Add speak to the quick access toolbar**
 
@@ -74,8 +72,9 @@ It is easy to use PowerPoint on a Mac after activating the **“dictation”** b
 ![more commands and other options](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * Reselect the option to “**all commands**.” The “all commands” should be enabled because they include many other commands, but you may not activate the options without selecting them.
 
 ![reselect the option](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-6.jpg)
@@ -85,33 +84,41 @@ It is easy to use PowerPoint on a Mac after activating the **“dictation”** b
 ![locate the speak option](https://images.wondershare.com/filmora/article-images/2022/07/can-you-do-speech-to-text-in-powerpoint-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Use the speak option**
 
 Now you can click on the microphone button and speak to add text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Speak clearly, but conversationally**
 
 The smart engine needs to hear you clearly before interpreting the speech into text. Do not mumble or speak fast. Each word should be audible and clearly stated. You can use the keyboard to edit or remove excess words.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Reduce background noise**
 
 Ensure the background noise does not interrupt your speech.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Use the user dictionary**
 
 Exploit the user dictionary. Visit Settings > **Languages**, and info > **Advanced** \> Personal word reference, and you can add last names and other “unofficial” words.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: How to enable real-time speech-to-text translation in PowerPoint
 
 The only difference between real-time speech-to-text translation and other forms is the real-life experience. There are cases you need to activate speech-to-text in a life event. PowerPoint supports this through the “speech-to-text” feature available on the platform.
@@ -130,9 +137,6 @@ Real-time display and translation are suitable for the multi-language purpose. Y
 
 When you activate the real-time translation on PowerPoint, the settings occur in two stages: slideshow view and presenter view. You can vary the changes based on your view (as the presenter) or what people see (slideshow view).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to make speech-to-text and translation to create PowerPoint videos
 
 When you want to make perfect PPT videos, you can use Filmora's STT feature. Wondershare Filmora Speech to Text is quite different with other STT service providers. Other STT platforms/stages require you to use the application to convert speech-to-text, save, and export into other third-party software. However, Wondershare Filmora allows you to directly convert your speech-to-text on an ongoing production. For example, you can convert speech into subtitles during a video production on Wondershare Filmora.
@@ -149,6 +153,10 @@ What's more, now Filmora's STT feature supports direct transcription of bilingua
 
 [Make PPT Videos](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Use Filmora STT to make PowerPoint videos translation
 
 ##### Step 1
@@ -157,9 +165,6 @@ Select the audio asset in the timeline, and click the "Speech-to-Text" icon in t
 
 ![toolbar stt](https://images.wondershare.com/filmora/guide/guide-win/toolbar-stt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ##### Step 2
 
 Click the "Speech-to-Text" icon, and it will show the parameter settings. You can choose the languages to be transcribed and to be transcribed to. Filmora's STT feature supports direct transcription of bilingual subtitles with up to 27 languages of transcription
@@ -167,12 +172,14 @@ Click the "Speech-to-Text" icon, and it will show the parameter settings. You ca
 ![parameter setting](https://images.wondershare.com/filmora/guide/guide-win/setting-stt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Does speech-to-text require the internet?**
 
@@ -198,14 +205,33 @@ Speech-to-text is an additional feature for all users. Typing is, however, the d
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-walk-of-shadows-a-comprehensive-list-of-intense-zombie-games/"><u>[New] 2024 Approved Walk of Shadows A Comprehensive List of Intense Zombie Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-addressing-iphone-lens-failures-a-step-by-step-approach/"><u>[New] Addressing iPhone Lens Failures A Step-by-Step Approach</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-banish-zoo-call-audio-glitches-simple-fixes/"><u>[New] Banish Zoo Call Audio Glitches Simple Fixes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-bypass-youtubes-short-video-playback-on-all-devices/"><u>[New] Bypass YouTube's Short Video Playback on All Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-total-motion-audit-2023/"><u>[New] Total Motion Audit 2023</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-video-chat-with-peace-of-mind-top-10-secure-call-apps-available-without-cost/"><u>2024 Approved Video Chat with Peace of Mind Top 10 Secure Call Apps Available without Cost</u></a></li>
+<li><a href="https://video-capture.techidaily.com/5-simple-steps-to-record-your-youtube-streams/"><u>5 Simple Steps to Record Your YouTube Streams</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726028313307-7/"><u>最高のビデオ編集ソフトウェア:7つのレコメンドリスト</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/awesome-mac-mkv-decode-options-for-2024/"><u>Awesome Mac MKV Decode Options for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-the-full-potential-of-toolwiz-app-2023-edition/"><u>Discovering the Full Potential of Toolwiz App, 2023 Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-selection-advanced-vehicle-monitoring-systems/"><u>Elite Selection Advanced Vehicle Monitoring Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhance-nighttime-mobile-media-on-your-iphone/"><u>Enhance Nighttime Mobile Media on Your Iphone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/find-your-perfect-phone-a-guide-to-the-best-purchase-destinations/"><u>Find Your Perfect Phone: A Guide to the Best Purchase Destinations</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c65-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Poco C65 Phone Without Password?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-iphone-6-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On iPhone 6</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/spectral-showcase-curating-the-best-4k-displays-on-screen/"><u>Spectral Showcase Curating the Best 4K Displays on Screen</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-compreenasive-breakdown-how-to-use-microsofts-movie-maker-on-w11/"><u>The Compreenasive Breakdown How to Use Microsoft's Movie Maker on W11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-mp4-devices/"><u>The Ultimate Guide to MP4 Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-city-skylines-2-pc-crashes-effective-solutions/"><u>Troubleshooting City Skylines 2 PC Crashes: Effective Solutions</u></a></li>
+</ul></div>
+

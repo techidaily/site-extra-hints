@@ -1,7 +1,7 @@
 ---
 title: "\"An All-Inclusive Subtitle Handbook  From Basics to Advanced Tips for 2024\""
-date: 2024-08-10T15:21:43.030Z
-updated: 2024-08-11T15:21:43.030Z
+date: 2024-12-03T18:10:27.031Z
+updated: 2024-12-05T19:25:07.157Z
 tags: 
   - screen-recording
   - ai video
@@ -26,14 +26,15 @@ However, if you're finding it difficult to create an SRT file, don't hesitate to
 
 1. [How to use Filmora to Edit SRT files for Videos after Creating](#part4-1)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: What are SRT subtitles?
 
 Before we proceed to the main discussion of the day, it'll be necessary to understand what SRT subtitles are first.
 
 SRT Subtitles (SubRip subtitles) are text formats that are generated from DVD-ripping software SubRip. Most companies and content creators today use them in their videos to facilitate easy understanding of their videos. Thus, allowing their videos to get higher engagement and views.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to create a .srt file for video on Windows?
 
@@ -45,10 +46,6 @@ The stepwise guide illustrated below will walk you through how to create an SRT 
 
 Step1 Start your Windows computer and open the Notepad program. Then create a new file.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![create a new file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-create-srt-file-1.jpg)
 
 Step2 Up next, play your video and listen to the first line of the dialogue. Then pause it and write your first subtitle in the note by doing the following;
@@ -79,23 +76,22 @@ _00:00:012,108 --> 00:00:16,357_
 
 _In this video, we'll be showing_
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![an example of an srt subtitle](https://images.wondershare.com/filmora/article-images/2022/07/how-to-create-srt-file-for-video-on-windows-1.jpg)
 
 Step5 Review the subtitle and edit every error after you've completed it.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![review subtitle](https://images.wondershare.com/filmora/article-images/2022/07/how-to-create-srt-file-for-video-on-windows-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step6 Finally, save the file in .srt format by clicking **‘File’ > Save.** Then under **‘Save As’** enter the file name and add .srt as the preferred extension for your file. Click the ‘Save’ button to complete the task.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: How to create an SRT file for video on Mac?
 
 Are you using a Mac computer? Don't panic, we got you covered with the step-by-step instructions to create a .srt subtitle file and such a computer.
@@ -130,9 +126,6 @@ Step5 Review and edit the subtitle.
 
 Step6 To complete the operation, click **‘File’** at the top bar and select **Save** from the drop-down. Then navigate to ‘**Save As’** and type your file name, and change the extension from .txt to .srt.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![click on file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-create-srt-file-for-video-on-mac-2.jpg)
 
 Make sure you Uncheck the ‘Hide Extension’ and ‘If no extension is provided’ checkboxes. Then click the ‘Save’ button to complete the operation!
@@ -158,6 +151,10 @@ Step1 Download Filmora from the official website and install it on your computer
 Step2 Start the Filmora program and import the SRT file that you're looking to edit from your PC. Alternatively, you can just drag-n-drop the file.
 
 ![start filmora program](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-for-videos-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3 Drag-n-drop the .srt file into the Timeline. Then right-click on it and select ‘Advanced Edit’ from the pop-up list.
 
@@ -190,6 +187,10 @@ Before we proceed to the main discussion of the day, it'll be necessary to under
 
 SRT Subtitles (SubRip subtitles) are text formats that are generated from DVD-ripping software SubRip. Most companies and content creators today use them in their videos to facilitate easy understanding of their videos. Thus, allowing their videos to get higher engagement and views.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to create a .srt file for video on Windows?
 
 To create a .srt file for your video on a Windows computer is pretty simple. Yes, you don't require technical knowledge or any third-party software for such an operation. All it takes is just a few clicks.
@@ -200,10 +201,11 @@ The stepwise guide illustrated below will walk you through how to create an SRT 
 
 Step1 Start your Windows computer and open the Notepad program. Then create a new file.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![create a new file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-create-srt-file-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Up next, play your video and listen to the first line of the dialogue. Then pause it and write your first subtitle in the note by doing the following;
 
@@ -235,11 +237,12 @@ _In this video, we'll be showing_
 
 ![an example of an srt subtitle](https://images.wondershare.com/filmora/article-images/2022/07/how-to-create-srt-file-for-video-on-windows-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step5 Review the subtitle and edit every error after you've completed it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![review subtitle](https://images.wondershare.com/filmora/article-images/2022/07/how-to-create-srt-file-for-video-on-windows-2.jpg)
 
 Step6 Finally, save the file in .srt format by clicking **‘File’ > Save.** Then under **‘Save As’** enter the file name and add .srt as the preferred extension for your file. Click the ‘Save’ button to complete the task.
@@ -272,10 +275,11 @@ Step4 Repeat step 2&3 for the remaining subtitle contents.
 
 See what an SRT subtitle looks like below;
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![an example of an srt subtitle on mac](https://images.wondershare.com/filmora/article-images/2022/07/how-to-create-srt-file-for-video-on-mac-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step5 Review and edit the subtitle.
 
@@ -285,9 +289,6 @@ Step6 To complete the operation, click **‘File’** at the top bar and select 
 
 Make sure you Uncheck the ‘Hide Extension’ and ‘If no extension is provided’ checkboxes. Then click the ‘Save’ button to complete the operation!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pro Tips: DIY SRT Creation for Videos like a Pro After Creating
 
 Are you looking to make advanced editing on the SRT subtitles you created? [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) is the ideal tool to help you complete the action.
@@ -296,9 +297,6 @@ Filmora is a professional video editing software that is loaded with a wide rang
 
 Unlike many other advanced .srt editors, Filmora supports the creation of SRT subtitles in over 20 languages including English. And the cool thing is you don't need technical knowledge to operate the tool as it has a clean interface that makes navigation easier than you can ever think.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### How to use Filmora to Edit SRT files for Videos after Creating
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
@@ -309,22 +307,20 @@ Step1 Download Filmora from the official website and install it on your computer
 
 ![guide picture](https://images.wondershare.com/filmora/article-images/2022/07/how-to-create-srt-file-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step2 Start the Filmora program and import the SRT file that you're looking to edit from your PC. Alternatively, you can just drag-n-drop the file.
 
 ![start filmora program](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-for-videos-1.jpg)
 
 Step3 Drag-n-drop the .srt file into the Timeline. Then right-click on it and select ‘Advanced Edit’ from the pop-up list.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drag and drop srt file into timeline](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-for-videos-2.jpg)
 
 Step4 Now, edit the SRT file as per requirements. The following editing operations you can perform with Filmora include;
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![edit srt file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-for-videos-3.jpg)
 
 * Edit time code.
@@ -336,11 +332,12 @@ Step5 Once you've successfully edited the SRT file. Navigate to the timeline and
 
 ![select export subtitle file](https://images.wondershare.com/filmora/article-images/2022/07/how-to-edit-srt-for-videos-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Filmora is the best choice for any kind of SRT editing. It doesn't matter if it's basic or advanced editing, all it takes is just a few clicks.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## Final Words
 
 You need SRT to make your videos easy to understand. So, if you're looking to create SRT, this article has introduced all effective methods that you can always rely on to get the job done seamlessly.
@@ -369,6 +366,22 @@ You can create SRT on Windows using Notepad or on Mac using TextEdit. However, t
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-mastering-multi-background-streaming-the-green-screen-way/"><u>[Updated] 2024 Approved Mastering Multi-Background Streaming The Green Screen Way</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-5-highest-rated-vr-gear-for-uavs/"><u>2024 Approved 5 Highest-Rated VR Gear for UAVs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-complete-directors-guide-to-powerdirector-24-software/"><u>2024 Approved Complete Director's Guide to PowerDirector '24 Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-selling-vr-games-on-oculus-devices/"><u>Best-Selling VR Games on Oculus Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/complete-assessment-exploring-dji-inspire-1-for-2024/"><u>Complete Assessment Exploring DJI Inspire 1 for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/frozen-frontiers-highlights-from-beijings-winter-games-for-2024/"><u>Frozen Frontiers Highlights From Beijing's Winter Games for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-lenovo-monitor-drivers-installed-easily-online/"><u>Get the Newest Lenovo Monitor Drivers Installed Easily Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-comprehensive-directory-for-got-ringtones-download/"><u>In 2024, The Comprehensive Directory for GoT Ringtones Download</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/invest-in-cinematic-success-top-ten-cameras-for-filmmakers/"><u>Invest in Cinematic Success Top Ten Cameras for Filmmakers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfect-pairing-top-ten-kiss-off-classics-at-romances-peak/"><u>Perfect Pairing Top Ten Kiss-Off Classics at Romance's Peak</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-media-giants-bold-investment-of-5m-targeting-content-creators-and-writers/"><u>Social Media Giant's Bold Investment of $5M Targeting Content Creators & Writers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-novices-route-to-rapidly-play-videos-on-snapchat-for-2024/"><u>The Novice's Route to Rapidly Play Videos on Snapchat for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-mac-software-a-comprehensive-guide-zdnet/"><u>Top-Rated Mac Software : A Comprehensive Guide - ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vr-today-a-glimpse-inside/"><u>VR Today A Glimpse Inside</u></a></li>
+</ul></div>
 

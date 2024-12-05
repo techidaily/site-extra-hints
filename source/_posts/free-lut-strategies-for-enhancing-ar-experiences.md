@@ -1,7 +1,7 @@
 ---
 title: "Free LUT Strategies for Enhancing AR Experiences"
-date: 2024-11-20T17:11:48.894Z
-updated: 2024-11-25T19:22:10.788Z
+date: 2024-12-04T18:51:50.924Z
+updated: 2024-12-05T17:46:34.440Z
 tags: 
   - screen-recording
   - ai video
@@ -21,7 +21,7 @@ thumbnail: https://www.lifewire.com/thmb/xBH9hBuHTmAlBY5tsEJzrsZCnPc=/400x300/fi
 Color LUTs (Lookup Textures) are tables of RGB color values. In Spark AR, you can use color LUTs to quickly create color gradation effects throughout the scene. Go through the article and create your color LUT effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. What are Luts in Spark AR used for?
@@ -31,6 +31,10 @@ To create a color filter effect in [Spark AR](https://sparkar.facebook.com/ar-st
 To develop AR effects for mobile cameras, you can use the Mac and Windows augmented reality platform Spark AR Studio. Imagine it like Sketch or Photoshop for augmented reality. The color values of the camera texture are mapped to the x, y, and z coordinates of the location in the color LUT. This location contains a corresponding output color that is drawn over the scene to create a color gradient effect.
 
 ![create a color gradient effect](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. How to use LUTs in Spark AR?
 
@@ -58,10 +62,6 @@ The patch graph that renders the color gradation effect looks like this:
 
 ![color lut patch graph](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **To create the effect:**
 
 * Fix Scene Render Pass renders cameraTexture0 and all objects in the scene that are children of the device. This creates the output texture.
@@ -69,22 +69,22 @@ The patch graph that renders the color gradation effect looks like this:
 * Finally, the Screen Output patch renders the green color.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. Free LUTs resource for Spark AR
 
 Here are the best free LUTs resources for Spark AR:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. [Frost Zombie (Technical Showcase)](https://we.tl/t-1uj4wJKluG)
 
 Client filter pieces occasionally end up on the scrap heap. It was a poor Frost Zombie in this instance. Since this is one of my simpler filters, I felt it was okay to publish the build information. Four objects make up much of the scene: an EyeColor block, a custom canvas segmentation, a face mesh, and an emitter for the breath mist (my personal favorite). To show the layers used in generating the primary zombie texture, I also moved to Substance Painter. This is a demonstration of my methods rather than a step-by-step manual.
 
 ![frost zombie](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Fur
 
@@ -100,7 +100,7 @@ Here are the key building principles.
 ![fur](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Shockwave
@@ -116,11 +116,7 @@ There are 11 distinct animation curves included with Spark AR in the Transition 
 ![transition curves](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Realistic Smoke
@@ -134,6 +130,10 @@ By adding smoke to a scene, you can easily add a lot of detail and realism. Noth
 Given how beautifully Glitter Rain was received, I believed it would be fitting to broaden the potential with an HDR setting. While Glitter Rain made use of two different colors, this technique makes use of an entirely colorless substance and gets its color information via HDR.
 
 ![rainbow glitter](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Closing Thoughts
 
@@ -169,17 +169,17 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-full-review-of-lg-bp350-from-screen-brightness-to-audio-output/"><u>[New] 2024 Approved Full Review of LG BP350 - From Screen Brightness to Audio Output</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-a-detailed-step-by-step-guide-to-using-telegram-desktop/"><u>[New] A Detailed Step-By-Step Guide To Using Telegram Desktop</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-10-athletic-free-front-rows-for-relaxing/"><u>[Updated] 10 Athletic-Free Front Rows for Relaxing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-premium-sound-on-a-dime-top-value-asmr-gear-uncovered-here/"><u>[Updated] Premium Sound on a Dime Top Value ASMR Gear Uncovered Here</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-break-into-cash-with-periscope-first-timers-tips/"><u>2024 Approved Break Into Cash with Periscope First-Timers' Tips</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-srt-into-subc-top-3-actionable-steps/"><u>2024 Approved Transforming SRT Into SUBC Top 3 Actionable Steps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-20-anime-opener-anthems/"><u>Essential 20 Anime Opener Anthems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-honor-x7b-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Honor X7b Phone? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-sony-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Sony</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/inshot-editing-mastery-in-video-transitions-for-2024/"><u>Inshot Editing Mastery in Video Transitions for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/nikon-z7-ii-analysis-deep-dive/"><u>Nikon Z7 II Analysis Deep-Dive</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/speeding-up-tiktok-videos-made-simple/"><u>Speeding Up TikTok Videos Made Simple</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-revolutionize-your-storytelling-6-superior-instagram-reel-apps/"><u>[New] In 2024, Revolutionize Your Storytelling 6 Superior Instagram Reel Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-macbook-webcam-recording-tutorial-for-2024/"><u>[New] MacBook Webcam Recording Tutorial for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebooks-vibe-todays-hot-ten-music-clips-for-2024/"><u>[Updated] Facebook’s Vibe Today’s Hot Ten Music Clips for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-premium-timepieces-for-your-dream-wedding-on-smartphones/"><u>[Updated] Premium Timepieces for Your Dream Wedding on Smartphones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-timeless-tech-posed-shots-of-old-iphone-x/"><u>[Updated] Timeless Tech Posed Shots of Old iPhone X</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-frame-rate-selection-for-effective-slow-motion-capture/"><u>2024 Approved Best Frame Rate Selection for Effective Slow Motion Capture</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/5-ways-to-rewind-a-twitch-live-stream/"><u>5 Ways to Rewind A Twitch Live Stream</u></a></li>
+<li><a href="https://win-answers.techidaily.com/getting-past-stubborn-loading-screens-in-red-dead-redemption-2-a-guide/"><u>Getting Past Stubborn Loading Screens in Red Dead Redemption 2: A Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-tecno-pova-6-pro-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Tecno Pova 6 Pro 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/maximizing-social-media-interaction-through-shortcut-personalization/"><u>Maximizing Social Media Interaction Through Shortcut Personalization</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-10-most-affordable-cloud-vendors-listed/"><u>Top 10 Most Affordable Cloud Vendors Listed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transferring-media-pc-files-to-your-ios-device/"><u>Transferring Media PC Files To Your iOS Device</u></a></li>
 </ul></div>
 

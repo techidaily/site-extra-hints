@@ -1,7 +1,7 @@
 ---
 title: "\"Boost Your Imagery  Title Placement Techniques on Video Clips with Photos\""
-date: 2024-08-17T13:48:12.452Z
-updated: 2024-08-18T13:48:12.452Z
+date: 2024-12-03T16:35:43.107Z
+updated: 2024-12-05T16:55:24.412Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,10 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Make Text Move in Windows 10 Photos App
 
 The Photos app in Windows 10 is even easier than the old Windows Movie Maker. You do not need a sharp learning curve for using this app and any beginner can use it with ease and comfort. The Photos app has an anchoring system along with the text tool that makes the text move with the video images. Here’s how you can make the text move in Windows 10 Photos app-
@@ -62,6 +66,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
@@ -72,11 +80,16 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
@@ -84,15 +97,14 @@ To add titles/text to video on Photos in Windows 10 and to make the text move wi
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -100,3 +112,18 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-exploring-high-precision-with-hp-envy-27-monitor-for-2024/"><u>[New] Exploring High Precision with HP Envy 27 Monitor for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-perfecting-live-footage-with-fbx-recorder/"><u>[New] In 2024, Perfecting Live Footage with FBX Recorder</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-accelerated-guide-to-transforming-srt-into-txt-files/"><u>[Updated] Accelerated Guide to Transforming SRT Into TXT Files</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-av1-vs-vp9-a-detailed-comparison/"><u>[Updated] AV1 Vs. VP9 A Detailed Comparison</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boost-canons-charm-10-free-luts-tailored-upgrades-await/"><u>Boost Canon's Charm 10 Free LUTs, Tailored Upgrades Await</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/clarifying-distorted-audio-problems-in-windows-117-comprehensive-fix-guide/"><u>Clarifying Distorted Audio Problems in Windows 11/7 – Comprehensive Fix Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/correct-techniques-to-update-the-driver-software-on-a-dell-webcam/"><u>Correct Techniques to Update the Driver Software on a Dell Webcam</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-your-ideal-nvidia-driver-entertainment-driven-selection/"><u>Discover Your Ideal Nvidia Driver: Entertainment-Driven Selection</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-new-age-smartphone-a-review-of-huawei-p10s-innovations/"><u>The New Age Smartphone? A Review of Huawei P10's Innovations</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlock-new-capabilities-in-huion-h420-via-windows-updates/"><u>Unlock New Capabilities in Huion H420 via Windows Updates</u></a></li>
+</ul></div>
+

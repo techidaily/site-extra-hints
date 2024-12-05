@@ -1,7 +1,7 @@
 ---
 title: Ensuring Privacy Security When Using ChatGPT's Customizable Language Models
-date: 2024-08-10T15:27:17.885Z
-updated: 2024-08-11T15:27:17.885Z
+date: 2024-11-30T18:33:49.404Z
+updated: 2024-12-05T19:23:38.091Z
 tags:
   - chatgpt
   - open-ai
@@ -20,8 +20,9 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
  OpenAI's advanced chatbot may have reinvigorated the public's interest in artificial intelligence, but few have seriously contemplated the potential security risks associated with this product.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT: Security Threats and Issues
 
  The technology underpinning ChatGPT and other chatbots may be similar, but ChatGPT is in a category of its own. This is great news if you intend to use it as a kind of personal assistant, but worrying if you consider that threat actors also use it.
@@ -33,14 +34,16 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
  This just underscores how important it is to[limit what you share with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/) , which collects a staggering amount of data by default. Tech behemoth Samsung learned this the hard way, when a group of employees who had been using the chatbot as an assistant accidentally leaked confidential information to it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is ChatGPT a Threat to Your Privacy?
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![ChatGPT logo on green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-threat.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Security and privacy are not one and the same](https://www.makeuseof.com/privacy-anonymity-security-mean/) , but they are closely related and often intersect. If ChatGPT is a security threat, then it is also a threat to privacy, and vice versa. But what does this mean in more practical terms? What are ChatGPT's security and privacy policies like?
 
@@ -49,8 +52,9 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
  In any case, you should be careful when using ChatGPT, especially[if you use it for work](https://www.makeuseof.com/things-you-can-do-with-chatgpt) , or to process sensitive information. As a general rule of thumb, you should not share with the bot what you wouldn't like the public to know.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Addressing the Security Risks Associated With ChatGPT
 
  Artificial intelligence will be regulated at some point, but it's difficult to imagine a world in which it doesn't pose a security threat. Like all technology, it can—and will—be abused.
@@ -60,22 +64,20 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
  This will radically transform security as we know it. But as Malwarebytes also noted, ChatGPT and similar tools can be used by cybersecurity professionals as well; for example to look for bugs in software, or "suspicious patterns" in network activity.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Raising Awareness Is Key
 
  What will ChatGPT be capable of five or 10 years from now? We can only speculate, but what we do know for sure is that artificial intelligence is not going anywhere.
 
  As even more advanced chatbots emerge, entire industries will have to adjust and learn how to use them responsibly. This includes the cybersecurity industry, which is already being shaped by AI. Raising awareness about the security risks associated with AI is key, and will help ensure these technologies are developed and used in an ethical way.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -84,4 +86,22 @@ thumbnail: https://thmb.techidaily.com/e4e90e7c9acadc523d8e4202425b18a9d8056d3f1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-behind-the-scenes-youtubes-view-count-algorithm/"><u>[New] Behind the Scenes YouTube's View Count Algorithm</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-guide-to-obtaining-visual-assets/"><u>[New] Comprehensive Guide to Obtaining Visual Assets</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-empowering-your-brand-top-20-strategies-for-high-impact-fb-video-campaigns-for-2024/"><u>[New] Empowering Your Brand Top 20 Strategies for High-Impact FB Video Campaigns for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-shift-twitter-video-preview-panel/"><u>[Updated] In 2024, Shift Twitter Video Preview Panel</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-journey-into-virtual-realms-best-8-metaverse-visors-and-goggles/"><u>[Updated] Journey Into Virtual Realms Best 8 Metaverse Visors & Goggles</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-pictureperfect-tips-for-instagrams-image-sizing/"><u>2024 Approved PicturePerfect Tips for Instagram's Image Sizing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-pros-picks-best-microphones-for-asmr-recording/"><u>2024 Approved Pros' Picks Best Microphones for ASMR Recording</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/9-key-platforms-for-high-quality-livestreaming-for-2024/"><u>9 Key Platforms for High-Quality Livestreaming for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-perplexity-ai-the-unmatched-power-of-an-ai-enhanced-google-search-experience/"><u>Discover Perplexity AI: The Unmatched Power of an AI-Enhanced Google Search Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discover-the-leading-vr-bike-simulations/"><u>Discover the Leading VR Bike Simulations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-journey-through-the-landscape-of-human-computer-interaction/"><u>In 2024, A Journey Through the Landscape of Human-Computer Interaction</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Realme 12+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-state-of-the-vr-industry/"><u>In 2024, State of the VR Industry</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sparkling-vibrancy-the-android-video-brightening-guide/"><u>Sparkling Vibrancy The Android Video Brightening Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-nonfunctional-mic-on-your-arctis-er-series-headset/"><u>Troubleshooting a Nonfunctional Mic on Your Arctis Er Series Headset</u></a></li>
+</ul></div>
 

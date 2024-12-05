@@ -1,7 +1,7 @@
 ---
 title: "Crafting Captivating Content with Correct Dimensions"
-date: 2024-08-17T13:47:45.557Z
-updated: 2024-08-18T13:47:45.557Z
+date: 2024-11-30T17:39:39.907Z
+updated: 2024-12-05T16:02:18.801Z
 tags: 
   - screen-recording
   - ai video
@@ -24,6 +24,10 @@ If you want to learn more about video aspect ratios, how to apply them to differ
 
 With that said, let's dive right into it!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. What is a video aspect ratio?
 
 Aspect ratio is a digital image projection attribute describing the distance between the width and the height of an image. The dimensions are also defined as shapes such as a square which is 4:3\. A rectangle represents the 16:9 standard high definition aspect ratio, and inverted what you see on phones, that will be 9:16\. 9 refers to the width and 16 to the height.
@@ -40,24 +44,26 @@ This aspect ratio is recognized as the worldwide reference format for film, mobi
 
 This resolution is originally used in older television screens, which transformed into mobile use as this aspect ratio works really well for Instagram and Facebook videos, referring to the 9:16 phone resolution making a square video more pleasant to watch and to be featured in in-feed videos.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 9:16 Vertical
 
 The 9:16 aspect ratio has become the mainstream resolution for smartphones for easier viewing of videos. This resolution allows for the vertical display of videos on tablets and phones, meaning that it allows videos to play while the device is being held in its upright position. This works ideally for Facebook, Instagram, Snapchat, YouTube Shorts, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 21:9 Cinematic Widescreen
 
 The 21:9 resolution is designed for filming ultra-wide screen movies that gives the viewer a theater-like feeling. It's mostly used to display films and movies in anamorphic formats. Just like on ultra-wide monitors, it allows the video to be shown across the entire screen, giving you a cinema-like experience. This resolution contributes to a broader viewing experience in any shape or form.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Which aspect ratio should I choose?
 
 Depending on your project, broadcast location and filming options, here you can find an overview of which platforms are using which resolutions and how you can use that to improve your filming and viewer experience.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Facebook
 
 Facebook is one of the most used website across the world on both computer and the mobile app. This is a great platform to let people discover your content. In order to please new viewers, let's look at the resolutions Facebook supports and which one would be your best option depending on your content.
@@ -82,9 +88,6 @@ To this day, it's safe to say that YouTube is the leading platform in the video 
 
 21:9 for cinematic videos/shortfilms
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Instagram
 
 When talking about Instagram, which is very similar to Facebook, use these aspect ratios to ensure that your quality will be the best of the best.
@@ -114,25 +117,24 @@ Before Musical.ly users were migrated to a new platform called TikTok in 2018, i
 1:1; 16:9 or 9:16 for TikTok advertisements
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. How to adjust the aspect ratio of a video?
 
 A very important point we'd like to mention is that we don't recommend changing the aspect ratio after filming, because it could harm the video quality and we think it's best to choose the aspect ratio on your phone or camera before filming, besides that we have some great tips for optimizing your video for the watching experience below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Black bars
 
 When editing your video, adding black bars is not changing the aspect ratio as you are just adding black bars to the screen. What we do recommend is cropping the video until you get the desired result. Adding black bars won't automatically make the platform adjust the video and it will affect the viewer experience.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Cropping
 
 Cropping your video will allow you to remove a section from your video, which works perfect for unwanted objects or people. While cropping the video, you are forced to pick the essential part of your video and disregard the rest of the video and to remove distraction from the frame.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -168,4 +170,26 @@ Having your video tested on multiple devices will allow you to see a preview of 
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-in-depth-guide-to-mobilepcmac-movie-capture/"><u>[New] 2024 Approved In-Depth Guide to Mobile/PC/Mac Movie Capture</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-capturing-clarity-strategic-angles-for-excellent-iphone-photos/"><u>[New] Capturing Clarity Strategic Angles for Excellent iPhone Photos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-streamlined-recording-experience-with-macbooks-webcam-for-2024/"><u>[New] Streamlined Recording Experience with MacBook's Webcam for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-transform-yt-video-quality-utilizing-the-power-of-wm-maker/"><u>[New] Transform YT Video Quality Utilizing the Power of WM Maker</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-cinema-chronicles-the-quintessential-cinematographic-tips-for-24/"><u>2024 Approved Cinema Chronicles The Quintessential Cinematographic Tips for '24</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-starry-nights-in-focus-advice-on-night-portraiture/"><u>2024 Approved Starry Nights in Focus Advice on Night Portraiture</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/array-of-unique-video-cameras-by-type/"><u>Array of Unique Video Cameras by Type</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/aumenta-la-calidad-de-tus-videos-con-winxvideo-ai-para-una-experiencia-visual-impecable/"><u>Aumenta La Calidad De Tus Videos Con WinXVideo AI Para Una Experiencia Visual Impecable</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/avoid-abrupt-jumps-perfecting-inshot-transitions/"><u>Avoid Abrupt Jumps Perfecting Inshot Transitions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/content-creation-showdown-twitch-versus-youtube-explored/"><u>Content Creation Showdown Twitch Versus YouTube Explored</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-budget-friendly-hd-cameras-for-thrilling-moments/"><u>In 2024, Budget-Friendly HD Cameras for Thrilling Moments</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to trade pokemon go from far away On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/live-photos-for-beginners-an-iphone-guide/"><u>Live Photos for Beginners An iPhone Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-resolving-gtfo-software-failures/"><u>Step-by-Step Solution: Resolving GTFO Software Failures</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/straightforward-steps-to-mastering-flipper-written-communication-on-windows/"><u>Straightforward Steps to Mastering Flipper' Written Communication on Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-intricate-tale-of-nixplays-photo-frames-highlights-and-hindrances/"><u>The Intricate Tale of Nixplay's Photo Frames: Highlights and Hindrances</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-10-iphone-and-android-video-editing-apps-for-gopro/"><u>Top 10 iPhone & Android Video Editing Apps for GoPro</u></a></li>
+</ul></div>
 

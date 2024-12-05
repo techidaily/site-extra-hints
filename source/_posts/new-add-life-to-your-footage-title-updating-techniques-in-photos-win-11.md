@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Add Life to Your Footage  Title Updating Techniques in Photos Win 11\""
-date: 2024-08-17T13:42:31.900Z
-updated: 2024-08-18T13:42:31.900Z
+date: 2024-11-30T18:58:13.754Z
+updated: 2024-12-05T16:27:25.830Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,10 @@ Do you wish to add titles/text to video on Photos in Windows 10 for your video p
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/resize-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * To add titles/text to video on Photos in Windows 10 that perfectly match the background, type out the title in the text box at the top right corner
 * Select the best-animated text fonts to suit the background. There are different layouts for each of the font style. Preview the animation by using Playback Control. If the text is not animating, you may try to increase the duration to 3-4 seconds that works well
 * For addition of credits, try to use the Classic text style. Put each of the credits in a new line and do give credits to yourself as well
@@ -62,6 +66,10 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/effects-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Some of the effects might not have the option to move or anchor but if you choose the one that does allow moving of texts, you get an option to attach once you select it
 * Pin the slider in Attach to a point at the On position
 * To add the 3D moving image, drag the blue anchor to the object you’d like to attach and wait as it process
@@ -72,12 +80,16 @@ The Photos app in Windows 10 is even easier than the old Windows Movie Maker. Yo
 
 ![add titles/text to video on photos in windows 10](https://images.wondershare.com/filmora/article-images/edit-text-photos.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Start experiment by rotating the wheels, dragging the handles to resize, and anchoring for linking up the animation at different points within the video
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 To add titles/text to video on Photos in Windows 10 and to make the text move with the Windows 10 Photos app, follow the above steps and get going easily. The steps are really simple and you just need to understand and apply the steps for successfully adding texts to your videos.
@@ -85,16 +97,14 @@ To add titles/text to video on Photos in Windows 10 and to make the text move wi
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -102,3 +112,25 @@ Follow @Shanoon Cox
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-pros-and-cons-of-using-vidma-as-a-screen-grabber/"><u>[New] In 2024, The Pros & Cons of Using Vidma as a Screen Grabber</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-swiftly-overcome-video-send-errors-in-facebook-chat-for-iphones-android/"><u>[Updated] 2024 Approved Swiftly Overcome Video Send Errors in Facebook Chat for iPhones, Android</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-becoming-a-true-connoisseur-of-srt-text-creation/"><u>[Updated] Becoming a True Connoisseur of SRT Text Creation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-8-low-lag-screen-snipters-overview-for-2024/"><u>[Updated] Top 8 Low-Lag Screen Snipters Overview for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-5-pinterest-video-downloads-no-cost-and-fast-access-online/"><u>2024 Approved 5 Pinterest Video Downloads – No Cost & Fast Access Online</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-yamaha-vs-pricey-jbl-stunning-acoustic-victory-for-under-500/"><u>Affordable Yamaha Vs. Pricey JBL - Stunning Acoustic Victory for Under $500!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-vivid-visuals-selecting-the-best-11-tutorials-for-2024/"><u>Crafting Vivid Visuals Selecting the Best 11 Tutorials for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhanced-personalization-with-advanced-analytics-the-secret-behind-successful-websites/"><u>Enhanced Personalization with Advanced Analytics: The Secret Behind Successful Websites</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/guide-to-mass-extraction-of-tiktok-content/"><u>Guide to Mass Extraction of TikTok Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-googles-augmented-reality-adornments/"><u>Navigating Google's Augmented Reality Adornments</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quality-control-best-free-lut-selections-and-links-reviewed/"><u>Quality Control Best Free LUT Selections & Links Reviewed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/simple-solutions-for-capturing-playthroughs/"><u>Simple Solutions for Capturing Playthroughs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/soundstage-excellence-critical-interface-tips-for-podcasters/"><u>Soundstage Excellence Critical Interface Tips for Podcasters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/speedy-social-media-collage-crafting-strategies/"><u>Speedy Social Media Collage Crafting Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-case-for-high-dynamic-range-in-modern-videography/"><u>The Case for High Dynamic Range in Modern Videography</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-persistent-shutdowns-age-of-empires-4-for-windows/"><u>Troubleshooting Persistent Shutdowns: Age of Empires 4 for Windows</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-windows-users-rejoice-the-best-sony-vegas-alternatives-you-need-to-know/"><u>Updated 2024 Approved Windows Users Rejoice The Best Sony Vegas Alternatives You Need to Know</u></a></li>
+</ul></div>
+

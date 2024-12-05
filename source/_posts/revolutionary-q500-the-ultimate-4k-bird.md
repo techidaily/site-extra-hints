@@ -1,7 +1,7 @@
 ---
 title: "\"Revolutionary Q500  The Ultimate 4K Bird\""
-date: 2024-08-17T13:42:59.360Z
-updated: 2024-08-18T13:42:59.360Z
+date: 2024-12-02T19:16:27.047Z
+updated: 2024-12-05T16:56:17.626Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/acc4624304fa10f6661dcbd0f5aeeaf72266dc481
 ![Yuneec Typhoon Q500](https://images.wondershare.com/filmora/article-images/yuneec-q500-typhoon.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B00ZH45ZXG/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00ZH45ZXG&linkId=aa8356bb094b5851f607a986064887ba)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Pros and Cons of Yuneec Typhoon Q500 4K Quadcopter
 
@@ -74,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/acc4624304fa10f6661dcbd0f5aeeaf72266dc481
 
 ![yuneec typhoon design](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-q500-design.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This device is having big size that makes it difficult to carry on trips. But the design is sturdy with impressive appearance. At the same time, you are going to find one charger, two batteries and two sets of propellers with this package. Few other accessories are sunshield, neck strap, ST10+ controller, cable and a steady Grip mount. The design is almost good but demands little polish to appear attractive. Professionals love to work with its sturdy body and stable design that helps to keep videos shake free during flight hours.
 
 #### 3\.  Battery Life
@@ -94,12 +102,16 @@ thumbnail: https://thmb.techidaily.com/acc4624304fa10f6661dcbd0f5aeeaf72266dc481
 
 ![yuneec typhoon q500 camera](https://images.wondershare.com/filmora/article-images/yuneec-typhoon-q500-camera.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As already discussed, it supports 4k recording abilities so users can expect breathtaking shoots in air. The camera is designed to offer 115 degree Field of View where 30 fps frame rate is supported for both 4K and 1080p resolution modes. Users can enjoy automatic settings at initial stage and once they are able to learn all advanced controls then it becomes much easier to shift towards classic flights with smart modes. You will be glad to know that this drone also has settings for slow motion videos with 1080p resolution and at frame rate of 120fps. It provides great flexibility to professional videographers for their advanced recording needs.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  After watching all the incredible features as well as few limitations of Q500 drone, it appears to be the winner in many aspects as compared to other drones in market. If you have great budget and want to buy a classic drone with high camera resolution then Yuneec Q500 is recommended for you. It possesses all incredibly responsive control function and smart modes make flying experiences more interesting. You will love to work with its durable and strong body. But you have to spend more to get this device for your routine needs.
@@ -107,15 +119,14 @@ thumbnail: https://thmb.techidaily.com/acc4624304fa10f6661dcbd0f5aeeaf72266dc481
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -123,3 +134,25 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-high-fidelity-feat-hero5-black-vs-hero4-silver-edition-battle/"><u>[New] 2024 Approved High-Fidelity Feat Hero5 Black vs Hero4 Silver Edition Battle</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-bypassing-ban-secret-insights-into-avoiding-fb-blacklist/"><u>[New] In 2024, Bypassing Ban Secret Insights Into Avoiding FB Blacklist</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-discovering-prime-frame-rates-for-top-tier-slow-motion-vids/"><u>[New] In 2024, Discovering Prime Frame Rates for Top-Tier Slow-Motion Vids</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-ai-powered-name-ideas-for-standout-podcast-titles/"><u>[Updated] AI-Powered Name Ideas for Standout Podcast Titles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-artistic-modifications-pic-editing-masterclass/"><u>[Updated] Artistic Modifications Pic Editing Masterclass</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-become-a-master-at-crafting-engaging-podcast-content-techniques-and-samples/"><u>[Updated] Become a Master at Crafting Engaging Podcast Content (Techniques & Samples)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-to-open-and-tweak-your-srt-on-mac/"><u>[Updated] Step-by-Step Guide to Open and Tweak Your SRT on Mac</u></a></li>
+<li><a href="https://extra-information.techidaily.com/asus-proart-hdr-master-the-4k-quest-continues-for-2024/"><u>ASUS ProArt HDR Master The 4K Quest Continues for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convertir-archivos-m4v-a-formato-mkv-sin-coste-guia-de-movavi/"><u>Convertir Archivos M4V a Formato MKV Sin Coste: Guía De Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-most-effective-ai-assisted-note-management-systems-top-picks/"><u>Discover the Most Effective AI Assisted Note Management Systems: Top Picks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/express-yourself-accessibility-available-for-free/"><u>Express Yourself, Accessibility Available for Free</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-scheduling-zoom-conferences-for-android-users/"><u>In 2024, Scheduling Zoom Conferences for Android Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-your-ifunny-meme-journey/"><u>Mastering Your iFunny Meme Journey</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/powerdirector-pro-complete-2024-users-manual/"><u>PowerDirector Pro Complete 2024 User's Manual</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/storing-films-videographers-guide-to-64gb-and-128gb-drives/"><u>Storing Films Videographers' Guide to 64GB and 128GB Drives</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-outer-worlds-review/"><u>The Outer Worlds Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/virtual-realitys-creativity-quandary-a-2023-outlook/"><u>Virtual Reality's Creativity Quandary - A 2023 Outlook</u></a></li>
+</ul></div>
+

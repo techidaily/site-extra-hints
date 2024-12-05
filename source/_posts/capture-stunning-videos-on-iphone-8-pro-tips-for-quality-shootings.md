@@ -1,7 +1,7 @@
 ---
 title: "\"Capture Stunning Videos on iPhone  8 Pro Tips for Quality Shootings\""
-date: 2024-11-24T21:29:36.327Z
-updated: 2024-11-25T19:34:02.462Z
+date: 2024-12-03T19:15:45.659Z
+updated: 2024-12-05T18:58:09.183Z
 tags: 
   - screen-recording
   - ai video
@@ -35,10 +35,14 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 ![stabilizer](https://images.wondershare.com/stabilizer.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This same complaint is often used in iPhone videography – it is difficult to follow because the video is shaking. The shaking is what happens when the video lacks stability – remember that most professional camera work is done with cameras which are on some form of frame or tripod to keep the camera still. It isn’t that an iPhone is heavy – it is more to do with the video being hard to keep still, especially if our attention is distracted. For the best videos, people should invest in some form of tripod for their phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use Light Properly
 
@@ -53,7 +57,11 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 ![zoom](https://images.wondershare.com/Zoom.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use the Grid
@@ -62,15 +70,15 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 
 ![grid](https://images.wondershare.com/grid-iphone-camera.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use the Exposure Lock
 
  When taking a video or a picture, you will have noticed that it can change the colour and the exposure while trying to get a lock and fix on what it is going to be recording. While it is good that it tries to find the best way to accommodate the light and sound in the room, having your video change exposure throughout will be at best annoying and at worst an outright distraction. Lock your exposure down on the iPhone once you have found the optimum conditions for the video, and it will not change.
 
 ![exposure](https://images.wondershare.com/lock-exposure.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Use Slow Motion\\Time Lapse Mode
 
@@ -86,29 +94,21 @@ thumbnail: https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e
 
 ![airplane mode](https://images.wondershare.com/airplane-mode.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Edit your Video with Filmora
 
  Films go through extensive editing processes before being released to the general public, so why shouldn’t you edit your videos? Things go wrong in the process of making a video – somebody appears where they shouldn’t, a phone rings, people have conversations, the tripod falls down, the camera ends up pointed the wrong way….a lot can happen. Editing your video means that you can take all these problems out, and also means that you can tighten up the video generally, improve the sound quality, and make sure that everything is as it should be before you show it off.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
  Using your iPhone to make a video is not something which requires a lot of extra equipment – it simply requires some planning on your part, as well as knowledge of your iPhone’s systems. Being able to control the grid for the videos, the exposure, and anything else which can be controlled through the iPhone systems makes for much better videos off the bat, while adding in video editing software and tripods can improve the experience even more. Videos on an iPhone shouldn’t be seen as impossible.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -125,22 +125,14 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-astrological-flair-crafting-bios-for-each-zodiac-house/"><u>[New] Astrological Flair Crafting Bios for Each Zodiac House</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-crafting-3d-text-a-step-by-step-guide-to-adobe-illustrator/"><u>[Updated] Crafting 3D Text A Step-by-Step Guide to Adobe Illustrator</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-spark-your-creativity-with-these-free-tools/"><u>[Updated] Spark Your Creativity with These Free Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-androids-leading-photographic-enhancers/"><u>2024 Approved Android's Leading Photographic Enhancers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-crafting-youtube-trailers-a-filmora-guide/"><u>2024 Approved Crafting YouTube Trailers A Filmora Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/breaking-the-barrier-acquiring-mass-tiktok-videos-easily/"><u>Breaking the Barrier Acquiring Mass TikTok Videos Easily</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-strategies-for-addressing-code-31-error-messages-in-windows-computers/"><u>Comprehensive Strategies for Addressing 'Code 31' Error Messages in Windows Computers</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-most-recent-nvidia-quadro-graphics-driver-updates-for-windows-11-systems/"><u>Get the Most Recent NVIDIA Quadro Graphics Driver Updates for Windows 11 Systems</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-asus-rog-phone-7-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Asus ROG Phone 7 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-create-a-memorable-podcast-name-from-brainstorming-to-execution/"><u>How To Create a Memorable Podcast Name From Brainstorming to Execution</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-ranking-the-ultimate-selection-the-9-superior-podcast-microphones-for-2024/"><u>New Ranking the Ultimate Selection The 9 Superior Podcast Microphones for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/perfecting-transition-timings-in-premiere-audio/"><u>Perfecting Transition Timings in Premiere Audio</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/rapidly-create-a-compelling-facebook-photo-group/"><u>Rapidly Create a Compelling Facebook Photo Group</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ble-steps-toward-attaining-safe-and-ethical-one-million-follower-status-for-2024/"><u>Reliable Steps Toward Attaining Safe and Ethical One-Million Follower Status for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlock-virtual-worlds-top-10-pc-games-for-ultimate-vr-experience/"><u>Unlock Virtual Worlds Top 10 PC Games for Ultimate VR Experience</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210193998-9781736281215-we-are-here-the-memoir/"><u>We Are Here The Memoir | Free Book</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-guide-to-choosing-top-skype-recorder-hats/"><u>[New] Essential Guide to Choosing Top Skype Recorder Hats</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/all-inclusive-giroptic-panoramic-study-for-2024/"><u>All-Inclusive Giroptic Panoramic Study for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/androids-favorite-collage-crafting-software/"><u>Android's Favorite Collage Crafting Software</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/bad-drivers-triggered-minecraft-failures/"><u>Bad Drivers Triggered Minecraft Failures</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/blades-kaleidoscope-unleashed-through-4k-lens-clarity-for-2024/"><u>Blade's Kaleidoscope Unleashed Through 4K Lens Clarity for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pro-fishing-visionaries-discovering-our-5-best-cameras/"><u>Pro-Fishing Visionaries Discovering Our 5 Best Cameras</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-creation-the-incredibly-user-friendly-anker-3d-printer-thats-perfect-for-novices-featured-on-zdnet/"><u>Revolutionizing Creation: The Incredibly User-Friendly Anker 3D Printer That's Perfect for Novices, Featured on ZDNet!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-garmin-forerunner-945-watch-review/"><u>The Ultimate Guide To Garmin Forerunner 945 Watch Review</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/time-lapse-mastery-the-best-mobile-apps-for-creating-breathtaking-videos-for-2024/"><u>Time-Lapse Mastery The Best Mobile Apps for Creating Breathtaking Videos for 2024</u></a></li>
 </ul></div>
 
