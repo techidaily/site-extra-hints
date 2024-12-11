@@ -1,7 +1,7 @@
 ---
 title: "Amazon Echo (4Gen): A Breakdown of Key Upgrades and Revamped Features"
-date: 2024-11-30T18:47:25.396Z
-updated: 2024-12-05T18:06:49.087Z
+date: 2024-12-07T17:27:35.755Z
+updated: 2024-12-11T16:35:41.170Z
 categories:
   - BestProducts
 description: "This Article Describes Amazon Echo (4Gen): A Breakdown of Key Upgrades and Revamped Features"
@@ -13,17 +13,9 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Amazon Luna
 
 ![Amazon Luna](https://www.lifewire.com/thmb/D9MecP2109T2iYhabM0CPBRirFA=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_Hero_Square-cced3e5a3d3e4d24af1b85a59c76932d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -48,9 +40,17 @@ Lifewire / Jeremy Laukkonen
 
 4.2
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Amazon Luna
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NT3lnZ3hOwaGUbS2tHARE7zRT1Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_Hero_Square-cced3e5a3d3e4d24af1b85a59c76932d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -83,6 +83,10 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/c10USyUEVgaFrdeWRUBgX6MNpOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_05-7314cf2ae25a4f428d93f40cc56fb5d1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Jeremy Laukkonen
 
  The Luna app, both the Fire TV version and the web app version, is well-designed enough, without a whole lot to really stand out or impress. It functions as a basic interface to access all of the games that the service offers, including a Home screen that highlights games in various categories, a Library screen that lists every available game, and a Playlist page that provides easy access to games you have specifically chosen to place there.
@@ -105,10 +109,6 @@ Lifewire / Jeremy Laukkonen
 
  Overall, the Luna controller has quickly become one of my favorite alternatives to the Xbox One or Xbox Series X/S controller; the only real issues being the mushy d-pad and the texture of the analog sticks. I ended up snapping on some performance thumb grips, which worked great.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Setup Process: Quick and easy
 
  Luna is just about as easy to use as a gaming service can be. To use Luna, there’s zero setup involved. If you’re playing on Windows, macOS, iOS, or Android, you can just connect a compatible controller, navigate to the Luna website, and start playing. The Fire TV app is similarly easy to get up and running.
@@ -116,6 +116,10 @@ Lifewire / Jeremy Laukkonen
  If you’re using the optional Luna controller, there is a bit of additional setup to work through. You can choose to have your controller automatically linked to your Amazon account when you buy it, which simplifies setup a bit, but it’s a fairly straightforward process either way.
 
 ![Amazon Luna](https://www.lifewire.com/thmb/6427gP-MSnqe4st8hfuI-7yxlos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_03-f12a92bc606e43caa77b445a2fdcf1c1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -156,7 +160,7 @@ Lifewire / Jeremy Laukkonen
 ![Amazon Luna](https://www.lifewire.com/thmb/NBB1N6qtwbtdjrUgwr1YaBaTuBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_02-37837bf860d244d3ab11ff01f37c609c-db472e204ada4ccca88e7510eacfae34.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
@@ -165,15 +169,15 @@ Lifewire / Jeremy Laukkonen
 
  It’s clear that Amazon is working to bring a nice mix of games to the service, but the depth and breadth of the titles you can access with a basic subscription remain the biggest question as Luna moves through beta and toward general launch.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Price: Affordable fee reflects the thin library
 
  Luna comes with a price tag of $4.95 per month during the beta period, with the insinuation that it will increase later on. It’s uncertain as to whether or not the price will actually go up, but right now it’s a pretty good deal. The only real caveat is that the attractive price tag is balanced by a somewhat thin library. Go ahead and check the library before you sign up. If you see more than a handful of games you’re interested in, then Luna is absolutely worth the price of admission.
 
  The Luna controller has a heftier price tag of $50, but that’s actually pretty reasonable if you compare it to other wireless controllers. It’s cheaper than a lot of the other options, and you can use it via Wi-Fi with Luna, or via Bluetooth or USB-C to play non-Luna games on your PC. All in all, it’s a good controller that’s priced competitively.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Amazon Luna vs. Microsoft Game Pass Ultimate
 
@@ -198,10 +202,6 @@ Lifewire / Jeremy Laukkonen
 * [Xbox Series X|S Controller](https://www.lifewire.com/xbox-series-x-or-s-controller-review-5113227)
 * [Sony DualSense Wireless Controller](https://www.lifewire.com/sony-dualsense-wireless-controller-review-feel-the-quality-5101639)
 * [Xbox One Elite Controller](https://www.lifewire.com/xbox-one-elite-controller-review-4770957)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -233,24 +233,21 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-propel-traffic-and-engagement-with-smart-youtube-backlink-strategies/"><u>[Updated] 2024 Approved Propel Traffic and Engagement with Smart YouTube Backlink Strategies</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-quickly-connect-your-fb-story-via-linked-profile/"><u>[Updated] 2024 Approved Quickly Connect Your FB Story via Linked Profile</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-crafting-visuals-with-precision-5-top-tips-for-pros/"><u>[Updated] Crafting Visuals with Precision 5 Top Tips for Pros</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-from-flv-to-youtube-stardom-top-10-video-conversion-tools-reviewed-for-2024/"><u>[Updated] From FLV to YouTube Stardom Top 10 Video Conversion Tools Reviewed for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-navigating-the-world-of-mac-screenshot-with-confidence/"><u>[Updated] In 2024, Navigating the World of Mac Screenshot with Confidence</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-8-convertors-sub-to-srt-on-all-os-platforms/"><u>2024 Approved Best 8 Convertors Sub to Srt on All OS Platforms</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-step-by-step-approach-how-to-record-and-archive-online-radio/"><u>A Step-by-Step Approach How To Record & Archive Online Radio</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-revolutionized-browsing-how-to-optimize-the-bing-app-experience-on-android-phones/"><u>AI Revolutionized Browsing: How to Optimize the Bing App Experience on Android Phones</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/beyond-3d-a-comparative-guide-to-metaverse-and-omniverse-realities-for-2024/"><u>Beyond 3D A Comparative Guide to Metaverse and Omniverse Realities for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Oppo K11x? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/explore-iphones-best-value-top-10-budget-friendly-photo-collage-apps/"><u>Explore iPhone's Best Value Top 10 Budget-Friendly Photo Collage Apps</u></a></li>
-<li><a href="https://win-dash.techidaily.com/fix-your-i2cd-hid-driver-glitches-effortlessly-a-step-by-step-guide/"><u>Fix Your I2CD HID Driver Glitches Effortlessly - A Step-by-Step Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/how-to-avoid-common-mistakes-in-nighttime-photography/"><u>How to Avoid Common Mistakes in Nighttime Photography</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-be-a-ghost-in-the-social-media-crowd-live/"><u>How to Be a Ghost in the Social Media Crowd - Live</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-in-class-writing-workshop/"><u>In 2024, Best-in-Class Writing Workshop</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-apple-iphone-6s-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your Apple iPhone 6s and iPad</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-podcast-rss-feed-development/"><u>Mastering Podcast RSS Feed Development</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/picsart-revamp-explained-in-depth-review-and-step-by-step-tutorial-update/"><u>PicsArt Revamp Explained In-Depth Review & Step-by-Step Tutorial Update</u></a></li>
-<li><a href="https://media-tips.techidaily.com/windows10/"><u>ブルーレイプレーヤーがうまくいかないWindows10の場合:改善のために必要なポイントとテクニック</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-photographic-soundtracking-online-for-2024/"><u>[New] Photographic Soundtracking Online for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-best-video-zoom-editor-for-2024/"><u>10 Best Video Zoom Editor for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-step-by-step-guide-to-mastering-morphvox-modifications/"><u>2024 Approved A Step-by-Step Guide to Mastering MorphVOX Modifications</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-breaking-down-chromes-multi-tasking-the-pip-experience/"><u>2024 Approved Breaking Down Chrome's Multi-Tasking The PIP Experience</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-optimize-video-views-with-these-top-5-link-shrinkers/"><u>2024 Approved Optimize Video Views with These Top 5 Link Shrinkers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-beginners-guide-to-use-lunapic-photo-editor-for-2024/"><u>A Beginner's Guide to Use Lunapic Photo Editor for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-comprehensive-guide-to-turning-vids-into-mp3-on-pinterest-for-2024/"><u>A Comprehensive Guide to Turning Vids Into MP3 on Pinterest for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airpods-listening-experience-fix-cease-motion-activated-audio-shifts-by-adjusting-settings/"><u>AirPods Listening Experience Fix: Cease Motion-Activated Audio Shifts by Adjusting Settings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/asmrs-upside-exploring-its-health-impacts-for-2024/"><u>ASMR's Upside Exploring Its Health Impacts for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/assemble-unique-meme-creations-with-ease-for-2024/"><u>Assemble Unique Meme Creations with Ease for 2024</u></a></li>
+<li><a href="https://solve-info.techidaily.com/comment-abbeyvision-domine-le-marche-avec-son-ocr-en-faveur-des-connaisseurs-du-monde-du-vin-decouverte-exclusive-de-abbyy-actualites/"><u>Comment AbbeyVision Domine Le Marché Avec Son OCR en Faveur Des Connaisseurs Du Monde Du Vin : Découverte Exclusive De ABBYY Actualités</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-compatible-software-for-your-logiteche-g29-steering-unit-on-modern-windows-systems/"><u>Download the Compatible Software for Your Logiteche G29 Steering Unit on Modern Windows Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-extensions-for-after-effects-magic/"><u>In 2024, Premium Extensions for After Effects Magic</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/online-kostenloze-konvertiering-van-nef-naar-png-profielbewijs-voor-movavi/"><u>Online Kostenloze Konvertiering Van NEF Naar PNG - Profielbewijs Voor Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/steer-clear-of-the-dangerous-google-bard-app-its-infected-with-viruses/"><u>Steer Clear of the Dangerous Google Bard App – It's Infected with Viruses</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unleash-the-power-of-obs-in-live-gaming-streams-for-2024/"><u>Unleash the Power of OBS in Live Gaming Streams for 2024</u></a></li>
 </ul></div>
 

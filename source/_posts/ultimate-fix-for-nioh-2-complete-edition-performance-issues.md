@@ -1,7 +1,7 @@
 ---
 title: Ultimate Fix for Nioh 2 (Complete Edition) Performance Issues
-date: 2024-11-04T21:45:20.318Z
-updated: 2024-11-06T08:17:29.029Z
+date: 2024-12-10T17:00:49.220Z
+updated: 2024-12-11T19:56:57.375Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
  If you find your chrome becomes slower than usual, don’t worry! You’re not alone. Many users are reporting this annoying issue.
 
  The good news is you can fix it on your own. You should be able to fix the Chrome slow issue easily with the fixes we list below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Fixes to try:**
 
@@ -44,14 +48,11 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap24-2.jpg)
 
- So,**close those unnecessary tabs** to see if the Chrome slow issue persists. If this issue reappears, try the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ So,**close those unnecessary tabs** to see if the Chrome slow issue persists. If this issue reappears, try the next fix.
 
 ### Fix 2: Disable the Chrome apps and extensions you don’t need
 
@@ -60,9 +61,18 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 1. On your Google Chrome, click**the** **menu button** in the upper-right corner. Select **More tools > Extensions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap25-4.jpg)
 2. **Turn off** **the toggle** on the lower-right corner of the Chrome apps and extensions you don’t need any more to disable them.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap26-1.jpg)
 
  After disabling some Chrome apps and extensions, hopefully you should notice a difference in speed on your Chrome. If this fix fails to resolve the Chrome slow issue, don’t worry, there are more fixes for your to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Enable the prediction service on your Chrome
 
@@ -71,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 1. On your Google Chrome, click**the** **menu button** in the upper-right corner. Select **Settings**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap27-1.jpg)
 2. In the search bar, type**prediction** and then**turn on the toggle** next to**Use a prediction service to load pages more quickly** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap28-1.jpg)
 3. Reopen your Chrome.
@@ -98,7 +101,15 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap30-1.jpg)
 4. Reopen your Chrome.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check to see if this annoying issue reappears. If not, you have resolved this issue. If this issue persists, there are more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable hardware acceleration
 
@@ -109,20 +120,14 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 2. In the search bar, type **hardware** . Then   **turn off the toggle**  next to the feature **Use hardware acceleration when available**  .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap42-1.jpg)
 3. Reopen your Chrome.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See if the Chrome slow issue is resolved. If not, try resetting your browser settings.
@@ -149,25 +154,11 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap27-1.jpg)
 2. In the search bar, type **reset** and then click**Restore settings to their original defaults** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap36-2.jpg)
 3. Click**Reset settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap37.jpg)  
  **After resetting the browser settings, you need to enable the extensions you trust** . If you don’t know how to do it, refer to **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  to turn on the toggle on the lower-right corner of the extensions you trust.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if this annoying issue persists. If so, try updating your Chrome to the latest version.
 
@@ -183,13 +174,6 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 3. Reopen your Chrome.
 
  See if this issue reappears. If not, you’ve fixed this annoying issue.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus Tip: Update your network driver
 
@@ -213,10 +197,7 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
 ![update network driver](https://images.drivereasy.com/wp-content/uploads/2018/09/update-network-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -240,22 +221,19 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-navigating-the-world-of-no-fee-visual-aids/"><u>[New] Navigating the World of No-Fee Visual Aids</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/nraveling-the-secrets-to-captivating-asmr-scenarios-and-effects-for-2024/"><u>[New] Unraveling the Secrets to Captivating ASMR Scenarios and Effects for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-ingenious-strategies-for-selecting-trailer-soundtracks/"><u>[Updated] Ingenious Strategies for Selecting Trailer Soundtracks</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-shielding-your-media-what-does-unlisted-mean-in-youtube-for-2024/"><u>[Updated] Shielding Your Media What Does Unlisted Mean in YouTube for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-calculating-storage-total-gb-for-a-days-long-film/"><u>2024 Approved Calculating Storage Total GB for a Day's Long Film</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-copyright-free-game-audio-repositories/"><u>2024 Approved Copyright-Free Game Audio Repositories</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-countdown-magic-discover-10-must-have-androidios-clocks/"><u>2024 Approved Countdown Magic Discover 10 Must-Have Android/iOS Clocks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-seamless-setup-swift-sharing-the-essential-guide-to-ifunny-apps/"><u>2024 Approved Seamless Setup, Swift Sharing The Essential Guide to iFunny Apps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-the-ultimate-guide-to-the-best-video-speed-controller-extensions/"><u>2024 Approved The Ultimate Guide to The Best Video Speed Controller Extensions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-deep-dive-into-video-workflow-enhancement-through-hdri-adoption-for-2024/"><u>A Deep Dive Into Video Workflow Enhancement Through HDRI Adoption for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/adjusting-screenshots-why-does-imovie-alter-video-sizes-for-2024/"><u>Adjusting Screenshots Why Does iMovie Alter Video Sizes for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/affordable-cameras-where-to-buy-economical-gopros-for-2024/"><u>Affordable Cameras Where to Buy Economical GoPros for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/affordable-high-res-camera-options/"><u>Affordable High-Res Camera Options</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/alives-sound-reduction-secrets-revealed-for-2024/"><u>Alive's Sound Reduction Secrets Revealed for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-asus-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Asus Phones with/without a PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-analysts-toolkit-chatgpts-six-must-have-functions/"><u>The Analyst's Toolkit: ChatGPT’s Six Must-Have Functions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-resolving-mfc42dll-file-missing-issues-on-your-pc/"><u>Ultimate Guide: Resolving mfc42.dll File Missing Issues on Your PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-comprehensive-look-at-slug-line-practices/"><u>[New] A Comprehensive Look at Slug Line Practices</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-elevate-your-snap-game-15-must-try-tactics/"><u>[New] In 2024, Elevate Your Snap Game 15 Must-Try Tactics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capturing-the-beat-top-cameras-for-future-music-videography-4k/"><u>[Updated] Capturing the Beat Top Cameras for Future Music Videography (4K)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-idea-to-internet-fame-becoming-a-vtuber/"><u>[Updated] In 2024, From Idea to Internet Fame Becoming a VTuber?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-delving-into-mr-beasts-economic-dominance/"><u>2024 Approved Delving Into Mr. Beast's Economic Dominance</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bellas-whispers-crafting-italian-cupids-dialogue/"><u>Bella's Whispers: Crafting Italian Cupid’s Dialogue</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-tales-woven-on-airwaves/"><u>Best Tales Woven on Airwaves</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-incredible-inexpensive-stopwatch-solutions/"><u>In 2024, Incredible Inexpensive Stopwatch Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-nuances-of-video-sound-design/"><u>Mastering the Nuances of Video Sound Design</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-links-between-instagram-and-tiktok/"><u>Navigating Links Between Instagram and TikTok</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-strategic-approach-to-advertising-on-spotify/"><u>The Strategic Approach to Advertising on Spotify</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-latest-tech-trends-on-toms-hardware-portal/"><u>Unveiling the Latest Tech Trends on Tom's Hardware Portal</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Timing the Perfect Capture and Labeling"
-date: 2024-12-04T16:20:26.751Z
-updated: 2024-12-05T18:05:51.525Z
+date: 2024-12-04T18:46:10.296Z
+updated: 2024-12-11T18:27:00.570Z
 tags: 
   - screen-recording
   - ai video
@@ -51,6 +51,10 @@ Downloading the [Timestamp camera](https://www.timestampcameraapp.com/) is free 
 
 ![downloading the timestamp camera](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step1Go to your phone app store: Apple Store or Play Store.
 
 Step2Install the app after downloading.
@@ -82,6 +86,10 @@ Step3If you see a timestamp option, tap or slide it.
 Step4Go back and take a picture to verify if it works.
 
 Step5You should note that the time stamp option could also appear as Watermark.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Use the inbuilt photo app to edit photos on Android and iPhone
 
@@ -170,6 +178,10 @@ First, to resize an image in the Photos app on a Mac, enter editing mode by clic
 
 ![straighten flip rotate and crop](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2Sharpen your images
 
 You can make your photos sharper by simply navigating to the bottom of the Modify menu in the Photos app and selecting Sharpen.
@@ -182,6 +194,10 @@ When retouching your image in the Photos app, select the Adjust tab, then drag t
 
 ![adjust lighting and exposure](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Use inbuilt photo app on mac to add date stamps
 
 **Adding a date in a photo** can also be done on a Mac pc. Below are the steps to take to **add the date to a photo** with a Mac
@@ -191,6 +207,10 @@ Step1Click on Preview to open.
 Step2Then select Show Markup Tool.
 
 ![select show markup tool](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step3Click on the text button.
 
@@ -206,6 +226,10 @@ Step5When ready, drag and slide the date to the area of the image where you wish
 
 Step6Finally, select File>Save to add your date to the picture.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Use an inbuilt app to edit photos on Windows
 
 Step1Enter "Photos " in the taskbar's search field. Click on it. Decide the image you want to edit.
@@ -215,6 +239,10 @@ Step2At the top of your screen, click on Edit & Create to get.
 ![click on edit create to get](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-12.jpg)
 
 Step3After clicking Edit, choose any option (Crop & rotate, Filters, or Adjustments)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Add date stamps using Windows PC
 
@@ -232,16 +260,12 @@ Step4To create a text box, click and drag.
 
 ![create a text box](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-15.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step5Enter the date you want.
 
 ![enter date](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-16.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step6Select Menu in the upper-left corner.
@@ -268,19 +292,11 @@ Canva is a standout online photo editor where you can edit your and **add date t
 * Add depth of field to your image instantly.
 * Background image remover
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. [Fotor](https://www.fotor.com/)
 
 **Add a date to a photo** using Fotor. Fotor provides great features that make photo editing a smooth and easy process. To begin, you will need to sign up and upload your photo.
 
 ![ftor](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-20.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Key Features**
 
@@ -300,10 +316,6 @@ PIXLR is another great online platform that can be used to **edit pictures onlin
 * Photo Resizing
 * Background Remover
 * Retouching of photo
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -409,10 +421,6 @@ The Adobe Photoshop Lightroom is a cloud-based product where you can upload and 
 
 ![adobe photoshop lightroom](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Key Features**
 
 * Preset creation
@@ -456,10 +464,6 @@ First, to resize an image in the Photos app on a Mac, enter editing mode by clic
 
 ![straighten flip rotate and crop](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step2Sharpen your images
 
 You can make your photos sharper by simply navigating to the bottom of the Modify menu in the Photos app and selecting Sharpen.
@@ -491,16 +495,12 @@ Step4Proceed to add date and time into the text area manually.
 ![add data and time](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step5When ready, drag and slide the date to the area of the image where you wish to stamp it.
 
 ![place the date and time](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step6Finally, select File>Save to add your date to the picture.
 
@@ -542,13 +542,13 @@ Step7Proceed to click on the Save option.
 
 ![click on save option](https://images.wondershare.com/filmora/article-images/2022/07/add-the-data-to-photo-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4\. Edit Photos Online to add date stamps
 
 **You can add dates to photos online** via several platforms. Several websites make that possible. Let’s look at some of the platforms and the features they provide.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. [Canva](https://www.canva.com/photo-editor/)
 
@@ -619,17 +619,24 @@ Hopefully, these steps will be helpful if you ever want to **add a date** or **e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-ultimate-unboxing-the-logitech-4k-webcam-review/"><u>[New] Ultimate Unboxing The Logitech 4K Webcam Review</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/17-best-digital-erasers-for-image-layer-cleaning/"><u>17 Best Digital Erasers for Image Layer Cleaning</u></a></li>
-<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-correcting-the-incorrect-parameters-that-trigger-error-87-during-library-loading-processes/"><u>Comprehensive Guide to Correcting the Incorrect Parameters That Trigger Error 87 During Library Loading Processes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enthralling-evaluation-and-secondary-recommendations/"><u>Enthralling Evaluation & Secondary Recommendations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/get-your-next-adventure-ready-with-these-7-ai-based-free-itinerary-tools/"><u>Get Your Next Adventure Ready with These 7 AI-Based, Free Itinerary Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-capture-the-essence-in-cloud-mix-free-space-plus-charged-backup-sanctuaries/"><u>In 2024, Capture the Essence in Cloud Mix Free Space + Charged Backup Sanctuaries</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/lightning-fast-lights-out-youtube-videos-shattering-100mm-fastest-for-2024/"><u>Lightning-Fast Lights Out – YouTube Videos Shattering 100MM Fastest for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/quick-troubleshooting-steps-for-resolving-no-battery-signal-problems/"><u>Quick Troubleshooting Steps for Resolving No Battery Signal Problems</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-update-your-input-device-software-hid-protocol-driver-latest-version/"><u>Step-by-Step Guide to Update Your Input Device Software - HID Protocol Driver Latest Version</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-errors-what-to-do-when-you-cant-locate-mss32dll/"><u>Troubleshooting Errors: What To Do When You Can’t Locate mss32.dll</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlocking-the-secrets-of-youtube-video-comments/"><u>Unlocking the Secrets of YouTube Video Comments</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-to-do-when-you-stumble-upon-a-suspicious-chatgpt-phishing-site/"><u>What To Do When You Stumble Upon A Suspicious ChatGPT Phishing Site</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-advanced-steps-for-documenting-online-meetings/"><u>[New] Advanced Steps for Documenting Online Meetings</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-secret-life-of-instagrams-interrogation-icon/"><u>[New] In 2024, The Secret Life of Instagram’s Interrogation Icon</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-skys-bounty-the-ultimate-guide-to-drone-video-editing/"><u>[New] Sky's Bounty The Ultimate Guide to Drone Video Editing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-speech-transcription-made-simple-utilizing-text-conversion-functionality-of-ms-word-for-2024/"><u>[New] Speech Transcription Made Simple Utilizing Text Conversion Functionality of MS Word for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-techniques-for-smoothly-fading-audio-within-lumafusion/"><u>[New] Techniques for Smoothly Fading Audio Within Lumafusion</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beginning-with-adobe-audition-the-fading-start/"><u>[Updated] Beginning with Adobe Audition The Fading Start</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-flexibility-in-viewing-with-youtube-tv-options/"><u>2024 Approved Flexibility in Viewing with YouTube TV Options</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ace-your-photo-collection-best-android-collage-hacks-for-2024/"><u>Ace Your Photo Collection – Best Android Collage Hacks for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/anthem-speaker-trouble-get-your-sound-back-on-windows-10-now/"><u>Anthem Speaker Trouble? Get Your Sound Back on Windows 10 Now!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138593559-9781462022168-chemo-plan-your-day/"><u>C.H.E.M.O. Plan Your Day | Free Book</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chromatic-shift-strategies-for-skilled-alteration-for-2024/"><u>Chromatic Shift Strategies for Skilled Alteration for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-collaboration-with-win11-and-zoom-techniques/"><u>Enhancing Collaboration with Win11 and Zoom Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fast-and-easy-10-high-resolution-passport-portraits-for-desktopweb-use/"><u>Fast & Easy 10 High-Resolution Passport Portraits for Desktop/Web Use</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/imgur-meme-generator/"><u>Imgur Meme Generator</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-comprehensive-introduction-to-color-grading-with-luts/"><u>In 2024, A Comprehensive Introduction to Color Grading with LUTs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-accelerating-ppt-video-engagement-rates/"><u>In 2024, Accelerating PPT Video Engagement Rates</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transcendence-in-music-mixing-crossfade-unveiled/"><u>In 2024, Transcendence in Music Mixing Crossfade Unveiled</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transforming-your-brand-with-smart-spotify-marketing/"><u>Transforming Your Brand with Smart Spotify Marketing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlock-creative-potential-advanced-zooming-on-snapchat/"><u>Unlock Creative Potential Advanced Zooming on Snapchat</u></a></li>
 </ul></div>
 

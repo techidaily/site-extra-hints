@@ -1,7 +1,7 @@
 ---
 title: "\"Advanced Visual Treatment  Adding Effects on Videos (PC/Mobile)\""
-date: 2024-08-10T15:23:21.427Z
-updated: 2024-08-11T15:23:21.427Z
+date: 2024-12-06T18:48:02.088Z
+updated: 2024-12-11T17:21:14.356Z
 tags: 
   - screen-recording
   - ai video
@@ -60,18 +60,12 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More about Filmora>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
 ##### Step1 Go to Projects, Effect and Choose Filter
 
 Open the Projects and go to the Effect tab, then choose the Filter you want to add and add it to your project.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![filmora filters](https://images.wondershare.com/filmora/guide/filters-1.png)
 
 ##### Step2 Select your Choice of Filter
@@ -90,10 +84,11 @@ Once you finish adding filters, use the Export button to save the video by selec
 
 Finally, you know how to put a filter to a video with Filmora, an easy-to-do software.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2 Apps to put filters on video
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to add a filter to videos on iPhone
 
@@ -113,20 +108,18 @@ More so, you can also add a filter to your video on iPhone without using any ext
 
 ##### Step3 Click on the outside filter to apply the filter. After done, export and save the filtered video on your iOS device and share it on social media
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How can you add a filter to video on Android
 
 Kinemaster has proven to be the best app for Android users to put filters on videos with its turns of great video filters, loaded with powerful tools, and easy to use. Its store also provides music, font, transition, sticker, clips, graphics, and many video enhancers updated weekly. It also allows you to export in 4k 2160p video at 30fps and share it on social media applications like Facebook, Instagram, and YouTube.
 
 Kinemaster can also be a boon for iOS device users to add beautiful filters for their videos to enhance video visibility. Therefore, it is both an Android and iOS video editor application.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to add filters to videos in Kinemaster
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![kinemaster android filter video](https://images.wondershare.com/filmora/article-images/2022/03/kinemaster.jpg)
 
 ##### Step1 Download Kinemaster on your Android phone and open it
@@ -152,8 +145,9 @@ For many video lovers, adding a video filter helps enhance your movie. But it se
 03 [xxxxxves](#Part 3)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1 Add filter to video on PC
 
 Here are two ways to add a filter on video:
@@ -218,20 +212,18 @@ More so, you can also add a filter to your video on iPhone without using any ext
 
 ##### Step3 Click on the outside filter to apply the filter. After done, export and save the filtered video on your iOS device and share it on social media
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How can you add a filter to video on Android
 
 Kinemaster has proven to be the best app for Android users to put filters on videos with its turns of great video filters, loaded with powerful tools, and easy to use. Its store also provides music, font, transition, sticker, clips, graphics, and many video enhancers updated weekly. It also allows you to export in 4k 2160p video at 30fps and share it on social media applications like Facebook, Instagram, and YouTube.
 
 Kinemaster can also be a boon for iOS device users to add beautiful filters for their videos to enhance video visibility. Therefore, it is both an Android and iOS video editor application.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### How to add filters to videos in Kinemaster
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![kinemaster android filter video](https://images.wondershare.com/filmora/article-images/2022/03/kinemaster.jpg)
 
 ##### Step1 Download Kinemaster on your Android phone and open it
@@ -256,9 +248,6 @@ For many video lovers, adding a video filter helps enhance your movie. But it se
 
 03 [xxxxxves](#Part 3)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1 Add filter to video on PC
 
 Here are two ways to add a filter on video:
@@ -269,9 +258,6 @@ Here are two ways to add a filter on video:
 
 However, an editor for a video filter is easier to get than buying a professional video camera filter, especially when you know video editing. There are many video filter editors on the Internet, but today we will discuss a fully functional video editing software known as a Filmora video editor. It is effortless for a beginner or semi-pro and works on (Windows or Mac) PC. With thousands of unique filters and effects, Filmora can be your one-stop-shop, an answer to how to add aesthetic filters to videos.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to put a filter to a video in Filmora
 
 Therefore, this section will guide you on adding a filter to a video using Filmora video editing software. Filmora allows you to add as many filter to your video as you want. There are three basic steps to add filter to a video:
@@ -307,9 +293,14 @@ Once you finish adding filters, use the Export button to save the video by selec
 Finally, you know how to put a filter to a video with Filmora, an easy-to-do software.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2 Apps to put filters on video
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to add a filter to videos on iPhone
 
@@ -334,6 +325,10 @@ More so, you can also add a filter to your video on iPhone without using any ext
 Kinemaster has proven to be the best app for Android users to put filters on videos with its turns of great video filters, loaded with powerful tools, and easy to use. Its store also provides music, font, transition, sticker, clips, graphics, and many video enhancers updated weekly. It also allows you to export in 4k 2160p video at 30fps and share it on social media applications like Facebook, Instagram, and YouTube.
 
 Kinemaster can also be a boon for iOS device users to add beautiful filters for their videos to enhance video visibility. Therefore, it is both an Android and iOS video editor application.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to add filters to videos in Kinemaster
 
@@ -361,18 +356,6 @@ For many video lovers, adding a video filter helps enhance your movie. But it se
 
 03 [xxxxxves](#Part 3)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1 Add filter to video on PC
 
 Here are two ways to add a filter on video:
@@ -395,14 +378,19 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 ![download](https://images.wondershare.com/filmora/images/filmora-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step1 Go to Projects, Effect and Choose Filter
 
 Open the Projects and go to the Effect tab, then choose the Filter you want to add and add it to your project.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora filters](https://images.wondershare.com/filmora/guide/filters-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step2 Select your Choice of Filter
 
@@ -422,10 +410,6 @@ Finally, you know how to put a filter to a video with Filmora, an easy-to-do sof
 
 ## Part 2 Apps to put filters on video
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ### How to add a filter to videos on iPhone
 
 For those using iOS devices, you can easily add a red filter on videos with the built-in video editor known as iMovie. This video editing iOS app allows you to create movies in Hollywood style using free filters. Aside from adding filters to your video, this video editor also allows you to apply unique themes, sound effects, trailer template, apply background, customize the text to your video, and add sound effects.
@@ -444,9 +428,6 @@ More so, you can also add a filter to your video on iPhone without using any ext
 
 ##### Step3 Click on the outside filter to apply the filter. After done, export and save the filtered video on your iOS device and share it on social media
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How can you add a filter to video on Android
 
 Kinemaster has proven to be the best app for Android users to put filters on videos with its turns of great video filters, loaded with powerful tools, and easy to use. Its store also provides music, font, transition, sticker, clips, graphics, and many video enhancers updated weekly. It also allows you to export in 4k 2160p video at 30fps and share it on social media applications like Facebook, Instagram, and YouTube.
@@ -454,13 +435,11 @@ Kinemaster has proven to be the best app for Android users to put filters on vid
 Kinemaster can also be a boon for iOS device users to add beautiful filters for their videos to enhance video visibility. Therefore, it is both an Android and iOS video editor application.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to add filters to videos in Kinemaster
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![kinemaster android filter video](https://images.wondershare.com/filmora/article-images/2022/03/kinemaster.jpg)
 
 ##### Step1 Download Kinemaster on your Android phone and open it
@@ -493,8 +472,21 @@ Kinemaster can also be a boon for iOS device users to add beautiful filters for 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-craft-compelling-youtube-titles-faster-than-ever/"><u>[Updated] Craft Compelling YouTube Titles Faster Than Ever</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-breaking-the-myth-of-color-standards-z32x-reviewed/"><u>2024 Approved Breaking the Myth of Color Standards Z32X Reviewed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-precision-in-capturing-androids-best-techniques/"><u>2024 Approved Precision in Capturing Android's Best Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/4-unlocking-the-secrets-of-avchd-to-mp4-conversion-on-windows-10-your-free-step-by-step-blueprint/"><u>4. Unlocking the Secrets of AVCHD-to-MP4 Conversion on Windows 10 – Your Free Step-by-Step Blueprint</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/explore-the-ultimate-guide-to-virtual-webcams-and-online-broadcast-tools/"><u>Explore the Ultimate Guide to Virtual Webcams and Online Broadcast Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-redmi-note-12t-pro-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Redmi Note 12T Pro?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-capturing-still-moments-from-clips-on-windows-11/"><u>In 2024, Capturing Still Moments From Clips on Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oneplus-open-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track OnePlus Open Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/innovative-windows-media-cutting-tools/"><u>Innovative Windows Media Cutting Tools</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-pop-8frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Pop 8FRP Lock</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-10-top-vocal-remover-software-for-karaoke-music-production-and-more/"><u>New 2024 Approved 10 Top Vocal Remover Software for Karaoke, Music Production, and More</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sonic-storytelling-in-instagram-visuals/"><u>Sonic Storytelling in Instagram Visuals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/spark-interest-with-animated-text-a-guide-for-instagram-storytellers/"><u>Spark Interest with Animated Text A Guide for Instagram Storytellers</u></a></li>
+</ul></div>
 

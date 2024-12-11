@@ -1,7 +1,7 @@
 ---
 title: "Lighting Setup to Make Your Videos Stand Out"
-date: 2024-11-28T19:11:50.456Z
-updated: 2024-12-05T17:13:45.812Z
+date: 2024-12-04T17:57:26.020Z
+updated: 2024-12-11T18:06:33.046Z
 tags: 
   - screen-recording
   - ai video
@@ -55,7 +55,7 @@ The key light is the main light that illuminates the subject. You can place it i
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
@@ -63,6 +63,10 @@ The fill light is used to fill in the shadows created by the key light. It is us
 ##### Step3 Set the Backlight
 
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
@@ -73,7 +77,7 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
@@ -85,7 +89,7 @@ Finally, we have a few other small LED lights like this unicorn to put in the ba
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
@@ -94,23 +98,19 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Using Key Light + Fill + Backlight**
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Summary
 
@@ -146,22 +146,19 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-toolwiz-unveiled-the-full-scope-photo-software-review/"><u>[New] Toolwiz Unveiled - The Full Scope Photo Software Review</u></a></li>
-<li><a href="https://network-issues.techidaily.com/repaired-removed-missing-amd-graphics-adapter/"><u>[REPAIRED] Removed Missing AMD Graphics Adapter</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-optimized-video-scale-to-mac-aspect-proportion/"><u>[Updated] 2024 Approved Optimized Video Scale to Mac Aspect Proportion</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-step-by-step-approach-for-effective-spotify-marketing/"><u>2024 Approved A Step-by-Step Approach for Effective Spotify Marketing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-beyond-the-interface-secret-techniques-to-master-windows-11/"><u>2024 Approved Beyond the Interface Secret Techniques to Master Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-colors-unleashed-practical-application-of-color-theory/"><u>2024 Approved Colors Unleashed Practical Application of Color Theory</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/erste-hilfe-mit-aomei-backupper-auf-dem-mac-ein-detaillierter-uberblick-und-seine-vielfaltigen-unterstutzungsmoglichkeiten/"><u>Erste Hilfe Mit AOMEI Backupper Auf Dem Mac: Ein Detaillierter Überblick Und Seine Vielfältigen Unterstützungsmöglichkeiten</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-safely-procure-pure-photography-collections/"><u>How to Safely Procure Pure Photography Collections</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-12-pro-max-official-method-to-unlock-your-iphone-12-pro-max-by-drfone-ios/"><u>How To Unlock iPhone 12 Pro Max Official Method to Unlock Your iPhone 12 Pro Max</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-avi-media-player-for-all-platforms/"><u>In 2024, Premier AVi Media Player for All Platforms</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/professionals-guide-to-iphoneandroiddslr-stabilized-gimbal-leaders/"><u>Professional's Guide to iPhone/Android/DSLR Stabilized Gimbal Leaders</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/srt-decoded-core-concepts-simplified-and-explained/"><u>SRT Decoded Core Concepts Simplified and Explained</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/swift-fix-amd-and-tarkov-rendering-bug/"><u>Swift Fix: AMD and Tarkov Rendering Bug</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-checklist-lipo-batteries-for-drone-excellence/"><u>The Ultimate Checklist LiPo Batteries for Drone Excellence</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-10-kids-friendly-drones-for-new-flyers/"><u>Top 10 Kids' Friendly Drones - For New Flyers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/twilight-treasures-iphone-night-photography-secrets/"><u>Twilight Treasures IPhone Night Photography Secrets</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/unrivaled-video-tech-for-apple-phones/"><u>Unrivaled Video Tech for Apple Phones</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-dont-miss-out-on-viral-tiktok-challenges/"><u>[New] Don't Miss Out on Viral TikTok Challenges</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/etting-started-with-your-new-youtube-premium-account-for-2024/"><u>[New] Getting Started with Your New YouTube Premium Account for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-cultivating-a-thoughtful-approach-to-youtube-feedback/"><u>[Updated] 2024 Approved Cultivating a Thoughtful Approach to YouTube Feedback</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-step-by-step-guide-invert-playback-videos-android/"><u>[Updated] Step-by-Step Guide Invert Playback Videos Android</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-analyzing-the-impact-of-burst-on-live-action-shoots/"><u>2024 Approved Analyzing the Impact of Burst on Live-Action Shoots</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-setup-steps-for-wm6/"><u>2024 Approved Comprehensive Setup Steps for WM6</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-visionary-tech-review-the-video-hub/"><u>2024 Approved Visionary Tech Review The Video Hub</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-your-guide-to-cutting-edge-technology/"><u>Exploring Gadgets with Tom's Hardware - Your Guide to Cutting-Edge Technology</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/obs-vs-wirecast-which-should-you-trust-for-live/"><u>OBS Vs. Wirecast - Which Should You Trust for Live?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-telegram-web-setup-for-novices/"><u>Step-by-Step Telegram Web Setup for Novices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-spectrum-of-virtuality-from-meta-to-omniverse-explored/"><u>The Spectrum of Virtuality From Meta to Omniverse Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-step-by-step-tutorial-burning-discs-for-free-on-windows-11-with-illustrations/"><u>Ultimate Step-by-Step Tutorial: Burning Discs for Free on Windows 11 with Illustrations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-success-with-spotify-marketing-tips/"><u>Unlocking Success with Spotify Marketing Tips</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-mac-users-rejoice-the-ultimate-gopro-video-editing-guide-for-2024/"><u>Updated Mac Users Rejoice The Ultimate GoPro Video Editing Guide for 2024</u></a></li>
 </ul></div>
 

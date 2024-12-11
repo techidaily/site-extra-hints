@@ -1,7 +1,7 @@
 ---
 title: "\"Mastery Over Supplementary Film Sequences (B-Roll)\""
-date: 2024-11-03T22:09:48.923Z
-updated: 2024-11-06T01:00:28.908Z
+date: 2024-12-08T16:17:36.535Z
+updated: 2024-12-11T18:34:04.076Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ B roll is a phrase used to describe supplemental video, which is frequently used
 
 Now that we know that, let's dive in!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. B roll In TV And Movies
 
 Broll is an acronym for "background" or "behind," respectively. It usually refers to extra footage captured with a movie camera while keeping the lighting consistent between scenes in the movie industry. When the filmmaker doesn't want to show any dialogue or action on screen but needs some movement within the frame, it might be utilized as filler.
@@ -32,6 +36,10 @@ B roll can be utilized for establishing shots as well as close-ups of items. It 
 
 For instance, wider shots are frequently used when someone is giving a speech while seated behind a podium so that we can see both them and their surroundings, such as audience members standing close and applauding or security personnel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Methods to use b roll
 
 Now that there are so many stock footage platforms, you have a lot of choices when you need just the right scene for your project. Most of the time, filmmakers don't use B roll footage. One good way to use it is to use it as a way to move from one scene to the next. It can also be used to set the mood for an event or show what time of day it is when filming.
@@ -40,23 +48,9 @@ The ideal way to use B roll is to put it behind interviews. This kind of footage
 
 On the other hand, cutaways can show how different people react to what is being said in an interview. After all, transitions are commonly used to switch from one person's experience with a certain topic to another person's experience with the same topic. All of these different kinds of footage give filmmakers and videographers more freedom to tell their stories without relying too much on dialogue or narration.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. What types of b roll are there?
 
 We'll examine the top 5 uses for B rolls across a variety of video genres and discuss how to implement them effectively in your own projects.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Archival b roll footage
 
@@ -71,10 +65,7 @@ Including archival material in your video allows your audience to experience a p
 B roll footage can be used to tell a story that supports the narrative of your video. For example, in this video interview of Tom DeLonge, the speaker talks about living in a neighborhood. The B rolls show him driving around in his car, skateboarding on the street in the 90's. These add to the story the video creator wants to talk about not seeing people with a disability differently.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Undirected b roll footage
@@ -87,22 +78,23 @@ When you are sharing a narrative that has been told in the past or that has hist
 
 Have a look at the scenes from the episode "14 Peaks: Nothing Is Impossible" that can be found on Netflix. As a result of the use of archive film footage of b roll from the relevant time period in its production, the audience is able to connect with the narrative on a deeper level.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Pick-up shots
 
 A pick-up is a tiny shot added to previously captured material. Re-shoots involve redoing entire scenes. Both types of shots are commonly added during film editing to fix, logic, continuity, or quality flaws. These photos happen a while after the sets have been taken down, clothes and props stowed, and the actors and crew have gone on to new projects.
 
 If flaws were discovered during primary photography, the directors could have requested another take. The producer and director should weigh the cost of rejoining cast and crew against the need for pick-ups or re-shoots to address storyline flaws (or worse) in the final edit.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. A roll vs b roll
 
 Imagine the A roll as part of the video's story. This could be a documentary film, news show, or scripted sketch. Everything else on your editing table must be rearranged to fit it. When the speaker in the following video is directly talking to the camera or interviewer, this is A roll footage. The video's most crucial segments were filmed with primary footage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -138,20 +130,22 @@ We sincerely hope that this post will be of use to you in making your films more
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-a-visual-journey-uncovering-the-best-icons-and-logos-online-for-2024/"><u>[Updated] A Visual Journey Uncovering the Best Icons & Logos Online for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-amplifying-your-videos-music-integration-on-win11/"><u>2024 Approved Amplifying Your Videos Music Integration on Win11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-bypass-youtubes-short-video-playback-on-all-devices/"><u>2024 Approved Bypass YouTube's Short Video Playback on All Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-chortlechamber-personalize-everyday-humor-online/"><u>2024 Approved ChortleChamber Personalize Everyday Humor Online</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/7-exceptional-drone-gimbals-unveiled-for-2024/"><u>7 Exceptional Drone Gimbals Unveiled for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/adjusting-settings-stop-automatic-additions-of-podcast-listings-for-2024/"><u>Adjusting Settings Stop Automatic Additions of Podcast Listings for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/androids-5-prime-photo-tools-ultimate-editing-companion/"><u>Android's 5 Prime Photo Tools Ultimate Editing Companion</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Oppo A1 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-tecno-spark-10-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Tecno Spark 10 5G Phone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-2024-what-are-ai-tools/"><u>New In 2024, What Are AI Tools?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/overcoming-high-traffic-resolve-microsoft-windows-chatgpt-limit-errors/"><u>Overcoming High Traffic: Resolve Microsoft Windows ChatGPT Limit Errors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smooth-out-research-hurdles-perplexity-ais-way/"><u>Smooth Out Research Hurdles: Perplexity AI's Way</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/step-by-step-tutorial-on-activating-built-in-bios-recovery-feature-in-dell-computers/"><u>Step-by-Step Tutorial on Activating Built-In BIOS Recovery Feature in Dell Computers</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/412088-9781440696565-the-complete-idiots-guide-to-creative-visualization/"><u>The Complete Idiot's Guide to Creative Visualization | Free Book</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-to-resolve-ethernet-connection-problems-in-windows-10-and-windows-7/"><u>Troubleshooting Steps to Resolve Ethernet Connection Problems in Windows 10 and Windows 7</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-detailed-guidance-how-to-change-or-customize-your-ringtone-on-an-iphone/"><u>[New] A Detailed Guidance How To Change Or Customize Your Ringtone On An iPhone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-engage-and-captivate-viewers-ultimate-tips-for-cutting-edge-youtube-edits/"><u>[Updated] 2024 Approved Engage and Captivate Viewers Ultimate Tips for Cutting-Edge Youtube Edits</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-examination-videon-x-the-ultimate-video-editor/"><u>[Updated] Comprehensive Examination Videon X – The Ultimate Video Editor</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-filmmakers-guide-to-capturing-exceptional-vo-recordings/"><u>2024 Approved The Filmmaker's Guide to Capturing Exceptional VO Recordings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/a-guide-to-conveniently-documenting-your-gaming-victories/"><u>A Guide to Conveniently Documenting Your Gaming Victories</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crack-open-your-marketing-potential-with-these-nine-tactics/"><u>Crack Open Your Marketing Potential with These Nine Tactics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-top-8-android-videomosaic-creators-for-both-free-and-paid-users/"><u>Discovering Top 8 Android Videomosaic Creators for Both Free & Paid Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/downgrading-macos-sierra-to-os-x-el-capitan/"><u>Downgrading MacOS Sierra to OS X El Capitan</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exemplary-narratives-distributed-by-category/"><u>Exemplary Narratives Distributed by Category</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-seamlessly-incorporate-premium-visuals-at-zero-expense/"><u>How to Seamlessly Incorporate Premium Visuals at Zero Expense</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-vivo-v30-lite-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Vivo V30 Lite 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/latest-iphone-12-update-now-with-enhanced-qi2-wireless-charging-no-more-magsafe-necessary/"><u>Latest iPhone 12 Update: Now with Enhanced Qi2 Wireless Charging, No More MagSafe Necessary</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfect-harmony-in-vr-exploration/"><u>Perfect Harmony in VR Exploration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfecting-windows-11-photos-implement-filters-and-playlist-features/"><u>Perfecting Windows 11 Photos Implement Filters and Playlist Features</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlock-faster-file-transfers-with-utorrent-on-win-computers/"><u>Unlock Faster File Transfers with uTorrent on Win Computers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/l-creativity-15plus-free-tools-for-youtube-intros-for-2024/"><u>Unveil Creativity 15+ Free Tools for YouTube Intros for 2024</u></a></li>
 </ul></div>
 

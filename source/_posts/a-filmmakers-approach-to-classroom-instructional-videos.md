@@ -1,7 +1,7 @@
 ---
 title: "A Filmmaker’s Approach to Classroom Instructional Videos"
-date: 2024-08-10T15:25:11.735Z
-updated: 2024-08-11T15:25:11.735Z
+date: 2024-12-07T16:16:07.941Z
+updated: 2024-12-11T17:31:31.811Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/f14d93751e019bfea4a977ac2ac9bc564b77ea9b7
 
 The use of videos in online classrooms or classes is a very much researched topic that has greatly benefited many students. Students and teachers all agree on using video as a teaching tool. The availability of free and high-quality videos online also makes the perfect addition to mixed learning environments.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![video lecture](https://images.wondershare.com/filmora/article-images/2022/07/video-lecture.jpg)
 
 Due to the pandemic, we can't go back to school and teach our students face-to-face; the best option we need to do is to show create and personalized video for the class. Of course, as teachers, we also need the creativity to do the videos for our students.
@@ -40,25 +37,20 @@ The two options for sharing videos with your students are synchronous or asynchr
 
 Some schools find that synchronous videos are a great way to keep the students connected. But there's a problem with privacy issues nowadays, especially with the students if they are shown in synchronous videos and recorded. Make sure you need the student's permission to record the video. We don't also forget the internet connection issues of some students. Don't forget and take note of that.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![synchronous videos lecture](https://images.wondershare.com/filmora/article-images/2022/07/synchronous-videos-lecture.jpg)
 
 **Asynchronous Videos -** you need to record videos that can be viewed and reviewed by the students. Your videos could be a recorded activity using a mobile phone or a screencast for them to know the lesson on that day. Screencasting is where you narrate a video recording or explain the task to your students using your computer screen. It's up to the teacher if they want to use audio, or you can also see your face in the video.
 
 Asynchronous learning can be more convenient for the students and allows them to learn anytime they want and place wherever they are. It can also be challenging for teachers to know whether students watched the videos or engaged with the work. We don't know if the students watched the videos or learned something in the videos. So, double-check it, teacher time to time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![online video class](https://images.wondershare.com/filmora/article-images/2022/07/online-video-class.jpg)
 
 Using videos in online classes or classrooms has many benefits and can be adapted for any learning objective. You might find it helpful to use synchronous and asynchronous videos simultaneously. Research continues to provide more insights on how to better utilize video in online classes or classrooms.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Different ways to use video in Online Classes
 
 **Keep your videos short**
@@ -111,8 +103,18 @@ More and more research supporting the advantages of blended learning will suppor
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-jovial-media-grabber-critique/"><u>[New] Jovial Media Grabber Critique</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-jumpstart-your-meme-odyssey-humor-in-the-virtual-cosmos/"><u>[Updated] 2024 Approved Jumpstart Your Meme Odyssey - Humor in the Virtual Cosmos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-are-m1-laptops-setting-the-standard-in-editing-studios/"><u>[Updated] Are M1 Laptops Setting the Standard in Editing Studios?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-boosting-views-a-guide-for-tiktok-unboxing-gurus/"><u>2024 Approved Boosting Views A Guide for TikTok Unboxing Gurus</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-chinas-bargain-bin-of-virtual-reality-gear/"><u>2024 Approved China's Bargain Bin of Virtual Reality Gear</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chromebook-soundscaping-guide-selecting-the-best-text-to-speech-apps-online/"><u>Chromebook Soundscaping Guide Selecting the Best Text-to-Speech Apps Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovery-at-work-a-one-man-review-on-3dr-printers/"><u>Discovery at Work A One-Man Review on '3DR' Printers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-nvidia-unreachable-error-on-windows-systems/"><u>Eliminating NVIDIA Unreachable Error on Windows Systems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/secure-and-stable-expert-reviews-on-the-most-robust-apc-backup-systems-for-gamers/"><u>Secure and Stable: Expert Reviews on the Most Robust APC Backup Systems for Gamers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-8-parent-control-tools-and-services-recommended/"><u>Top 8 Parent Control Tools & Services Recommended</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-a-faulty-steam-game-disc-quick-and-easy-remedies/"><u>Troubleshooting a Faulty Steam Game Disc: Quick and Easy Remedies</u></a></li>
+</ul></div>
 

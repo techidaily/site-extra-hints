@@ -1,7 +1,7 @@
 ---
 title: "\"A Step-by-Step Approach to Mastering 360° Video Edits in Premiere Pro\""
-date: 2024-08-10T15:25:17.251Z
-updated: 2024-08-11T15:25:17.251Z
+date: 2024-12-05T17:52:45.810Z
+updated: 2024-12-11T19:00:51.726Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
 # How to Edit 360 Degree Video in Premiere Pro
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 ##### Benjamin Arango
@@ -34,9 +31,9 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 **Related article:** [How to Stitch GoPro Clips into 360 Videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Editing 360 degrees videos in Premiere Pro
 
  Consider the following steps when editing 360 degree videos using Premiere Pro from Adobe-:
@@ -47,19 +44,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 #### 2. Adjust your settings
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Edit 360 videos with Premiere Pro - Settings](https://images.wondershare.com/filmora/article-images/360-editing-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Premiere Pro allows you to view any video by double clicking on the video in the project panel. Be default, the equirectanglular video clips will appear on the preview panel, but they will be distorted. To change how the videos appear on the preview panel, it is imperative to adjust the settings. This is done by clicking on the wrench icon located at the bottom right of window then navigating to VR Video>Settings. This will pull up the menu to let you adjust the various settings you need to proceed with the editing.
 
 #### 3. Set the Preview Window to VR Mode
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Edit 360 videos with Premiere Pro - Enable VR mode](https://images.wondershare.com/filmora/article-images/enable-vr-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you have established the right settings for your project, the next thing you need to do is to set the preview window into VR Mode. There are two ways to do this and they include-:
 
@@ -76,18 +75,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Edit 360 videos with Premiere Pro - Export VR footage](https://images.wondershare.com/filmora/article-images/export-vr-footage.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A while back, exporting VR footages to YouTube was possible only through third party applications. But now, such capabilities have been included in Adobe Premiere Pro and you can now apply all the Meta data directly inside the application. To export your edited footage, navigate to File>Export>Media or simply hit Command + M to pop up the export window. Select your desired codecs and navigate to the video tab and ensure that you have selected the VR Video Checkbox.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Best Video Editor: Wondershare Filmora
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 Benjamin Arango
@@ -96,8 +97,6 @@ Benjamin Arango is a writer and a lover of all things video.
 
 Follow @Benjamin Arango
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -105,5 +104,23 @@ Follow @Benjamin Arango
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-compute-aspect-variety-from-anywhere/"><u>[New] Compute Aspect Variety From Anywhere</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-blueprint-for-effective-metaverse-engagement/"><u>[Updated] Blueprint for Effective Metaverse Engagement</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-breach-to-backup-restore-and-redeem-your-fb-status/"><u>[Updated] In 2024, Breach to Backup Restore and Redeem Your FB Status</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-instantaneously-engaging-audiences-how-obs-simplifies-instagram-streams-for-2024/"><u>[Updated] Instantaneously Engaging Audiences How OBS Simplifies Instagram Streams for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-triller-101-the-unique-path-of-non-tiktok-social-media/"><u>[Updated] Triller 101 The Unique Path of Non-TikTok Social Media</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-phone-into-a-funimate-portal-via-apk/"><u>2024 Approved Transform Your Phone Into a Funimate Portal via APK</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/8-ways-to-fix-there-are-no-startup-items-to-display-in-the-task-manager-error-on-windows/"><u>8 Ways to Fix There Are No Startup Items to Display in the Task Manager Error on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-step-by-step-guide-to-recovering-access-on-your-locked-ipad/"><u>A Step-by-Step Guide to Recovering Access on Your Locked iPad</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensively-understanding-and-mastering-win10s-zoom-use/"><u>In 2024, Comprehensively Understanding and Mastering Win10's Zoom Use</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-concentrate-on-core-affinity-photo-trick/"><u>In 2024, Concentrate on Core - Affinity Photo Trick</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-redmi-note-12-proplus-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Redmi Note 12 Pro+ 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-premium-vfx-setup-options/"><u>In 2024, Premium VFX Setup Options</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/photoshops-role-in-crafting-stunning-hdr-visuals/"><u>Photoshop's Role in Crafting Stunning HDR Visuals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/precision-control-for-incredible-android-time-lapses/"><u>Precision Control for Incredible Android Time-Lapses</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-controlling-playback-rate-on-snapchat/"><u>The Ultimate Guide to Controlling Playback Rate on Snapchat</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-power-of-ai-in-ubuntu-utilizing-chatgpt-through-shell-prompt-techniques/"><u>Unlock the Power of AI in Ubuntu: Utilizing ChatGPT Through Shell Prompt Techniques</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Breaking Ground in VR Content Development"
-date: 2024-11-30T17:00:50.976Z
-updated: 2024-12-05T19:26:03.206Z
+date: 2024-12-06T18:54:05.613Z
+updated: 2024-12-11T18:32:10.404Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
  The world of Virtual Reality has been more entertaining throughout the development of technology. The VR content is the latest and most entertaining concept in line with virtual reality. The wide scale innovative technology is set to make the big difference in creating videos and documentations. A high quality and interactive approach on VR content are given by the birth of the VR content company known as With.in. The company was founded by the award-winning director Chris Milk and the famous technologist Aaron Koblin. The goal of the two is discovered more the immersive potential of storytelling. A new line of creative ways is made in order to expand the possibilities of the storytelling concept using VR content.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does [With.in]( https://with.in/ ) Do?
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Art Work of With.in
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## About Chris Milk
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -99,18 +99,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-selective-image-blurring-techniques/"><u>[New] Mastering Selective Image Blurring Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-visuals-what-sets-360-apart/"><u>2024 Approved Comprehensive Visuals What Sets 360° Apart?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-harmonic-storage-pc-audio-and-speech/"><u>2024 Approved Harmonic Storage PC Audio and Speech</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/action-camera-faceoff-whos-winning-in-gopro-vs-yi-4k-battle/"><u>Action Camera Faceoff Who's Winning in GoPro Vs. Yi 4K Battle?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/clear-the-way-for-smooth-safari-streaming/"><u>Clear the Way for Smooth Safari Streaming</u></a></li>
-<li><a href="https://techtrends.techidaily.com/detailed-tutorial-correcting-the-not-found-problem-with-d3dx928dll/"><u>Detailed Tutorial: Correcting the 'Not Found' Problem with d3dx9_28.dll</u></a></li>
-<li><a href="https://solve-info.techidaily.com/how-to-fix-windows-cant-access-specified-devicepathfile-step-by-step-guide/"><u>How To Fix 'Windows Can't Access Specified Device/Path/File': Step-by-Step Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-innovative-approaches-to-change-song-speed-on-spotify/"><u>In 2024, Innovative Approaches to Change Song Speed on Spotify</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-tactics-for-smoothly-importing-movies-to-vimeo-from-wmm/"><u>In 2024, Tactics for Smoothly Importing Movies to Vimeo From WMM</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/pricing-guide-to-film-a-bands-music-visual/"><u>Pricing Guide to Film a Band's Music Visual</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/sintomas-y-soluciones-efectivas-al-descargador-inactivo-de-windows-aturbo-en-11-acceda-a-las-3-formulas-esenciales/"><u>Síntomas Y Soluciones Efectivas Al Descargador Inactivo De Windows Aturbo en 11 - Acceda a Las 3 Fórmulas Esenciales</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-resource-for-choosing-great-podcast-names-with-examples/"><u>The Ultimate Resource for Choosing Great Podcast Names, With Examples</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/watch-the-conjuring-films-perfect-order-and-timeline-explained/"><u>Watch 'The Conjuring' Films - Perfect Order & Timeline Explained</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-10-unlicensed-sounds-to-help-you-reach-zen-state/"><u>[New] 10 Unlicensed Sounds to Help You Reach Zen State</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-cross-platform-streaming-techniques-from-youtube-to-30plus-platforms/"><u>[Updated] In 2024, Cross-Platform Streaming Techniques From YouTube to 30+ Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-boosting-content-appeal-by-including-youtube-music-in-recordings/"><u>2024 Approved Boosting Content Appeal by Including YouTube Music in Recordings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/adjust-netflix-video-pace-pc-and-mobile-edition-for-2024/"><u>Adjust Netflix Video Pace PC & Mobile Edition for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/breakthrough-methodology-introducing-chapters-in-your-youtube-videos-for-2024/"><u>Breakthrough Methodology Introducing Chapters in Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/game-changing-capture-technology-for-switch/"><u>Game-Changing Capture Technology for Switch</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-updating-and-downloading-latest-epson-driver-software-on-windows-11/"><u>Guide: Updating and Downloading Latest Epson Driver Software on Windows 11</u></a></li>
+<li><a href="https://win-special.techidaily.com/how-to-free-up-space-on-your-hard-drive-in-windows-1011-without-losing-any-data-a-step-by-step-guide/"><u>How to Free Up Space on Your Hard Drive in Windows 10/11 without Losing Any Data: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-become-a-pro-at-hosting-virtual-meetings-with-zoom-an-android-users-guide/"><u>In 2024, Become a Pro at Hosting Virtual Meetings with Zoom An Android User's Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-cutting-edge-professional-guide-to-youtube-editing/"><u>In 2024, Cutting Edge Professional Guide to YouTube Editing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-essential-interview-questions-for-engaged-audience/"><u>In 2024, Essential Interview Questions for Engaged Audience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/one-device-two-os-file-migration-tactics/"><u>One Device, Two OS File Migration Tactics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-using-vlc-for-mp4-and-format-shifting/"><u>The Ultimate Guide to Using VLC for MP4 & Format Shifting</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-easy-steps-to-export-video-in-filmora/"><u>Updated 2024 Approved Easy Steps to Export Video in Filmora</u></a></li>
+<li><a href="https://win-web.techidaily.com/yl-software-insights-detecting-and-troubleshooting-hard-drive-errors-effectively/"><u>YL Software Insights: Detecting and Troubleshooting Hard Drive Errors Effectively</u></a></li>
 </ul></div>
 

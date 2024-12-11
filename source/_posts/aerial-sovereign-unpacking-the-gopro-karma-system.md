@@ -1,7 +1,7 @@
 ---
 title: "\"Aerial Sovereign  Unpacking the GoPro Karma System\""
-date: 2024-08-10T15:22:46.900Z
-updated: 2024-08-11T15:22:46.900Z
+date: 2024-12-07T17:34:02.037Z
+updated: 2024-12-11T18:45:11.946Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 
 # GoPro Karma Drone Review
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -31,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 
  The GoPro Karma is this second or [GoPro](https://tools.techidaily.com/wondershare/filmora/download/) has created and hopefully a much more refined version than the drones that GoPro first launched in October. The original version of the Karma drone was recalled just 16 days after its initial launch when many drones were losing connection and battery power at certain altitudes. GoPro discovered a fault with the battery popping out of place causing immediate power loss and returns the drone to the drawing board to produce improved versions of the device for release.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![gopro karma](https://images.wondershare.com/filmora/article-images/gopro-karma.jpg)
 
 [Check at Amazon](https://www.amazon.com/gp/product/B01N5V4HKQ/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N5V4HKQ&linkId=62a69de1ac6675d917158fa1421eceee)
@@ -43,9 +37,9 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
  Apart from the battery latch, GoPro introduced auxiliary features such as a tilted horizon line for improved imaging as well as quieter propellers. The rerelease of the Karma drone is a much more polished product that is more suitable for reviewing as well as improved for general use. But does the Karma drone matchup with major contenders in the marketplace such as the Parrot or the DJI phantom line?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pros and cons of GoPro Karma
 
 **Pros**
@@ -62,8 +56,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The overall verdict is that this is a fantastic drone for capturing stunning images but it doesn't have the easy flying mode or the battery life to compete with some of the best drones available at the same price point. Although you might have to sacrifice a bit in image quality when compared to a GoPro camera with some competitors, it's often worth it for value knowing that you can capture the shot and maintain control over your drone.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Detailed review for GoPro Karma
 
 #### 1\.  Price
@@ -98,10 +93,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 #### 5\.  Controller
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![gopro karma controller](https://images.wondershare.com/filmora/article-images/gopro-karma-controller.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  One thing that the GoPro Karma did especially well was creating a beautiful controller. The RC controller is relatively small but it feels exactly like playing a videogame with plenty of functions and no need to have a compatible device to use the drone. The other extremely strong point is the camera. Nobody can build a great outdoor camera that is it as resilient as a GoPro with the Hero 5 Black version of this drone capable of shooting in 4K with an astounding video quality, you can catch some amazing video as well as incredible still images on this drone.
 
@@ -109,10 +105,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 Overall, the GoPro Karma is a fairly strong showing for a drone. Although it can be expensive when compared to the specifications on some of the other drones, if you do have some experience flying drones and you are looking for a great image quality, this could be the choice for you especially if you are looking for a portable drone.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -120,12 +117,33 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-ultimate-free-top-ranked-image-overlays-for-androidandios/"><u>[New] 2024 Approved Ultimate FREE Top-Ranked Image Overlays for Android&iOS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unlocking-success-in-live-streaming-of-cricket-matches/"><u>[New] Unlocking Success in Live Streaming of Cricket Matches</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comedy-gold-examining-the-goofy-vhs-experience/"><u>[Updated] 'Comedy Gold' Examining the Goofy VHS Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-closer-look-detailed-test-on-lg-ud88-w-oled-screen/"><u>[Updated] A Closer Look Detailed Test on LG UD88-W OLED Screen</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-high-impact-spotify-marketing-plans/"><u>[Updated] Crafting High-Impact Spotify Marketing Plans</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-streaming-equipment-for-broadcasters/"><u>2024 Approved Advanced Streaming Equipment for Broadcasters</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-simplifying-multi-platform-group-chat-creation-on-skype-a-step-by-step-approach/"><u>2024 Approved Simplifying Multi-Platform Group Chat Creation on Skype A Step by Step Approach</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/androidiphone-top-10-vr-gaming-picks-for-2024/"><u>Android/iPhone Top 10 VR Gaming Picks for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/complete-tutorial-create-an-acer-pc-restore-drive-with-windows-11-two-methods/"><u>Complete Tutorial: Create an Acer PC Restore Drive with Windows 11 - Two Methods</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/effortless-full-system-backup-for-windows-11-discover-these-2-cost-free-solutions/"><u>Effortless Full System Backup for Windows 11: Discover These 2 Cost-Free Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/expert-video-editing-software-your-guide-to-professional-results/"><u>Expert Video Editing Software: Your Guide to Professional Results</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-pixelsculptor-suite/"><u>In 2024, PixelSculptor Suite</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-strategies-for-success-in-work-and-online-creation/"><u>In 2024, Strategies for Success in Work and Online Creation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/maximizing-performance-with-pro-windows-10-skills/"><u>Maximizing Performance with Pro Windows 10 Skills</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pathways-to-gaining-premium-image-content-without-payment/"><u>Pathways to Gaining Premium Image Content Without Payment</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revisiting-sonys-s6700-blu-ray/"><u>Revisiting Sony's S6700 Blu-Ray</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-guide-windows-movie-maker-downloading/"><u>Ultimate Guide Windows Movie Maker Downloading</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1728475569397-windows-7-pc/"><u>データ保護付き Windows 7 PC の新生キャリブレーション方法</u></a></li>
+</ul></div>
 

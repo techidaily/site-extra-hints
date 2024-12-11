@@ -1,7 +1,7 @@
 ---
 title: "\"Vivid Visions  Harnessing Light to Captivate Audiences\""
-date: 2024-11-21T17:20:39.182Z
-updated: 2024-11-25T23:54:23.707Z
+date: 2024-12-08T17:03:17.822Z
+updated: 2024-12-11T18:36:57.674Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/3a57b1ddb74892f92e7ea8db98be1fa90b1375e9f
 Many people are wondering how to set up lighting for video shooting. While there are many different ways to set up lighting, some methods are more effective than others.
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -55,7 +59,7 @@ The key light is the main light that illuminates the subject. You can place it i
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
@@ -63,10 +67,6 @@ The fill light is used to fill in the shadows created by the key light. It is us
 ##### Step3 Set the Backlight
 
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
 
@@ -81,16 +81,12 @@ Then, we also have a LED ring light that shines toward the camera. The light add
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
@@ -103,7 +99,7 @@ After setting up all the lighting above, you can take a look at the comparison b
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **_3) Pro Tips: The light setting_**
@@ -111,6 +107,10 @@ After setting up all the lighting above, you can take a look at the comparison b
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -146,14 +146,22 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-best-subtitle-converters-reviewed-the-top-8-win-osx-sbt-to-srts-software/"><u>[Updated] Best Subtitle Converters Reviewed The Top 8 Win-OSX SBT to SRTS Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-insight-on-effortless-photo-and-video-importers-in-windows-10/"><u>[Updated] In-Depth Insight on Effortless Photo & Video Importers in Windows 10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-top-10-professional-360-degree-cameras/"><u>[Updated] Top 10 Professional 360 Degree Cameras</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-strategies-to-elevate-client-spots-and-product-endorsements/"><u>2024 Approved Advanced Strategies to Elevate Client Spots and Product Endorsements</u></a></li>
-<li><a href="https://driver-download.techidaily.com/aoc-display-adapters-driver-installation-instructions-for-windows-11-10-and-8-users/"><u>AOC Display Adapters Driver Installation Instructions for Windows 11, 10 & 8 Users</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-find-x6-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo Find X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-itel-s23plus-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Itel S23+ Location | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/intuitive-podcast-beginnings-charismatic-hooks/"><u>Intuitive Podcast Beginnings Charismatic Hooks</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-compact-tablets-in-depth-analysis-by-tech-experts/"><u>Top-Rated Compact Tablets - In-Depth Analysis by Tech Experts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-catchy-captions-the-ultimate-guide-to-animated-text-on-ig/"><u>[Updated] Catchy Captions The Ultimate Guide to Animated Text on IG</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-perfect-subtitles-in-videos-discover-essential-web-tools/"><u>[Updated] Crafting Perfect Subtitles in Videos Discover Essential Web Tools</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-easy-guide-to-tweeting-videos-and-turning-them-into-music-for-2024/"><u>[Updated] Easy Guide to Tweeting Videos & Turning Them Into Music for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-unleashing-screen-content-with-zdsofts-magic/"><u>[Updated] Unleashing Screen Content with ZDSoft's Magic</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-enhancing-your-youtube-presence-with-split-screen-techniques/"><u>2024 Approved Enhancing Your YouTube Presence with Split-Screen Techniques</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-20-non-copyrighted-pubg-image-gems-for-2024/"><u>Best 20 Non-Copyrighted PUBG Image Gems for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-price-matches-for-new-releases-ipad-pro-ipad-air-and-apple-pencil-pro-available-now-gadgetguru-guide/"><u>Best Price Matches for New Releases - iPad Pro, iPad Air & Apple Pencil Pro Available Now! | GadgetGuru Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevating-movie-experience-adding-subtitles-to-windows-media-player/"><u>Elevating Movie Experience Adding Subtitles to Windows Media Player</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-guide-sharpening-your-iphone-pics-without-paid-apps/"><u>Essential Guide Sharpening Your iPhone Pics Without Paid Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-step-by-step-guide-to-timestamps-in-video-sharing/"><u>In 2024, A Step-by-Step Guide to Timestamps in Video Sharing</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lava-blaze-curve-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lava Blaze Curve 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-superior-graphics-for-top-tier-4k-editing/"><u>In 2024, Superior Graphics for Top-Tier 4K Editing</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-xcover-6-pro-tactical-edition-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy XCover 6 Pro Tactical Edition working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-black-illusion-vs-silver-miracle/"><u>The Black Illusion Vs Silver Miracle</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlock-flawless-selfies-with-these-top-iphone-free-tools/"><u>Unlock Flawless Selfies with These Top iPhone Free Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-lava-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Lava Phone Network-Ready</u></a></li>
 </ul></div>
 
