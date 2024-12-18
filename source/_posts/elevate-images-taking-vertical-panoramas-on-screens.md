@@ -1,7 +1,7 @@
 ---
 title: "\"Elevate Images  Taking Vertical Panoramas on Screens\""
-date: 2024-12-09T16:09:58.938Z
-updated: 2024-12-11T17:50:00.146Z
+date: 2024-12-16T16:02:45.168Z
+updated: 2024-12-17T19:55:25.004Z
 tags: 
   - screen-recording
   - ai video
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 
  However, you will need to use a few but simple techniques to efficiently capture the vertical panoramic view. In this article, we’ll explain you how you can carry out those extraordinary views with your Android or iOS device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to take vertical panorama photography with your respective Smartphone
 
 * [Part 1: For iPhone Users](#part1)
@@ -52,13 +48,17 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image source: mac-fusion
 
 * Begin to go along with the upward arrow on the screen to capture the desired vertorama.
 * Once finished and satisfied, just tap on "Done" option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For Android users
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image source: mac-fusion
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 * Tap on "Done" when completed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Some Beneficial Tips for shooting vertical panorama photo
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -112,15 +112,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-signature-virtual-experiences-on-screen/"><u>[New] Signature Virtual Experiences on Screen</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-building-a-brand-the-art-of-creating-attention-grabbing-reels-on-social-media/"><u>[Updated] 2024 Approved Building a Brand The Art of Creating Attention-Grabbing Reels on Social Media</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725289729188-winxvideo-ai/"><u>高效攝影和音訊記錄，使用 Winxvideo AI 解決方案的完全指南</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-comprehensive-analysis-ergonomic-furnitures-impact-on-efficiency/"><u>In 2024, A Comprehensive Analysis Ergonomic Furniture's Impact on Efficiency</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/polished-portraits-how-to-use-iphone-for-crisp-cuts/"><u>Polished Portraits How to Use iPhone for Crisp Cuts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/screen-saver-successes-a-video-showcase-evaluation/"><u>Screen Saver Successes - A Video Showcase Evaluation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-art-of-matching-fpv-drones-with-ideal-blades/"><u>The Art of Matching FPV Drones with Ideal Blades</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/visual-symphony-choosing-background-music/"><u>Visual Symphony Choosing Background Music</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209729728-9780806538679-wicca-for-one/"><u>Wicca for One | Free Book</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-pixellation-perfection-windows-and-macs-photo-to-animation-powerhouse-for-2024/"><u>[New] Pixellation Perfection Windows & Mac's Photo to Animation Powerhouse for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-private-chronicles-top-120plus-innovative-ideas-to-distinguish-you/"><u>[New] Snapchat Private Chronicles Top 120+ Innovative Ideas to Distinguish You</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-astounding-footage-with-every-frame-the-10-best-for-image-stability/"><u>2024 Approved Astounding Footage with Every Frame The 10 Best for Image Stability</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-chromebooks-best-vocal-transformers-the-top-5-chrome-apps/"><u>2024 Approved Chromebook's Best Vocal Transformers The Top 5 Chrome Apps</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-keywords-that-captivate-enhancing-your-video-content/"><u>2024 Approved Keywords that Captivate Enhancing Your Video Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/5-best-finger-tech-for-virtual-reality-mastery-for-2024/"><u>5 Best Finger Tech for Virtual Reality Mastery for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-techniques-for-efficient-use-of-luts-in-cs6cc/"><u>Advanced Techniques for Efficient Use of LUTs in CS6/CC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-kinetics-overview-2023/"><u>Comprehensive Kinetics Overview 2023</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevating-your-photography-hdr-strategies-for-ps/"><u>Elevating Your Photography HDR Strategies for PS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-guide-merging-srt-captions-with-mp4-video-content/"><u>Expert Guide Merging SRT Captions with MP4 Video Content</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-xbox-360-driver-software-download-now/"><u>Free Xbox 360 Driver Software - Download Now</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 15 Pro Max to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-mastering-close-up-filmmaking-tips-for-a-standout-videography-career/"><u>In 2024, Mastering Close-Up Filmmaking Tips for a Standout Videography Career</u></a></li>
+<li><a href="https://article-tips.techidaily.com/pushing-boundaries-top-virtual-reality-game-development-tools-for-2024/"><u>Pushing Boundaries Top Virtual Reality Game Development Tools for 2024</u></a></li>
 </ul></div>
 

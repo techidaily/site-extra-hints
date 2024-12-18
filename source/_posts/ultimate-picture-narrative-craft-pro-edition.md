@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Picture Narrative Craft - Pro Edition\""
-date: 2024-12-07T18:29:27.400Z
-updated: 2024-12-11T17:11:35.344Z
+date: 2024-12-13T21:13:31.162Z
+updated: 2024-12-18T00:51:30.567Z
 tags: 
   - screen-recording
   - ai video
@@ -32,10 +32,6 @@ Wondershare Photo Story Platinum is an intuitive photo slideshow maker which you
 
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Features of Photo Story Platinum
 
 * Easily create your show with photos, videos and music
@@ -45,7 +41,7 @@ Wondershare Photo Story Platinum is an intuitive photo slideshow maker which you
 * Directly share on YouTube, Facebook & virtually anywhere.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Use Wondershare Photo Story Platinum for Windows and Mac
@@ -61,6 +57,10 @@ After the mode selection, click the Add Files button to import your photos and v
 
 ![photo story](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 2\. Personalize your photo story
 
 Click the Personalize tab. Then you can add transitions, effects, background music and more t create your own gorgeous photo story.
@@ -68,6 +68,10 @@ Click the Personalize tab. Then you can add transitions, effects, background mus
 You can import your photos and videos at one time and arrange the order by dragging. To tell your own photo story, you can add captions to each photo or record your own voice by click the Voice Over button.
 
 ![Photo Story Platinum](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 3\. Publish your photo story
 
@@ -77,11 +81,11 @@ The photo story maker provides sorts of methods for you. For example, if you wan
 
 ![photo dvd](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug3.jpg)
 
-Learn more: [user guide of Photo Story Platinum for Windows](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) here.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Learn more: [user guide of Photo Story Platinum for Windows](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) here.
 
 ### Supported Output Formats by Web Converter
 
@@ -95,14 +99,10 @@ Learn about the detailed [technical specifications](https://tools.techidaily.com
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -119,17 +119,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-joke-jugglers-androids-in-the-dead-zone/"><u>[Updated] Joke Jugglers Androids in the Dead Zone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-celestial-high-definition-images-online-guide/"><u>2024 Approved Celestial High Definition Images Online Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-color-mastery-simple-steps-in-photoshop/"><u>2024 Approved Color Mastery Simple Steps in Photoshop</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-comparative-analysis-luminances-hdr-prowess/"><u>2024 Approved Comparative Analysis Luminance's HDR Prowess</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-enhancing-videos-with-thoughtfully-chosen-music/"><u>2024 Approved Enhancing Videos with Thoughtfully Chosen Music</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-theta-s-evaluation-overview/"><u>2024 Approved In-Depth Theta S Evaluation Overview</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/aggregating-users-experiences-with-vllo/"><u>Aggregating Users' Experiences with VLLO</u></a></li>
-<li><a href="https://fox-info.techidaily.com/best-storing-solution-for-sony-a7s-ii/"><u>Best Storing Solution for Sony A7S II</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-11-pro-max-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 11 Pro Max i Do? Get Answers here</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-discount-save-big-on-hp-victus-15-at-just-515-during-best-buys-exclusive-prime-day-offer-insights/"><u>Secure Your Discount: Save Big on HP Victus 15 at Just $515 During Best Buy's Exclusive Prime Day Offer - Insights</u></a></li>
-<li><a href="https://app-tips.techidaily.com/unleashing-the-power-of-artificer-adobes-revolutionary-ai-tool-for-enhancing-business-teams-explained-by-zdnet/"><u>Unleashing the Power of Artificer: Adobe's Revolutionary AI Tool for Enhancing Business Teams, Explained by ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/laughter-legends-reviewing-goofy-in-the-vhs-era/"><u>'Laughter Legends' Reviewing Goofy in the VHS Era</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-choosing-a-font-for-impactful-youtube-credits/"><u>[New] In 2024, Choosing a Font for Impactful YouTube Credits</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-convenient-mobile-watch-enabledisable-picture-in-picture-in-youtube/"><u>[New] In 2024, Convenient Mobile Watch Enable/Disable Picture-In-Picture in YouTube</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-12-best-html5-video-players-you-should-know/"><u>[Updated] 12 Best Html5 Video Players You Should Know</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-top-10-audio-playback-accelerators-for-phones/"><u>[Updated] 2024 Approved Top 10 Audio Playback Accelerators for Phones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-android-audio-goldies/"><u>[Updated] Android Audio Goldies</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-elite-no-price-facebook-visual-storytelling-suite-for-2024/"><u>[Updated] Elite No-Price Facebook Visual Storytelling Suite for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-uncomplicated-video-logging-tool-w10/"><u>[Updated] In 2024, Uncomplicated Video Logging Tool W10</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-voice-transformation-devices-for-creators/"><u>[Updated] Ultimate Voice Transformation Devices for Creators</u></a></li>
+<li><a href="https://common-error.techidaily.com/aoc-monitor-connection-issues-troubleshooting-and-fixes-for-non-responsive-screen-in-windows-10/"><u>AOC Monitor Connection Issues: Troubleshooting and Fixes for Non-Responsive Screen in Windows 10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/broadcast-battle-obs-against-wirecast/"><u>Broadcast Battle OBS Against Wirecast</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creative-collage-companions-the-top-8-smartphone-apps/"><u>Creative Collage Companions The Top 8 Smartphone Apps</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-s-top-powerdirector-substitutes-for-android-and-ios-devices/"><u>In 2024, S Top PowerDirector Substitutes for Android and iOS Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/snapcutmaster-insights-full-video-editor-evaluation/"><u>SnapCutMaster Insights – Full Video Editor Evaluation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-evolved-video-editing-experience-with-movavi-pro-2024/"><u>The Evolved Video Editing Experience with Movavi Pro 2024</u></a></li>
 </ul></div>
 

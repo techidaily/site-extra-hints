@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Build DIY Virtual Reality  Google Cardboard Hack\""
-date: 2024-12-05T17:00:41.783Z
-updated: 2024-12-11T17:14:19.308Z
+date: 2024-12-16T18:45:43.425Z
+updated: 2024-12-18T00:40:07.335Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
  Google cardboard offers an immersive virtual reality experience in a fun, affordable and simple way. You don’t need to spend quite huge amount of money only to have your own Google cardboard. Just recently, Google introduced DIY virtual reality with some basic tools and at the comfort of your own home. So, how do you get started?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Steps for DIY VR
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
  In not more than 3 hours, people were able to construct their own virtual reality viewer. Do you also want to successfully make your own? Here’s what you will need, together with some important tips and tools to properly do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1.The accessories you will need
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
  It is recommended to use the right type of cardboard, with the same thickness as that of a durable shoe box. You can use a pizza box, but make sure it offers enough flat surfaced material to work with. Of course, you want something durable, yet slim to work with. In some cases, a couple of additional items might be needed such as ceramic disc magnet, neodymium magnet, some pieces of Velcro, big rubber band and at least 45 mm lenses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.How to assemble accessories
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 * If necessary, affix the NFC tag to the cardboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pros and cons of DYI Google cardboard
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -112,18 +112,17 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-online-methods-to-perfect-vhs-picture-editing/"><u>[New] Mastering Online Methods to Perfect VHS Picture Editing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlock-your-pcs-potential-with-these-5-windows-11-recording-methods/"><u>[Updated] Unlock Your PC's Potential with These 5 Windows 11 Recording Methods</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-10-must-have-luts-to-transform-your-lightroom-images/"><u>2024 Approved 10 Must-Have LUTs to Transform Your LightRoom Images</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-text-tools-and-ae-plug-ins/"><u>2024 Approved Advanced Text Tools & AE Plug-Ins</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024s-guide-to-cutting-edge-cost-effective-storage/"><u>2024’S Guide to Cutting-Edge, Cost-Effective Storage</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/24-hour-film-size-gb-measurement-guide-for-2024/"><u>24-Hour Film Size GB Measurement Guide for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/aggregate-video-pieces-into-lists/"><u>Aggregate Video Pieces Into Lists</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-8-plus-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 8 Plus After Forgetting my PIN Code?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ms-dos-version-40-released-in-1988-becomes-free-and-open-source/"><u>MS-DOS Version 4.0, Released in 1988, Becomes Free and Open Source</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/on-the-move-with-sonos-a-quality-sound-journey/"><u>On the Move with Sonos: A Quality Sound Journey</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-art-of-animated-storytelling-tips-for-instagram-text-for-2024/"><u>The Art of Animated Storytelling Tips for Instagram Text for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-performance-a-review-of-the-apple-tv-4k/"><u>Unveiling the Performance: A Review of the Apple TV 4K</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-complete-guide-to-avi-file-splitting-and-trimming-for-beginners/"><u>Updated In 2024, The Complete Guide to AVI File Splitting and Trimming for Beginners</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-inverse-photo-journey-through-facebooks-vast-web/"><u>[New] In 2024, The Inverse Photo Journey Through Facebook’s Vast Web</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-2023s-quick-share-tweeted-videos-to-whatsapp/"><u>[Updated] 2024 Approved 2023'S Quick Share Tweeted Videos to WhatsApp</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-creating-compelling-sports-content-from-the-ground-up-for-2024/"><u>[Updated] Creating Compelling Sports Content From the Ground Up for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/achieve-viral-fame-crafting-engaging-instagram-unboxing-videos-for-2024/"><u>Achieve Viral Fame Crafting Engaging Instagram Unboxing Videos for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/craft-compelling-video-content-using-windows-photos-and-story-remix-for-2024/"><u>Craft Compelling Video Content Using Windows Photos & Story Remix for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discover-the-leading-10-in-ultra-hd-best-4k-cams-review/"><u>Discover the Leading 10 in Ultra-HD Best 4K Cams Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-send-large-video-files-from-iphone-to-iphonepcmac/"><u>How to Send Large Video Files From iPhone to iPhone/PC/Mac</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-realme-gt-5-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Realme GT 5 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-augmented-commerce-frontiers/"><u>In 2024, Augmented Commerce Frontiers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-the-galaxy-s24-ultra-maintaining-its-throne-as-the-top-android-device-after-half-a-year/"><u>Is the Galaxy S24 Ultra Maintaining Its Throne as the Top Android Device After Half a Year?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-aerial-choices-for-high-quality-gopro-recordings/"><u>Premium Aerial Choices For High-Quality GoPro Recordings</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/vlogging-equipment-and-basic-software-tools-to-start-vlogging/"><u>Vlogging Equipment and Basic Software Tools to Start Vlogging</u></a></li>
 </ul></div>
 

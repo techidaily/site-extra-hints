@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Beyond Basic Editing  Innovative Use of LUTs for Photography\""
-date: 2024-12-05T19:20:46.025Z
-updated: 2024-12-11T17:25:22.480Z
+date: 2024-12-13T00:10:21.022Z
+updated: 2024-12-18T01:46:11.055Z
 tags: 
   - screen-recording
   - ai video
@@ -39,7 +39,7 @@ Lookup Tables help you save a lot of work and time during the editing process. T
 LUTs also aid in the organization of your post-production processes. You must know when to use LUTs, just as you must know when to use other components of the editing process. It assists in getting the work done more effectively after you master the pattern and processes to follow.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How will LUTs change your photography?
@@ -55,7 +55,7 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use LUTs using Photoshop CC?
@@ -66,10 +66,6 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Choose Adjustment Layer
 
 1. Opt for Color Lookup.
@@ -77,6 +73,10 @@ Choose Adjustment Layer
 3. Select Load 3D LUT. A list of LUTs that come with Photoshop will appear.
 
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 load 3d lut
 
@@ -110,7 +110,7 @@ Grow Together
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -124,7 +124,7 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -157,24 +157,19 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-easy-to-use-free-instagram-to-mp4-converters-for-all-oss/"><u>[Updated] 2024 Approved Easy-to-Use Free Instagram to MP4 Converters for All OSs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-solving-obs-high-bitrate-issues-for-2024/"><u>[Updated] Solving OBS High Bitrate Issues for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-10-easy-to-use-gamers-edits-software-for-2024/"><u>[Updated] Top 10 Easy-to-Use Gamers' Edits Software for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-power-of-free-countdown-tools-for-time-management/"><u>[Updated] Unveiling the Power of Free Countdown Tools for Time Management</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/15-simple-steps-to-convert-youtube-to-mpeg-effortlessly-for-2024/"><u>15 Simple Steps to Convert YouTube to MPEG Effortlessly for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-action-cam-showdown-gopro-vs-yi-technology-review/"><u>2024 Approved Action Cam Showdown GoPro Vs. Yi Technology Review</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-avoid-virtual-reality-queasiness-5-useful-tips/"><u>2024 Approved Avoid Virtual Reality Queasiness 5 Useful Tips</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-sixers-comprehensive-4k-camera-guide/"><u>2024 Approved Best Sixer's Comprehensive 4K Camera Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-bridging-photo-realms-on-your-system/"><u>2024 Approved Bridging Photo Realms on Your System</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-a-spectacited-photographic-display/"><u>2024 Approved Crafting a Spectacited Photographic Display</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/achieve-flawless-imagery-how-to-remove-backgrounds-on-canva/"><u>Achieve Flawless Imagery How to Remove Backgrounds on Canva</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/action-camera-selection-under-200-high-quality-low-cost-for-2024/"><u>Action Camera Selection Under $200 High Quality, Low Cost for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/analyzing-best-days-for-highest-audience-retention/"><u>Analyzing Best Days for Highest Audience Retention</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-8-creative-uses-of-chatgpts-image-recognition/"><u>Exploring 8 Creative Uses of ChatGPT’s Image Recognition</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-google-phone-by-drfone-android/"><u>How to Reset a Locked Google Phone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-red-eye-remover-how-to-remove-red-eye-from-photos-on-iphone-free/"><u>In 2024, Red Eye Remover| How to Remove Red Eye From Photos on iPhone [Free]</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-top-8-dictation-software-for-windows-mac-and-online-2023-list-for-2024/"><u>New Top 8 Dictation Software for Windows, Mac and Online-2023 List for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-key-to-efficient-storage-how-to-manage-ntfs-compression-in-win11/"><u>The Key to Efficient Storage: How to Manage NTFS Compression in Win11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-effortless-multimedia-collaboration-streamwork/"><u>[Updated] 2024 Approved Effortless Multimedia Collaboration StreamWork</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-5-must-know-techniques-for-cutting-through-reddit-noise-and-gaining-traction/"><u>[Updated] 5 Must-Know Techniques for Cutting Through Reddit Noise and Gaining Traction</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-creating-temporal-distortions-a-guide-to-movie-magic/"><u>[Updated] In 2024, Creating Temporal Distortions A Guide to Movie Magic</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-foremost-guide-to-youtube-equipment-for-rookies/"><u>[Updated] In 2024, Foremost Guide to YouTube Equipment for Rookies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-top-10-speedy-gaming-apps-for-mobile-and-desktop/"><u>[Updated] In 2024, Top 10 Speedy Gaming Apps for Mobile and Desktop</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-innovating-for-impact-your-profile-video-guide/"><u>[Updated] Innovating for Impact Your Profile Video Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-degree-of-view-analysis/"><u>2024 Approved Comprehensive Degree of View Analysis</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-techniques-for-proximity-viewing-in-roblox/"><u>Advanced Techniques for Proximity Viewing in Roblox</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apex-automotive-code-deciphering-experts-2024-tale/"><u>Apex Automotive Code Deciphering Experts - 2024 Tale</u></a></li>
+<li><a href="https://extra-information.techidaily.com/journey-into-whatsapps-call-ecosystem/"><u>Journey Into WhatsApp's Call Ecosystem</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-definitive-checklist-for-acquiring-the-perfect-student-laptop-or-desktop/"><u>The Definitive Checklist for Acquiring the Perfect Student Laptop or Desktop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/turn-up-the-volume-a-guide-to-personalizing-ringtone-and-sound-settings-on-android-devices/"><u>Turn Up the Volume A Guide to Personalizing Ringtone & Sound Settings on Android Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-guide-selecting-top-ranked-free-srt-translation-tools/"><u>Ultimate Guide Selecting Top-Ranked FREE SRT Translation Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vlcs-role-in-mpeg-4-and-other-file-type-conversions-explored/"><u>VLC's Role in MPEG-4 and Other File Type Conversions Explored</u></a></li>
 </ul></div>
 

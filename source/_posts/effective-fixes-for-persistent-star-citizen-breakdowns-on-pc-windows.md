@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Persistent Star Citizen Breakdowns on PC Windows
-date: 2024-12-07T16:02:55.706Z
-updated: 2024-12-11T18:42:07.855Z
+date: 2024-12-13T18:30:48.729Z
+updated: 2024-12-17T23:18:32.351Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 
  Lunar Client is a modpack for many versions of Minecraft. Recently, we’ve seen many Minecraft players report that**Lunar Client keeps crashing on their PC** . If you’re experiencing the exact same issue, you’ve come to the right place. Whether it crashes on startup or crashes in the middle of the game, after reading this article, you should be able to resolve this problem on your own easily!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here we’ve gathered the latest fixes that helped other gamers resolve the Lunar Client crashing issue. You don’t have to try them all, Just work your way through the list until you find the one that does the trick for you.
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 3. **[Change launch directory](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Minecraft and Lunar Client](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Reinstall Java Runtime Environment
 
@@ -64,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 
  Run Lunar Client and see if the latest graphics driver stops the crash. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Change launch directory
 
  Some gamers have fixed this issue by changing launch directory. If you didn’t try this fix, you can give it a shot.
@@ -78,28 +90,12 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 ![lunar client new launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/lunar-client-new-launch-directory.jpg)
 4. In Lunar Client, go to**Settings** and click**Change Directory** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Change launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory.jpg)
 5. Select the new folder you created in step 3) and click**Select Folder** to set it to the launch directory.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Change launch directory 1](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Lunar Client and see if this issue persists. If it still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Perform a clean boot
 
@@ -118,28 +114,32 @@ To perform a clean boot, just follow the steps below:
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Restart** your PC and launch Lunar Client to check if the game crashes. If not, you need to open the **System Configuration** window again and enable services and applications **one by one** until you find the problematic software. After enabling each startup service, you need to restart Windows OS for the changes to take effect.
 
@@ -175,19 +175,19 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-key-steps-turning-visual-media-from-pinterest-into-music-files/"><u>[New] 2024 Approved Key Steps Turning Visual Media From Pinterest Into Music Files</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-pic-tastic-alterations-comedy-central-editors-online/"><u>[New] 2024 Approved Pic-Tastic Alterations Comedy Central Editors Online</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-childs-play-in-the-sky-top-kid-friendly-drones-list/"><u>[New] Child's Play in the Sky Top Kid-Friendly Drones List</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-effortlessly-access-and-apply-instagrams-best-filters/"><u>[New] How to Effortlessly Access and Apply Instagram's Best Filters</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-assessing-the-value-of-digital-image-anchor-points/"><u>[Updated] Assessing the Value of Digital Image Anchor Points</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-conquer-youtubes-default-snippet-feature/"><u>[Updated] Conquer YouTube's Default Snippet Feature</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/asmr-insights-harnessing-soundscapes-for-slumber-for-2024/"><u>ASMR Insights Harnessing Soundscapes for Slumber for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/convierte-tus-archivos-aac-en-linea-sin-coste-con-movavi/"><u>Convierte Tus Archivos AAC en Línea Sin Coste Con Movavi</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-system-boosted-free-update-for-killer-network-drivers-on-windows-systems-win10-8-7/"><u>Get Your System Boosted: Free Update for Killer Network Drivers on Windows Systems (Win10, 8, 7)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ideal-audio-gear-compatible-with-cutting-edge-4k-technology/"><u>Ideal Audio Gear Compatible with Cutting-Edge 4K Technology</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-breaking-barriers-how-to-enjoy-virtual-journeys/"><u>In 2024, Breaking Barriers How to Enjoy Virtual Journeys</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/metaverse-giggle-guide-generating-20plus-amusing-virtual-creations/"><u>Metaverse Giggle Guide Generating 20+ Amusing Virtual Creations</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-new-era-of-authenticity-understanding-the-algorithm-update-for-2024/"><u>The New Era of Authenticity Understanding the Algorithm Update for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-brainiac-broadcasting-curated-list-of-2024s-trivia-outlets/"><u>[Updated] Brainiac Broadcasting Curated List of 2024'S Trivia Outlets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-celestial-journey-enhanced-by-these-sj4000-gear-must-haves/"><u>[Updated] Celestial Journey Enhanced by These SJ4000 Gear Must-Haves</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fog-no-more-secrets-for-crisp-clean-filming/"><u>[Updated] Fog No More Secrets for Crisp, Clean Filming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-adding-emotion-and-context-narration-for-videos/"><u>2024 Approved Adding Emotion and Context Narration for Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-compatibility-checklist-phone-list-for-gear-vr-2023/"><u>2024 Approved Compatibility Checklist Phone List for Gear VR 2023</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-enthralling-readers-with-these-stellar-5-book-promo-videos/"><u>2024 Approved Enthralling Readers with These Stellar 5 Book Promo Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beat-junkies-essentials-online-cost-free-software-for-2024/"><u>Beat Junkies' Essentials Online, Cost-Free Software for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-msi-audio-driver-software-for-windows-systems/"><u>Download MSI Audio Driver Software for Windows Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fresh-comfort-better-sound-discover-the-best-substitutes-for-aged-headphone-foam-ear-pads/"><u>Fresh Comfort, Better Sound: Discover the Best Substitutes for Aged Headphone Foam Ear Pads</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-max-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS Max to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-bygone-brilliance-art-beyond-intellectual-property/"><u>In 2024, Bygone Brilliance Art Beyond Intellectual Property</u></a></li>
+<li><a href="https://facebook.techidaily.com/instant-silence-blocking-all-fb-notifications/"><u>Instant Silence: Blocking All FB Notifications</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/learn-dvd-cracking-and-extraction-techniques-with-handbrake-tutorials/"><u>Learn DVD Cracking & Extraction Techniques with HandBrake Tutorials</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-voicemail-on-an-iphone-a-comprehensive-tutorial/"><u>Mastering the Art of Voicemail on an iPhone: A Comprehensive Tutorial</u></a></li>
 </ul></div>
 

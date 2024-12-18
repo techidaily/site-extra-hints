@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Mac's Preview  A Comprehensive Tutorial\""
-date: 2024-12-10T17:19:40.698Z
-updated: 2024-12-11T19:02:04.659Z
+date: 2024-12-15T00:21:27.325Z
+updated: 2024-12-17T19:51:26.438Z
 tags: 
   - screen-recording
   - ai video
@@ -31,7 +31,7 @@ The **Preview app** is a built-in program in macOS, and works as a default viewe
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
@@ -39,6 +39,10 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
 
@@ -68,6 +72,10 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -83,10 +91,6 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 **Step 3: Crop the Photo**
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Rotate Image in Preview
 
@@ -117,7 +121,7 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
@@ -136,6 +140,10 @@ Once the background portion of the image gets selected (colored in red), without
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Combine Images into One
 
 This process is generally used to place an object present in one image over the background of the other photo. A good example could be to place a picture of a fish on to a second photo that has a sea or river. The **Preview app** lets you do this easily using the following steps:
@@ -152,10 +160,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -167,10 +171,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -221,16 +221,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-dive-into-retro-gaming-the-5-highest-rated-android-ps2-emulators/"><u>[Updated] 2024 Approved Dive Into Retro Gaming The 5 Highest-Rated Android PS2 Emulators</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-best-bgms-and-gifs-stylish-google-meet-backdrops-for-2024/"><u>[Updated] Best BGMs & GIFs Stylish Google Meet Backdrops for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-process-for-efficient-use-of-macs-preview-app/"><u>2024 Approved Step-by-Step Process for Efficient Use of Mac's Preview App</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-but-impactful-which-social-platform-leads-for-short-video-content-for-2024/"><u>Brief but Impactful Which Social Platform Leads for Short Video Content for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-a-unified-brand-presence-on-youtube/"><u>Crafting a Unified Brand Presence on YouTube</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-for-teamwork-in-icloud-mastering-apple-pages-collaboration/"><u>Effective Strategies for Teamwork in iCloud: Mastering Apple Pages Collaboration</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-screenshots-to-art-the-8-best-photo-collage-tools/"><u>From Screenshots to Art The 8 Best Photo Collage Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-7-essential-tips-for-flawless-underwater-filming/"><u>In 2024, 7 Essential Tips for Flawless Underwater Filming</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-captivating-cinematic-experiences-exploring-top-6-genres/"><u>In 2024, Captivating Cinematic Experiences Exploring Top 6 Genres</u></a></li>
-<li><a href="https://article-posts.techidaily.com/sculpt-social-shares/"><u>Sculpt Social Shares</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transcription-tech-zero-fee-for-the-user/"><u>Transcription Tech, Zero Fee for the User</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-sd-card-selections-for-optimal-gopro-hero-78-performance/"><u>[New] Prime SD Card Selections for Optimal GoPro Hero 7/8 Performance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-advanced-tips-for-professionally-changing-image-hues/"><u>[Updated] Advanced Tips for Professionally Changing Image Hues</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-innovate-and-excel-at-fb-ads-unleash-the-potential-of-no-cost-tools/"><u>[Updated] In 2024, Innovate & Excel at FB Ads – Unleash the Potential of No-Cost Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-ideas-in-immersive-realms-30plus-quotes-to-motivate-you/"><u>2024 Approved Innovative Ideas in Immersive Realms 30+ Quotes to Motivate You</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/deciding-on-a-top-gopro-camera-max-or-hero-11/"><u>Deciding on a Top GoPro Camera Max or Hero 11?</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/descubra-su-windows-11-y-revele-archivos-escondidos-con-estas-cuatro-estrategias-innovadoras/"><u>Descubra Su Windows 11 Y Revele Archivos Escondidos Con Estas Cuatro Estrategias Innovadoras</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-zoonotic-pattern-compendium/"><u>Elite Zoonotic Pattern Compendium</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/evolutionary-leap-with-macos-11-big-sur-what-you-need/"><u>Evolutionary Leap with macOS 11 Big Sur – What You Need</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/faster-fluency-cognitive-strategies-for-effortless-language-acquisition/"><u>Faster Fluency: Cognitive Strategies for Effortless Language Acquisition</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-infinix-hot-40-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Infinix Hot 40 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-samsung-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Samsung?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-list-of-free-high-quality-video-playback-apps-pcmobile/"><u>In 2024, Comprehensive List of Free, High-Quality Video Playback Apps PC/Mobile</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pearlescent-pictures-brighten-with-android/"><u>Pearlescent Pictures Brighten with Android</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/taking-down-the-veil-youtubes-most-elusive-videos-for-2024/"><u>Taking Down the Veil YouTube's Most Elusive Videos for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-iphone-and-icloud-sync-a-step-by-step-photo-arrangement-guide/"><u>The iPhone & iCloud Sync A Step-by-Step Photo Arrangement Guide</u></a></li>
 </ul></div>
 

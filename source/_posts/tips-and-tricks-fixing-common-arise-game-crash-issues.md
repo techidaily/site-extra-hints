@@ -1,7 +1,7 @@
 ---
 title: "Tips & Tricks: Fixing Common Arise Game-Crash Issues"
-date: 2024-12-08T19:53:48.058Z
-updated: 2024-12-11T16:55:32.430Z
+date: 2024-12-17T01:47:23.114Z
+updated: 2024-12-18T00:28:41.349Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  The screenshots below come from Windows 10, but the fixes also apply to Windows 7 and Windows 8.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Repair the game files
 
  Corrupted and damaged game file is one of the most common causes of game crashes, so an integrity check should be your first step for troubleshooting. We’ll show you how to do this on[**Steam**](https://tools.techidaily.com/drivereasy/download/) and **[Wargaming launcher](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -44,7 +40,7 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click**World of Warships** and click**Properties** .
@@ -52,7 +48,7 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
@@ -69,15 +65,19 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the process to complete, and relaunch World of Warships to test this method. If it fails to cure the crash, move on to the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics card driver
 
@@ -106,6 +106,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
@@ -152,21 +156,17 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-1-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Select**Category** next to View by, and click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**World of Warships** from the list, and click**Uninstall** . Then, follow the on-screen instructions to complete the process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-3-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
 
@@ -198,21 +198,20 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-infusing-your-reels-with-soundscape-elements/"><u>[New] 2024 Approved Infusing Your Reels with Soundscape Elements</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-alternative-secrets-to-sharing-files-efficiently-for-2024/"><u>[New] Alternative Secrets to Sharing Files Efficiently for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-a-step-by-step-metaverse-marketing-plan/"><u>[Updated] A Step-by-Step Metaverse Marketing Plan</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-master-your-online-presence-the-ultimate-guide-to-effective-freefire-tags/"><u>[Updated] Master Your Online Presence The Ultimate Guide to Effective FreeFire Tags</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unveiling-effective-techniques-for-youtube-video-thumbnail-designs/"><u>[Updated] Unveiling Effective Techniques for YouTube Video Thumbnail Designs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-box-personalizing-online-spots-unique-heartfelt-gestures/"><u>Best Box-Personalizing Online Spots Unique, Heartfelt Gestures</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/customer-experiences-on-a-mac-visualized/"><u>Customer Experiences on a Mac, Visualized</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-fix-screen-flickering-and-flashing-on-windows-10-and-11/"><u>How to Fix Screen Flickering and Flashing on Windows 10 and 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-chronicle-of-the-years-best-ice-artistry/"><u>In 2024, A Chronicle of the Year's Best Ice Artistry</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/studio-masterclass-in-depth-xvideostudio-report/"><u>Studio Masterclass In-Depth XVideoStudio Report</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-tutorial-for-adding-a-second-screen-to-your-mac-setup/"><u>The Ultimate Tutorial for Adding a Second Screen to Your Mac Setup</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transform-your-copy-with-strategic-slug-line-usage/"><u>Transform Your Copy with Strategic Slug Line Usage</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveiling-the-premier-html5-video-players-list/"><u>Unveiling The Premier HTML5 Video Players List</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-to-the-new-rtx-ebytes-drivers-for-all-windows-platforms-win11-win10-win8-win7/"><u>Update to the New RTX Ebytes Drivers for All Windows Platforms (Win11, Win10, Win8, Win7)</u></a></li>
-<li><a href="https://media-tips.techidaily.com/upgrade-your-streaming-quality-with-h265-encoding-for-stunning-hd-content-in-full-4k-resolution/"><u>Upgrade Your Streaming Quality with H.265 Encoding for Stunning HD Content in Full 4K Resolution</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/virtual-viewpoint-battle-live-tools-vs-equipment/"><u>Virtual Viewpoint Battle Live Tools vs Equipment</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-elevate-your-video-editing-skills-with-kinemaster-and-10-leading-alternatives/"><u>[New] 2024 Approved Elevate Your Video Editing Skills with KineMaster & 10 Leading Alternatives</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-accelerate-your-tunes-top-phone-apps-reviewed/"><u>[New] Accelerate Your Tunes Top Phone Apps Reviewed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-amplify-focus-on-the-little-things-with-videoleap-zoom/"><u>[New] Amplify Focus on the Little Things with VideoLeap Zoom</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-beginners-overview-of-animation-trends/"><u>[New] Beginner's Overview of Animation Trends</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-boosting-your-macs-potential-with-sierra-update-steps/"><u>[Updated] Boosting Your Mac's Potential with Sierra Update Steps</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-digital-delegates-top-youtube-creators-by-followers/"><u>[Updated] Digital Delegates Top YouTube Creators by Followers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-true-value-proposition-of-subscribing-to-youtube-premium-for-2024/"><u>[Updated] The True Value Proposition of Subscribing to YouTube Premium for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-platform-showdown-podcast-vs-youtube-for-2024/"><u>[Updated] The Ultimate Platform Showdown Podcast vs YouTube for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-streamlined-screenshots-on-chrome-devices/"><u>2024 Approved Streamlined Screenshots on Chrome Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-comprehensive-guide-to-hyper-v-installation-in-win-11-home/"><u>A Comprehensive Guide to Hyper-V Installation in Win 11 Home</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/effortless-edits-with-windows-11-photoshop-guide/"><u>Effortless Edits with Windows 11 Photoshop Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-insights-into-instagram-video-constraint/"><u>In 2024, Insights Into Instagram Video Constraint</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-the-art-of-visual-storytelling-with-top-text-techniques/"><u>Master the Art of Visual Storytelling with Top Text Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/steams-enhanced-interface-the-big-picture/"><u>Steam's Enhanced Interface: The Big Picture</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-essentials-for-enhanced-uav-functionality/"><u>Top Essentials for Enhanced UAV Functionality</u></a></li>
 </ul></div>
 

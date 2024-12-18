@@ -1,7 +1,7 @@
 ---
 title: "Lighting Setup to Make Your Videos Stand Out"
-date: 2024-12-04T17:57:26.020Z
-updated: 2024-12-11T18:06:33.046Z
+date: 2024-12-13T16:21:55.590Z
+updated: 2024-12-17T16:55:09.884Z
 tags: 
   - screen-recording
   - ai video
@@ -55,7 +55,7 @@ The key light is the main light that illuminates the subject. You can place it i
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
@@ -65,7 +65,7 @@ The fill light is used to fill in the shadows created by the key light. It is us
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -77,7 +77,7 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
@@ -88,29 +88,29 @@ Finally, we have a few other small LED lights like this unicorn to put in the ba
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 After setting up all the lighting above, you can take a look at the comparison below:
 
 **Using Key Light only**
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Using Key Light + Fill + Backlight**
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -146,19 +146,18 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-dont-miss-out-on-viral-tiktok-challenges/"><u>[New] Don't Miss Out on Viral TikTok Challenges</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/etting-started-with-your-new-youtube-premium-account-for-2024/"><u>[New] Getting Started with Your New YouTube Premium Account for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-cultivating-a-thoughtful-approach-to-youtube-feedback/"><u>[Updated] 2024 Approved Cultivating a Thoughtful Approach to YouTube Feedback</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-step-by-step-guide-invert-playback-videos-android/"><u>[Updated] Step-by-Step Guide Invert Playback Videos Android</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-analyzing-the-impact-of-burst-on-live-action-shoots/"><u>2024 Approved Analyzing the Impact of Burst on Live-Action Shoots</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-setup-steps-for-wm6/"><u>2024 Approved Comprehensive Setup Steps for WM6</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-visionary-tech-review-the-video-hub/"><u>2024 Approved Visionary Tech Review The Video Hub</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-gadgets-with-toms-hardware-your-guide-to-cutting-edge-technology/"><u>Exploring Gadgets with Tom's Hardware - Your Guide to Cutting-Edge Technology</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/obs-vs-wirecast-which-should-you-trust-for-live/"><u>OBS Vs. Wirecast - Which Should You Trust for Live?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/step-by-step-telegram-web-setup-for-novices/"><u>Step-by-Step Telegram Web Setup for Novices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-spectrum-of-virtuality-from-meta-to-omniverse-explored/"><u>The Spectrum of Virtuality From Meta to Omniverse Explored</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-step-by-step-tutorial-burning-discs-for-free-on-windows-11-with-illustrations/"><u>Ultimate Step-by-Step Tutorial: Burning Discs for Free on Windows 11 with Illustrations</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlocking-success-with-spotify-marketing-tips/"><u>Unlocking Success with Spotify Marketing Tips</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-mac-users-rejoice-the-ultimate-gopro-video-editing-guide-for-2024/"><u>Updated Mac Users Rejoice The Ultimate GoPro Video Editing Guide for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-10-premier-photo-frame-apps/"><u>[New] 10 Premier Photo Frame Apps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-enhanced-exhilaration-curated-list-of-best-srt-upgrades-for-pc-and-mac/"><u>[New] 2024 Approved Enhanced Exhilaration Curated List of Best SRT Upgrades for PC & Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-chuckle-worthy-captures-for-iphones/"><u>[New] Chuckle-Worthy Captures for IPhones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-visual-output-incorporating-luts-into-your-ae-projects/"><u>[Updated] Perfecting Visual Output Incorporating LUTs Into Your AE Projects</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-secrets-of-advanced-camera-settings/"><u>[Updated] Unveiling the Secrets of Advanced Camera Settings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/can-a-64gb-drive-manage-large-video-files-for-2024/"><u>Can a 64GB Drive Manage Large Video Files for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/discovering-the-most-memorable-podcasts-of-2022/"><u>Discovering the Most Memorable Podcasts of 2022</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/excellence-in-sound-management-on-android/"><u>Excellence in Sound Management on Android</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-coordinated-audio-visual-grouping-space/"><u>In 2024, Coordinated Audio-Visual Grouping Space</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y78-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y78 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://fox-links.techidaily.com/real-time-voice-to-action-no-price-tag/"><u>Real-Time Voice to Action, No Price Tag</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-unlock-fcp-xs-power-adding-effects-in-just-3-steps-for-2024/"><u>Updated Unlock FCP Xs Power Adding Effects in Just 3 Steps for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/visualize-and-create-with-top-7-innovative-animation-suites-for-2024/"><u>Visualize & Create with Top 7 Innovative Animation Suites for 2024</u></a></li>
 </ul></div>
 

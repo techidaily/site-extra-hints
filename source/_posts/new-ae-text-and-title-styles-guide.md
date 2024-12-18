@@ -1,7 +1,7 @@
 ---
 title: "[New] AE Text & Title Styles Guide"
-date: 2024-12-07T18:03:54.149Z
-updated: 2024-12-11T17:09:33.931Z
+date: 2024-12-16T01:52:03.798Z
+updated: 2024-12-17T19:22:37.695Z
 tags: 
   - screen-recording
   - ai video
@@ -45,17 +45,9 @@ Generally, when you type a text in After Effects, by default, it comes out to be
 
 After Effects has “Enable per-character 3D” property to all Z axis to applicable properties so that you can get the desired effect. You can go to properties like rotation or position to find Z axis that you can modify and get the perfect 3D text.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Rotation and Anchor Point
 
 Rotation is one of the most commonly used parameters in text animations. There are unlimited variations of text animations and effects that you can create using rotation parameter in After Effects. The rotation takes place in proportion to the anchor points of the text. When you change the value of Rotation parameter, the actual rotation takes place around the anchor points.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Scale and Position
 
@@ -67,15 +59,15 @@ There are different variations of zoom in and out effect that you can try on you
 
 You must have seen the text animation where the blurry text comes into focus and this can be achieved using Blur parameter. Many people confused Blur with Opacity but blur refers to out of focus while opacity can be understood by fade in and fade out effect. You can adjust the horizontal and vertical blur amount separately and you can come up with stunning text animations by changing Blur value.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Fill and Stroke
 
 When it comes to text formatting in animation, fill color and stroke color play a major role. You can change the fill of the text so that the text animation is about changing color randomly. There are different options available for fill color such as RGB, Hue, Saturation, and likewise.
 
 Similarly, the stroke color can be changed and you can create an animation with changing outline color. At the same time, you can adjust the stroke width to make the text look thick or thin as per your animation requirements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Skew
 
@@ -91,10 +83,6 @@ Keyframe is like stretching two points into multiple points and for every point,
 
 Therefore, keyframes are the building blocks for text animations and you have to use keyframes to create all the different online text effects. You can put the keyframes far apart or close and speed up or slow down the animation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. How to Edit Text Effects in Videos with AE
 
 Now that you know the different animation parameters and text effect types, it is time to combine the parameters and animate the text. First of all, you should create a text layer with the desired source text After Effects. Then you can select a text effect preset and apply it to the text layer. Thereafter, you can animate the text by editing the different parameters and properties we have mentioned along with keyframes. Here are the steps to add and edit text effects in videos with AE.
@@ -102,6 +90,10 @@ Now that you know the different animation parameters and text effect types, it i
 Step1 Go to Tool panel, click on Type tool. Click on Composition panel and type in your text. Go to Characters and Paragraph section and adjust the text style parameters.
 
 ![text style parameters after effects](https://images.wondershare.com/filmora/article-images/2022/09/text-style-parameters-after-effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step2 Go to Effects and Presets panel, search for the desired text effect preset that you want to apply on your text. Drag and drop the selected preset on the text layer and you will see your text getting transformed instantly.
 
@@ -130,7 +122,7 @@ Step2 Drag and drop the video clip onto timeline. Go to Titles option and you wi
 ![select background for text filmora](https://images.wondershare.com/filmora/article-images/2022/09/select-background-for-text-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step3 Double-click on the text layer on the timeline to edit the text preset. You can select any available text style as well as adjust parameters from font and settings sections.
@@ -140,10 +132,6 @@ Step3 Double-click on the text layer on the timeline to edit the text preset. Yo
 Step4 Go to Animation section and click on Advanced button. Change different parameters under Customize section such as Blue, Opacity, Shadow, and much more. You can create keyframes on the timeline like AE and edit parameters as per your preference.
 
 ![add animation text in filmora](https://images.wondershare.com/filmora/article-images/2022/09/add-animation-text-in-filmora.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4\. Related FAQs of Title Effects in After Effects
 
@@ -170,7 +158,7 @@ Generally, when you type a text in After Effects, by default, it comes out to be
 After Effects has “Enable per-character 3D” property to all Z axis to applicable properties so that you can get the desired effect. You can go to properties like rotation or position to find Z axis that you can modify and get the perfect 3D text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Rotation and Anchor Point
@@ -182,6 +170,10 @@ Rotation is one of the most commonly used parameters in text animations. There a
 If you want to zoom in and zoom out animation for your text or title, you can use the Scale property in After Effects. You can use keyframes and for each keyframe, you can adjust the scale value and create an illustration of zooming in and out very easily.
 
 There are different variations of zoom in and out effect that you can try on your text and title to make animation creative and visually appealing. On the other hand, position refers to the location of the text on the video frame depending on X, Y, and Z axis values.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Blur and Opacity
 
@@ -201,6 +193,10 @@ If you want your text to be distorted and unusual, the skew parameter is there f
 
 Tracking refers to the spacing between the characters in a word for a text. You must have seen so many different types of text animations where the spacing between the characters is changing. You can create amazing funny and eye-catching text effects in After Effects by combining tracking and keyframe properly. Along with tracking, there is line anchor that determines the alignment of tracking. Similarly, there is line spacing parameter that controls the spacing between the lines.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Keyframe
 
 Keyframe is like stretching two points into multiple points and for every point, you can change the value of the different parameters we have mentioned. When different keyframes have different parameters, the text will automatically animate once you play the video.
@@ -208,7 +204,7 @@ Keyframe is like stretching two points into multiple points and for every point,
 Therefore, keyframes are the building blocks for text animations and you have to use keyframes to create all the different online text effects. You can put the keyframes far apart or close and speed up or slow down the animation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to Edit Text Effects in Videos with AE
@@ -220,7 +216,7 @@ Step1 Go to Tool panel, click on Type tool. Click on Composition panel and type 
 ![text style parameters after effects](https://images.wondershare.com/filmora/article-images/2022/09/text-style-parameters-after-effects.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step2 Go to Effects and Presets panel, search for the desired text effect preset that you want to apply on your text. Drag and drop the selected preset on the text layer and you will see your text getting transformed instantly.
@@ -232,10 +228,6 @@ Step3 Go to Timeline and click on the text layer to expand it. Click on Animate 
 ![add keyframes in after effects](https://images.wondershare.com/filmora/article-images/2022/09/add-keyframes-in-after-effects.jpg)
 
 Apart from the animate option and its parameters, there are several parameters such as transform that you can adjust to edit the text effect as per your preference.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. AE Alternative to Edit Text Effects in Video
 
@@ -260,6 +252,14 @@ Step3 Double-click on the text layer on the timeline to edit the text preset. Yo
 Step4 Go to Animation section and click on Advanced button. Change different parameters under Customize section such as Blue, Opacity, Shadow, and much more. You can create keyframes on the timeline like AE and edit parameters as per your preference.
 
 ![add animation text in filmora](https://images.wondershare.com/filmora/article-images/2022/09/add-animation-text-in-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4\. Related FAQs of Title Effects in After Effects
 
@@ -299,24 +299,18 @@ Motion title is a dynamic text effect template available in After Effects throug
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-10-second-teasers-explained/"><u>[New] 10-Second Teasers Explained</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-instagrams-secret-fine-tuning-fcpx-for-high-aspect-videos/"><u>[New] Instagram's Secret Fine-Tuning FCPX for High Aspect Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-avoiding-blur-techniques-for-hand-held-stability-for-2024/"><u>[Updated] Avoiding Blur Techniques for Hand-Held Stability for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-no-fee-android-chat-apps-rated/"><u>[Updated] In 2024, Top No-Fee Android Chat Apps Rated</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-capturing-cadence-leading-cameras-for-extended-shutter-times/"><u>2024 Approved Capturing Cadence Leading Cameras for Extended Shutter Times</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehending-variants-in-windows-movie-maker-software/"><u>2024 Approved Comprehending Variants in Windows Movie Maker Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-character-adventures-windows-movie-maker-for-animators/"><u>2024 Approved Crafting Character Adventures Windows Movie Maker for Animators</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-your-unique-look-in-windows-photos-app-with-music-and-filter-choices/"><u>2024 Approved Crafting Your Unique Look in Windows Photos App with Music and Filter Choices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-complete-guide-to-understanding-and-utilizing-slug-lines/"><u>A Complete Guide to Understanding and Utilizing Slug Lines</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-ultimate-guide-to-podcast-names/"><u>A Ultimate Guide to Podcast Names</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/action-camera-faceoff-gopro-hero-vs-yi-4k-new-edition-review/"><u>Action Camera Faceoff GoPro Hero Vs. Yi 4K - New Edition Review</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/animatedapp-full-guide-24-edition/"><u>AnimatedApp Full Guide '24 Edition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/asmr-unveiled-benefits-for-your-well-being-for-2024/"><u>ASMR Unveiled Benefits for Your Well-Being for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capture-perfection-with-canons-paired-lut-gifts-for-2024/"><u>Capture Perfection with Canon's Paired LUT Gifts for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-xiaomi-redmi-note-12-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Xiaomi Redmi Note 12 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-gopros-improved-action-session-series/"><u>In 2024, GoPro's Improved Action Session Series</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-package-registration-problems-in-windows-operating-system/"><u>Overcoming Package Registration Problems in Windows Operating System</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/step-by-step-approach-to-understanding-and-using-telegram-online/"><u>Step-By-Step Approach to Understanding and Using Telegram Online</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlock-exclusive-october-game-discounts-for-black-friday-2024/"><u>Unlock Exclusive October Game Discounts for Black Friday 2024 !</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-becoming-a-pro-at-using-igtv-for-business-and-personal-growth/"><u>[New] 2024 Approved Becoming a Pro at Using IGTV for Business and Personal Growth</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-virtual-horizons-on-android-a-guide-to-the-top-15-games-for-2024/"><u>[New] Virtual Horizons on Android A Guide to the Top 15 Games for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-closer-look-at-immersive-virtual-reality-tech/"><u>[Updated] A Closer Look at Immersive Virtual Reality Tech</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-top-microphones-for-various-youtube-content-creators/"><u>[Updated] In 2024, Top Microphones for Various YouTube Content Creators</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-samsung-galaxy-s24-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Samsung Galaxy S24 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebook-cinematic-capture-tool/"><u>2024 Approved Facebook Cinematic Capture Tool</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-orchestrate-instagram-reel-magic-with-music-and-voiceovers/"><u>2024 Approved Orchestrate Instagram Reel Magic with Music & Voiceovers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/amplify-your-videos-the-best-text-effects-guide-for-2024/"><u>Amplify Your Videos The Best Text Effects Guide for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-visuals-through-effective-music-addition-techniques-in-premiere-pro/"><u>Enhancing Visuals Through Effective Music Addition Techniques in Premiere Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/omni-vmix-universal-controller/"><u>Omni-VMix Universal Controller</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premier-iphone-watermark-apps-reviewed-for-2024/"><u>Premier iPhone Watermark Apps Reviewed for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-mix-of-soundtracks-and-visuals-adding-srt-to-mp4/"><u>The Ultimate Mix of Soundtracks and Visuals Adding SRT to MP4</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-2-techniques-pour-reparer-et-reformater-un-hdd-extern-a-efficiently/"><u>Top 2 Techniques Pour Reparer Et Reformater Un HDD Extern] À Efficiently</u></a></li>
 </ul></div>
 

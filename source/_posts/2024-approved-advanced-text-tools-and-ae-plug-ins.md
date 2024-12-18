@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Advanced Text Tools & AE Plug-Ins\""
-date: 2024-08-17T13:37:41.630Z
-updated: 2024-08-18T13:37:41.630Z
+date: 2024-12-10T23:25:53.293Z
+updated: 2024-12-17T21:43:08.790Z
 tags: 
   - screen-recording
   - ai video
@@ -21,22 +21,15 @@ thumbnail: https://thmb.techidaily.com/0741b6d6b142e6d035036f6df7e304509ca00be9b
 Adobe After Effects remains one of the most powerful ways to edit videos. One of the main reasons users find it so useful is the ability to customize the video editing process by adding different kinds of plugins to the program. If you are looking to add unique and fancy text to the video you are working on, then these text plugins for After Effects will come in handy.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## TextDelay
 
 Link: <https://www.toolfarm.com/buy/plugin%5Feverything%5Ftextdelay/>
 
 TextDelay is a native plugin, meaning that you will find it already installed on After Effects. As the name suggests, you can use TextDelay to delay any other text transformations that you may add to the text and it allows you to delay these transformations by word, line, or even character. It comes with a range selector that allows you to have precise control over which characters can get the effect.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![text delay plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-delay-plugin.jpg)
 
 ## TextExploder
@@ -45,45 +38,23 @@ Link: <https://aescripts.com/textexploder/>
 
 TextExploder is an After Effects plugin that is developed by MamoWorld and it allows you to split the text layers in After Effects into words, lines, characters, and more. These splits are so powerful that you can very easily isolate a single word or even a single letter.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![text exploder plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-exploder-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## iExpressions 2
 
 Link: <https://aescripts.com/iexpressions/>
 
 If you want to effectively use the After Effects expressions even if you are not familiar with coding, iExpressions 2 is the text plugin to consider. It comes with 22 ready-to-use iExpressions that you can easily customize to fit into your project and it is so easy to use.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![iexpression 2 plugin](https://images.wondershare.com/filmora/article-images/2022/07/iexpression-2-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## TextBox
 
@@ -91,10 +62,11 @@ Link: <https://aescripts.com/textbox/>
 
 If you want to create the perfect shape behind your text, then TextBox is a good text plugin to consider. This is a native After Effects plugin, meaning that you will not need to install it and the shapes it creates can be very easily customized. It updates the shapes you create automatically and adds them to the text layer, making it the most ideal solution to create closed captions, lower thirds, and subtitles.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![text box plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-box-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Font Manager
 
@@ -118,6 +90,14 @@ If you are looking for shadow styles that will go very well with your project, S
 
 ![shadow studio plugin](https://images.wondershare.com/filmora/article-images/2022/07/shadow-studio-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Texts Animation Bundle
 
 Link: <https://aedownload.com/download-texts-animation-bundle-free-videohive/>
@@ -127,8 +107,9 @@ This is a bundle of more than 80 different templates to add text effects to any 
 ![texts animation bundle plugin](https://images.wondershare.com/filmora/article-images/2022/07/texts-animation-bundle-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Artificial Intelligence Titles
 
 Link: <https://videohive.net/item/ait-artificial-intelligence-titles/22124640?s%5Frank=1>
@@ -137,23 +118,14 @@ The Artificial Intelligence Titles is an After Effects text plugin that is desig
 
 ![artificial intelligence titles plugin](https://images.wondershare.com/filmora/article-images/2022/07/artificial-intelligence-titles-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Text Library
 
 Link: <https://videohive.net/item/text-library-handy-text-animations/21932974>
 
 This is another great text animation bundle with different options for just about any kind of project. But unlike other plugin bundles that only have a few effects to choose from, Text Library has thousands of templates to choose from. Once you have selected the template that you would like to use, you also get the option to customize the template to suit your project. You can customize the text, size, duration of the animation, and color. It is easy to use and is constantly updated to introduce even more templates with each update.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![text library plugin](https://images.wondershare.com/filmora/article-images/2022/07/text-library-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 On its own After Effects comes with so many post-production effects and features to make your project appear professional and well made. But if you would like to have a unique video production that stands head and shoulders above all others, plugins are a great way to do that. The good news is that After Effects allows for the use of plugins developed by third-party developers and some of the them like the text plugins, we have listed above can be very useful to a video’s production.
@@ -186,9 +158,22 @@ On its own After Effects comes with so many post-production effects and features
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-building-your-influencer-empire-on-instagram-practical-5-step-guide/"><u>[New] 2024 Approved Building Your Influencer Empire on Instagram Practical 5-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-bring-your-photos-to-life-adding-radial-focus-effects-ps/"><u>[New] Bring Your Photos to Life Adding Radial Focus Effects PS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-acclaimed-ideas-top-tone-creators-for-apple-phones/"><u>[Updated] Acclaimed Ideas Top Tone Creators for Apple Phones</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-zen-and-jam-the-best-20-tranquil-country-tracks-to-shake-off-stress-tiktok-for-2024/"><u>[Updated] Zen & Jam The Best 20 Tranquil Country Tracks to Shake Off Stress (TikTok) for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-educational-videos-cutting-and-assembly-techniques/"><u>2024 Approved Educational Videos Cutting & Assembly Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/9-metaverse-blueprints-illuminating-virtual-realities-for-2024/"><u>9 Metaverse Blueprints Illuminating Virtual Realities for 2024</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1725289584905-winxdvd/"><u>動画・音楽再生時の一般的なミスと修正手順 | WinXDVD</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-apex-artistry-best-portable-machines-for-uhd-filmmaking/"><u>In 2024, Apex Artistry Best Portable Machines for UHD Filmmaking</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-15-pro-max-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 15 Pro Max to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastery-over-windows-10s-photo-app-stability-challenges/"><u>Mastery Over Windows 10'S Photo App Stability Challenges</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-adobe-clouds-storage-explained-simply-with-comparisons/"><u>Navigating Adobe Cloud's Storage, Explained Simply with Comparisons</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/professional-strategies-converting-xmlssattml-to-dynamic-srts/"><u>Professional Strategies Converting XML/SSA/TTML to Dynamic SRTs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-key-to-exploring-without-boundaries-through-vr/"><u>The Ultimate Key to Exploring Without Boundaries Through VR</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/vuejs-free-designs-and-plugins-over-30-options-from-creative-tim/"><u>Vue.js Free Designs and Plugins - Over 30 Options From Creative Tim</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Tecno Spark 10 4G | Dr.fone</u></a></li>
+</ul></div>
 

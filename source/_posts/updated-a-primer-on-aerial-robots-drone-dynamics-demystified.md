@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] A Primer on Aerial Robots  Drone Dynamics Demystified\""
-date: 2024-12-10T17:54:15.371Z
-updated: 2024-12-11T16:32:04.756Z
+date: 2024-12-10T16:57:17.489Z
+updated: 2024-12-17T18:12:05.577Z
 tags: 
   - screen-recording
   - ai video
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 ![history of drones](https://images.wondershare.com/filmora/article-images/history-of-drones.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Does a Drone Work?
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 ![how does drones work](https://images.wondershare.com/filmora/article-images/how-does-drone-work.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does it fly?
@@ -60,43 +60,35 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
  Major task of a controller is to establish proper communication channel between remote unit and the radio waves. Most of the drones use to work on 2.4 GHz frequency range and many of these controls take help from Wi-Fi networks for making active decisions regarding movements. Many features of a smartphone and drone are same as like both carry GPS, Wi-Fi and many other common sensor units. These onboard sensors help drone to stay in air for long run and make right decisions about its height, direction and other important movements. The landing process is also controlled by propeller system inside and the sensors make decisions about its speed, altitude and motor rotation etc. A drone works like an intelligent air unit that can cover large distance when used with powerful batteries and can bring the hidden information for you like a spy. This is the main reason behind it popularity in military applications.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Popular consumer done manufactures 2017
 
  1\. [DJI Innovations >>](http://www.dji.com/)
 
 ![dji drone logo](https://images.wondershare.com/filmora/article-images/dji-logo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2\. [Yuneec >>](http://www.yuneec.com/products )
 
 ![yuneec drone logo](https://images.wondershare.com/filmora/article-images/yuneec-logo.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. [Parrot >>](http://www.parrot.com/ )
 
 ![parrot drone logo](https://images.wondershare.com/filmora/article-images/parrot-logo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4\. [3D Robotics >>](http://3drobotics.com/ )
 
 ![3d robotics drone logo](https://images.wondershare.com/filmora/article-images/3d-robotics-logo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5\. [Hubsun >>](http://www.hubsan.com/ )
 
 ![hubsan drone logo](https://images.wondershare.com/filmora/article-images/hubsan-logo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6\. [Syma Toy >>](http://www.symatoys.com/ )
 
@@ -105,6 +97,10 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
  7\. [Autel Robotics >>](https://www.autelrobotics.com )
 
 ![Autel logo](https://images.wondershare.com/filmora/article-images/autel-robotics-logo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8\. [Xiro >>](http://xirodrone.com/ )
 
@@ -117,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
  10\. [Horizon Hobby >>](http://www.horizonhobby.com/category/multirotor )
 
 ![Horizon Hobby logo](https://images.wondershare.com/filmora/article-images/horizon-hobby-logo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -139,18 +139,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-10-best-online-photo-background-changers-filmora/"><u>[New] 10 Best Online Photo Background Changers - Filmora</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagram-video-excellence-text-integration-basics/"><u>[Updated] 2024 Approved Instagram Video Excellence Text Integration Basics</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-achieve-peak-performance-with-win11-and-zoom-integration/"><u>[Updated] Achieve Peak Performance with Win11 & Zoom Integration</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-heartfelt-android-companions-for-3ds-titles/"><u>[Updated] In 2024, Heartfelt Android Companions for 3DS Titles</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-strategies-for-earnings-on-youtube-revealing-minimum-view-targets-for-2024/"><u>[Updated] Strategies for Earnings on YouTube Revealing Minimum View Targets for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-y100i-power-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y100i Power 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-maximize-your-iphone-xs-selfie-potential-top-free-apps/"><u>In 2024, Maximize Your iPhone X's Selfie Potential - Top Free Apps</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-smartphone-selection-for-superior-video-recording/"><u>In 2024, Ultimate Smartphone Selection for Superior Video Recording</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-a14-4g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy A14 4G – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/photo-pace-crafting-time-lapse-videos-on-your-galaxy-phone/"><u>Photo Pace Crafting Time-Lapse Videos on Your Galaxy Phone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pinnacle-vision-studio-review-yearly-update-for-2024/"><u>Pinnacle Vision Studio Review Yearly Update for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/prime-picks-the-finest-cardboard-compatible-virtual-reality-titles/"><u>Prime Picks The Finest Cardboard-Compatible Virtual Reality Titles</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-correcting-error-0x800700e1-in-windows-11/"><u>Strategies for Correcting Error 0X800700E1 in Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-converting-live-images-to-continuous-recordings/"><u>[Updated] Converting Live Images to Continuous Recordings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-blending-youtube-audio-features-into-video-projects/"><u>2024 Approved Blending YouTube Audio Features Into Video Projects</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-cutting-edge-5-online-media-recording-units/"><u>2024 Approved Cutting-Edge 5 Online Media Recording Units</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-perk-dji-miniair-2-owners-get-20-free-luts/"><u>2024 Approved Exclusive Perk DJI Mini/Air 2 Owners Get 20 Free LUTS</u></a></li>
+<li><a href="https://win11.techidaily.com/9-quick-ways-to-fix-wwe-2k23-crashing-on-windows-11/"><u>9 Quick Ways to Fix WWE 2K23 Crashing on Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/get-started-on-creativity-top-10-apps-for-digital-pencils-on-chrome-os/"><u>Get Started on Creativity Top 10 Apps for Digital Pencils on Chrome OS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-breaking-into-solos-creating-popular-podcasts/"><u>In 2024, Breaking Into Solos Creating Popular Podcasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-top-8-best-4k-blu-ray-players/"><u>In 2024, Top 8 Best 4K Blu-Ray Players</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/in-2024-youtube-producers-favorite-cameras-and-lenses/"><u>In 2024, YouTube Producers' Favorite Cameras & Lenses</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/monitor-interactions-on-instagram-whos-showed-their-love-for-your-post/"><u>Monitor Interactions on Instagram: Who's Showed Their Love for Your Post?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-screen-recorder-guide-for-the-creative-mac-user/"><u>The Ultimate Screen Recorder Guide for the Creative Mac User</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/windows-parent-friendly-settings-installation-a-step-by-step-course-with-yl-software-insights/"><u>Windows Parent-Friendly Settings Installation: A Step-by-Step Course with YL Software Insights</u></a></li>
 </ul></div>
 

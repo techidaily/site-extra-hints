@@ -1,7 +1,7 @@
 ---
 title: "How to Start, Participate in, and Organize Zoom Calls for Android Users"
-date: 2024-12-05T17:30:10.730Z
-updated: 2024-12-11T17:28:37.064Z
+date: 2024-12-16T17:54:10.367Z
+updated: 2024-12-17T22:50:23.234Z
 tags: 
   - screen-recording
   - ai video
@@ -36,24 +36,16 @@ There is no doubt that the Zoom app on an android device is easy to navigate thr
 ![new zoom meeting android](https://images.wondershare.com/filmora/article-images/2022/07/schedule-zoom-meeting-android-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Now, opt for the selection of "**Start a Meeting.**" Once done, you will notice a video conference space.
 
 ![start a zoom meeting android](https://images.wondershare.com/filmora/article-images/2022/07/schedule-zoom-meeting-android-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * At this point, you will see a pop-up with the "**Got it**" button on it. Click on it so you can provide a permit to Zoom to access the microphone and camera of the device you are using.
 
 ![zoom access permission android](https://images.wondershare.com/filmora/article-images/2022/07/schedule-zoom-meeting-android-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Now, you will see a window pop-up asking you to provide access to Zoom to record a video or click a picture. Click on the button "**Allow**"
 * Now, at this point, the screen of your device will have the option "**Participants,**". This option you can opt to use for the addition of one or more people to your meeting.
@@ -71,6 +63,10 @@ Also, when it comes to copying the meeting's hyperlink, you can opt to tap on th
 
 So if you have downloaded the Zoom app, made an account, and have to join a meeting on Zoom on Android TV or phone that's already in process, you can do it with the help of the Zoom URL or Zoom ID. This is if someone else is probably hosting it this time. It's not difficult to do so and here's how you can opt for a Zoom android TV or/and phone virtual meet-up:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Join Zoom meeting using the Zoom URL on Android
 
 * Opt for clicking the meeting link that you have gotten in your email or wherever else.
@@ -81,10 +77,6 @@ So if you have downloaded the Zoom app, made an account, and have to join a meet
 * At this point, you will notice a window pop-up asking you to provide access to the camera along with the microphone on your device. Here, you have to click on "**Got It"**.
 
 ![access camera zoom](https://images.wondershare.com/filmora/article-images/2022/07/schedule-zoom-meeting-android-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Now, another window pop-up asking you to provide access to allow you to record audio to the Zoom app. Here, click on **Allow** if you want to or simply **Deny**
 * You will see a video preview. Here, you can either opt for the selection of **Join with Video** or you may also select **Join without Video** as per your liking or convenience.
@@ -97,16 +89,24 @@ So if you have downloaded the Zoom app, made an account, and have to join a meet
 
 ![zoom meeting id android](https://images.wondershare.com/filmora/article-images/2022/07/schedule-zoom-meeting-android-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Now, using the Zoom app, put the meeting ID provided to you and you will see a blue button asking you to press **Join**. Do it by selecting the Join **meeting**.
 
 ![join zoom meeting with id](https://images.wondershare.com/filmora/article-images/2022/07/schedule-zoom-meeting-android-10.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Once done, you will notice a window pop-up asking permission for allowing the Zoom app to record video. Press the **Allow**
 * You will see a video preview now. Here, it will ask you if you would want to join the Zoom meeting with or without the video. Choose one from the options: **Join with Video** or **Join without Video**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. How to Schedule a Zoom Meeting Android
 
@@ -119,10 +119,6 @@ So if you have downloaded the Zoom app, made an account, and have to join a meet
 * Here, you will see a window pop-up asking you to provide access to the calendar. Press **Allow**.
 * You will see a window pop-up with the list of participants to choose from to send invites to.
 * Now, just opt for reviewing all the details properly before sending these meeting invites.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -144,13 +140,13 @@ There is no doubt that the Zoom app on an android device is easy to navigate thr
 
 ![start a zoom meeting android](https://images.wondershare.com/filmora/article-images/2022/07/schedule-zoom-meeting-android-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * At this point, you will see a pop-up with the "**Got it**" button on it. Click on it so you can provide a permit to Zoom to access the microphone and camera of the device you are using.
 
 ![zoom access permission android](https://images.wondershare.com/filmora/article-images/2022/07/schedule-zoom-meeting-android-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Now, you will see a window pop-up asking you to provide access to Zoom to record a video or click a picture. Click on the button "**Allow**"
 * Now, at this point, the screen of your device will have the option "**Participants,**". This option you can opt to use for the addition of one or more people to your meeting.
@@ -161,10 +157,6 @@ There is no doubt that the Zoom app on an android device is easy to navigate thr
 * Now, you have to press "**Send Email**" by putting everyone's email address and now, click on the "**Send**" button.
 
 ![send email zoom meeting](https://images.wondershare.com/filmora/article-images/2022/07/schedule-zoom-meeting-android-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Also, when it comes to copying the meeting's hyperlink, you can opt to tap on the "**Copy invite link**" option on your device.
 
@@ -184,7 +176,7 @@ So if you have downloaded the Zoom app, made an account, and have to join a meet
 ![access camera zoom](https://images.wondershare.com/filmora/article-images/2022/07/schedule-zoom-meeting-android-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Now, another window pop-up asking you to provide access to allow you to record audio to the Zoom app. Here, click on **Allow** if you want to or simply **Deny**
@@ -192,15 +184,27 @@ So if you have downloaded the Zoom app, made an account, and have to join a meet
 
 ![join with video zoom](https://images.wondershare.com/filmora/article-images/2022/07/schedule-zoom-meeting-android-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Join Zoom meetings using a Zoom ID on Android
 
 * The Zoom ID consists of 9 numbers and the host of the meeting will provide you with an ID via email or so. Find the ID and password.
 
 ![zoom meeting id android](https://images.wondershare.com/filmora/article-images/2022/07/schedule-zoom-meeting-android-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Now, using the Zoom app, put the meeting ID provided to you and you will see a blue button asking you to press **Join**. Do it by selecting the Join **meeting**.
 
 ![join zoom meeting with id](https://images.wondershare.com/filmora/article-images/2022/07/schedule-zoom-meeting-android-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Once done, you will notice a window pop-up asking permission for allowing the Zoom app to record video. Press the **Allow**
 * You will see a video preview now. Here, it will ask you if you would want to join the Zoom meeting with or without the video. Choose one from the options: **Join with Video** or **Join without Video**
@@ -216,10 +220,6 @@ So if you have downloaded the Zoom app, made an account, and have to join a meet
 * Here, you will see a window pop-up asking you to provide access to the calendar. Press **Allow**.
 * You will see a window pop-up with the list of participants to choose from to send invites to.
 * Now, just opt for reviewing all the details properly before sending these meeting invites.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -253,24 +253,24 @@ Now that you have all the steps to start Zoom on android phone, join or schedule
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-free-camera-screen-recorders-deep-dive-review-and-top-alternatives/"><u>[New] 2024 Approved Free Camera Screen Recorders Deep Dive Review and Top Alternatives</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-building-a-community-through-periscope-streams/"><u>[New] Building a Community Through Periscope Streams</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-instant-images-guide-easy-recording-tips-dell/"><u>[New] In 2024, Instant Images Guide Easy Recording Tips (Dell)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/couting-for-starred-youtube-conversations-for-2024/"><u>[New] Scouting for Starred YouTube Conversations for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-pro-vision-enhancement-top-ranked-4k-displays-for-editing/"><u>[Updated] 2024 Approved Pro Vision Enhancement Top-Ranked 4K Displays for Editing</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-virtual-reality-lgs-360-degree-experience/"><u>[Updated] Exploring Virtual Reality LG's 360-Degree Experience</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-celestial-canvas-unveiled-select-10-sites-for-high-quality-skies/"><u>2024 Approved Celestial Canvas Unveiled Select 10 Sites for High-Quality Skies</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-craft-professional-videos-with-free-intros/"><u>2024 Approved Craft Professional Videos with Free Intros</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/androids-optimal-cloud-savers-updated-list/"><u>Android's Optimal Cloud Savers Updated List</u></a></li>
-<li><a href="https://win-forum.techidaily.com/essential-tips-for-verifying-your-powershell-version-on-a-windows-11-device/"><u>Essential Tips for Verifying Your PowerShell Version on a Windows 11 Device</u></a></li>
-<li><a href="https://blog-min.techidaily.com/geavanceerd-mpg-inhoud-omzetten-online-voor-gratis-met-movavi-asweg/"><u>Geavanceerd MPG-Inhoud Omzetten Online Voor Gratis Met Movavi Asweg!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-use-luts-in-after-effect-for-2024/"><u>How to Use LUTs in After Effect for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/iphones-secret-to-quick-cost-free-red-eye-removal-revealed/"><u>IPhone's Secret to Quick, Cost-Free Red-Eye Removal Revealed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Is Fake GPS Location Spoofer a Good Choice On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/lush-backgrounds-a-compendium-of-free-screen-free-downloadables/"><u>Lush Backgrounds A Compendium of Free Screen-Free Downloadables</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-installation-hurdle-getting-resident-evil-village-up-and-running-smoothly/"><u>Overcome Installation Hurdle: Getting Resident Evil Village Up and Running Smoothly</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/portable-balance-enhancer-for-shooting-blurs/"><u>Portable Balance Enhancer for Shooting Blurs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-guide-best-zero-cost-image-editors-online/"><u>Ultimate Guide Best Zero-Cost Image Editors Online</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unlocking-student-engagement-using-youtube-as-a-teaching-tool/"><u>[New] 2024 Approved Unlocking Student Engagement Using YouTube as a Teaching Tool</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-be-a-social-media-wizard-best-tweeter-video-tools/"><u>[New] Be a Social Media Wizard Best Tweeter Video Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-beginners-vlogging-toolkit-gear-and-software/"><u>[New] Beginner's Vlogging Toolkit Gear and Software</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-high-performance-goggles-ranked-drone-flyings-best/"><u>[New] In 2024, High-Performance Goggles Ranked Drone Flying's Best</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-the-social-media-lands-point-10-secrets-for-fb-optimization/"><u>[New] Mastering the Social Media Lands Point 10 Secrets for FB Optimization</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-from-ordinary-to-extraordinary-the-roadmap-to-likes-on-tiktok-unboxes/"><u>[Updated] From Ordinary to Extraordinary The Roadmap to Likes on TikTok Unboxes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-bring-your-video-to-life-from-standard-to-hdri-excellence/"><u>2024 Approved Bring Your Video to Life From Standard to HDRI Excellence</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/6auy5pwi6keg6akr57yw6l6r5zmoic0g566a5y2v6ycj5oup5lio6lst5lmw5oyh5y2x/"><u>高效视频编辑器 - 简单选择与购买指南</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/easy-win-strategy-clownfish-chatter-on-any-pc-with-windows/"><u>Easy-Win Strategy Clownfish Chatter on Any PC with Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-reverse-video-playback-on-android-phones/"><u>How to Reverse Video Playback on Android Phones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-pfr-rate-to-elevate-sluggish-video-flow/"><u>In 2024, Best PFR Rate to Elevate Sluggish Video Flow</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-cost-conscious-aerial-assistants-top-5-drones/"><u>In 2024, Cost-Conscious Aerial Assistants Top 5 Drones</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-depth-analysis-the-power-of-quantum-hdr/"><u>In-Depth Analysis The Power of Quantum HDR</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfect-presentations-with-a-personal-touch-adding-audio/"><u>Perfect Presentations with a Personal Touch Adding Audio</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-s18-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo S18 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-freezing-issues-in-call-of-duty-vanguard/"><u>Troubleshooting Tips: Resolving Freezing Issues in Call of Duty: Vanguard</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unyielding-windows-security-choosing-the-strongest-passwords-shields/"><u>Unyielding Windows Security: Choosing the Strongest Passwords Shields</u></a></li>
+<li><a href="https://article-files.techidaily.com/windowsmacos-execute-and-enjoy-srt-files-for-2024/"><u>Windows/macOS Execute and Enjoy SRT Files for 2024</u></a></li>
 </ul></div>
 

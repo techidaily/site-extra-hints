@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Windows 11'S Hidden Secrets for Media Upload"
-date: 2024-08-17T13:41:26.690Z
-updated: 2024-08-18T13:41:26.690Z
+date: 2024-12-13T21:33:05.586Z
+updated: 2024-12-17T19:00:30.125Z
 tags: 
   - screen-recording
   - ai video
@@ -20,9 +20,6 @@ thumbnail: https://thmb.techidaily.com/17c25677d8b6f855960d685398c90f557dfcb8867
 
 # How to Import Photos and Videos in Windows 10 (Deepest Secret)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -38,18 +35,12 @@ In the past, importing photos and videos to a laptop or desktop computer from va
 
 ## Part 1: Import Photos and Video from a Phone
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 1: Connecting Your Phone
 
 If you are moving photos and video to Windows 10 from a smartphone, you will first have to connect your phone to the computer. It can be done through the USB cable that you should have received with the smartphone. Plug one end of the cable into your phone and the other into the USB port of your desktop or laptop.
 
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/usb-cable.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2: Enable File Exchange
 
 Your phone will have settings regarding file transfers when it is connected to a computer. Make sure that media viewing and transferring is selected, which will allow Windows 10 File Explorer on the computer to recognize your device.
@@ -60,18 +51,12 @@ Now that your phone is recognized, you should see the camera or phone pop up alo
 
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-video-photos-to-windows-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### Step 4: Import
 
 Your computer will tell you how many pictures and photos were found. You can either review, organize and group these items, or you can choose to import all the new items in one go.
 
 The great thing about reviewing the photos and videos before importing them onto your computer is that you can choose folders for different files, name those folders and ensure that you are only importing files that are not on your system already.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: Start Importing in Photos App
 
 Another option for you is the Photos app that is pre-installed in computers with Windows 10.
@@ -96,9 +81,6 @@ As mentioned above, you must ensure that you have enabled media and file transfe
 
 If you have an iPhone, ensure that your device is unlocked. You will get a “Trust this device” prompt and you must accept it. And if your photos are saved directly to iCloud and not your iPhone, you will need to complete a transfer from iCloud, which you can do by visiting the website or using the relevant desktop app.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: Import Photos and Video from a Camera
 
 Those who are importing photos and videos from a camera rather than a smartphone can use the above options as well. Both Windows 10 File Explorer and the Photos app will be compatible with your camera, provided it can connect through a USB cable and a USB port on the computer.
@@ -111,9 +93,6 @@ Connect the camera to your phone and then follow the above steps to import your 
 
 If you own a Windows 10 desktop or laptop, it is very easy to connect a smartphone or digital camera to your computer. Then you will be able to use File Explorer or the built in Photos app to access and download your photos and videos. Adding your content to the computer lets you save the files, share them with friends, edit them using programs like Photoshop, or save space on your smartphone/camera.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -135,11 +114,19 @@ In the past, importing photos and videos to a laptop or desktop computer from va
 
 ## Part 1: Import Photos and Video from a Phone
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Connecting Your Phone
 
 If you are moving photos and video to Windows 10 from a smartphone, you will first have to connect your phone to the computer. It can be done through the USB cable that you should have received with the smartphone. Plug one end of the cable into your phone and the other into the USB port of your desktop or laptop.
 
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/usb-cable.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Enable File Exchange
 
@@ -149,24 +136,18 @@ Your phone will have settings regarding file transfers when it is connected to a
 
 Now that your phone is recognized, you should see the camera or phone pop up along with your hard drives and other external drives. You can right click on its icon, select “Import Photos and Videos” and proceed from there.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-video-photos-to-windows-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 4: Import
 
 Your computer will tell you how many pictures and photos were found. You can either review, organize and group these items, or you can choose to import all the new items in one go.
 
 The great thing about reviewing the photos and videos before importing them onto your computer is that you can choose folders for different files, name those folders and ensure that you are only importing files that are not on your system already.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Start Importing in Photos App
 
 Another option for you is the Photos app that is pre-installed in computers with Windows 10.
@@ -175,19 +156,12 @@ Go to Start -> All Apps -> Photos and open it up. Your phone or camera should be
 
 Click the Import button on the Photos app and choose the items that you want to import. When you have selected all the items you want, click on continue and then import. All your files will be added onto your computer and they will be visible within the Photos app.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-photos-video-from-photos-app.jpg)
 
 Within the app, it is easy to see your photos and videos as they are organized based on the date they are imported. So you will be able to see exactly what you have added in the most recent imports and with future imports as well.
 
 **You may also like:** [How to Add Titles/Text to Video on Photos App in Windows 10 >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## Part 3: Troubleshooting the Phone to PC Connection
 
 There are instances where you may have some problems connecting your phone to the computer, even if you have the USB cable connected on both ends.
@@ -198,9 +172,6 @@ As mentioned above, you must ensure that you have enabled media and file transfe
 
 If you have an iPhone, ensure that your device is unlocked. You will get a “Trust this device” prompt and you must accept it. And if your photos are saved directly to iCloud and not your iPhone, you will need to complete a transfer from iCloud, which you can do by visiting the website or using the relevant desktop app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: Import Photos and Video from a Camera
 
 Those who are importing photos and videos from a camera rather than a smartphone can use the above options as well. Both Windows 10 File Explorer and the Photos app will be compatible with your camera, provided it can connect through a USB cable and a USB port on the computer.
@@ -209,16 +180,10 @@ Connect the camera to your phone and then follow the above steps to import your 
 
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-photos-video-from-camera.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 If you own a Windows 10 desktop or laptop, it is very easy to connect a smartphone or digital camera to your computer. Then you will be able to use File Explorer or the built in Photos app to access and download your photos and videos. Adding your content to the computer lets you save the files, share them with friends, edit them using programs like Photoshop, or save space on your smartphone/camera.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -240,35 +205,34 @@ In the past, importing photos and videos to a laptop or desktop computer from va
 
 ## Part 1: Import Photos and Video from a Phone
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Connecting Your Phone
 
 If you are moving photos and video to Windows 10 from a smartphone, you will first have to connect your phone to the computer. It can be done through the USB cable that you should have received with the smartphone. Plug one end of the cable into your phone and the other into the USB port of your desktop or laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/usb-cable.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 2: Enable File Exchange
 
 Your phone will have settings regarding file transfers when it is connected to a computer. Make sure that media viewing and transferring is selected, which will allow Windows 10 File Explorer on the computer to recognize your device.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 3: Import Photos and Videos
 
 Now that your phone is recognized, you should see the camera or phone pop up along with your hard drives and other external drives. You can right click on its icon, select “Import Photos and Videos” and proceed from there.
 
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-video-photos-to-windows-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### Step 4: Import
 
 Your computer will tell you how many pictures and photos were found. You can either review, organize and group these items, or you can choose to import all the new items in one go.
@@ -283,11 +247,6 @@ Go to Start -> All Apps -> Photos and open it up. Your phone or camera should be
 
 Click the Import button on the Photos app and choose the items that you want to import. When you have selected all the items you want, click on continue and then import. All your files will be added onto your computer and they will be visible within the Photos app.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-photos-video-from-photos-app.jpg)
 
 Within the app, it is easy to see your photos and videos as they are organized based on the date they are imported. So you will be able to see exactly what you have added in the most recent imports and with future imports as well.
@@ -312,9 +271,6 @@ Connect the camera to your phone and then follow the above steps to import your 
 
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-photos-video-from-camera.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 If you own a Windows 10 desktop or laptop, it is very easy to connect a smartphone or digital camera to your computer. Then you will be able to use File Explorer or the built in Photos app to access and download your photos and videos. Adding your content to the computer lets you save the files, share them with friends, edit them using programs like Photoshop, or save space on your smartphone/camera.
@@ -344,18 +300,16 @@ In the past, importing photos and videos to a laptop or desktop computer from va
 
 If you are moving photos and video to Windows 10 from a smartphone, you will first have to connect your phone to the computer. It can be done through the USB cable that you should have received with the smartphone. Plug one end of the cable into your phone and the other into the USB port of your desktop or laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/usb-cable.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Enable File Exchange
 
 Your phone will have settings regarding file transfers when it is connected to a computer. Make sure that media viewing and transferring is selected, which will allow Windows 10 File Explorer on the computer to recognize your device.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 3: Import Photos and Videos
 
 Now that your phone is recognized, you should see the camera or phone pop up along with your hard drives and other external drives. You can right click on its icon, select “Import Photos and Videos” and proceed from there.
@@ -363,8 +317,13 @@ Now that your phone is recognized, you should see the camera or phone pop up alo
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-video-photos-to-windows-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 4: Import
 
 Your computer will tell you how many pictures and photos were found. You can either review, organize and group these items, or you can choose to import all the new items in one go.
@@ -372,8 +331,9 @@ Your computer will tell you how many pictures and photos were found. You can eit
 The great thing about reviewing the photos and videos before importing them onto your computer is that you can choose folders for different files, name those folders and ensure that you are only importing files that are not on your system already.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: Start Importing in Photos App
 
 Another option for you is the Photos app that is pre-installed in computers with Windows 10.
@@ -382,9 +342,6 @@ Go to Start -> All Apps -> Photos and open it up. Your phone or camera should be
 
 Click the Import button on the Photos app and choose the items that you want to import. When you have selected all the items you want, click on continue and then import. All your files will be added onto your computer and they will be visible within the Photos app.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Import Photos and Video in windows 10](https://images.wondershare.com/filmora/article-images/import-photos-video-from-photos-app.jpg)
 
 Within the app, it is easy to see your photos and videos as they are organized based on the date they are imported. So you will be able to see exactly what you have added in the most recent imports and with future imports as well.
@@ -443,9 +400,24 @@ Follow @Shanoon Cox
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-premiere-samsung-gear-vr-playlist/"><u>[New] In 2024, Premiere Samsung Gear VR Playlist</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-win10-gamers-ultimate-guide-to-screen-recordings/"><u>[Updated] 2024 Approved Win10 Gamers' Ultimate Guide to Screen Recordings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-visual-guide-to-excellent-collage-making/"><u>[Updated] A Visual Guide to Excellent Collage Making</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-fusion-of-cost-effective-and-premium-video-collage-for-android-devices/"><u>[Updated] Best Fusion of Cost-Effective and Premium Video Collage for Android Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-building-rapport-an-interviewers-toolkit/"><u>[Updated] Building Rapport An Interviewer's Toolkit</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-choosing-a-streaming-powerhouse-obs-or-wirecast/"><u>[Updated] Choosing a Streaming Powerhouse OBS or Wirecast?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-rapid-transition-from-srt-to-subc-with-simple-steps/"><u>[Updated] Rapid Transition From SRT to SUBC with Simple Steps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-9-indoor-game-apps-perfect-for-android-without-connectivity/"><u>[Updated] Top 9 Indoor Game Apps - Perfect For Android Without Connectivity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-video-top-10-text-techniques/"><u>Enhancing Video Top 10 Text Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-constructing-the-ideal-home-computer-for-advanced-video-editing/"><u>In 2024, Constructing the Ideal Home Computer for Advanced Video Editing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-realme-c55-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Realme C55 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-7-plus-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 7 Plus</u></a></li>
+<li><a href="https://facebook.techidaily.com/refining-your-facebook-presence-for-success/"><u>Refining Your Facebook Presence for Success</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/reviving-photo-viewer-on-win-11-methods-explained/"><u>Reviving Photo Viewer on Win 11 - Methods Explained</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-new-cpu-order-today-where-to-shop-for-the-cutting-edge-ryzen-7-9700x-and-ryzen-5-9600x/"><u>Secure Your New CPU Order Today: Where to Shop for the Cutting-Edge Ryzen 7 9700X & Ryzen 5 9600X</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/selecting-superior-5k-displays-the-top-eight/"><u>Selecting Superior 5K Displays The Top Eight</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-steadicams-to-elevate-your-dslr-filming-capabilities/"><u>Top Steadicams to Elevate Your DSLR Filming Capabilities</u></a></li>
+</ul></div>
 

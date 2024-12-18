@@ -1,7 +1,7 @@
 ---
 title: "Foremost Companies Pioneering VR Technology"
-date: 2024-12-08T19:01:46.405Z
-updated: 2024-12-11T18:07:12.895Z
+date: 2024-12-11T01:54:13.306Z
+updated: 2024-12-17T21:52:12.878Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
  The world of Virtual Reality has been more entertaining throughout the development of technology. The VR content is the latest and most entertaining concept in line with virtual reality. The wide scale innovative technology is set to make the big difference in creating videos and documentations. A high quality and interactive approach on VR content are given by the birth of the VR content company known as With.in. The company was founded by the award-winning director Chris Milk and the famous technologist Aaron Koblin. The goal of the two is discovered more the immersive potential of storytelling. A new line of creative ways is made in order to expand the possibilities of the storytelling concept using VR content.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does [With.in]( https://with.in/ ) Do?
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Art Work of With.in
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## About Chris Milk
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -99,22 +99,19 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-beyond-vlc-uncovering-hidden-streaming-gems/"><u>[New] Beyond VLC Uncovering Hidden Streaming Gems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-bring-life-to-film-projects-3-inexpensive-techniques-for-iphones-music-integration/"><u>[New] Bring Life to Film Projects 3 Inexpensive Techniques for iPhones Music Integration</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-budget-friendly-high-quality-gaming-keyboards-unveiled/"><u>[New] Budget-Friendly, High-Quality Gaming Keyboards Unveiled</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-cameras-collide-in-motorsport-showdown-gopro-vs-drift-ghost-s/"><u>[New] Cameras Collide in Motorsport Showdown! GoPro Vs. Drift Ghost-S</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-ace-your-youtube-finances-secrets-for-profits-at-the-500-subscriber-milestone/"><u>[New] In 2024, Ace Your Youtube Finances Secrets for Profits at the 500-Subscriber Milestone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-smartphone-accessories-for-making-videos/"><u>[New] Smartphone Accessories for Making Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-dreamlands-choice-ultimate-10-affordable-rpg-games/"><u>[Updated] 2024 Approved Dreamland's Choice Ultimate 10 Affordable RPG Games</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-setting-up-your-own-mac-based-sports-chat-space/"><u>[Updated] Setting Up Your Own Mac-Based Sports Chat Space</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-action-in-high-definition-t5-eye-revealed/"><u>2024 Approved Action in High Definition T5 Eye Revealed</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-convenient-and-quality-passport-images-top-free-tools-listed-here/"><u>2024 Approved Convenient & Quality Passport Images - Top Free Tools Listed Here</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-boredom-to-attention-unveiling-the-6-key-videos/"><u>2024 Approved From Boredom to Attention Unveiling the 6 Key Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/capture-the-chuckles-a-guide-to-using-snapchats-laughing-lenses/"><u>Capture the Chuckles A Guide to Using Snapchat’s Laughing Lenses</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/comprehensive-guide-to-utilizing-telegram-web-services-for-2024/"><u>Comprehensive Guide to Utilizing Telegram Web Services for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/easy-guide-to-tweeting-videos-and-turning-them-into-music/"><u>Easy Guide to Tweeting Videos & Turning Them Into Music</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-complete-voice-memo-primer-tips-and-tricks/"><u>The Complete Voice Memo Primer Tips & Tricks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/who-holds-the-crown-in-chatbot-arena-gpt-or-huggingface/"><u>Who Holds the Crown in ChatBot Arena, GPT or HuggingFace?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-capturing-slow-mo-magic-with-gopro-hero-10/"><u>[New] Capturing Slow-Mo Magic with GoPro Hero 10</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-expert-guide-screen-capture-on-windows-8-devices/"><u>[New] In 2024, Expert Guide Screen Capture on Windows 8 Devices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ake-your-smartphone-cinematography-to-new-heights-with-these-9-accessories-for-2024/"><u>[New] Take Your Smartphone Cinematography to New Heights with These 9 Accessories for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-visual-splendor-of-blade-cameras-in-full-hd/"><u>[New] The Visual Splendor of Blade Cameras in Full HD</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-androids-fastest-vid-tuning-tools-reviewed/"><u>[Updated] Android's Fastest Vid Tuning Tools Reviewed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-techniques-for-embedding-youtube-in-slides-on-google-slate/"><u>[Updated] In 2024, Techniques for Embedding YouTube in Slides on Google Slate</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-secret-sauce-to-outstanding-online-identity-creation/"><u>[Updated] The Secret Sauce to Outstanding Online Identity Creation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capturing-charm-sage-advice-on-editing-digital-art/"><u>2024 Approved Capturing Charm Sage Advice on Editing Digital Art</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/advancing-siri-apples-ai-enhancements-on-the-horizon-revealed/"><u>Advancing Siri: Apple's AI Enhancements on the Horizon Revealed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721456837357-cant-access-your-iphone-contacts-fix-them-with-these-3-proven-methods/"><u>Can't Access Your iPhone Contacts? Fix Them With These 3 Proven Methods</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/efficient-techniques-to-improve-windows-10-photos-app-functionality/"><u>Efficient Techniques to Improve Windows 10 Photos App Functionality</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fundamental-techniques-from-video-links-to-downloaded-audios/"><u>Fundamental Techniques From Video Links to Downloaded Audios</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/surpassing-the-apple-watch-with-fitbit-sense-for-advanced-wellness-tracking/"><u>Surpassing the Apple Watch with Fitbit Sense for Advanced Wellness Tracking</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/techniques-to-mitigate-vr-disorientation/"><u>Techniques to Mitigate VR Disorientation</u></a></li>
 </ul></div>
 
