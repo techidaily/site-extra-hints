@@ -1,7 +1,7 @@
 ---
 title: "\"Vivid Visions  Harnessing Light to Captivate Audiences\""
-date: 2024-12-17T01:50:46.130Z
-updated: 2024-12-17T19:55:46.915Z
+date: 2024-12-20T17:16:29.281Z
+updated: 2024-12-26T16:21:15.529Z
 tags: 
   - screen-recording
   - ai video
@@ -49,7 +49,7 @@ For this tutorial, we will use the Three-Point Lighting technique:
 ![set the key light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The key light is the main light that illuminates the subject. You can place it in the front and slightly to one side. For this key light, we use an LED called Aputure 300X as an example, and with a soft box called light Dome 2.
@@ -58,6 +58,10 @@ The key light is the main light that illuminates the subject. You can place it i
 
 ![set the fill light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The fill light is used to fill in the shadows created by the key light. It is usually placed on the opposite side of the subject. For the fill light, we use an Aputure 300D with a fresnel lens attachment.
 
 ##### Step3 Set the Backlight
@@ -65,7 +69,7 @@ The fill light is used to fill in the shadows created by the key light. It is us
 ![set the backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 For this tutorial, we use Aperture 120d as the backlight and lift it up into the air with a c-stand so it can light the subject from above. It helps to separate the talent from the background and give the audience a full view of the set
@@ -76,25 +80,13 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Finally, we have a few other small LED lights like this unicorn to put in the background. This lighting helps us to get even more visual flair out of our shots.
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 After setting up all the lighting above, you can take a look at the comparison below:
 
@@ -106,11 +98,19 @@ After setting up all the lighting above, you can take a look at the comparison b
 
 ![using key light + fill + backlight](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **_3) Pro Tips: The light setting_**
 
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -146,20 +146,19 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-revolutionize-your-lessons-implementing-youtube-in-the-academic-realm/"><u>[New] 2024 Approved Revolutionize Your Lessons Implementing YouTube in the Academic Realm</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-9-windows-11-secrets-for-a-streamlined-user-interface-experience/"><u>[New] In 2024, 9 Windows 11 Secrets for a Streamlined User Interface Experience</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-fix-blurry-facebook-videos-on-iphoneandroidchrome/"><u>[New] In 2024, How to Fix Blurry Facebook Videos on iPhone/Android/Chrome?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-high-ranking-videos-youtubes-everlasting-classics/"><u>[Updated] In 2024, High-Ranking Videos YouTube’s Everlasting Classics</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-revolutionize-video-production-via-xp-installation/"><u>[Updated] In 2024, Revolutionize Video Production via XP Installation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-critical-look-at-sns-hdrs-potential-and-alternatives/"><u>A Critical Look at SNS HDR's Potential & Alternatives</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/acquiring-drone-racing-skills-and-exploring-top-fpv-drones-for-2024/"><u>Acquiring Drone Racing Skills & Exploring Top FPV Drones for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-characters-and-settings/"><u>Crafting Characters and Settings</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cutting-edge-cosmetics-insights/"><u>Cutting-Edge Cosmetics Insights</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-enhanced-performance-apple-launches-revamped-macbook-air-with-m3-chip-in-13-and-15-inch-variants-expert-insights/"><u>Discover the Enhanced Performance: Apple Launches Revamped MacBook Air with M3 Chip in 13- and 15-Inch Variants | Expert Insights</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-insights-the-premier-5-twitch-downloading-apps/"><u>Essential Insights: The Premier 5 Twitch Downloading Apps</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learning-top-10-dynamic-ways-to-say-hello-in-spanish/"><u>Learning Top 10 Dynamic Ways To Say Hello In Spanish</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-photography-with-nikon-d7500/"><u>Mastering Photography with Nikon D7500</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/radio-dramas-peak-of-creative-scripting/"><u>Radio Dramas Peak of Creative Scripting</u></a></li>
-<li><a href="https://howto.techidaily.com/reasons-for-itel-p55-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel P55 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-belly-laughs-exclusive-access-to-freebies/"><u>[Updated] Belly Laughs Exclusive Access to Freebies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unlock-the-potential-of-vr-video-on-your-iphone/"><u>[Updated] In 2024, Unlock the Potential of VR Video on Your iPhone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-unlocking-full-gaming-potential-with-fbx-capturing/"><u>[Updated] In 2024, Unlocking Full Gaming Potential with FBX Capturing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-pulse-finder-your-free-online-music-buddy/"><u>[Updated] The Pulse Finder – Your Free, Online Music Buddy</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-honor-magic-5-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-app-reception-a-comprehensive-scrutiny/"><u>2024 Approved App Reception A Comprehensive Scrutiny</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/how-does-the-law-apply-to-video-sharing-on-facebook-in-2024/"><u>How Does the Law Apply to Video Sharing on Facebook, In 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-boosting-like-counts-tips-for-tiktok-unboxings/"><u>In 2024, Boosting Like Counts Tips for TikTok Unboxings</u></a></li>
+<li><a href="https://techtrends.techidaily.com/leading-server-rack-solutions-the-2024-market-overview/"><u>Leading Server Rack Solutions: The 2024 Market Overview</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-video-broadcasts-wirecast-and-its-allies/"><u>Mastering Video Broadcasts Wirecast and Its Allies</u></a></li>
+<li><a href="https://win11.techidaily.com/microphone-missing-reclaim-your-voice-in-windows-google-meet/"><u>Microphone Missing? Reclaim Your Voice in Windows Google Meet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigate-the-metaverse-with-friends-top-10-games/"><u>Navigate the Metaverse with Friends - Top 10 Games</u></a></li>
+<li><a href="https://article-tips.techidaily.com/twirling-titans-olympic-ice-revelations/"><u>Twirling Titans Olympic Ice Revelations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/web-plus-add-on-fb-story-capture-tool/"><u>Web + Add-On FB Story Capture Tool</u></a></li>
 </ul></div>
 

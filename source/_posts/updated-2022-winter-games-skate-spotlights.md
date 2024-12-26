@@ -1,7 +1,7 @@
 ---
 title: "[Updated] 2022 Winter Games Skate Spotlights"
-date: 2024-12-10T22:46:07.598Z
-updated: 2024-12-17T21:18:27.142Z
+date: 2024-12-19T16:47:25.718Z
+updated: 2024-12-26T17:15:12.236Z
 tags: 
   - screen-recording
   - ai video
@@ -22,10 +22,6 @@ Winter Olympics is synonymous with Figure Skating as it is the oldest sports eve
 
 Nathan Chen of the United States won the gold medal at the 2022 Beijing Winter Olympics. Yuma Kagiyama of Japan won the silver medal while the bronze medal went to Shoma Uno in Men's singles figure skating competition. On the other hand, the gold medal of the team event went to ROC while the silver medal went to United Stated and the bronze medal went to Japan. Here are all the figure skating highlights 2022 Beijing Winter Olympics. We will also illustrate how to create the highlights of figure skating in a video in simple steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. Highlights of Figure Skating Olympics Games Beijing2022
 
 In Olympic competition, skaters need to perform two minutes and 40 seconds short program and four minutes free skate and the winner is decided based on combined score.
@@ -33,10 +29,6 @@ In Olympic competition, skaters need to perform two minutes and 40 seconds short
 Nathan Chen got the combined score of 332.60 in short program and free skate competitions to win the 2022 Olympic men's figure skating title.
 
 ![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
 
@@ -46,16 +38,12 @@ Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United Stat
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
 ![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
@@ -66,11 +54,19 @@ Even though Nathan Chen finished first for men's short program of the team event
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
@@ -92,21 +88,25 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
 
 Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all the still photos and video footage clips you have collected about figure skating Olympics. You can trim them and maintain uniformity throughout.
 
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
 
 Step 5: Select individual or multiple slides and add Transitions, Effects, Titles and Elements.
 
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -121,24 +121,17 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-authoritative-sourcebook-no-cost-limitless-pictures/"><u>[New] Authoritative Sourcebook No Cost, Limitless Pictures</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-avoid-shaky-footage-proper-tripod-usage-techniques-in-vlog-creation/"><u>[New] In 2024, Avoid Shaky Footage Proper Tripod Usage Techniques in Vlog Creation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-time-management-mastery-slack-and-filmora-for-productive-team-meetings-for-2024/"><u>[New] Time Management Mastery Slack & Filmora for Productive Team Meetings for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-crafting-a-symphony-of-sights-and-sounds-in-video/"><u>[Updated] Crafting a Symphony of Sights & Sounds in Video</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-ultimate-valheim-planting-manual/"><u>[Updated] In 2024, The Ultimate Valheim Planting Manual</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-jumpstart-traffic-top-tier-video-seo-tools/"><u>[Updated] Jumpstart Traffic – Top-Tier Video SEO Tools</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-10-superior-video-capture-software-in-windows-10/"><u>2024 Approved 10 Superior Video Capture Software in Windows 10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-bridging-scripts-with-voices-turning-xmlttml-into-srt/"><u>2024 Approved Bridging Scripts with Voices Turning XML/TTML Into SRT</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-lava-storm-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Lava Storm 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/aerial-photography-revolution-with-mavic-pro/"><u>Aerial Photography Revolution with Mavic Pro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-success-the-premier-list-of-ai-namesmiths/"><u>Crafting Success The Premier List of AI Namesmiths</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-visuals-through-selective-zooming/"><u>Enhancing Visuals Through Selective Zooming</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/fascinating-film-categories-to-lure-viewers/"><u>Fascinating Film Categories to Lure Viewers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-add-titlestext-to-video-on-microsoft-photos-in-windows-10/"><u>How to Add Titles/Text to Video on Microsoft Photos in Windows 10</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-get-your-hp-laptops-webcam-working-again-in-windows-11/"><u>How To Get Your HP Laptop's Webcam Working Again in Windows 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g34-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G34 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-mp4-enhancement-the-ultimate-srt-integration/"><u>Mastering MP4 Enhancement The Ultimate SRT Integration</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-photo-retouch-erase-backgrounds-effectively/"><u>Mastering Photo Retouch Erase Backgrounds Effectively</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-real-scale-of-facebooks-user-exodus/"><u>The Real Scale of Facebook's User Exodus</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-8-youtube-thumbnail-secrets-for-high-traffic-videos/"><u>[New] Top 8 YouTube Thumbnail Secrets for High Traffic Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-virtual-lens-a-study-of-app-reviews/"><u>[Updated] 2024 Approved Virtual Lens A Study of App Reviews</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-award-winning-scripts-exposed/"><u>[Updated] Award-Winning Scripts Exposed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-mastering-memes-kinemaster-guide/"><u>[Updated] In 2024, Mastering Memes KineMaster Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oppo-find-x7-ultra-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo Find X7 Ultra Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-throw-a-memorable-labor-day-bash-expert-advice-and-must-have-ideas-curated-by-zdnet/"><u>How to Throw a Memorable Labor Day Bash: Expert Advice & Must-Have Ideas Curated by ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-infinix-hot-40-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Infinix Hot 40 Pro Phones</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-tecno-phantom-v-folds-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Tecno Phantom V Folds Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/secrets-of-success-in-capturing-breathtaking-gopro-time-lapse/"><u>Secrets of Success in Capturing Breathtaking GoPro Time-Lapse</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tailoring-podcast-sharing-for-instagram-enthusiasts/"><u>Tailoring Podcast Sharing for Instagram Enthusiasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-complete-review-lg-360-camera-cutting-edge-2023-edition/"><u>The Complete Review LG 360 Camera - Cutting-Edge 2023 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-strategies-how-artificial-intelligence-revolutionizes-the-future-of-grocery-retail-insights-from-zdnet/"><u>Top Strategies: How Artificial Intelligence Revolutionizes the Future of Grocery Retail - Insights From ZDNet</u></a></li>
 </ul></div>
 

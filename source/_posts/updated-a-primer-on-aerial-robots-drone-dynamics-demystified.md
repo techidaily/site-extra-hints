@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] A Primer on Aerial Robots  Drone Dynamics Demystified\""
-date: 2024-12-10T16:57:17.489Z
-updated: 2024-12-17T18:12:05.577Z
+date: 2024-12-19T17:23:52.011Z
+updated: 2024-12-26T16:40:36.000Z
 tags: 
   - screen-recording
   - ai video
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 
 ![history of drones](https://images.wondershare.com/filmora/article-images/history-of-drones.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Does a Drone Work?
 
  The working procedure of a drone may appear simple to most of you but the device is actually carrying a complex technology inside. Before we discuss the concept of drones' working you must know the fact that differentiate between drones and its ancestors- helicopters. The former one can fly independently whereas later needs pilot for directions.
@@ -49,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
  Actually it is a specially designed multi propeller system inside a drone that makes this device highly independent and also assists in reduction of failures. One important thing to note about this multi propeller system is that even if any motor inside this device stops working; it will keep on flying as it gets support from propellers that are working in group. Drones that possess large number of motors inside are able to gain more control over their elevation and hence can carry more loads during flight. These propellers get their power from a dedicated source and most of these devices contain removable batteries so that it can stay in air for long run. The flight time can be extended with use of powerful batteries in design.
 
 ![how does drones work](https://images.wondershare.com/filmora/article-images/how-does-drone-work.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How does it fly?
 
@@ -71,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 ![yuneec drone logo](https://images.wondershare.com/filmora/article-images/yuneec-logo.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3\. [Parrot >>](http://www.parrot.com/ )
@@ -83,24 +75,28 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 ![3d robotics drone logo](https://images.wondershare.com/filmora/article-images/3d-robotics-logo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5\. [Hubsun >>](http://www.hubsan.com/ )
 
 ![hubsan drone logo](https://images.wondershare.com/filmora/article-images/hubsan-logo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6\. [Syma Toy >>](http://www.symatoys.com/ )
 
 ![syma toy drone logo](https://images.wondershare.com/filmora/article-images/syma-toy-logo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7\. [Autel Robotics >>](https://www.autelrobotics.com )
 
 ![Autel logo](https://images.wondershare.com/filmora/article-images/autel-robotics-logo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  8\. [Xiro >>](http://xirodrone.com/ )
 
@@ -115,7 +111,7 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
 ![Horizon Hobby logo](https://images.wondershare.com/filmora/article-images/horizon-hobby-logo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Summary
@@ -123,6 +119,10 @@ thumbnail: https://thmb.techidaily.com/517296fb76b2495d3ca7ac9af3e02d36cfd22dc3a
  There is no doubt to say that drones are one of the most wonderful and precious advancement of technology. Presently almost all countries are developing their drones for different applications. There are still some clauses for improvements and many professionals are continuously working on it. Drone carrying camera units inside them are more useful for commercial as well as military applications and they are being developed by almost all top companies in the world. It is a combination of all advanced technologies like micro controllers, GPS, Wi-Fi and sensor units- they all work in perfect coherence to deliver awesome performance for different applications. Most of the countries these days have decided their specific rule set for drone flights and few restrictions are poses on their weight carrying capacity. If you want to use drones for commercial applications then it is important to take permission from CAA.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -139,17 +139,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-converting-live-images-to-continuous-recordings/"><u>[Updated] Converting Live Images to Continuous Recordings</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-blending-youtube-audio-features-into-video-projects/"><u>2024 Approved Blending YouTube Audio Features Into Video Projects</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-cutting-edge-5-online-media-recording-units/"><u>2024 Approved Cutting-Edge 5 Online Media Recording Units</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-perk-dji-miniair-2-owners-get-20-free-luts/"><u>2024 Approved Exclusive Perk DJI Mini/Air 2 Owners Get 20 Free LUTS</u></a></li>
-<li><a href="https://win11.techidaily.com/9-quick-ways-to-fix-wwe-2k23-crashing-on-windows-11/"><u>9 Quick Ways to Fix WWE 2K23 Crashing on Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/get-started-on-creativity-top-10-apps-for-digital-pencils-on-chrome-os/"><u>Get Started on Creativity Top 10 Apps for Digital Pencils on Chrome OS</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-breaking-into-solos-creating-popular-podcasts/"><u>In 2024, Breaking Into Solos Creating Popular Podcasts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-top-8-best-4k-blu-ray-players/"><u>In 2024, Top 8 Best 4K Blu-Ray Players</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/in-2024-youtube-producers-favorite-cameras-and-lenses/"><u>In 2024, YouTube Producers' Favorite Cameras & Lenses</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/monitor-interactions-on-instagram-whos-showed-their-love-for-your-post/"><u>Monitor Interactions on Instagram: Who's Showed Their Love for Your Post?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-screen-recorder-guide-for-the-creative-mac-user/"><u>The Ultimate Screen Recorder Guide for the Creative Mac User</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/windows-parent-friendly-settings-installation-a-step-by-step-course-with-yl-software-insights/"><u>Windows Parent-Friendly Settings Installation: A Step-by-Step Course with YL Software Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-analysis-updated-s3700-bd-player/"><u>[Updated] Comprehensive Analysis Updated S3700 BD Player</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-inside-the-wearable-world-how-does-vr-work/"><u>[Updated] In 2024, Inside the Wearable World How Does VR Work?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-solidify-your-bio-link-an-easy-tiktok-methodology/"><u>2024 Approved Solidify Your Bio Link An Easy TikTok Methodology</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-upgrade-your-creativity-easy-steps-for-transforming-video-backgrounds-on-tiktok/"><u>2024 Approved Upgrade Your Creativity Easy Steps for Transforming Video Backgrounds on TikTok</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/20mb-video-seconds-breakdown/"><u>20MB Video - Seconds Breakdown</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ace-your-phone-the-ios-podcast-downloading-guidebook-for-2024/"><u>Ace Your Phone The iOS Podcast Downloading Guidebook for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boost-engagement-optimal-title-strategies-for-2024/"><u>Boost Engagement Optimal Title Strategies for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversion-gratuita-de-archivos-mp4-a-m4a-facil-y-rapida-por-parte-de-movavi-en-linea/"><u>Conversión Gratuita De Archivos MP4 a M4A Fácil Y Rápida Por Parte De Movavi en Línea</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723005070450-errgfxstate-problem-on-redd2-heres-your-comprehensive-fix-guide/"><u>ERR_GFX_STATE Problem on REDD2? Here's Your Comprehensive Fix Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-samsung-galaxy-s23-lock-screen-password-by-drfone-android/"><u>How to Reset your Samsung Galaxy S23 Lock Screen Password</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-budget-friendly-cloud-pricing-showdown/"><u>In 2024, Budget-Friendly Cloud Pricing Showdown</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/konica-minolta-print-driver-downloads-compatible-with-windows-11-10-8-and-7/"><u>Konica Minolta Print Driver Downloads: Compatible with Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-subnautica-underwater-adventure-crash-problems-on-windows-machines/"><u>Overcoming Subnautica Underwater Adventure Crash Problems on Windows Machines</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/securing-the-future-with-totan-banerjee-on-data-preservation/"><u>Securing the Future with Totan Banerjee on Data Preservation</u></a></li>
 </ul></div>
 

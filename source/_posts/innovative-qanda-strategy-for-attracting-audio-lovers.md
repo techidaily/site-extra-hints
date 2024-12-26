@@ -1,7 +1,7 @@
 ---
 title: "Innovative Q&A Strategy for Attracting Audio Lovers"
-date: 2024-12-11T22:54:50.872Z
-updated: 2024-12-18T01:43:06.759Z
+date: 2024-12-23T17:22:17.566Z
+updated: 2024-12-26T16:22:41.625Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ The quality of the questions you ask guests makes or breaks a podcast. Interesti
 
 This guide is going to reveal how to come up with the best questions so you can nail your podcast interviews and keep your listeners hooked. So here are the best questions you can ask to make your podcast unique and captivating.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. 50 Podcast Interview Questions to Get Unique Answers
 
 The best podcast questions to ask guests differ according to your niche and the kind of guests you interview. Questions depend on whether you're interviewing a celebrity, a businessperson, an expert in his field, an author, a producer, or your friends and family members.
@@ -30,15 +34,15 @@ The best podcast questions to ask guests differ according to your niche and the 
 
 The best way is to divide your questions into different categories.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Great Icebreaker/Intro Questions
 
 Icebreaker questions are used to begin an interview or meeting. These are personal questions to learn more about one another quickly. For example, the prompt might be "share your name, role, and what you usually do during the weekend." These questions aim to have fun, create points of connection between guests, and build confidence in speaking in front of the group.
 
 ![icebreaker questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here are some icebreaker questions that you can ask to start an interview.
 
@@ -58,10 +62,6 @@ Here are some icebreaker questions that you can ask to start an interview.
 A leading question suggests a particular answer to the question that the questioner desires. These questions mostly have a yes or no answer. However, if you extract your question from the answer just given by the guest of the podcast, it is also a leading question.
 
 ![leading questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Some leading questions that you can ask are discussed below.
 
@@ -88,7 +88,7 @@ In an interview, a comparison question is one where you ask a person what he pre
 ![comparison questions](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can ask questions from the comparison questions given below.
@@ -108,10 +108,6 @@ You can ask questions from the comparison questions given below.
 13. Were you good in academics or extracurricular activities?
 14. In which weather do you feel comfortable, summer or winter?
 15. What do you prefer to eat, pizza or a burger?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Great Closing Questions
 
@@ -143,16 +139,12 @@ Asking better questions on a podcast requires preparation beforehand. Here are s
 
 You can get the best information from the person you are interviewing if you do the following:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Ask WHY?
 
 ![ask why](https://images.wondershare.com/filmora/article-images/2022/12/podcast-interview-questions-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As an interviewer, "why" is your most powerful tool. Guests usually provide surface-level information or opinions. The follow-up question of "why" makes them go further and give deeper details. It will also help your audience understand correctly what the guest wants to say.
@@ -161,9 +153,17 @@ As an interviewer, "why" is your most powerful tool. Guests usually provide surf
 
 If your guest is overwhelmed by the emotions and has stopped before completing his answer, help him achieve it by asking, "What Happened Next?" Use a softer tone while asking this question.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What were your feelings when this happened?
 
 Sometimes you want the guest to answer your questions with feelings and emotions. Making your guest answer your questions while drenched in emotions can take your podcast to the next level. Questions like "What were your feelings when this happened?" can take the guest back to the past and make him answer your question with full emotions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mirror your guest
 
@@ -192,13 +192,13 @@ Avoiding asking wrong questions is as important as asking good questions. Some q
 * Similarly, avoid asking questions to which you can predict the answer will be a "no."
 * Avoid questions that might offend your guest.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 5\. Should I Send an Advance Interview Questions Podcast?
 
 Yes, you can send interview questions to guests. Therefore, they get time to prepare interesting responses. Also, they may think about their answers or type out lengthy responses. Either way, they'll feel more comfortable and help you make better content.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Take Your Content to the Next Level and Gets Shared
 
@@ -236,24 +236,19 @@ Consider the following when picking which of the above questions to use on your 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-deciphering-the-language-of-youtube-thumbnails-effectiveness/"><u>[New] 2024 Approved Deciphering the Language of YouTube Thumbnails Effectiveness</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-optimal-media-player-pc-and-tablet-edition/"><u>[Updated] Optimal Media Player (PC & Tablet Edition)</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-pinnacle-strategies-for-persuasive-client-centered-videography/"><u>[Updated] The Pinnacle Strategies for Persuasive Client-Centered Videography</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-jestjamboree-discover-a-sea-of-memes-at-your-feet/"><u>2024 Approved JestJamboree Discover a Sea of Memes at Your Feet</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/1726224456762-movavimp3/"><u>音楽データのビットレート調整: Movaviを使ったMP3形式への変換ガイド</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/complete-visualization-with-giroptic-cam-for-2024/"><u>Complete Visualization with Giroptic Cam for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/converters-top-8-list-seamless-sub-and-srt-format-switching-for-2024/"><u>Converters' Top 8 List Seamless Sub and SRT Format Switching for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhance-your-iphone-with-tailored-call-alert-sounds/"><u>Enhance Your iPhone with Tailored Call Alert Sounds</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/frontiers-in-extended-realty-engagements/"><u>Frontiers in Extended Realty Engagements</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 6, Apples New iPhone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ideal-starter-accessories-for-gopro-newbies/"><u>Ideal Starter Accessories for GoPro Newbies</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-poco-x5-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Poco X5</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-budget-savvy-shooters-top-5-under-200-cameras/"><u>In 2024, Budget-Savvy Shooters Top 5 Under $200 Cameras</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-comparative-review-samsungs-imaging-suite-2023-edition/"><u>In 2024, Comparative Review Samsung's Imaging Suite, 2023 Edition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/rapid-assembly-of-google-image-mosaics/"><u>Rapid Assembly of Google Image Mosaics</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/srgb-and-traditional-rgb-rendering/"><u>Srgb and Traditional Rgb Rendering</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-and-solutions-for-apex-legends-leaf-error-2e22-fixes/"><u>Troubleshooting and Solutions for Apex Legends Leaf Error - 2E22 Fixes</u></a></li>
-<li><a href="https://win-popular.techidaily.com/1728498174902-windows-1011/"><u>Windows 10/11用のデルスタートアップドライブ作りガイド</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ws-2902a-ospreys-affordable-ambient-weather-station-features-benefits-and-more-in-our-detailed-review/"><u>WS-2902A Osprey's Affordable Ambient Weather Station: Features, Benefits and More in Our Detailed Review</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-crafting-an-apple-powered-athletic-broadcast-platform/"><u>[New] 2024 Approved Crafting an Apple-Powered Athletic Broadcast Platform</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-asus-proart-pa32u-review-4k-hdr-professional-monitor-review/"><u>[New] ASUS ProArt PA32U Review 4K HDR Professional Monitor Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-capturing-the-essence-cinematic-techniques-at-their-best/"><u>[New] Capturing the Essence Cinematic Techniques at Their Best</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unlock-your-videos-potential-with-youtube-link-building-techniques/"><u>[New] In 2024, Unlock Your Video's Potential with YouTube Link Building Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-filmmakers-pathway-to-anime-subscription-buttons-in-filmora/"><u>[Updated] Filmmaker’s Pathway to Anime Subscription Buttons in Filmora</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-convenient-curvature-creation-techniques-in-pixels/"><u>[Updated] In 2024, Convenient Curvature Creation Techniques in Pixels</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-affordable-aethervault-substantial-file-safekeeping/"><u>2024 Approved Affordable AetherVault Substantial File Safekeeping</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808101196-break-up-that-pdf-learn-the-top-three-strategies-for-quickly-separating-pdf-sheets/"><u>Break Up That PDF - Learn the Top Three Strategies for Quickly Separating PDF Sheets!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/everything-about-bing-the-essential-insights-into-microsofts-search-engine/"><u>Everything About Bing: The Essential Insights Into Microsoft's Search Engine</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-instant-darkness-pretty-simple/"><u>In 2024, Instant Darkness, Pretty Simple</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/integrating-luts-into-after-effects-workflow/"><u>Integrating LUTs Into After Effects Workflow</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-cut-trim-and-split-the-best-free-mpeg-video-splitters/"><u>New In 2024, Cut, Trim, and Split The Best Free MPEG Video Splitters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-list-of-10-websites-specializing-in-modern-3d-graffiti-letters/"><u>The Ultimate List of 10 Websites Specializing in Modern 3D Graffiti Letters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transforming-industries-with-virtual-reality-applications/"><u>Transforming Industries with Virtual Reality Applications</u></a></li>
 </ul></div>
 

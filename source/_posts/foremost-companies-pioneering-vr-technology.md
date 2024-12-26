@@ -1,7 +1,7 @@
 ---
 title: "Foremost Companies Pioneering VR Technology"
-date: 2024-12-11T01:54:13.306Z
-updated: 2024-12-17T21:52:12.878Z
+date: 2024-12-21T16:13:54.159Z
+updated: 2024-12-26T16:28:34.827Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
  The world of Virtual Reality has been more entertaining throughout the development of technology. The VR content is the latest and most entertaining concept in line with virtual reality. The wide scale innovative technology is set to make the big difference in creating videos and documentations. A high quality and interactive approach on VR content are given by the birth of the VR content company known as With.in. The company was founded by the award-winning director Chris Milk and the famous technologist Aaron Koblin. The goal of the two is discovered more the immersive potential of storytelling. A new line of creative ways is made in order to expand the possibilities of the storytelling concept using VR content.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does [With.in]( https://with.in/ ) Do?
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Art Work of With.in
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## About Chris Milk
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/64dd4d70d6e0441ce0215a5b5c562664b1c9c8864
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -99,19 +99,20 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-capturing-slow-mo-magic-with-gopro-hero-10/"><u>[New] Capturing Slow-Mo Magic with GoPro Hero 10</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-expert-guide-screen-capture-on-windows-8-devices/"><u>[New] In 2024, Expert Guide Screen Capture on Windows 8 Devices</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ake-your-smartphone-cinematography-to-new-heights-with-these-9-accessories-for-2024/"><u>[New] Take Your Smartphone Cinematography to New Heights with These 9 Accessories for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-visual-splendor-of-blade-cameras-in-full-hd/"><u>[New] The Visual Splendor of Blade Cameras in Full HD</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-androids-fastest-vid-tuning-tools-reviewed/"><u>[Updated] Android's Fastest Vid Tuning Tools Reviewed</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-techniques-for-embedding-youtube-in-slides-on-google-slate/"><u>[Updated] In 2024, Techniques for Embedding YouTube in Slides on Google Slate</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-secret-sauce-to-outstanding-online-identity-creation/"><u>[Updated] The Secret Sauce to Outstanding Online Identity Creation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-capturing-charm-sage-advice-on-editing-digital-art/"><u>2024 Approved Capturing Charm Sage Advice on Editing Digital Art</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/advancing-siri-apples-ai-enhancements-on-the-horizon-revealed/"><u>Advancing Siri: Apple's AI Enhancements on the Horizon Revealed</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721456837357-cant-access-your-iphone-contacts-fix-them-with-these-3-proven-methods/"><u>Can't Access Your iPhone Contacts? Fix Them With These 3 Proven Methods</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/efficient-techniques-to-improve-windows-10-photos-app-functionality/"><u>Efficient Techniques to Improve Windows 10 Photos App Functionality</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/fundamental-techniques-from-video-links-to-downloaded-audios/"><u>Fundamental Techniques From Video Links to Downloaded Audios</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/surpassing-the-apple-watch-with-fitbit-sense-for-advanced-wellness-tracking/"><u>Surpassing the Apple Watch with Fitbit Sense for Advanced Wellness Tracking</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/techniques-to-mitigate-vr-disorientation/"><u>Techniques to Mitigate VR Disorientation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-10-preferred-top-free-image-editing-and-overlay-apps-for-phones/"><u>[New] 10 Preferred Top-Free Image Editing & Overlay Apps for Phones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-explore-artistic-possibilities-premier-android-graphics-app-selection-for-2024/"><u>[New] Explore Artistic Possibilities Premier Android Graphics App Selection for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-transforming-social-media-nostalgia-how-to-edit-lookback/"><u>[Updated] 2024 Approved Transforming Social Media Nostalgia How to Edit Lookback</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-enhance-with-ease-introduction-to-video-enhancer-v22/"><u>[Updated] Enhance with Ease Introduction to Video Enhancer V2.2</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-legal-implications-of-youtube-video-savings-for-2024/"><u>[Updated] Legal Implications of YouTube Video Savings for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-huawei-nova-y71-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Huawei Nova Y71 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boosting-engagement-interactive-features-of-zoom-on-win11-pcs/"><u>Boosting Engagement Interactive Features of Zoom on Win11 PCs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/contrasting-streamers-realms-twitch-vs-youtube-for-2024/"><u>Contrasting Streamers' Realms Twitch Vs YouTube for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-6-social-channels-for-enterprise-leadership/"><u>Essential 6 Social Channels for Enterprise Leadership</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-google-discover-feature-step-by-step-tutorial-for-smartphones/"><u>Exploring Google Discover Feature - Step-by-Step Tutorial for Smartphones</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-poco-x6-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Poco X6 Pro Phone Screen?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-4k-resolution-unveiled-in-chroma-focused-lenses/"><u>In 2024, 4K Resolution Unveiled in Chroma-Focused Lenses</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-blend-acoustic-elements-with-visual-content-in-premiere-pro/"><u>In 2024, Blend Acoustic Elements with Visual Content in Premiere Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vanguard-wearables-for-sporting-captures/"><u>Vanguard Wearables for Sporting Captures</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capturing Motion  Canon Camera Time-Lapse Basics\""
-date: 2024-12-14T20:07:06.479Z
-updated: 2024-12-17T21:13:42.118Z
+date: 2024-12-21T16:27:13.896Z
+updated: 2024-12-26T16:45:41.737Z
 tags: 
   - screen-recording
   - ai video
@@ -23,7 +23,7 @@ There is always some magic in watching a lengthy video that plays for an extende
 If you want to take the challenge and create something magical like this with your Canon camera, you have come to the right place. Here we will tell you everything from how to shoot to editing time-lapse videos. You will also get some tips for time-lapse recording video so let's start with this article.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. What is Time-lapse Video?
@@ -49,6 +49,10 @@ Let's explore the time-lapse world in the comfort of your home or when you are c
 **4:-** Put the number of shots you want your camera to take. According to the interval and number of shots, your Canon 80d time-lapse will tell you the number of footage you have to take to end the video. There is a general thumb rule for recording time-lapse videos, and you will need around 24-25 images for each second of your video.
 
 **5:-** Compose the shot and tap on the shutter button. While shooting the time-lapse video, it is recommended that you should place the camera on a tripod to maintain the composition of duration. Also, after you are happy with the composition and settings, you can tap the shutter button and allow your camera to show its magic.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. Canon Time Lapse Video Shooting Tips
 
@@ -79,10 +83,6 @@ Let's see how to edit your time-lapse video on it.
 You will have to import the clips to your library.
 
 ![drag files into filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For Win 7 or later(64-bit)
 
@@ -122,16 +122,12 @@ You will have to right-click on your clip in the timeline to choose the duration
 
 ![uniform speed on filmora](https://images.wondershare.com/filmora/guide/uniform-speed-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 4 \- Export the video
 
 If you have the necessary changes and previewed the video, then you can save the video. Also, now, you can export it to the output of video footage. Your **Canon r5 time-lapse** is ready.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -157,7 +153,7 @@ You will have to right-click on your clip in the timeline to choose the duration
 If you have the necessary changes and previewed the video, then you can save the video. Also, now, you can export it to the output of video footage. Your **Canon r5 time-lapse** is ready.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -172,19 +168,23 @@ After importing the video, you must drag it to the video column. Choose a loaded
 
 ![tap reels on facebook app](https://images.wondershare.com/filmora/guide/filmora-split-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 3 \- Speed up creating a time-lapse video
 
 You will have to right-click on your clip in the timeline to choose the duration and speed. After choosing all of this, a window will appear. You must adjust the speed and drag the slider to the right to increase the video speed. After that, you can click on "Ok." Now, you can preview the video by tapping on the Play button. Also, you should know that Filmora supports up to 0.01x slow motion and 100x fast.
 
 ![uniform speed on filmora](https://images.wondershare.com/filmora/guide/uniform-speed-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 4 \- Export the video
 
 If you have the necessary changes and previewed the video, then you can save the video. Also, now, you can export it to the output of video footage. Your **Canon r5 time-lapse** is ready.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -214,15 +214,21 @@ Now, you are aware of how to shoot time-lapse with your Canon camera. After you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-implementing-gradual-diminishing-techniques-on-soundtracks-with-audacity/"><u>[Updated] Implementing Gradual Diminishing Techniques on Soundtracks with Audacity</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-expert-guide-selecting-the-ideal-sites-and-techniques-for-trimming-tamil-melodies/"><u>2024 Approved Expert Guide Selecting the Ideal Sites & Techniques for Trimming Tamil Melodies</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-push-boundaries-with-unique-split-screen-videos-for-youtube/"><u>2024 Approved Push Boundaries with Unique Split-Screen Videos for YouTube</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cloud-savings-showdown-top-costs-for-2024/"><u>Cloud Savings Showdown Top Costs for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhance-photo-clarity-with-snapchats-zoom-function/"><u>Enhance Photo Clarity with Snapchat's Zoom Function</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-appreciate-with-us-open-source-and-subscription-outro-samples/"><u>In 2024, Appreciate with Us Open-Source & Subscription Outro Samples</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-nokia-105-classic-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Nokia 105 Classic Phone that is Locked?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Oppo Reno 8T 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-drone-photographers-stabilization-companion/"><u>The Drone Photographer's Stabilization Companion</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2213955-9780008138103-the-rabbit-in-2016-your-chinese-horoscope/"><u>The Rabbit in 2016: Your Chinese Horoscope | Free Book</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-beat-the-beast-instagram-video-troubleshooting-guide/"><u>[New] Beat the Beast Instagram Video Troubleshooting Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-clarity-in-cinema-in-depth-review-of-lgs-digital-display-the-4k-monitor-31mu97-b/"><u>[New] Clarity in Cinema - In-Depth Review of LG's Digital Display, The 4K Monitor 31MU97-B</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-addressing-hearing-gaps-in-video-content-sharing/"><u>[Updated] 2024 Approved Addressing Hearing Gaps in Video Content Sharing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-fixing-dark-mode-issues-during-recording-for-2024/"><u>[Updated] Fixing Dark Mode Issues During Recording for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-showcasing-the-best-of-image-integration-in-frames-for-24-for-2024/"><u>[Updated] Showcasing the Best of Image Integration in Frames for '24 for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-tips-for-smooth-transitioning-from-zoom-to-fb-live-events/"><u>[Updated] Tips for Smooth Transitioning From ZOOM to FB Live Events</u></a></li>
+<li><a href="https://win11.techidaily.com/2024youtube3/"><u>「最新推奨」:2024年に流行するYouTubeライブ記録用フリーツールベスト3選び</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/access-premium-imagery-no-copyright-restrictions-for-2024/"><u>Access Premium Imagery, No Copyright Restrictions for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/checking-top-5-web-based-or-extension-voice-changers-for-chromebook/"><u>Checking Top 5 Web-Based or Extension Voice Changers for Chromebook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expertise-in-covert-sound-suppression-with-audacity/"><u>Expertise in Covert Sound Suppression with Audacity</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-htc-by-drfone-android/"><u>Full Guide to Unlock Your HTC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-the-complete-guide-to-hand-tracking-and-its-types/"><u>In 2024, The Complete Guide To Hand Tracking And Its Types</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-qr-code-scanning-on-your-pc-using-windows-11/"><u>Mastering QR Code Scanning on Your PC Using Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-art-of-mobile-based-interview-and-travel-podcasts/"><u>Mastering the Art of Mobile-Based Interview & Travel Podcasts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-the-solo-podcast-landscape-successfully/"><u>Navigating the Solo Podcast Landscape Successfully</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/portrait-of-creativity-discover-the-bestiary-of-8-inspiring-ios-drawing-apps/"><u>Portrait of Creativity Discover the Bestiary of 8 Inspiring iOS Drawing Apps</u></a></li>
 </ul></div>
 

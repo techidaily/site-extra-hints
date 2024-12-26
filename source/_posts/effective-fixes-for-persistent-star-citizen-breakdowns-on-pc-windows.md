@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Persistent Star Citizen Breakdowns on PC Windows
-date: 2024-12-13T18:30:48.729Z
-updated: 2024-12-17T23:18:32.351Z
+date: 2024-12-23T17:21:07.330Z
+updated: 2024-12-26T16:48:41.746Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 
  Lunar Client is a modpack for many versions of Minecraft. Recently, we’ve seen many Minecraft players report that**Lunar Client keeps crashing on their PC** . If you’re experiencing the exact same issue, you’ve come to the right place. Whether it crashes on startup or crashes in the middle of the game, after reading this article, you should be able to resolve this problem on your own easily!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here we’ve gathered the latest fixes that helped other gamers resolve the Lunar Client crashing issue. You don’t have to try them all, Just work your way through the list until you find the one that does the trick for you.
@@ -33,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 4. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Minecraft and Lunar Client](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Reinstall Java Runtime Environment
 
  On common cause of Lunar Client crashing issue is the corrupted Java Runtime Environment. You can try reinstall the latest Java Runtime Environment and see if this does the trick. Here is how to do it:
@@ -44,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to invoke the**Run** dialog. Copy-paste**appwiz.cpl** and press**Enter** to open the Programs and Features window.  
 ![appwiz.cpl](https://images.drivereasy.com/wp-content/uploads/2021/04/appwiz.cpl_.jpg)
 2. Locate programs related to Java, then right-click on it and select**Uninstall** . Restart your computer after you uninstalled Java.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Uninstall Java](https://images.drivereasy.com/wp-content/uploads/2021/05/Uninstall-Java.png)
 3. Go to[the official Java website](https://java.com/en/download/) to download the latest version to your computer. Double-clcik the installation file and follow the instructions on the screen to install it on your PC.
@@ -66,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
  Run Lunar Client and see if the latest graphics driver stops the crash. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Change launch directory
@@ -90,10 +90,18 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 ![lunar client new launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/lunar-client-new-launch-directory.jpg)
 4. In Lunar Client, go to**Settings** and click**Change Directory** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Change launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory.jpg)
 5. Select the new folder you created in step 3) and click**Select Folder** to set it to the launch directory.  
 
 ![Change launch directory 1](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Lunar Client and see if this issue persists. If it still crashes, try the next fix, below.
 
@@ -111,35 +119,27 @@ To perform a clean boot, just follow the steps below:
 ![Run msconfig](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Under to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Restart** your PC and launch Lunar Client to check if the game crashes. If not, you need to open the **System Configuration** window again and enable services and applications **one by one** until you find the problematic software. After enabling each startup service, you need to restart Windows OS for the changes to take effect.
 
@@ -175,19 +175,22 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-brainiac-broadcasting-curated-list-of-2024s-trivia-outlets/"><u>[Updated] Brainiac Broadcasting Curated List of 2024'S Trivia Outlets</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-celestial-journey-enhanced-by-these-sj4000-gear-must-haves/"><u>[Updated] Celestial Journey Enhanced by These SJ4000 Gear Must-Haves</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-fog-no-more-secrets-for-crisp-clean-filming/"><u>[Updated] Fog No More Secrets for Crisp, Clean Filming</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-adding-emotion-and-context-narration-for-videos/"><u>2024 Approved Adding Emotion and Context Narration for Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-compatibility-checklist-phone-list-for-gear-vr-2023/"><u>2024 Approved Compatibility Checklist Phone List for Gear VR 2023</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-enthralling-readers-with-these-stellar-5-book-promo-videos/"><u>2024 Approved Enthralling Readers with These Stellar 5 Book Promo Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/beat-junkies-essentials-online-cost-free-software-for-2024/"><u>Beat Junkies' Essentials Online, Cost-Free Software for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-msi-audio-driver-software-for-windows-systems/"><u>Download MSI Audio Driver Software for Windows Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fresh-comfort-better-sound-discover-the-best-substitutes-for-aged-headphone-foam-ear-pads/"><u>Fresh Comfort, Better Sound: Discover the Best Substitutes for Aged Headphone Foam Ear Pads</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-max-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS Max to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-bygone-brilliance-art-beyond-intellectual-property/"><u>In 2024, Bygone Brilliance Art Beyond Intellectual Property</u></a></li>
-<li><a href="https://facebook.techidaily.com/instant-silence-blocking-all-fb-notifications/"><u>Instant Silence: Blocking All FB Notifications</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/learn-dvd-cracking-and-extraction-techniques-with-handbrake-tutorials/"><u>Learn DVD Cracking & Extraction Techniques with HandBrake Tutorials</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-voicemail-on-an-iphone-a-comprehensive-tutorial/"><u>Mastering the Art of Voicemail on an iPhone: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-3-pinnacle-phones-for-professional-video-capture/"><u>[New] 3 Pinnacle Phones for Professional Video Capture</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-apoyo-affordable-lightroom-counterparts-reviewed/"><u>[New] Apoyo Affordable Lightroom Counterparts Reviewed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-value-6-investments-in-4k-projectors/"><u>[New] Best Value 6 Investments in 4K Projectors</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-enhance-imagery-in-canva-the-ultimate-10-guide/"><u>[Updated] In 2024, Enhance Imagery in Canva - The Ultimate 10 Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-step-by-step-guide-to-upload-videos-twtplustumblr-for-2024/"><u>[Updated] Step-by-Step Guide to Upload Videos Twt+Tumblr for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1-free-panasonic-avchd-sd-card-recovery-software-restore-your-files-without-cost/"><u>1. Free Panasonic AVCHD SD Card Recovery Software: Restore Your Files Without Cost</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-understanding-the-invisible-aspects-of-stories/"><u>2024 Approved Understanding the Invisible Aspects of Stories</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-lava-yuva-2-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Lava Yuva 2 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/decoding-efficient-photo-and-video-file-transfers-on-windows-10/"><u>Decoding Efficient Photo & Video File Transfers on Windows 10</u></a></li>
+<li><a href="https://article-tips.techidaily.com/decoding-the-mysteries-of-vlcs-hidden-tools-for-2024/"><u>Decoding the Mysteries of VLC's Hidden Tools for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/identifying-your-windows-10-powershell-version-a-comprehensive-guide/"><u>Identifying Your Windows 10 PowerShell Version: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-volume-dissipation-methods-within-audacity-tools/"><u>Innovative Volume Dissipation Methods Within Audacity Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/silent-spectators-101-the-essentials-for-unnoticed-instagram-livestreams/"><u>Silent Spectators 101 The Essentials for Unnoticed Instagram Livestreams</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/simplest-way-win-clownfish-vocal-alteration-tool/"><u>Simplest Way Win Clownfish Vocal Alteration Tool</u></a></li>
+<li><a href="https://media-tips.techidaily.com/step-by-step-guide-converting-avchd-files-into-mp4-format-for-your-kindle-fire/"><u>Step-by-Step Guide: Converting AVCHD Files Into MP4 Format for Your Kindle Fire</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlock-the-full-potential-of-group-video-conferencing-on-your-android-device-zoom/"><u>Unlock the Full Potential of Group Video Conferencing on Your Android Device (Zoom)</u></a></li>
 </ul></div>
 

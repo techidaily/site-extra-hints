@@ -1,7 +1,7 @@
 ---
 title: "\"Beyond Spectacle  Delving Into VR's Negatives\""
-date: 2024-12-17T00:20:33.693Z
-updated: 2024-12-17T23:50:34.352Z
+date: 2024-12-25T16:11:28.275Z
+updated: 2024-12-26T16:50:00.213Z
 tags: 
   - screen-recording
   - ai video
@@ -33,7 +33,7 @@ _[Differences between VR, AR and MR](https://tools.techidaily.com/wondershare/fi
 _[Virtual Reality Technology: Current State and Future Challenges](https://tools.techidaily.com/wondershare/filmora/download/)_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The equipment used for VR is very expensive
@@ -41,7 +41,7 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
  Of course with any early stage technology, there are a host of issues to overcome among the first is cost for consumers to participate. Many systems run between $100 and $600 and we have not yet discussed the cost of purchasing experiences or games.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Low resoultion content, large file size
@@ -65,7 +65,7 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
  There is an addictive quality of Virtual Reality environments that should not be ignored. Those who are regular users of these spaces, even in its developmental state find that it can be hard to stay away. Users find themselves in some cases, preferring the virtual world to the real one. If these anecdotal experiences are being reported by a very small sample size what will be the impact on entire cultures that embrace this technology? Considerations of Virtual Reality must extend into the world of human activity and definitions of normal behavior. And as a reminder most of us who love science fiction have a sense of what true Virtual Reality really is. It should be clear that we are a very long way from enjoying the holodeck.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best Video Editor: [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -73,13 +73,13 @@ _[Virtual Reality Technology: Current State and Future Challenges](https://tools
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -97,14 +97,21 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-a-guide-to-excellent-live-cricket-online-watch/"><u>[Updated] A Guide to Excellent Live Cricket Online Watch</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-srt-transition-the-ultimate-subcap-guide/"><u>[Updated] In 2024, SRT Transition The Ultimate SUBCAP Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/action-plan-seamless-transcoding-from-xmlssattml-to-srt/"><u>Action Plan Seamless Transcoding From XML/SSA/TTML to SRT</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-5-samsung-gear-vr-experiences-for-2024/"><u>Best 5 Samsung Gear VR Experiences for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-communication-devices-for-outdoor-enthusiasts-the-top-walkie-talkies-of-2022-zdnets-picks/"><u>Best Communication Devices for Outdoor Enthusiasts - The Top Walkie-Talkies of 2022, ZDNet's Picks</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-13-pro-max-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 13 Pro Max Without Passcode Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/quick-tips-for-altering-video-speed-on-netflix-devices/"><u>Quick Tips for Altering Video Speed on Netflix Devices</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/smart-tips-for-creating-time-lapses-on-samsung-devices-for-2024/"><u>Smart Tips for Creating Time-Lapses on Samsung Devices for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-the-puzzle-why-does-my-logitech-mouse-keep-losing-connection-in-windows/"><u>Solving the Puzzle: Why Does My Logitech Mouse Keep Losing Connection in Windows?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-pivotal-elements-in-designing-effective-product-praise-videos/"><u>[New] In 2024, Pivotal Elements in Designing Effective Product Praise Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-synchronizing-mac-writers-flows-efficiently-with-mixer/"><u>[New] Synchronizing Mac' Writers' Flows Efficiently With Mixer</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-launching-a-mobile-friendly-youtube-space-for-entrepreneurs/"><u>[Updated] In 2024, Launching a Mobile-Friendly YouTube Space for Entrepreneurs</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-living-life-fully-on-facebook-tips-for-active-engagement/"><u>2024 Approved Living Life Fully on Facebook Tips for Active Engagement</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/amazing-deal-alert-unboxing-the-ring-spotlight-cam-pro-special-offer-this-labor-day-tech-insights/"><u>Amazing Deal Alert: Unboxing the Ring Spotlight Cam Pro - Special Offer This Labor Day! | Tech Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-ever-5-mobile-photo-editing-tools-background-shifters/"><u>Best-Ever 5 Mobile Photo Editing Tools Background Shifters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/easing-out-the-melodies-advanced-techniques-in-adobe-premiere/"><u>Easing Out the Melodies Advanced Techniques In Adobe Premiere</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/effective-timestamp-integration-in-image-files/"><u>Effective Timestamp Integration in Image Files</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/impressive-array-of-mobile-text-options/"><u>Impressive Array of Mobile Text Options</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-adding-chapters-with-ease-a-detailed-youtube-video-editing-tutorial/"><u>In 2024, Adding Chapters with Ease A Detailed YouTube Video Editing Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-brighten-your-iphones-nighttime-recordings/"><u>In 2024, Brighten Your iPhone's Nighttime Recordings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/live-video-showdown-which-is-superior-virusmixwirecast-for-2024/"><u>Live Video Showdown Which Is Superior, VirusMix/WireCast for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-solutions-overcome-pc-issues-in-world-of-warships-top-5-fixes/"><u>Quick Solutions: Overcome PC Issues in World of Warships - Top 5 Fixes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211163602-9781524894443-squishmallows/"><u>Squishmallows | Free Book</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-sound-bank-vintage-voice-choices/"><u>Ultimate Sound Bank Vintage Voice Choices</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-make-a-lasting-impression-top-video-resume-creation-tools/"><u>Updated Make a Lasting Impression Top Video Resume Creation Tools</u></a></li>
 </ul></div>
 

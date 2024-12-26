@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Beyond Basic Editing  Innovative Use of LUTs for Photography\""
-date: 2024-12-13T00:10:21.022Z
-updated: 2024-12-18T01:46:11.055Z
+date: 2024-12-21T16:50:30.998Z
+updated: 2024-12-26T17:30:07.595Z
 tags: 
   - screen-recording
   - ai video
@@ -39,7 +39,7 @@ Lookup Tables help you save a lot of work and time during the editing process. T
 LUTs also aid in the organization of your post-production processes. You must know when to use LUTs, just as you must know when to use other components of the editing process. It assists in getting the work done more effectively after you master the pattern and processes to follow.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How will LUTs change your photography?
@@ -55,7 +55,7 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use LUTs using Photoshop CC?
@@ -74,10 +74,6 @@ Choose Adjustment Layer
 
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 load 3d lut
 
 1. When you select one, you'll see how the color and tone of the image change.
@@ -86,12 +82,20 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
 2. When discussing Photoshop, the project is typically an image, so go ahead and open it. Open a new one by pressing 'Ctrl+O' or importing something from your cloud.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Here's the second one
 
@@ -109,10 +113,6 @@ Grow Together
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Closing Thoughts:
 
 LUTs are extremely useful since they allow photographers to save time by using the same LUTs or a set of LUTs for several photographs. Instead of making individual modifications to your photographs, you may color grade them all with the same LUTs. This gives a series a more unified vibe. You can even put them up as Actions in Photoshop.
@@ -124,7 +124,7 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Closing Thoughts:
@@ -157,19 +157,19 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-effortless-multimedia-collaboration-streamwork/"><u>[Updated] 2024 Approved Effortless Multimedia Collaboration StreamWork</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-5-must-know-techniques-for-cutting-through-reddit-noise-and-gaining-traction/"><u>[Updated] 5 Must-Know Techniques for Cutting Through Reddit Noise and Gaining Traction</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-creating-temporal-distortions-a-guide-to-movie-magic/"><u>[Updated] In 2024, Creating Temporal Distortions A Guide to Movie Magic</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-foremost-guide-to-youtube-equipment-for-rookies/"><u>[Updated] In 2024, Foremost Guide to YouTube Equipment for Rookies</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-top-10-speedy-gaming-apps-for-mobile-and-desktop/"><u>[Updated] In 2024, Top 10 Speedy Gaming Apps for Mobile and Desktop</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-innovating-for-impact-your-profile-video-guide/"><u>[Updated] Innovating for Impact Your Profile Video Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-degree-of-view-analysis/"><u>2024 Approved Comprehensive Degree of View Analysis</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/advanced-techniques-for-proximity-viewing-in-roblox/"><u>Advanced Techniques for Proximity Viewing in Roblox</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/apex-automotive-code-deciphering-experts-2024-tale/"><u>Apex Automotive Code Deciphering Experts - 2024 Tale</u></a></li>
-<li><a href="https://extra-information.techidaily.com/journey-into-whatsapps-call-ecosystem/"><u>Journey Into WhatsApp's Call Ecosystem</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-definitive-checklist-for-acquiring-the-perfect-student-laptop-or-desktop/"><u>The Definitive Checklist for Acquiring the Perfect Student Laptop or Desktop</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/turn-up-the-volume-a-guide-to-personalizing-ringtone-and-sound-settings-on-android-devices/"><u>Turn Up the Volume A Guide to Personalizing Ringtone & Sound Settings on Android Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-guide-selecting-top-ranked-free-srt-translation-tools/"><u>Ultimate Guide Selecting Top-Ranked FREE SRT Translation Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/vlcs-role-in-mpeg-4-and-other-file-type-conversions-explored/"><u>VLC's Role in MPEG-4 and Other File Type Conversions Explored</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-10-apps-to-add-stickers-to-photos-for-iphone-and-android/"><u>[New] Best 10 Apps to Add Stickers to Photos for iPhone and Android</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-captivating-visuals-for-digital-stagecraft/"><u>[Updated] 2024 Approved Captivating Visuals for Digital Stagecraft</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-constructing-the-ideal-home-computer-for-advanced-video-editing/"><u>[Updated] Constructing the Ideal Home Computer for Advanced Video Editing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-spotting-instagrams-newly-deactivated-accounts/"><u>[Updated] In 2024, Spotting Instagram's Newly Deactivated Accounts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecting-your-projects-proportions-with-aspect-ratio/"><u>[Updated] Perfecting Your Project's Proportions with Aspect Ratio</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-sailing-the-streaming-seas-navigate-youtubes-numbers-for-profitability-and-popularity/"><u>[Updated] Sailing the Streaming Seas Navigate YouTube's Numbers for Profitability & Popularity</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-intergalactic-visions-the-best-sci-fi-movies-in-virtual-universes/"><u>In 2024, Intergalactic Visions The Best Sci-Fi Movies in Virtual Universes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installation-guide-steering-wheel-driver-for-logitech-momo-race-simulation-compatible-with-pc/"><u>Installation Guide: Steering Wheel Driver for Logitech Momo Race Simulation - Compatible with PC</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/maximizing-windows-efficiency-effective-methods-to-free-up-memory-for-apps-by-yl-computing-and-yl-software/"><u>Maximizing Windows Efficiency: Effective Methods to Free Up Memory for Apps - By YL Computing & YL Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionizing-your-photo-video-experience/"><u>Revolutionizing Your Photo-Video Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/skyward-start-best-easy-to-operate-drones/"><u>Skyward Start Best Easy-to-Operate Drones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-art-of-spinning-indie-podcast-hits/"><u>The Art of Spinning Indie Podcast Hits</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-xiaomi-redmi-note-12-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Xiaomi Redmi Note 12 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-full-potential-of-your-wear-os-watch-with-5-proven-tips-by-zdnet-experts/"><u>Unlocking the Full Potential of Your Wear OS Watch with 5 Proven Tips by ZDNet Experts</u></a></li>
 </ul></div>
 

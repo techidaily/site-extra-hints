@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Automated Audio Transcription with Azure"
-date: 2024-12-10T22:50:35.577Z
-updated: 2024-12-17T16:46:06.191Z
+date: 2024-12-23T16:57:42.743Z
+updated: 2024-12-26T17:04:23.260Z
 tags: 
   - screen-recording
   - ai video
@@ -27,7 +27,7 @@ Are you tired of manually typing texts into document editors like Word and Notep
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: What is Microsoft Azure and Speech Studio?
@@ -54,6 +54,10 @@ Step3The program will take a while to deploy an instance. Now tap Keys and endpo
 
 ![micrsoft azure speech to text copy key and region](https://images.wondershare.com/filmora/article-images/2022/07/microsoft-speech-to-text-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step4Download and install Microsoft Visual C++ and .NET Core 3.1 Runtime. Next, install Speech CL on .NET by running this command “**dotnet tool install -global Microsoft.CognitiveServices.Speech.CLI.**” Alternatively, download and install Speech CLI for Windows PCs as a [ZIP file](https://aka.ms/speech/spx-windows).
 
 Step5Now enter the Azure regional identifier and subscription key on Windows Terminal or PowerShell. To configure the region and key, run these commands; “**spx config @key --set SUBSCRIPTION-KEY** and **spx config @region --set REGION.**”
@@ -64,11 +68,19 @@ Step6Now it's time to convert speech to text using Azure STT Service. To do that
 
 **Note:** Click [this video](https://docs.microsoft.com/en-us/shows/one-dev-minute/how-to-use-the-azure-cognitive-services-net-speech-sdk-for-recognition) for a detailed guide on how to use Azure Speech Services with Visual Basic (SDK).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: What Are the Free Alternatives to the Microsoft Speech to Text Service?
 
 We should all agree that using Microsoft Azures Speech Service is not a walk in the park. You need some knowledge of programming and Windows Command Prompt. Even worse, you'll have to pay each time you want to convert speech to text after depleting the free credits.
 
 Fortunately, there's no shortage of free speech to text converters for beginners. So, in this part, we'll discuss some free Microsoft Azure STT alternatives for beginners.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -77,10 +89,6 @@ Let's start with the best offline speech-to-text converter for macOS and Windows
 When you want to make perfect videos, you can use Filmora's STT feature. Wondershare Filmora Speech to Text is quite different with other STT service providers. Other STT platforms/stages require you to use the application to convert speech-to-text, save, and export into other third-party software. However, Wondershare Filmora allows you to directly convert your speech-to-text on an ongoing production. For example, you can convert speech into subtitles during a video production on Wondershare Filmora.
 
 What's more, now Filmora's STT feature supports direct transcription of bilingual subtitles with up to 27 languages of transcription in Filmora.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Top Adavantages of Filmora STT
 
@@ -92,10 +100,6 @@ What's more, now Filmora's STT feature supports direct transcription of bilingua
 
 [Make STT Videos](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Use Filmora To Make STT videos
 
 ##### Step 1
@@ -104,15 +108,15 @@ Select the audio asset in the timeline, and click the "Speech-to-Text" icon in t
 
 ![toolbar stt](https://images.wondershare.com/filmora/guide/guide-win/toolbar-stt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 2
 
 Click the "Speech-to-Text" icon, and it will show the parameter settings. You can choose the languages to be transcribed and to be transcribed to. Filmora's STT feature supports direct transcription of bilingual subtitles with up to 27 languages of transcription
 
 ![parameter setting](https://images.wondershare.com/filmora/guide/guide-win/setting-stt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Google Docs - Free
 
@@ -134,10 +138,6 @@ Step3Click the Microphone icon to start dictating texts on Google Docs. After di
 
 ![micrsoft azure speech to text alternative audtext](https://images.wondershare.com/filmora/article-images/2022/07/microsoft-speech-to-text-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If Google's voice recognition service is too slow for your liking, consider Audtext. It's a highly rated online program that uses cutting-edge machine learning technology to transcribe audio to text in 60+ languages. You can easily train this program to identify the speaker in your interview or podcast file.
 
 Meanwhile, Audtext can transcribe typical video and audio formats, including MP3, WAV, M4A, MP4, MOV, and more. And after transcribing audio to text, exploit the inbuilt text editor to retouch and make your text presentable.
@@ -149,10 +149,6 @@ Step1Create a transcription account on Audtext and click New Upload to choose th
 Step2Drag-n-drop your video or audio file on the program and then choose the transcription language. After adding your file, click Upload to scan and transcribe it. This should take a while.
 
 Step3Finally, click the transcribed text file to edit it with new texts and punctuations on the inbuilt editor. You can export your transcription in .txt, .srt, or .docx formats. Directly export to Google Drive is also available.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -168,6 +164,10 @@ In that case, use a more straightforward option like Google Docs to dictate text
 
 ![Wondershare Filmora](https://images.wondershare.com/filmora/banner/filmora-latest-product-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -177,17 +177,17 @@ In that case, use a more straightforward option like Google Docs to dictate text
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-advanced-methods-for-recording-in-adobe-presenter/"><u>[Updated] 2024 Approved Advanced Methods for Recording in Adobe Presenter</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-capture-with-clarity-advanced-tips-for-gopro-hero5-black/"><u>[Updated] Capture with Clarity Advanced Tips for GoPro Hero5 Black</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-cartoonhub-master-review-2024-overview/"><u>[Updated] CartoonHub Master Review 2024 Overview</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/best-in-class-vertical-mice-for-enhanced-productivity-and-comfort/"><u>Best-in-Class Vertical Mice for Enhanced Productivity and Comfort</u></a></li>
-<li><a href="https://win-webster.techidaily.com/guide-to-downloading-and-converting-varzesh-3-shows-into-common-video-file-types-such-as-mov-mp4/"><u>Guide to Downloading & Converting Varzesh 3 Shows Into Common Video File Types Such as MOV, MP4</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-complexities-of-chroma-removal-kinemaster-edition/"><u>In 2024, Navigating the Complexities of Chroma Removal (KineMaster Edition)</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/maximize-your-device-choose-from-the-7-best-android-adblockers-for-2024/"><u>Maximize Your Device Choose From the 7 Best Android AdBlockers for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-for-successful-starfield-game-launches-on-pc-and-xbox-consoles/"><u>Solutions for Successful Starfield Game Launches on PC and Xbox Consoles</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/speak-out-altering-soundtracks-in-ps4ps5-games/"><u>Speak Out Altering Soundtracks in PS4/PS5 Games</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-ultimate-guide-to-mastering-igtv-content-creation-for-2024/"><u>The Ultimate Guide to Mastering IGTV Content Creation for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlock-the-secrets-of-movie-maker-for-windows-11-with-our-guide/"><u>Unlock the Secrets of Movie Maker for Windows 11 with Our Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-high-speed-windows-viewer-for-images/"><u>[New] High-Speed Windows Viewer for Images</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-advanced-gopro-editing-straightening-fisheye-lens/"><u>[Updated] Advanced GoPro Editing Straightening Fisheye Lens</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-motorola-moto-g34-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Motorola Moto G34 5G without App | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/achieving-fame-on-instagram-the-top-9-habits-of-stars-and-influencers-for-2024/"><u>Achieving Fame on Instagram The Top 9 Habits of Stars and Influencers for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/close-up-mastery-in-video-production-via-videoleap/"><u>Close-Up Mastery in Video Production via Videoleap</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-spectrum-of-excellence-top-5-tvs-for-grading-mastery/"><u>In 2024, A Spectrum of Excellence Top 5 TVs for Grading Mastery</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-upload-videos-effortlessly-with-premiere-on-youtube/"><u>In 2024, Upload Videos Effortlessly with Premiere on YouTube</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ion-audio-tailgater-plus-a-comprehensive-review-on-ultimate-sound-experience/"><u>ION Audio Tailgater Plus - A Comprehensive Review on Ultimate Sound Experience</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/master-live-stream-gaming-and-pc-monitoring-comprehensive-video-walkthrough-guides/"><u>Master Live Stream Gaming & PC Monitoring: Comprehensive Video Walkthrough Guides</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-sites-summarized-acquiring-personal-preferences-in-ringtone-vids/"><u>Premium Sites Summarized Acquiring Personal Preferences in Ringtone Vids</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-pcs-auto-snooze-problem-quick-fixes-inside/"><u>Solve Your PC's Auto-Snooze Problem: Quick Fixes Inside!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/timelessly-taken-selfies-from-the-bygone-era/"><u>Timelessly Taken Selfies From the Bygone Era</u></a></li>
 </ul></div>
 

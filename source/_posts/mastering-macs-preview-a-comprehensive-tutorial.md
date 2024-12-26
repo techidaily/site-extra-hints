@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Mac's Preview  A Comprehensive Tutorial\""
-date: 2024-12-15T00:21:27.325Z
-updated: 2024-12-17T19:51:26.438Z
+date: 2024-12-24T17:12:47.633Z
+updated: 2024-12-26T16:21:05.818Z
 tags: 
   - screen-recording
   - ai video
@@ -31,7 +31,7 @@ The **Preview app** is a built-in program in macOS, and works as a default viewe
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
@@ -39,10 +39,6 @@ That said, the sections below explain **how to use Preview on Mac** for elementa
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
 
@@ -72,10 +68,6 @@ Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup 
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Crop in Preview
 
 In order to crop a photo in the **Preview app**:
@@ -92,6 +84,10 @@ Drag the mouse pointer over the area of the photo you want to keep. If need be, 
 
 Keeping the area of interest on the photo selected, click **Crop** from the **Markup Toolbar** at the top to crop the image.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Rotate Image in Preview
 
 Rotating an image in the **Preview app** is fairly simple. To do so:
@@ -103,6 +99,10 @@ Use the method explained above to open the photo in Preview.
 **Step 2: Rotate the Image**
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
 
@@ -121,7 +121,7 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
@@ -139,10 +139,6 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -206,6 +202,10 @@ Choose a destination folder in the **Where** field, select your preferred format
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -221,20 +221,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-prime-sd-card-selections-for-optimal-gopro-hero-78-performance/"><u>[New] Prime SD Card Selections for Optimal GoPro Hero 7/8 Performance</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-advanced-tips-for-professionally-changing-image-hues/"><u>[Updated] Advanced Tips for Professionally Changing Image Hues</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-innovate-and-excel-at-fb-ads-unleash-the-potential-of-no-cost-tools/"><u>[Updated] In 2024, Innovate & Excel at FB Ads – Unleash the Potential of No-Cost Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovative-ideas-in-immersive-realms-30plus-quotes-to-motivate-you/"><u>2024 Approved Innovative Ideas in Immersive Realms 30+ Quotes to Motivate You</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/deciding-on-a-top-gopro-camera-max-or-hero-11/"><u>Deciding on a Top GoPro Camera Max or Hero 11?</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/descubra-su-windows-11-y-revele-archivos-escondidos-con-estas-cuatro-estrategias-innovadoras/"><u>Descubra Su Windows 11 Y Revele Archivos Escondidos Con Estas Cuatro Estrategias Innovadoras</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elite-zoonotic-pattern-compendium/"><u>Elite Zoonotic Pattern Compendium</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/evolutionary-leap-with-macos-11-big-sur-what-you-need/"><u>Evolutionary Leap with macOS 11 Big Sur – What You Need</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/faster-fluency-cognitive-strategies-for-effortless-language-acquisition/"><u>Faster Fluency: Cognitive Strategies for Effortless Language Acquisition</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-infinix-hot-40-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Infinix Hot 40 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-samsung-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Samsung?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-list-of-free-high-quality-video-playback-apps-pcmobile/"><u>In 2024, Comprehensive List of Free, High-Quality Video Playback Apps PC/Mobile</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/pearlescent-pictures-brighten-with-android/"><u>Pearlescent Pictures Brighten with Android</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/taking-down-the-veil-youtubes-most-elusive-videos-for-2024/"><u>Taking Down the Veil YouTube's Most Elusive Videos for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-iphone-and-icloud-sync-a-step-by-step-photo-arrangement-guide/"><u>The iPhone & iCloud Sync A Step-by-Step Photo Arrangement Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-2024s-elite-video-capturing-technology/"><u>[New] 2024'S Elite Video Capturing Technology</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-essential-learning-managing-incremental-sound-gain/"><u>[Updated] 2024 Approved Essential Learning Managing Incremental Sound Gain</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-virtual-worlds-compreenas-top-8-metaverse-headgear/"><u>[Updated] Mastering Virtual Worlds Compreenas Top 8 Metaverse Headgear</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-beyond-the-boundaries-limitations-in-vr/"><u>2024 Approved Beyond the Boundaries Limitations in VR</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-user-friendly-tutorial-switching-browsers-on-a-samsung-television-set/"><u>A User-Friendly Tutorial: Switching Browsers on a Samsung Television Set</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/assessing-the-pros-and-cons-of-lgs-usb-type-c-monitors/"><u>Assessing the Pros and Cons of LG's USB Type-C Monitors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/choosing-between-podcast-and-youtube-for-content-delivery-for-2024/"><u>Choosing Between Podcast and YouTube for Content Delivery for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creative-windows-tools-for-video-editing/"><u>Creative Windows Tools for Video Editing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhance-browsing-with-effortless-side-by-side-view-on-chromes-fullscreen/"><u>Enhance Browsing with Effortless Side-by-Side View on Chrome's Fullscreen</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/fast-windows-file-check-up-tips-and-tricks/"><u>Fast Windows File Check-Up Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/from-troubled-to-triumphant-the-end-of-easy-anti-cheat-problems-in-new-world-release/"><u>From Troubled to Triumphant: The End of Easy Anti-Cheat Problems in New World Release</u></a></li>
+<li><a href="https://extra-information.techidaily.com/future-filming-top-15-video-cameras-to-watch/"><u>Future Filming – Top 15 Video Cameras to Watch</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-mix-fold-3-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Xiaomi Mix Fold 3 Lock Screen Password?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/redefining-portability-and-power-the-new-era-of-apple-macbook-air-laptops-with-m1-chip-in-action-2020/"><u>Redefining Portability and Power: The New Era of Apple MacBook Air Laptops with M1 Chip in Action (2020)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-destiny-2s-silent-streets-reactivating-voice-chat-for-gaming-communication/"><u>Solving Destiny 2'S Silent Streets: Reactivating Voice Chat for Gaming Communication</u></a></li>
 </ul></div>
 

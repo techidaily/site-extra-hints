@@ -1,7 +1,7 @@
 ---
 title: "Implementing Photography Snippets From Videos"
-date: 2024-12-13T21:21:45.064Z
-updated: 2024-12-17T17:52:31.566Z
+date: 2024-12-21T17:35:13.544Z
+updated: 2024-12-26T17:29:33.852Z
 tags: 
   - screen-recording
   - ai video
@@ -35,7 +35,7 @@ In this article, you will learn how to save photo from Windows 10 Photos app and
 * [**Part3: Alternative way to save photo from video**](#part3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to save photo from Windows 10 Photos app
@@ -52,7 +52,7 @@ Creating a living image:
 ![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Now, you can see the living picture by tapping ‘Play’ button.
@@ -66,27 +66,27 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Why I can’t save photo from video
 
 In case, you are not able to save photos from video on Windows 10 Photos App. There might be issues with an outdated [Microsoft OS patch update](https://support.microsoft.com/en-us/help/311047/how-to-keep-your-windows-computer-up-to-date) or the Microsoft account is having any problem. But, you don’t have to worry about the same.
 
 We are explaining the solutions here –
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Check the update
 
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Alternative way to save photo from video
 
@@ -100,10 +100,6 @@ Here comes the guide –
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
 
@@ -112,6 +108,10 @@ Here comes the guide –
 We provided you some knowledge on how to save a photo from video Windows 10 Photos. Out of the multiple ways to save photos from videos, you can try what suits you best. If you want to go for a desktop based application, then Windows Photos serves you best. But, when you want to get things done online, you can pick ScreenShot for that matter. Hope you liked our efforts!
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -128,20 +128,17 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-how-to-seamlessly-add-and-edit-audio-to-canvas-clips/"><u>[New] How to Seamlessly Add and Edit Audio to Canvas Clips</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-essential-steps-to-update-your-macos-sierra-system/"><u>[New] In 2024, Essential Steps to Update Your macOS Sierra System</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-journey-to-profitable-youtube-video-creation-for-2024/"><u>[New] The Journey to Profitable YouTube Video Creation for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-assortment-professional-webcam-platforms/"><u>[Updated] Best Assortment Professional Webcam Platforms</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-expert-setting-up-a-sports-channel-on-mac/"><u>[Updated] In 2024, From Novice to Expert Setting up a Sports Channel on Mac</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-audiorecorder-examination/"><u>2024 Approved Audiorecorder Examination</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/breaking-down-browser-issues-eliminate-video-blackouts-in-facebook-chats-for-2024/"><u>Breaking Down Browser Issues Eliminate Video Blackouts in Facebook Chats for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discovering-samsungs-updated-ultrablade-k850/"><u>Discovering Samsung's Updated UltraBlade K850</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/effective-strategies-to-craft-influential-patient-stories-on-film/"><u>Effective Strategies to Craft Influential Patient Stories on Film</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/first-film-experience-selecting-best-gopro-extras/"><u>First Film Experience Selecting Best GoPro Extras</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/permanent-name-shift-on-google-meet-devices-for-2024/"><u>Permanent Name Shift on Google Meet Devices for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-guide-download-linksys-wrt1900ac-router-drivers-simple-installation-steps/"><u>Quick Guide: [DOWNLOAD] Linksys WRT1900AC Router Drivers - Simple Installation Steps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/skys-the-limit-crafting-professional-drone-videos/"><u>Sky's the Limit Crafting Professional Drone Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-essential-playbook-turning-your-phone-into-a-vr-setup/"><u>The Essential Playbook Turning Your Phone Into a VR Setup</u></a></li>
-<li><a href="https://video-capture.techidaily.com/vintage-video-card-patch-for-2024/"><u>Vintage Video Card Patch for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-21-pioneering-metaverse-ventures-for-insightful-discussion/"><u>[New] 21 Pioneering Metaverse Ventures for Insightful Discussion</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/op-20-free-footage-sites-a-comprehensively-curated-list-for-2024/"><u>[New] Top 20 Free Footage Sites A Comprehensively Curated List for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-concepts-behind-striking-fb-video-promos-for-2024/"><u>[Updated] Concepts Behind Striking FB Video Promos for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-unveiling-a-simple-yet-powerful-copywriting-model-for-ads/"><u>[Updated] In 2024, Unveiling a Simple, Yet Powerful Copywriting Model for Ads</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-accelerate-office-productivity-with-speech-recognition-word/"><u>2024 Approved Accelerate Office Productivity with Speech Recognition (Word)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-properly-posted-tweets-with-professional-videos/"><u>2024 Approved Properly Posted Tweets with Professional Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-step-by-step-guide-to-set-your-tiktok-track-as-ringtone/"><u>A Step-by-Step Guide to Set Your TikTok Track as Ringtone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/complete-samsung-t1-drive-reset-instructions-official-and-non-official-methods-explored/"><u>Complete Samsung T1 Drive Reset Instructions - Official and Non-Official Methods Explored</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/editing-like-a-pro-a-comprehensive-online-video-guide-for-2024/"><u>Editing Like a Pro A Comprehensive Online Video Guide for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mellow-mixdowns-lowlighting-with-ease-in-garageband/"><u>Mellow Mixdowns Lowlighting with Ease in Garageband</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-top-10-storyboarding-software-freeandpaid/"><u>New 2024 Approved Top 10 Storyboarding Software Free&Paid</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transformar-archivos-de-imagenes-animadas-en-formato-avi-sin-costo-con-conversion-online-gratuita-de-movavi/"><u>Transformar Archivos De Imágenes Animadas en Formato AVI Sin Costo Con Conversión Online Gratuita De Movavi</u></a></li>
 </ul></div>
 
