@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Building Animated Storyboards in Movie Maker"
-date: 2024-12-20T16:11:22.908Z
-updated: 2024-12-26T17:22:39.212Z
+date: 2024-12-30T23:07:19.177Z
+updated: 2025-01-05T01:34:06.696Z
 tags: 
   - screen-recording
   - ai video
@@ -32,6 +32,10 @@ On your PC, launch Windows Movie Maker. Windows Movie Maker, however, has to be 
 
 ![import video to movie maker](https://images.wondershare.com/filmora/article-images/2022/09/import-video-to-movie-maker.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.wondershare.com/assets/images-common/icon-note.png)
 
 **Note:** You have the option to upload one file at a time or many files simultaneously.
@@ -41,10 +45,6 @@ On your PC, launch Windows Movie Maker. Windows Movie Maker, however, has to be 
 If you wish to clip off a section, go to "Edit" under "Video Tools" and choose the "Split" option. Depending on where you place the cursor during the section, the software will divide it into two halves. If you want to remove certain snippets, just touch the clip to reveal the context menu and choose "Remove" or "Delete" from the keyboard.
 
 ![preview video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/preview-video-movie-maker.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step3Open the Animation Tab
 
@@ -58,15 +58,19 @@ Between two multimedia portions, a transition effect may be added. In the "Anima
 
 ![add transitions movie maker](https://images.wondershare.com/filmora/article-images/2022/09/add-transitions-movie-maker.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step5Save the Video
 
 When a transition is applied, a washed-out diagonal zone on the clip in the timeline indicates where the transition starts and finishes. Additionally, you have a choice in the sequence in which the effects are used. This may change how the movie is finally shown depending on the Effects, you choose. Once you're done, click Apply.
 
 ![save animation video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/save-animation-video-movie-maker.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. Movie Maker Alternative to Add Animations
 
@@ -95,7 +99,7 @@ Filmora helps you create your text animation using the controller window as seen
 The software's Preview window also allows you to preview the animation you've selected before adding it to the timeline with a few simple drag-and-drop actions. After finishing the production and editing of the instructional video, you may save it for distribution on social media. You may choose to save the document as an MP4, WMV, AVI, MOV, or even a GIF file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. Related FAQs about Windows Movie Maker
@@ -124,15 +128,15 @@ You may add two distinct types of animations—Transitions and Pan and Zoom—to
 
 ![animation tab movie maker](https://images.wondershare.com/filmora/article-images/2022/09/animation-tab-movie-maker.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step4Add Transitions
 
 Between two multimedia portions, a transition effect may be added. In the "Animations" section, there are many different transitions available, including dissolves, patterns, and forms. The transition will be included at the start of the chosen medium. You may alter the effect's duration by writing or choosing a new time frame from the dropdown menu next to "Duration."
 
 ![add transitions movie maker](https://images.wondershare.com/filmora/article-images/2022/09/add-transitions-movie-maker.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step5Save the Video
 
@@ -165,10 +169,6 @@ Filmora helps you create your text animation using the controller window as seen
 ##### Step4Export the Project
 
 The software's Preview window also allows you to preview the animation you've selected before adding it to the timeline with a few simple drag-and-drop actions. After finishing the production and editing of the instructional video, you may save it for distribution on social media. You may choose to save the document as an MP4, WMV, AVI, MOV, or even a GIF file.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. Related FAQs about Windows Movie Maker
 
@@ -208,24 +208,24 @@ Simple movies may be easily made using Windows Live Movie Maker. With Windows Vi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-compare-and-contrast-best-6-hdmi-monitor-models-in-detail-for-2024/"><u>[Updated] Compare & Contrast Best 6 HDMI Monitor Models in Detail for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-smartphone-to-screen-uploading-pics-on-youtube/"><u>[Updated] From Smartphone to Screen Uploading Pics on YouTube</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-craft-compelling-youtube-titles-faster-than-ever/"><u>2024 Approved Craft Compelling YouTube Titles Faster Than Ever</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ace-the-game-download-every-tiktok-video-with-ease/"><u>Ace the Game Download Every TikTok Video with Ease</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apples-newest-personal-robot-for-home-use-projections-of-cost-and-release-date-with-insights-into-capabilities/"><u>Apple's Newest Personal Robot for Home Use: Projections of Cost and Release Date with Insights Into Capabilities</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cutting-edge-live-broadcast-solutions/"><u>Cutting-Edge Live Broadcast Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-shortcuts-for-sounding-unique-and-dynamic-in-pubg/"><u>Essential Shortcuts for Sounding Unique and Dynamic in PUBG</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/estimating-24-hour-films-data-footprint/"><u>Estimating 24-Hour Film's Data Footprint</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-authentic-praise-amplified-branding/"><u>In 2024, Authentic Praise, Amplified Branding</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-chasing-titles-key-moments-from-2022-olympics-short-tracks/"><u>In 2024, Chasing Titles Key Moments From 2022 Olympics Short Tracks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/progressive-audio-softening-methods/"><u>Progressive Audio Softening Methods</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-for-fresh-targus-displaylink-driver-updates-on-windows-11-ve-or-7-systems/"><u>Step-by-Step Instructions for Fresh Targus DisplayLink Driver Updates on Windows 11, Ve, or 7 Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/the-blueprint-for-successful-driver-modifications-in-windows-8os/"><u>The Blueprint for Successful Driver Modifications in Windows 8OS</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-complete-audit-of-podcasting-expenses/"><u>The Complete Audit of Podcasting Expenses</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-roadmap-to-instagram-star-status-9-must-do-tactics/"><u>The Roadmap to Instagram Star Status 9 Must-Do Tactics</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tips-for-transforming-twitter-videos-into-audio-songs-mp3/"><u>Tips for Transforming Twitter Videos Into Audio Songs (MP3)</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-fix-missing-airpods-on-apples-find-my-network/"><u>Troubleshooting Guide: How to Fix Missing AirPods on Apple's Find My Network</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unleashing-youtube-profits-non-ad-revenue-techniques-for-growth-for-2024/"><u>Unleashing YouTube Profits Non-Ad Revenue Techniques for Growth for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-boosting-visual-appeal-in-tiktok-videos/"><u>[New] Boosting Visual Appeal in TikTok Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-calculating-viewing-time-for-a-20mb-video/"><u>[New] Calculating Viewing Time for a 20Mb Video</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-clash-of-shadows-and-lightning-black-vs-silver/"><u>[New] Clash of Shadows and Lightning BLACK vs SILVER</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-ideal-practices-for-mobile-and-dslr-crafting-impeccable-igtv-videos-for-2024/"><u>[New] Ideal Practices for Mobile & DSLR Crafting Impeccable IGTV Videos for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-discovering-deliciousness-tiktoks-most-shared-snacks/"><u>[Updated] In 2024, Discovering Deliciousness TikTok's Most Shared Snacks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discover-the-top-5-audio-editors-empowering-vtuber-creators/"><u>Discover the Top 5 Audio Editors Empowering VTuber Creators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/editors-essential-17-tools-to-seamlessly-sharpen-images/"><u>Editor's Essential 17 Tools to Seamlessly Sharpen Images</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-facile-transformer-votre-dvd-en-fichier-mp4-gratuit-sur-windowsmac-a-laide-de-winxdvd/"><u>Guide Facile : Transformer Votre DVD en Fichier MP4 Gratuit Sur Windows/Mac À L'aide De WinXDVD</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ignite-your-youtube-streams-no-subscriber-count-needed/"><u>Ignite Your Youtube Streams – No Subscriber Count Needed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-11-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 11 Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-oppo-reno-11f-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Oppo Reno 11F 5G FRP Locks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-mastering-yt-creator-hub-the-ultimate-playbook/"><u>In 2024, Mastering YT Creator Hub The Ultimate Playbook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-farming-revamp-7-14-mod-comparison-guide/"><u>The Ultimate Farming Revamp #7-14 Mod Comparison Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-viral-instagram-unboxing-vids/"><u>The Ultimate Guide to Viral Instagram Unboxing Vids</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlock-iphone-photo-potential-with-leading-line-techniques/"><u>Unlock iPhone Photo Potential with Leading Line Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unraveling-adobe-writes-on-shake-reduction-in-photos/"><u>Unraveling Adobe’ Writes on Shake Reduction in Photos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/virtual-collaboration-share-your-screens-with-facebook-viewers-for-2024/"><u>Virtual Collaboration Share Your Screens with Facebook Viewers for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-xcover-6-pro-tactical-edition-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy XCover 6 Pro Tactical Edition Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/wilderness-wisdom-from-ai-can-it-prevent-danger/"><u>Wilderness Wisdom From AI: Can It Prevent Danger?</u></a></li>
 </ul></div>
 

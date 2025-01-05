@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Hues Handbook  Theory Meets Technique\""
-date: 2024-12-20T17:13:26.100Z
-updated: 2024-12-26T17:00:33.705Z
+date: 2024-12-30T18:09:43.936Z
+updated: 2025-01-04T20:12:57.601Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ So, you've heard about color theory but don't know what it is or how to use it a
 
 If you are more selective with your colors in your videos or imagery the viewer will find this aesthetically pleasing and may be more engaged in your content. This includes anything from logo design all the way to props for your shot. When creating your videos within Filmora it is good practice to think about your composition in all aspects including color theory and with the guide hopefully you will have a better understanding of how you can influence your color palette.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Color Theory
 
 Color theory consists of many elements that could fill a library on its own but for this guide we will focus on two key elements. The color wheel and color harmony. By understanding the color wheel and color harmony you can hand pick which colors to add or use in your pieces to create a well-balanced viewing experience which can help in viewer engagement and enjoyment.
@@ -29,7 +33,7 @@ Color theory consists of many elements that could fill a library on its own but 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Color Wheel
@@ -47,7 +51,7 @@ So now we know how the wheel is made and what it looks like. What does it do? We
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
@@ -59,7 +63,7 @@ The blue lines represent what is known as split contrasting colors and these wil
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But How Do I Use This
@@ -75,14 +79,10 @@ As you can see from this example the base color for the scene is a dark blue/pur
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -118,19 +118,20 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-amplify-your-videos-reach-perfect-title-description-and-tags/"><u>[New] 2024 Approved Amplify Your Video's Reach Perfect Title, Description & Tags</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-precision-cutting-for-impressive-youtube-videos/"><u>[New] 2024 Approved Precision Cutting for Impressive YouTube Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-art-of-influencing-amplifying-instagram-post-reach/"><u>[New] 2024 Approved The Art of Influencing Amplifying Instagram Post Reach</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-winning-at-windows-11-image-tweaking-tricks-for-2024/"><u>[New] Winning at Window's 11 Image Tweaking Tricks for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-cameras-to-capture-slow-motion-videos/"><u>[Updated] Best Cameras to Capture Slow Motion Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-seamless-transitions-the-top-6-mac-apps-to-cut-videos-in-big-sur-for-2024/"><u>[Updated] Seamless Transitions The Top 6 Mac Apps to Cut Videos in Big Sur for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-mobile-camera-best-android-practices/"><u>2024 Approved Mastering Mobile Camera Best Android Practices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comparing-apples-m1-pro-and-m1-max-key-distinctions/"><u>Comparing Apple's M1 Pro and M1 Max Key Distinctions</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Realme GT 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/pro-level-acid-review-and-beyond-comparisons/"><u>Pro-Level ACID Review and Beyond Comparisons</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/switch-from-youtube-thumbnail-view-to-live-stream/"><u>Switch From YouTube Thumbnail View to Live Stream</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unparalleled-narratives-in-film-mastery/"><u>Unparalleled Narratives in Film Mastery</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/vr-unveiled-understanding-the-digital-illusion/"><u>VR Unveiled Understanding the Digital Illusion</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-androidiphone-top-10-vr-gaming-picks/"><u>[New] Android/iPhone Top 10 VR Gaming Picks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-stream-like-a-champion-top-3-techniques-for-successful-lol-gameplay-capture/"><u>[Updated] In 2024, Stream Like a Champion Top 3 Techniques for Successful LOL Gameplay Capture</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/assemble-films-for-streaming-organization-for-2024/"><u>Assemble Films for Streaming Organization for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boosting-collaboration-essential-zoom-video-alterations/"><u>Boosting Collaboration Essential Zoom Video Alterations</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/breaking-the-mold-pushing-a-video-into-hot-water/"><u>Breaking the Mold Pushing a Video Into Hot Water</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/drive-your-website-traffic-with-our-effective-cookiebot-powered-solutions/"><u>Drive Your Website Traffic with Our Effective Cookiebot-Powered Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-iphone-image-clarity-and-focus/"><u>Enhancing iPhone Image Clarity and Focus</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-iphone-and-android-apps-to-transform-your-gopro-shots/"><u>Essential iPhone & Android Apps to Transform Your GoPro Shots</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-download-get-your-samsung-c460-drivers-instantly/"><u>Fast Download: Get Your Samsung C460 Drivers Instantly!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-printer-driver-downloads-compatible-versions-and-installation-guide/"><u>HP Printer Driver Downloads: Compatible Versions & Installation Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-saves-free-and-without-end/"><u>Instagram Saves Free and Without End</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/premium-bargains-no-cost-screen-recorder-extensions-for-chromeos-for-2024/"><u>Premium Bargains No-Cost Screen Recorder Extensions for ChromeOS for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/techniques-for-downloading-converting-and-saving-vids-on-twitter-as-mp3s/"><u>Techniques for Downloading, Converting, and Saving Vids on Twitter as MP3s</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unveiling-5-must-have-mac-tools-for-effortless-sniping/"><u>Unveiling 5 Must-Have Mac Tools for Effortless Sniping</u></a></li>
 </ul></div>
 

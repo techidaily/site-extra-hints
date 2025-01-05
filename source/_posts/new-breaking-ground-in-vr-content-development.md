@@ -1,7 +1,7 @@
 ---
 title: "[New] Breaking Ground in VR Content Development"
-date: 2024-12-23T17:20:57.675Z
-updated: 2024-12-26T17:04:38.314Z
+date: 2024-12-31T21:45:09.230Z
+updated: 2025-01-04T23:38:22.710Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
  The world of Virtual Reality has been more entertaining throughout the development of technology. The VR content is the latest and most entertaining concept in line with virtual reality. The wide scale innovative technology is set to make the big difference in creating videos and documentations. A high quality and interactive approach on VR content are given by the birth of the VR content company known as With.in. The company was founded by the award-winning director Chris Milk and the famous technologist Aaron Koblin. The goal of the two is discovered more the immersive potential of storytelling. A new line of creative ways is made in order to expand the possibilities of the storytelling concept using VR content.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does [With.in]( https://with.in/ ) Do?
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Art Work of With.in
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## About Chris Milk
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -99,17 +99,17 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fast-tip-mastering-green-screen-techniques/"><u>[New] In 2024, Fast Tip Mastering Green Screen Techniques</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-beginners-roadmap-to-choosing-a-camera-for-2024/"><u>[New] The Beginner's Roadmap to Choosing a Camera for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-jumpstart-your-meme-making-skills-with-9gag-techniques/"><u>[Updated] Jumpstart Your Meme-Making Skills with 9GAG Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-step-by-step-approach-to-macos-sierra-integration-for-2024/"><u>A Step-by-Step Approach to macOS Sierra Integration for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/audio-input-reduction-zero-price-included-for-2024/"><u>Audio Input Reduction - Zero Price Included for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cutting-edge-tools-for-inserting-text-into-pictures/"><u>Cutting-Edge Tools for Inserting Text Into Pictures</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhancing-your-aural-experience-on-win-1011-screens/"><u>Enhancing Your Aural Experience on Win 10/11 Screens</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/flagship-faceoff-deciding-between-the-newest-samsung-galaxy-tab-s9-ultra-and-apples-latest-ipad-pro-for-your-needs-gadgetguru/"><u>Flagship Faceoff: Deciding Between the Newest Samsung Galaxy Tab S9 Ultra and Apple's Latest iPad Pro for Your Needs | GadgetGuru</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/guia-paso-a-paso-para-clonear-el-arranque-secure-boot-en-windows-1110/"><u>Guía Paso a Paso Para Clonear El Arranque Secure Boot en Windows 11/10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-celebratory-closures-from-bare-bones-to-full-featured/"><u>In 2024, Celebratory Closures From Bare-Bones to Full-Featured</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-understanding-haul-content-production-and-post-production-techniques/"><u>In 2024, Understanding Haul Content Production & Post-Production Techniques</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-honor-90-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Honor 90 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-master-review-unveiling-the-full-potential-of-android-lightroom/"><u>[Updated] 2024 Approved Master Review Unveiling the Full Potential of Android Lightroom</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-navigating-kinemasters-zoom-features-for-professional-results/"><u>[Updated] 2024 Approved Navigating Kinemaster's Zoom Features for Professional Results</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/convert-your-room-into-a-professional-studio-via-vlc-for-2024/"><u>Convert Your Room Into a Professional Studio via VLC for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dji-phantom-3-pro-an-in-depth-analysis/"><u>DJI Phantom 3 Pro An In-Depth Analysis</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/emoji-essentials-top-twitter-tools-with-perfect-gifs-2024/"><u>Emoji Essentials - Top Twitter Tools with Perfect GIFs, 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-asmr-magic-made-simple-high-performance-at-economic-prices/"><u>In 2024, ASMR Magic Made Simple High Performance at Economic Prices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-keyword-compendium-for-gamers-youtube-vids/"><u>In 2024, The Ultimate Keyword Compendium for Gamers' YouTube Vids</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-tales-leading-academies-for-aspiring-narrators/"><u>Mastering Tales Leading Academies for Aspiring Narrators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/screencasting-app-performance-examination/"><u>ScreenCasting App Performance Examination</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-8-immersive-titles-with-oculus-support-for-2024/"><u>Top 8 Immersive Titles with Oculus Support for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-assassins-creed-odyssey-how-to-stop-your-game-from-freezing/"><u>Troubleshooting Assassin's Creed Odyssey: How to Stop Your Game From Freezing</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-from-capture-to-edit-the-top-10-vlog-editor-apps-for-ios-and-android-for-2024/"><u>Updated From Capture to Edit The Top 10 Vlog Editor Apps for iOS and Android for 2024</u></a></li>
 </ul></div>
 
