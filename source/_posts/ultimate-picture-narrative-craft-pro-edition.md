@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Picture Narrative Craft - Pro Edition\""
-date: 2024-12-23T17:39:51.957Z
-updated: 2024-12-26T17:08:47.246Z
+date: 2025-01-06T20:06:57.001Z
+updated: 2025-01-11T16:49:28.734Z
 tags: 
   - screen-recording
   - ai video
@@ -41,7 +41,7 @@ Wondershare Photo Story Platinum is an intuitive photo slideshow maker which you
 * Directly share on YouTube, Facebook & virtually anywhere.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Use Wondershare Photo Story Platinum for Windows and Mac
@@ -57,10 +57,6 @@ After the mode selection, click the Add Files button to import your photos and v
 
 ![photo story](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Step 2\. Personalize your photo story
 
 Click the Personalize tab. Then you can add transitions, effects, background music and more t create your own gorgeous photo story.
@@ -68,10 +64,6 @@ Click the Personalize tab. Then you can add transitions, effects, background mus
 You can import your photos and videos at one time and arrange the order by dragging. To tell your own photo story, you can add captions to each photo or record your own voice by click the Voice Over button.
 
 ![Photo Story Platinum](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 3\. Publish your photo story
 
@@ -82,10 +74,14 @@ The photo story maker provides sorts of methods for you. For example, if you wan
 ![photo dvd](https://images.wondershare.com/guide/images/dvd-slideshow-builder-deluxe-ug3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Learn more: [user guide of Photo Story Platinum for Windows](https://tools.techidaily.com/wondershare/dvd-slideshow-builder-deluxe/download/) here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Supported Output Formats by Web Converter
 
@@ -98,10 +94,14 @@ Learn about the detailed [technical specifications](https://tools.techidaily.com
 
 [![Download Win Version](https://images.wondershare.com/style/images/download-btn-win.png)](https://download.wondershare.com/dsb%5Fdeluxe%5Ffull18.exe)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -119,14 +119,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-pathway-to-accessing-fb-videos-via-windowsmacos/"><u>[New] 2024 Approved Pathway to Accessing FB Videos via Windows/macOS</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-capturing-clarity-strategic-angles-for-excellent-iphone-photos/"><u>[New] Capturing Clarity Strategic Angles for Excellent iPhone Photos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-recording-lenovo-fast-and-fuss-free-tips/"><u>[New] In 2024, Recording Lenovo Fast and Fuss-Free Tips</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-premier-free-tools-for-easy-jpggif-transformation-for-2024/"><u>[Updated] Premier Free Tools for Easy JPG/GIF Transformation for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/array-of-unique-video-cameras-by-type/"><u>Array of Unique Video Cameras by Type</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/avoid-abrupt-jumps-perfecting-inshot-transitions/"><u>Avoid Abrupt Jumps Perfecting Inshot Transitions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/live-photos-for-beginners-an-iphone-guide/"><u>Live Photos for Beginners An iPhone Guide</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/master-your-pc-with-god-mode-in-windows-11-essential-setup-steps-and-expert-reasons-for-using-it-tech-tips/"><u>Master Your PC with God Mode in Windows 11: Essential Setup Steps & Expert Reasons for Using It | Tech Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-your-screenplay-netflix-speed-controls-for-2024/"><u>Mastering Your Screenplay (Netflix) - Speed Controls for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-resolving-iphone-shot-unfocus-issues-quickly/"><u>[Updated] Resolving iPhone Shot Unfocus Issues Quickly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-adobe-auditions-guide-to-incremental-volume/"><u>2024 Approved Adobe Audition's Guide to Incremental Volume</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-how-to-use-virtual-reality-tours/"><u>2024 Approved How to Use Virtual Reality Tours</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dispelling-the-curvature-how-to-fix-gopros-fish-eye/"><u>Dispelling The Curvature How to Fix GoPro's Fish Eye</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-the-simple-way-to-install-a-new-validity-fingerprint-sensor-driver/"><u>Download and Upgrade: The Simple Way to Install a New Validity Fingerprint Sensor Driver</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-fledgling-to-front-runner-flourishing-in-follower-count/"><u>From Fledgling to Front-Runner Flourishing in Follower Count</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-onscreen-excellence-flexible-talent-access/"><u>In 2024, Onscreen Excellence Flexible Talent Access</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-top-stunts-and-tricks-at-snowboarding-x-olympics/"><u>In 2024, Top Stunts and Tricks at Snowboarding X-Olympics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-multi-background-streaming-the-green-screen-way/"><u>Mastering Multi-Background Streaming The Green Screen Way</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfect-classic-vacation-flicks-top-10-for-summer-fun/"><u>Perfect Classic Vacation Flicks Top 10 for Summer Fun</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/preventing-discomfort-vives-motion-illness-tips/"><u>Preventing Discomfort Vive's Motion Illness Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reactive-solutions-for-your-turtle-beach-mic-not-working-problems/"><u>Reactive Solutions for Your Turtle Beach Mic Not Working Problems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/shake-up-your-streams-xplit-alternatives-explored/"><u>Shake Up Your Streams Xplit-Alternatives Explored</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tailoring-drone-video-quality-with-expert-gimbal-choices/"><u>Tailoring Drone Video Quality with Expert Gimbal Choices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-considerations-for-enhancing-your-4k-cinematic-quality/"><u>Top Considerations for Enhancing Your 4K Cinematic Quality</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-troubleshooting-steps-when-finals-wont-start/"><u>Ultimate Guide: Troubleshooting Steps When Finals Won't Start</u></a></li>
 </ul></div>
 

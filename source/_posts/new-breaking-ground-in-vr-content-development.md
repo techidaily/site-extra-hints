@@ -1,7 +1,7 @@
 ---
 title: "[New] Breaking Ground in VR Content Development"
-date: 2024-12-31T21:45:09.230Z
-updated: 2025-01-04T23:38:22.710Z
+date: 2025-01-04T16:40:40.687Z
+updated: 2025-01-11T19:29:04.639Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
  The world of Virtual Reality has been more entertaining throughout the development of technology. The VR content is the latest and most entertaining concept in line with virtual reality. The wide scale innovative technology is set to make the big difference in creating videos and documentations. A high quality and interactive approach on VR content are given by the birth of the VR content company known as With.in. The company was founded by the award-winning director Chris Milk and the famous technologist Aaron Koblin. The goal of the two is discovered more the immersive potential of storytelling. A new line of creative ways is made in order to expand the possibilities of the storytelling concept using VR content.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Does [With.in]( https://with.in/ ) Do?
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
  Aside from the sister company, Here Be Dragons, With.in also works with other companies such as Apple, The New York Times, NBC, Vice Media and the United Nations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Art Work of With.in
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 * **The Click Effect**  The short film is about an underwater adventure that takes the viewer to the beauty of the ocean. A person will have the connection with not only the ocean but also the dolphin and whales. A free-spirited approach to the right ocean adventure is displayed in the short film.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## About Chris Milk
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/a333bfbef34affdca1048ed2699696db5230242a1
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Liza Brown
@@ -99,17 +99,18 @@ Follow @Liza Brown
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-master-review-unveiling-the-full-potential-of-android-lightroom/"><u>[Updated] 2024 Approved Master Review Unveiling the Full Potential of Android Lightroom</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-navigating-kinemasters-zoom-features-for-professional-results/"><u>[Updated] 2024 Approved Navigating Kinemaster's Zoom Features for Professional Results</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/convert-your-room-into-a-professional-studio-via-vlc-for-2024/"><u>Convert Your Room Into a Professional Studio via VLC for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dji-phantom-3-pro-an-in-depth-analysis/"><u>DJI Phantom 3 Pro An In-Depth Analysis</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/emoji-essentials-top-twitter-tools-with-perfect-gifs-2024/"><u>Emoji Essentials - Top Twitter Tools with Perfect GIFs, 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-asmr-magic-made-simple-high-performance-at-economic-prices/"><u>In 2024, ASMR Magic Made Simple High Performance at Economic Prices</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-keyword-compendium-for-gamers-youtube-vids/"><u>In 2024, The Ultimate Keyword Compendium for Gamers' YouTube Vids</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-tales-leading-academies-for-aspiring-narrators/"><u>Mastering Tales Leading Academies for Aspiring Narrators</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/screencasting-app-performance-examination/"><u>ScreenCasting App Performance Examination</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-8-immersive-titles-with-oculus-support-for-2024/"><u>Top 8 Immersive Titles with Oculus Support for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-assassins-creed-odyssey-how-to-stop-your-game-from-freezing/"><u>Troubleshooting Assassin's Creed Odyssey: How to Stop Your Game From Freezing</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-from-capture-to-edit-the-top-10-vlog-editor-apps-for-ios-and-android-for-2024/"><u>Updated From Capture to Edit The Top 10 Vlog Editor Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-8-pioneering-online-photo-combination-suite/"><u>[New] 8 Pioneering Online Photo Combination Suite</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-essential-youtube-equipment-for-starting-your-channel/"><u>[Updated] In 2024, Essential YouTube Equipment For Starting Your Channel</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/calculating-expenses-in-your-yt-marketing-strategy-for-2024/"><u>Calculating Expenses in Your YT Marketing Strategy for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/choreographing-gripping-podcast-endings/"><u>Choreographing Gripping Podcast Endings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-issues-of-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone 12 mini</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-realme-narzo-60-pro-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Realme Narzo 60 Pro 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introspection-and-understanding-the-gpt-way-to-emotional-mastery/"><u>Introspection & Understanding: The GPT Way to Emotional Mastery</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimal-choice-of-drones-for-buyers/"><u>Optimal Choice of Drones for Buyers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pixelated-persistence-selecting-the-ultimate-cam-for-extended-shots/"><u>Pixelated Persistence Selecting the Ultimate Cam for Extended Shots</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-tecno-phantom-v-flip-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Phantom V Flip Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/top-picks-the-most-advanced-online-mic-recorders-of-23/"><u>Top Picks The Most Advanced Online Mic Recorders of '23</u></a></li>
 </ul></div>
 

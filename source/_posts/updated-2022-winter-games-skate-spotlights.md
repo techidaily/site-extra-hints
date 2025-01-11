@@ -1,7 +1,7 @@
 ---
 title: "[Updated] 2022 Winter Games Skate Spotlights"
-date: 2024-12-19T16:47:25.718Z
-updated: 2024-12-26T17:15:12.236Z
+date: 2025-01-08T18:42:53.948Z
+updated: 2025-01-11T16:29:42.748Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,10 @@ Nathan Chen of the United States reacts to winning the gold medal at the 2022 Be
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
@@ -42,31 +46,23 @@ Shoma Uno of Japan won the bronze medal with a combined score of 293 points and 
 
 ![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
@@ -89,7 +85,7 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
@@ -99,7 +95,7 @@ Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
@@ -107,6 +103,10 @@ Step 4: You need to add all imported media files to Video Timeline while you sho
 Step 5: Select individual or multiple slides and add Transitions, Effects, Titles and Elements.
 
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -121,17 +121,20 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-8-youtube-thumbnail-secrets-for-high-traffic-videos/"><u>[New] Top 8 YouTube Thumbnail Secrets for High Traffic Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-virtual-lens-a-study-of-app-reviews/"><u>[Updated] 2024 Approved Virtual Lens A Study of App Reviews</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-award-winning-scripts-exposed/"><u>[Updated] Award-Winning Scripts Exposed</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-mastering-memes-kinemaster-guide/"><u>[Updated] In 2024, Mastering Memes KineMaster Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oppo-find-x7-ultra-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo Find X7 Ultra Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-throw-a-memorable-labor-day-bash-expert-advice-and-must-have-ideas-curated-by-zdnet/"><u>How to Throw a Memorable Labor Day Bash: Expert Advice & Must-Have Ideas Curated by ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-infinix-hot-40-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Infinix Hot 40 Pro Phones</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-tecno-phantom-v-folds-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Tecno Phantom V Folds Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/secrets-of-success-in-capturing-breathtaking-gopro-time-lapse/"><u>Secrets of Success in Capturing Breathtaking GoPro Time-Lapse</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tailoring-podcast-sharing-for-instagram-enthusiasts/"><u>Tailoring Podcast Sharing for Instagram Enthusiasts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-complete-review-lg-360-camera-cutting-edge-2023-edition/"><u>The Complete Review LG 360 Camera - Cutting-Edge 2023 Edition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-strategies-how-artificial-intelligence-revolutionizes-the-future-of-grocery-retail-insights-from-zdnet/"><u>Top Strategies: How Artificial Intelligence Revolutionizes the Future of Grocery Retail - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-overcoming-facebook-algorithm-change-hurdles/"><u>[New] 2024 Approved Overcoming Facebook Algorithm Change Hurdles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-techniques-to-achieve-consistent-frame-rates-in-obs-studio/"><u>[Updated] In 2024, Techniques to Achieve Consistent Frame Rates in OBS Studio</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/complete-manual-integrating-srt-into-mp4-files/"><u>Complete Manual Integrating SRT Into MP4 Files</u></a></li>
+<li><a href="https://facebook.techidaily.com/crafting-a-comprehensive-guide-to-social-account-linking-for-xbox/"><u>Crafting a Comprehensive Guide to Social Account Linking for Xbox</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000585923-frozen-in-action-solve-warframes-freezing-problem-once-and-for-all/"><u>Frozen in Action? Solve Warframe's Freezing Problem Once & For All!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gadget-games-galore-quickest-quality-flash-titles/"><u>Gadget Games Galore Quickest Quality Flash Titles</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-vivo-x100-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo X100 Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-10-free-jpg-to-gif-conversion-tools/"><u>In 2024, Best 10 Free JPG to GIF Conversion Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/journey-to-aesthetic-excellence-fusing-images-masterfully-for-2024/"><u>Journey to Aesthetic Excellence Fusing Images Masterfully for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/stability-secrets-for-dynamic-photo-shoots/"><u>Stability Secrets for Dynamic Photo Shoots</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/stabilizing-shots-best-4k-gimbals-reviewed/"><u>Stabilizing Shots Best 4K Gimbals Reviewed</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-error-code-0x80d03801-ms-store/"><u>Steps to Correct Error Code 0X80D03801 MS Store</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-essential-guide-to-blurring-images-with-your-iphone/"><u>The Essential Guide to Blurring Images with Your iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-future-of-interaction-with-microsofts-hololens-review/"><u>The Future of Interaction with Microsoft's HoloLens Review</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ited-editing-discover-these-9-free-cloud-tools/"><u>Unlimited Editing Discover These 9 Free Cloud Tools</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Hues Handbook  Theory Meets Technique\""
-date: 2024-12-30T18:09:43.936Z
-updated: 2025-01-04T20:12:57.601Z
+date: 2025-01-07T17:45:19.602Z
+updated: 2025-01-11T17:25:23.167Z
 tags: 
   - screen-recording
   - ai video
@@ -23,7 +23,7 @@ So, you've heard about color theory but don't know what it is or how to use it a
 If you are more selective with your colors in your videos or imagery the viewer will find this aesthetically pleasing and may be more engaged in your content. This includes anything from logo design all the way to props for your shot. When creating your videos within Filmora it is good practice to think about your composition in all aspects including color theory and with the guide hopefully you will have a better understanding of how you can influence your color palette.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Color Theory
@@ -33,7 +33,7 @@ Color theory consists of many elements that could fill a library on its own but 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Color Wheel
@@ -41,6 +41,10 @@ There are many color wheels out there and all require understanding and research
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
 
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
 
@@ -51,7 +55,7 @@ So now we know how the wheel is made and what it looks like. What does it do? We
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
@@ -63,7 +67,7 @@ The blue lines represent what is known as split contrasting colors and these wil
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But How Do I Use This
@@ -77,10 +81,6 @@ In this scene the director decided that the backdrop should complement the top t
 As you can see from this example the base color for the scene is a dark blue/purple and using the analogous color of pink they created a point of interest within the scene that doesn't look out of place. This is a very good way to pull the viewers eyes towards something you want them to take in above all else.
 
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
 
@@ -118,20 +118,20 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-androidiphone-top-10-vr-gaming-picks/"><u>[New] Android/iPhone Top 10 VR Gaming Picks</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-stream-like-a-champion-top-3-techniques-for-successful-lol-gameplay-capture/"><u>[Updated] In 2024, Stream Like a Champion Top 3 Techniques for Successful LOL Gameplay Capture</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/assemble-films-for-streaming-organization-for-2024/"><u>Assemble Films for Streaming Organization for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/boosting-collaboration-essential-zoom-video-alterations/"><u>Boosting Collaboration Essential Zoom Video Alterations</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/breaking-the-mold-pushing-a-video-into-hot-water/"><u>Breaking the Mold Pushing a Video Into Hot Water</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/drive-your-website-traffic-with-our-effective-cookiebot-powered-solutions/"><u>Drive Your Website Traffic with Our Effective Cookiebot-Powered Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-iphone-image-clarity-and-focus/"><u>Enhancing iPhone Image Clarity and Focus</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-iphone-and-android-apps-to-transform-your-gopro-shots/"><u>Essential iPhone & Android Apps to Transform Your GoPro Shots</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fast-download-get-your-samsung-c460-drivers-instantly/"><u>Fast Download: Get Your Samsung C460 Drivers Instantly!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-printer-driver-downloads-compatible-versions-and-installation-guide/"><u>HP Printer Driver Downloads: Compatible Versions & Installation Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-saves-free-and-without-end/"><u>Instagram Saves Free and Without End</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/premium-bargains-no-cost-screen-recorder-extensions-for-chromeos-for-2024/"><u>Premium Bargains No-Cost Screen Recorder Extensions for ChromeOS for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/techniques-for-downloading-converting-and-saving-vids-on-twitter-as-mp3s/"><u>Techniques for Downloading, Converting, and Saving Vids on Twitter as MP3s</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unveiling-5-must-have-mac-tools-for-effortless-sniping/"><u>Unveiling 5 Must-Have Mac Tools for Effortless Sniping</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-explore-10-premier-yoga-streams-for-wellness-boost/"><u>[Updated] In 2024, Explore 10 Premier Yoga Streams for Wellness Boost</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-navigating-the-best-instagram-performance-insight-platforms/"><u>2024 Approved Navigating the Best Instagram Performance Insight Platforms</u></a></li>
+<li><a href="https://discover-able.techidaily.com/windows-mp4-mpeg-2-4/"><u>最新 Windows でフリー MP4 に MPEG- 2 変換ソフトウェア4つのレコメンド</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capture-your-inspiration-top-5-pinterest-videos-without-cost-for-2024/"><u>Capture Your Inspiration! Top 5 Pinterest Videos Without Cost for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-answers-dealing-with-non-visible-youtube-comments-issue/"><u>Discover Answers: Dealing with Non-Visible YouTube Comments Issue</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/export-troubleshooting-saving-your-premieres-srt-data/"><u>Export Troubleshooting Saving Your Premiere's SRT Data</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-speedy-to-steady-on-iphone-a-compreomed-guide-for-slowed-down-visuals/"><u>From Speedy to Steady on iPhone A Compreomed Guide for Slowed-Down Visuals</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ideal-methods-for-streaming-and-archiving-sports-events-for-2024/"><u>Ideal Methods for Streaming and Archiving Sports Events for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-14-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 14 with a Broken Screen?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-impeccable-inshot-segment-flows/"><u>In 2024, Crafting Impeccable Inshot Segment Flows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/professional-video-shooting-on-the-go-the-10-leading-smartphone-titans-with-ois/"><u>Professional Video Shooting on the Go The 10 Leading Smartphone Titans with OIS</u></a></li>
+<li><a href="https://fox-place.techidaily.com/resolving-your-pcs-network-connection-problems-expert-tips-from-yl-computing-and-yl-software/"><u>Resolving Your PC's Network Connection Problems: Expert Tips From YL Computing and YL Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-essential-guide-to-transferring-tunes-across-platforms/"><u>The Essential Guide to Transferring Tunes Across Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-10-webcams-elevating-audio-quality-in-podcasts/"><u>Top 10 Webcams Elevating Audio Quality in Podcasts</u></a></li>
+<li><a href="https://solve-help.techidaily.com/winx-video-converter-convert-4k-hd-videos-and-audio-free/"><u>WinX Video Converter - Convert 4K HD Videos & Audio Free</u></a></li>
 </ul></div>
 

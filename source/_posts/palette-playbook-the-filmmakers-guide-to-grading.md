@@ -1,7 +1,7 @@
 ---
 title: "\"Palette Playbook  The Filmmaker's Guide to Grading\""
-date: 2024-09-03T08:16:30.590Z
-updated: 2024-09-04T08:16:30.590Z
+date: 2025-01-05T20:09:53.305Z
+updated: 2025-01-11T19:08:53.392Z
 tags: 
   - screen-recording
   - ai video
@@ -22,6 +22,10 @@ Everyone in the video editing world is full of lively and beautiful colors — j
 
 ![color grading panel filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-panel-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is Color Grading?
 
 Color grading is the video editing process wherein grading (arranging) colors in a video or film to give them a stylistic look. It is different from Color correction because color correction is the process of correcting (fixing) colors in a video or a film as a way to get them back to what they should look like for your project or output.
@@ -33,6 +37,10 @@ In cinematography, color grading refers to the manipulation of film and video im
 Color grading and color correction are processes that happen throughout postproduction. One makes the film look more native, and the other stylizes the footage. After the colorist finishes color correction, they can begin grading the film. During color grading, colorists use editing software to formalize the footage, highlighting a movie's visual tone and ambiance and making it look more cinematic.
 
 ![apply color grading to video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-grading-to-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To summarize, Color grading can be used to make both technical and creative changes. Colorists use color grading for artistic purposes to ensure that the film's carefully curated color palette conveys a specific atmosphere, style, or emotion.
 
@@ -50,9 +58,6 @@ The communication of emotion and story through the lens is one of the most power
 
 One of the most intimidating challenges a photographer or vlogger faces is creating a unique style that can result in a brand for their work. Making a visual style that viewers can recognize at a glance can tremendously impact the growth of a photographer's career. Color grading plays a vital part in that process. Customers will often come to you with a wide range of different photography outputs. By defining a consistent color grading work, you can tie it all into a dense brand that reflects strongly on you and construct a distinctive value that provides you something to sell that only you can offer to people.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_1982462" src="//a.impactradius-go.com/gen-ad-code/5597632/1982462/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## How to use Color Grading in Wondershare Filmora?
 
 There are many color grading software available on your Windows PC or Mac. Still, here I will show you how to use the Color grading and color tuning features in Wondershare Filmora video editing software. Filmora's natural interface allows learners or semi-pros to master this video editor speedily. And, the color tuning tools in Filmora are powerful enough.
@@ -78,11 +83,9 @@ Color Panel Window - to perform color correction in Wondershare Filmora, switch 
 ![edit color grading video fx](https://images.wondershare.com/filmora/article-images/2022/08/edit-color-grading-video-fx.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Contrast**: is the variance in luminance or color that makes an object identifiable. By modifying this setting, control the dissimilarity in color and brightness in contrary parts of the video image.
 
 **Saturation:** This setting constitutes the amount of gray in proportion to the hue. You can adjust it to make the entire video image's colors look soaked or unnoticeable.
@@ -101,6 +104,10 @@ Here, there are two options to select: The Color correction. It offers different
 
 ![open color correction filmora](https://images.wondershare.com/filmora/article-images/2022/08/open-color-correction-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2Select the specific video portion
 
 #####
@@ -114,18 +121,13 @@ First, you need to select the specific video portion you want to change the colo
 ![selected end portion video filmora](https://images.wondershare.com/filmora/article-images/2022/08/selected-end-portion-video-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##### Step3Apply the color correction preset that you want then click ok
 
 ![apply color correction preset](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-correction-preset.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_1983588" src="//a.impactradius-go.com/gen-ad-code/5597632/1983588/22993" width="720" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 You will notice that the color changes depending on your selected preset.
 
 In the Presets tab, there are different templates, including Common, 3D LUT, Vignette, and Film. While in Adjust tab, you can modify the white balance, such as color tint and color temperature, 3D LUT, Color, Light, HSL, and Vignette, etc.
@@ -136,12 +138,6 @@ Once you've finished correcting the video color, press Play and go over the whol
 
 ![preview and save video filmora](https://images.wondershare.com/filmora/article-images/2022/08/preview-and-save-video-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Using the Color Panel Window**
 
 ##### Step1To perform color correction in Filmora, switch to the Color tab
@@ -156,12 +152,6 @@ Click the button Advanced at the lower corner, then the color grading window wil
 
 ![color grading with filmora](https://images.wondershare.com/filmora/article-images/2022/08/color-grading-with-filmora.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Color Histogram**
 
 The color histogram informs you of the color condition of this video. This reflects the exact allotment of colors throughout a specific image, highlighting the various colors on the screen and the pixels for every color type. When the color histogram points out as “Three Color Histograms,” a specific assignment of the three primary colors (R, B, and G) is reflected.
@@ -228,9 +218,23 @@ Overall, Color grading is the process of video editing to have an excellent look
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-how-to-view-old-stories-on-facebook-laptop-and-mobile/"><u>[New] 2024 Approved How to View Old Stories on Facebook? [Laptop and Mobile]</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-capture-and-save-everything-on-your-screen/"><u>[Updated] 2024 Approved Capture & Save Everything on Your Screen</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-discovering-and-perfecting-your-individual-style/"><u>[Updated] 2024 Approved Discovering & Perfecting Your Individual Style</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-m1-pro-to-m1-max-understanding-the-differences-in-apple-computing/"><u>[Updated] M1 Pro to M1 Max Understanding the Differences in Apple Computing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-gpt-the-definitive-guide-on-making-it-available-for-all/"><u>Demystifying GPT-# - The Definitive Guide on Making It Available for All</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-nvidia-graphics-drivers-on-your-microsoft-surface-book/"><u>Download & Install NVIDIA Graphics Drivers on Your Microsoft Surface Book</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-pixels-to-prints-master-snapseed-fundamentals/"><u>From Pixels to Prints Master Snapseed Fundamentals</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-vr-revolutionizes-movie-watching/"><u>How VR Revolutionizes Movie-Watching</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-oculus-rift-htc-vive-and-ps-vr-which-is-the-best-for-gaming/"><u>In 2024, Oculus Rift, HTC Vive, and PS VR Which Is the Best for Gaming?</u></a></li>
+<li><a href="https://win11.techidaily.com/lighten-system-burden-reducing-high-usage-from-interests-apps/"><u>Lighten System Burden: Reducing High Usage From Interests Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-chapter-insertion-in-youtube-videos-an-all-inclusive-handbook/"><u>Mastering Chapter Insertion in YouTube Videos An All-Inclusive Handbook</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-command-line-for-wordpad-activation/"><u>Mastering Command Line for WordPad Activation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimized-note-recording-on-mematic-app/"><u>Optimized Note Recording on Mematic App</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-itel-a60-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Itel A60? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transform-every-moment-top-ideas-for-productive-podcast-sessions/"><u>Transform Every Moment Top Ideas for Productive Podcast Sessions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unraveling-freeze-frames-in-photobooth-recordings/"><u>Unraveling Freeze Frames in Photobooth Recordings</u></a></li>
+</ul></div>
 

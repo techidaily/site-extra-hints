@@ -1,7 +1,7 @@
 ---
 title: "\"Boost Visual Impact  Learning to Edit Videos Using StoryRemix and Windows Photos for 2024\""
-date: 2024-12-30T20:41:16.358Z
-updated: 2025-01-04T20:51:40.845Z
+date: 2025-01-05T18:52:17.798Z
+updated: 2025-01-11T18:44:33.022Z
 tags: 
   - screen-recording
   - ai video
@@ -41,10 +41,6 @@ Moreover, creating own videos is also possible with this tool.
 * [**Part5: How to add 3D effects to a Story Remix project**](#part5)
 * [**Part6: How to export a Story Remix video**](#part6)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to download Story Remix in Windows
 
 In case you want to download Story Remix, we must tell you it is not a standalone product. It is bundled within the Windows Photos App.
@@ -54,6 +50,10 @@ Downloading Photos App will add Story Remix to your system for brilliant video e
 Go to **Start** menu and open **Windows Photos**. you can see videos and photos saved under the default **Pictures** folder organized by the Photos App. Tap on the ‘Create’ button on the top menu to discover **Story Remix**.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to create Story Remix automatically and randomly
 
@@ -66,6 +66,10 @@ How to create a Story Remix project automatically –
    3. Give a name and tap on **OK**.
 
 ![story remix](https://images.wondershare.com/filmora/article-images/start-remix-video.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
    1. After the above process gets over, the content gets scanned to automatically create a video adding styles, transitions, and music. The final preview of the project is displayed thereafter.
    2. You can rearrange the content by tapping **Remix it for me** button.
@@ -85,10 +89,6 @@ Here is the guide –
 1. Hit on **Create video** afterwards.
 2. Now, you can preview, edit or share your video.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: How to edit a Story Remix video
 
 Story Remix has 3 major sections namely, media bin consists of files already included in your card-based timeline and files that you chose in previous steps; preview section with recent changes and timeline shows the card with a running video; and the timeline having the option to drag and drop cards from the media bin.
@@ -104,6 +104,14 @@ A theme is a built-in feature in Photos, just like music, filters, and text styl
 
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-theme-min.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Adding image duration
 
 While adding media to the timeline in Story Mix, you will see that there is a default timeline for each image. To adjust the duration, you can do –
@@ -113,7 +121,7 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-duration-min.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Adding custom text
@@ -125,11 +133,7 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-text-min.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Adding motion
@@ -140,11 +144,7 @@ Tap the ‘Duration’ button > pick another value or manually set the seconds.
 ![story remix](https://images.wondershare.com/filmora/article-images/story-remix-motion-min.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Trimming video clips
@@ -178,7 +178,7 @@ Now, pick the app or contact and send the video.
 Recent videos are found on ‘Collections’ section if they are auto created. Otherwise, all the Story Remix files are located permanently on ‘Creations’ section.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -208,18 +208,18 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-a-comprehensive-guide-to-penning-appealing-vlog-narratives/"><u>[New] 2024 Approved A Comprehensive Guide to Penning Appealing Vlog Narratives</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-digital-duel-diaries-record-galaxy-gamer-stories-for-2024/"><u>[New] Digital Duel Diaries Record Galaxy Gamer Stories for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-revolutionize-your-ig-feed-with-these-elite-grid-creation-apps/"><u>[New] In 2024, Revolutionize Your IG Feed with These Elite Grid Creation Apps</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-clip-connoisseurs-essential-list-of-retro-vhs-effects/"><u>2024 Approved The Clip Connoisseur's Essential List of Retro VHS Effects</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/complete-evaluation-the-dji-inspire-1-unveiled-for-2024/"><u>Complete Evaluation The DJI Inspire 1 Unveiled for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effectively-querying-chatgpt-5-tactics-to-ensure-high-quality-ai-answers/"><u>Effectively Querying ChatGPT: 5 Tactics to Ensure High-Quality AI Answers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-elevate-your-social-storytelling-with-added-musicality/"><u>In 2024, Elevate Your Social Storytelling with Added Musicality</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-labeling-images-adding-captions-to-photos-in-the-microsoft-suite/"><u>In 2024, The Art of Labeling Images Adding Captions to Photos in the Microsoft Suite</u></a></li>
-<li><a href="https://solve-news.techidaily.com/leveraging-ai-for-enhanced-roi-insights-from-abbyys-innovative-uk-partner-summit/"><u>Leveraging AI for Enhanced ROI: Insights From ABBYY's Innovative UK Partner Summit</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/methods-for-converting-twitter-videos-into-mp3-format/"><u>Methods for Converting Twitter Videos Into MP3 Format</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-affinity-photos-features-to-excise-borders-effectively/"><u>Navigating Affinity Photo's Features to Excise Borders Effectively</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/sculpt-your-vision-editing-videos-using-story-remix-and-windows-photos/"><u>Sculpt Your Vision Editing Videos Using Story Remix and Windows Photos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-legacy-of-memories-scanning-and-storing-vintage-photographs/"><u>The Legacy of Memories Scanning and Storing Vintage Photographs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-engaging-your-audience-with-optimal-video-concepts/"><u>[New] In 2024, Engaging Your Audience with Optimal Video Concepts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gain-unlimited-stock-videos-through-essential-4-youtube-sources/"><u>[New] In 2024, Gain Unlimited Stock Videos Through Essential 4 YouTube Sources</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-5-best-websites-for-securing-snappy-soundtracks/"><u>[Updated] 5 Best Websites for Securing Snappy Soundtracks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-seamless-content-propagation-beyond-youtube-and-facebook/"><u>[Updated] Seamless Content Propagation Beyond YouTube and Facebook</u></a></li>
+<li><a href="https://win-able.techidaily.com/breaking-news-immortals-fenyx-rising-finally-takes-off-following-past-hurdles/"><u>Breaking News: Immortals Fenyx Rising Finally Takes Off Following Past Hurdles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-20-non-protected-pubg-images/"><u>Cutting-Edge 20 Non-Protected PUBG Images</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decoding-and-fixing-the-red-alert-on-your-device-a-step-by-step-guide/"><u>Decoding and Fixing the Red Alert on Your Device - A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-building-brands-through-memes/"><u>In 2024, Building Brands Through Memes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-infinix-smart-8-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Infinix Smart 8 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-media-landsranking-with-magix-video-pro-x/"><u>Navigating Media Landsranking with Magix Video Pro X</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/profiles-in-metaverse-promotion-case-studies-and-more/"><u>Profiles in Metaverse Promotion Case Studies and More</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-runners-guide-top-rated-earphones-for-your-workouts-a-tech-reviewers-picks/"><u>The Ultimate Runner's Guide: Top-Rated Earphones for Your Workouts - A Tech Reviewer's Picks</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Elevate Images  Taking Vertical Panoramas on Screens\""
-date: 2024-12-29T19:10:06.531Z
-updated: 2025-01-05T00:39:33.512Z
+date: 2025-01-10T19:05:28.126Z
+updated: 2025-01-11T18:23:35.388Z
 tags: 
   - screen-recording
   - ai video
@@ -35,13 +35,17 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
  However, you will need to use a few but simple techniques to efficiently capture the vertical panoramic view. In this article, we’ll explain you how you can carry out those extraordinary views with your Android or iOS device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to take vertical panorama photography with your respective Smartphone
 
 * [Part 1: For iPhone Users](#part1)
 * [Part 2: For Android Users](#part2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### For iPhone users
 
@@ -53,17 +57,13 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 ![](https://images.wondershare.com/filmora/article-images/iphone-panorama-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image source: mac-fusion
 
 * Begin to go along with the upward arrow on the screen to capture the desired vertorama.
 * Once finished and satisfied, just tap on "Done" option.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For Android users
 
@@ -74,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 
 ![](https://images.wondershare.com/filmora/article-images/vertical-panorama-android.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image source: mac-fusion
 
 * To shoot picture, keep holding the target circle on the gray dot until it vanishes.
@@ -81,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 * Tap on "Done" when completed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Some Beneficial Tips for shooting vertical panorama photo
@@ -92,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/80fee98e39755278bb461fd482dd243762bcc8eb6
 * Leaving some space is another beautiful tip especially if you are a graphic designer and want to add some text into the picture. The panorama shot will look perfectly enhanced this way.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -112,15 +112,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-elevate-your-photos-advanced-hdr-portraiture-methods/"><u>[Updated] In 2024, Elevate Your Photos Advanced HDR Portraiture Methods</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-make-every-podcast-session-count-with-these-15-powerful-activities/"><u>[Updated] Make Every Podcast Session Count with These 15 Powerful Activities</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-bargains-in-the-market-6-leading-4k-projectors/"><u>2024 Approved Best Bargains in the Market 6 Leading 4K Projectors</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-breathe-easy-with-knowledge-of-asmr-advantages/"><u>2024 Approved Breathe Easy with Knowledge of ASMR Advantages</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/cheetah-dual-arm-tv-mount-review/"><u>Cheetah Dual Arm TV Mount Review</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/deciphering-hand-tracking-methodologies/"><u>Deciphering Hand Tracking Methodologies</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/mastering-live-broadcasts-a-step-by-step-guide-for-fb-users-for-2024/"><u>Mastering Live Broadcasts A Step-by-Step Guide for FB Users for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-persistent-errors-and-crashes-in-hell-let-loose-gameplay/"><u>Resolving Persistent Errors & Crashes in Hell Let Loose Gameplay</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209636276-9781633411401-third-eye-meditations/"><u>Third Eye Meditations | Free Book</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveiling-dji-phantom-3s-superior-flight-control-features/"><u>Unveiling DJI Phantom 3'S Superior Flight Control Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-becoming-a-final-cut-pro-expert-your-quick-reference/"><u>[New] Becoming a Final Cut Pro Expert – Your Quick Reference</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-capturing-timeless-moments-iphones-prolonged-shots-guide/"><u>[New] Capturing Timeless Moments IPhone’s Prolonged Shots Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-avoid-ad-dollars-boost-your-view-count-for-free/"><u>2024 Approved Avoid Ad Dollars – Boost Your View Count for Free</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/end-the-flicker-frustration-solutions-for-stabilizing-windows-11-screens/"><u>End the Flicker Frustration: Solutions for Stabilizing Windows 11 Screens</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95625648-9789352150908-homeopathy-chikitas/"><u>HOMEOPATHY CHIKITAS | Free Book</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-conquering-video-production-hurdles-essential-filmora-tips-and-tricks/"><u>In 2024, Conquering Video Production Hurdles Essential Filmora Tips & Tricks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-flutter-freedom-for-videos-the-best-tools-to-flv-to-youtubes/"><u>In 2024, Flutter Freedom for Videos The Best Tools to Flv-to-YouTubes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/recovering-information-from-a-non-bootable-external-hdd/"><u>Recovering Information From a Non-Bootable External HDD</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamline-strategies-softwares-versus-hardware-harmony/"><u>Streamline Strategies Softwares Versus Hardware Harmony?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transform-overload-into-order-with-skillful-tiktok-saves-edits/"><u>Transform Overload Into Order with Skillful TikTok Saves Edits</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-secrets-of-smooth-telegram-web-use/"><u>Unveiling the Secrets of Smooth Telegram Web Use</u></a></li>
 </ul></div>
 

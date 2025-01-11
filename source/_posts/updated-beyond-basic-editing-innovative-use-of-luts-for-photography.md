@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Beyond Basic Editing  Innovative Use of LUTs for Photography\""
-date: 2025-01-03T16:13:58.840Z
-updated: 2025-01-04T23:22:00.943Z
+date: 2025-01-09T18:58:10.653Z
+updated: 2025-01-11T17:00:20.861Z
 tags: 
   - screen-recording
   - ai video
@@ -39,7 +39,7 @@ Lookup Tables help you save a lot of work and time during the editing process. T
 LUTs also aid in the organization of your post-production processes. You must know when to use LUTs, just as you must know when to use other components of the editing process. It assists in getting the work done more effectively after you master the pattern and processes to follow.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How will LUTs change your photography?
@@ -55,7 +55,7 @@ Warm or cold tones and bold or washed-out styles are all options provided by the
 Photographers may now utilize the same techniques that film, and television editors have used for years to achieve the excellent new aesthetics seen in blockbusters. With quick LUT looks, you can now apply LUTs to your photographs to make your editing work stand out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use LUTs using Photoshop CC?
@@ -67,7 +67,7 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Choose Adjustment Layer
@@ -79,7 +79,7 @@ Choose Adjustment Layer
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 load 3d lut
@@ -89,6 +89,10 @@ load 3d lut
 3. You can change the Layer Blending mode at any time.
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Here's the first method
 
@@ -112,10 +116,6 @@ Grow Together
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Closing Thoughts:
 
@@ -157,24 +157,18 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-youtubes-monetization-value-per-million-views/"><u>[New] In 2024, Youtube's Monetization Value per Million Views</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-capturing-the-echoes-of-yesteryears-scanning-and-storing-vintage-prints/"><u>[Updated] Capturing the Echoes of Yesteryears Scanning and Storing Vintage Prints</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-maximizing-indoor-luminance-naturally-for-2024/"><u>[Updated] Maximizing Indoor Luminance Naturally for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-list-of-highest-rated-free-video-editing-apps-for-idevices/"><u>[Updated] Ultimate List of Highest-Rated Free Video Editing Apps for iDevices</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-smooth-narrative-flow-mastering-inshots-seamless-segments/"><u>A Smooth Narrative Flow Mastering Inshot's Seamless Segments</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-buys-detailed-analysis-of-top-6-hdmi-monitors/"><u>Best Buys Detailed Analysis of Top 6 HDMI Monitors</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bygone-brilliance-art-beyond-intellectual-property/"><u>Bygone Brilliance Art Beyond Intellectual Property</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cutting-edge-platforms-where-gif-becomes-professional-video/"><u>Cutting-Edge Platforms Where GIF Becomes Professional Video</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/high-capacity-sd-card-for-sony-a7s-series/"><u>High-Capacity SD Card for Sony A7S Series</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-a-new-take-on-favorite-movies-7-alternatives/"><u>In 2024, A New Take on Favorite Movies - #7 Alternatives</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-pip-setup-elevating-your-visual-presentations-on-macos/"><u>In 2024, Advanced PIP Setup Elevating Your Visual Presentations on macOS</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-vivo-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Infinix Note 30 VIP Racing Edition</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-screen-saving-snapchat-memories-on-phone/"><u>In 2024, Screen Saving Snapchat Memories on Phone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-rocket-league-stability-proven-fixes-to-keep-it-running-smoothly-in-2s24/"><u>Master Rocket League Stability: Proven Fixes to Keep It Running Smoothly in 2S24</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/pushing-boundaries-with-high-speed-video-discovering-polaroids-xs/"><u>Pushing Boundaries with High-Speed Video - Discovering Polaroid's XS</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/superior-5-camera-background-modification-utilities/"><u>Superior 5 Camera Background Modification Utilities</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-pearson-way-to-mastering-languages/"><u>The Pearson Way to Mastering Languages</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-effortless-voice-memo-creation-on-apple-devices/"><u>[New] In 2024, Effortless Voice Memo Creation on Apple Devices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-rhythm-and-reels-posting-melodies-on-social-media/"><u>[New] In 2024, Rhythm & Reels Posting Melodies on Social Media</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-perfect-cone-view-mounts-vr/"><u>[Updated] 2024 Approved Perfect Cone View Mounts VR</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-advanced-methods-for-swift-file-exchange-apples-ecosystem/"><u>[Updated] Advanced Methods for Swift File Exchange Apple's Ecosystem</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-integrating-tiktok-and-facebook-with-minimal-fuss/"><u>[Updated] In 2024, Integrating TikTok & Facebook with Minimal Fuss</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-highest-rated-virtual-reality-games/"><u>In 2024, Explore the Highest-Rated Virtual Reality Games</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/maximizing-performance-crucial-hits-the-target-with-ddr5-6000-professional-memory-overclock-edition/"><u>Maximizing Performance: Crucial Hits the Target with DDR5-6000 Professional Memory Overclock Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/outstanding-20-anime-opening-melodies/"><u>Outstanding 20 Anime Opening Melodies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pace-perfection-snappy-windows-11-image-tips/"><u>Pace Perfection Snappy Windows 11 Image Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-apps-for-perfectly-altered-videos-on-ios-and-desktop/"><u>Premium Apps for Perfectly Altered Videos on iOS & Desktop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/secrets-for-transcribing-twitter-videos-into-mp3-format/"><u>Secrets for Transcribing Twitter Videos Into MP3 Format</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/1728482770538-windows-11/"><u>Windows 11 連線差異同步進行中 - 快速解決方案列表</u></a></li>
 </ul></div>
 

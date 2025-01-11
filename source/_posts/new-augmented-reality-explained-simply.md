@@ -1,7 +1,7 @@
 ---
 title: "[New] Augmented Reality Explained Simply"
-date: 2024-12-28T17:41:38.038Z
-updated: 2025-01-04T18:15:22.022Z
+date: 2025-01-04T17:05:41.092Z
+updated: 2025-01-11T20:14:23.871Z
 tags: 
   - screen-recording
   - ai video
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
  Mar 27, 2024• Proven solutions
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Definition of AR
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
  The presentation of augmented reality is in some form of futuristic technology, despite the fact that it has been around for many years. For example, the heads-up display in many fighter jets utilizes the principles of augmented reality, and these date back to the early 1990s when they were used to show information about altitude, speed and direction of the aircraft.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does Augmented Reality work
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
  In general, the device will search for a particular object, which can be anything, but in most cases, they are usually 2D images like in the form of a movie poster. The augmented reality application will recognize the target through the camera and it will then process the image and augment it in some form through the utilization of sound and pictures. For example, if the target object was a movie poster, you may see it spring into life to play a trailer of the movie. So long as you continue viewing the poster through the “window” of the display object, you will see augmented reality rather than the plain old normal poster in normal reality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The future of Augmented Reality
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
  Like with every new technology, augmented reality comes with a plethora or ethical and political issues. For example, the Google Glass came along with a lot of privacy concerns, with some people worried that pictures may be snapped or conversations may be recorded surreptitiously. But amidst all these concerns, AR technology is expected to gather more steam in the near future and it will be a part of life for the majority.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Applications of Augmented Reality
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -117,22 +117,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-achieving-flawless-photos-with-size-tweaks-on-ios/"><u>[New] 2024 Approved Achieving Flawless Photos with Size Tweaks on iOS</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-ultimate-tutorial-for-instagram-story-polls/"><u>[New] 2024 Approved The Ultimate Tutorial for Instagram Story Polls</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-elevate-your-lenovo-experience-with-advanced-capture-methods-for-2024/"><u>[New] Elevate Your Lenovo Experience with Advanced Capture Methods for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-securing-your-pc-gaming-memories-best-techniques/"><u>[Updated] 2024 Approved Securing Your PC Gaming Memories Best Techniques</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-constructing-youtube-video-content-that-resonates-with-viewers/"><u>2024 Approved Constructing YouTube Video Content That Resonates with Viewers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/androids-favorite-collage-crafting-software/"><u>Android's Favorite Collage Crafting Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/blades-kaleidoscope-unleashed-through-4k-lens-clarity-for-2024/"><u>Blade's Kaleidoscope Unleashed Through 4K Lens Clarity for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/features-and-flaws-of-samsungs-image-editor-reviewed/"><u>Features and Flaws of Samsung's Image Editor Reviewed</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-life-written-in-stillness-to-moving-pictures/"><u>From Life' Written in Stillness to Moving Pictures</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-androids-leading-image-editing-does-pickup-reign-supreme/"><u>In 2024, Android's Leading Image Editing Does PickUp Reign Supreme?</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-guide-to-time-lapse-apps-for-smartphones-for-2024/"><u>New The Ultimate Guide to Time-Lapse Apps for Smartphones for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/outlook-orders-analysis/"><u>Outlook Orders Analysis</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/securing-your-childs-online-presence-top-5-safe-uses-of-chatgpt/"><u>Securing Your Child's Online Presence: Top 5 Safe Uses of ChatGPT</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-consumers-checklist-for-finding-the-right-sized-tablet-that-packs-just-enough-punch/"><u>The Consumer's Checklist for Finding the Right-Sized Tablet that Packs Just Enough Punch</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-8-gold-text-wonders-in-the-vast-world-of-3d-sites/"><u>Top 8 Gold-Text Wonders in the Vast World of 3D Sites</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unraveling-why-imovie-alters-video-borders/"><u>Unraveling Why iMovie Alters Video Borders</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-pixel-percussion-finding-sound-cues-from-button-presses/"><u>Updated 2024 Approved Pixel Percussion Finding Sound Cues From Button Presses</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-decoding-auroras-advanced-photographic-capabilities/"><u>[New] 2024 Approved Decoding Aurora's Advanced Photographic Capabilities</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-swaying-scripts-an-introduction-to-bouncy-text-animations/"><u>[New] 2024 Approved Swaying Scripts An Introduction to Bouncy Text Animations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-uniting-your-network-with-cross-platform-skype-chat-groups-a-how-to-guide/"><u>[Updated] In 2024, Uniting Your Network with Cross-Platform Skype Chat Groups A How-To Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unmatched-access-the-finest-5-browser-tools-for-fb-videos/"><u>[Updated] Unmatched Access The Finest 5 Browser Tools for FB Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-artistic-modifications-pic-editing-masterclass/"><u>2024 Approved Artistic Modifications Pic Editing Masterclass</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-casino-confidential-communiques/"><u>2024 Approved CASINO CONFIDENTIAL COMMUNIQUES</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-chart-topping-storytellers-to-follow-on-youtube-this-year/"><u>In 2024, Chart-Topping Storytellers to Follow on YouTube This Year</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-poco-f5-pro-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Poco F5 Pro 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-art-of-gif-animation-explained/"><u>The Art of GIF Animation Explained</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transform-your-youtube-sign-up-rate-learn-anime-subscribe-buttons-in-filmora-for-2024/"><u>Transform Your YouTube Sign-Up Rate - Learn Anime Subscribe Buttons in Filmora for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/troubleshooting-your-scanner-issues-essential-advice-by-yl-software-solutions/"><u>Troubleshooting Your Scanner Issues: Essential Advice by YL Software Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-most-popular-mac-software-curated/"><u>Ultimate Guide to the Most Popular Mac Software , Curated</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/virtual-reality-and-panoramic-videos-key-distinctions/"><u>Virtual Reality & Panoramic Videos Key Distinctions</u></a></li>
 </ul></div>
 

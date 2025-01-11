@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Persistent Star Citizen Breakdowns on PC Windows
-date: 2025-01-03T22:39:56.900Z
-updated: 2025-01-04T21:37:55.228Z
+date: 2025-01-09T17:29:31.694Z
+updated: 2025-01-11T18:18:10.145Z
 tags:
   - win11
   - win10
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 ![Uninstall Java](https://images.drivereasy.com/wp-content/uploads/2021/05/Uninstall-Java.png)
 3. Go to[the official Java website](https://java.com/en/download/) to download the latest version to your computer. Double-clcik the installation file and follow the instructions on the screen to install it on your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Lunar Client and see if this fix works. If not, try the next fix, below.
 
 ## Fix 2: Update graphics driver
@@ -59,16 +55,8 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
@@ -91,13 +79,21 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 4. In Lunar Client, go to**Settings** and click**Change Directory** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Change launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory.jpg)
 5. Select the new folder you created in step 3) and click**Select Folder** to set it to the launch directory.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Change launch directory 1](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Lunar Client and see if this issue persists. If it still crashes, try the next fix, below.
 
@@ -115,14 +111,22 @@ To perform a clean boot, just follow the steps below:
 ![Run msconfig](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Under to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
@@ -133,10 +137,6 @@ To perform a clean boot, just follow the steps below:
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Restart** your PC and launch Lunar Client to check if the game crashes. If not, you need to open the **System Configuration** window again and enable services and applications **one by one** until you find the problematic software. After enabling each startup service, you need to restart Windows OS for the changes to take effect.
 
  Once you find out the software that crashes your game, you may need to close or uninstall it before you launch Lunar Client.
@@ -144,7 +144,7 @@ To perform a clean boot, just follow the steps below:
  See if this fix works. If Lunar Client doesn’t crash, congratultions! You’ve fixed this issue. If not, you try the next fix below to reinstall Minecraft and Lunar.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Reinstall Minecraft and Lunar Client
@@ -175,24 +175,21 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-converting-tweeted-videos-into-playable-mp3-tracks/"><u>[New] Converting Tweeted Videos Into Playable MP3 Tracks</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-monetary-reality-of-being-a-podcaster/"><u>[New] In 2024, The Monetary Reality of Being a Podcaster</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tiktoks-rise-to-fame-through-twitters-top-10-list/"><u>[New] In 2024, TikTok's Rise to Fame Through Twitter’s Top 10 List</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-a-step-by-step-guide-to-perfecting-the-art-of-podcast-naming/"><u>[Updated] A Step-by-Step Guide to Perfecting the Art of Podcast Naming</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-swift-and-secure-video-shipment-sending-oversized-content-from-ios/"><u>[Updated] In 2024, Swift & Secure Video Shipment Sending Oversized Content From iOS</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-boost-your-tiktok-presence-zoom-integration-guide/"><u>2024 Approved Boost Your TikTok Presence Zoom Integration Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/architectural-marvels-for-vr-display-for-2024/"><u>Architectural Marvels for VR Display for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/banking-innovation-at-risk-cio-warns-against-reliance-on-easy-prompt-tech-in-favour-of-creative-geniuses/"><u>Banking Innovation at Risk: CIO Warns Against Reliance on Easy-Prompt Tech in Favour of Creative Geniuses</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-compelling-podcast-names-a-detailed-guide-with-idea-examples-for-2024/"><u>Crafting Compelling Podcast Names A Detailed Guide with Idea Examples for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cutting-edge-conversion-tips-avi-to-gif-using-filmora-for-windowsmac-users/"><u>Cutting-Edge Conversion Tips AVI to GIF Using Filmora for Windows/Mac Users</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-samsung-galaxy-f15-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Samsung Galaxy F15 5G</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/exquisite-talent-in-vr-content-development/"><u>Exquisite Talent in VR Content Development</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-8-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 8 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-10-open-source-video-player-for-linux-windows-and-mac/"><u>In 2024, 10 Open Source Video Player for Linux, Windows and Mac</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-lava-blaze-curve-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Lava Blaze Curve 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-choosing-google-pixel-music-matches-online/"><u>In 2024, Choosing Google Pixel Music Matches Online</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-xiaomi-redmi-note-13-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Xiaomi Redmi Note 13 Pro 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-motorola-moto-g23-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Motorola Moto G23 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-oneplus-nord-n30-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends OnePlus Nord N30 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-craft-your-own-multitasking-masterpiece-with-these-15-tips/"><u>[New] Craft Your Own Multitasking Masterpiece with These 15 Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-arcade-affordability-bar-reviews/"><u>[Updated] ARCADE AFFORDABILITY BAR Reviews</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-10-virtual-world-games-on-ios-and-android/"><u>2024 Approved Best 10 Virtual World Games on iOS & Android</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-complete-motion-evaluation-2023/"><u>2024 Approved Complete Motion Evaluation 2023</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-step-by-step-process-to-perfect-your-fb-reel-skills/"><u>2024 Approved Step-by-Step Process to Perfect Your FB Reel Skills</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/convert-srt-with-ease-the-finest-free-converters-ranked-for-2024/"><u>Convert SRT with Ease - The Finest FREE Converters Ranked for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/emoji-enhancement-techniques-converting-graphics-into-chat-app-stickers/"><u>Emoji Enhancement Techniques Converting Graphics Into Chat App Stickers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/empower-your-business-with-oracles-latest-ai-powered-data-analytics-and-management-tools-zdnet/"><u>Empower Your Business with Oracle’s Latest AI-Powered Data Analytics & Management Tools | ZDNet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/free-easy-and-fast-youtubes-best-subtitle-getters/"><u>Free, Easy and Fast YouTube's Best Subtitle Getters</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/google-upload-mastery-a-step-by-step-guide/"><u>Google Upload Mastery - A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-selection-optimal-free-and-paid-bd-players-for-windows-macos/"><u>Prime Selection Optimal Free & Paid BD Players for Windows, macOS</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-functionality-to-missing-phone-link-notifications-on-pc/"><u>Restoring Functionality to Missing Phone Link Notifications on PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-samsung-galaxy-s23-fe-by-drfone-android/"><u>Top 10 Password Cracking Tools For Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-p55plus-by-fonelab-android-recover-music/"><u>Undelete lost music from P55+</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-motorola-g54-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Motorola G54 5G.</u></a></li>
+<li><a href="https://win-bits.techidaily.com/unlock-the-stage-at-home-join-karaokecloud-pro-for-personalized-singing-sessions-and-elevate-your-music-journey/"><u>Unlock the Stage at Home - Join KaraokeCloud Pro for Personalized Singing Sessions and Elevate Your Music Journey!</u></a></li>
 </ul></div>
 

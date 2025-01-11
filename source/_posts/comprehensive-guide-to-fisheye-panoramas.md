@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to Fisheye Panoramas"
-date: 2024-12-31T21:11:38.445Z
-updated: 2025-01-04T23:34:01.197Z
+date: 2025-01-06T19:21:14.273Z
+updated: 2025-01-11T19:22:17.584Z
 tags: 
   - screen-recording
   - ai video
@@ -26,13 +26,13 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Shooting 360 degrees panoramas with fisheye lens
 
  The process of shooting panoramas with fisheye lenses involves a number of considerations and they are as follows-:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1. The equipment and setup
 
@@ -41,7 +41,11 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 ![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2. Leveling and rotating
@@ -51,7 +55,11 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3. The actual shooting
@@ -74,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
 [How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's fisheye lenses
 
  Fisheye lens refers to an ultra wide angle lens used to produce strong visual distortions with the aim of creating a wide hemispherical or panoramic image. Fisheye lenses are able to achieve very wide angles of view not through the production of straight lines of perspectives, but through a special mapping which makes the resulting images have the characteristic convex non-rectilinear appearance.
@@ -87,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
  The fisheye lenses are used for a myriad of applications, especially in digital photography. They can also be used for re-projecting images captured by a fisheye lens or computer generated graphics onto hemispherical screens. Additionally, the lenses can be used in scientific photography such as studying canopy geometry, recording meteors and aurora, calculating near-ground solar radiation as well as in peepholes to offer a wide field of view to the users.
 
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Conclusion
 
@@ -113,17 +113,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-attracting-audiences-hook-up-hacks-for-hosts/"><u>[New] Attracting Audiences Hook-Up Hacks for Hosts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-reel-motivation-a-curated-list-of-top-10-film-titles/"><u>[New] In 2024, Reel Motivation A Curated List of Top 10 Film Titles</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-neo-theater-narratives-virtual-realms/"><u>[New] Neo-Theater Narratives Virtual Realms</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-11-innovative-metaverse-projects-for-insightful-analysis/"><u>[Updated] 11 Innovative Metaverse Projects for Insightful Analysis</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-audience-retention-the-key-to-a-great-youtube-conclusion/"><u>[Updated] In 2024, Audience Retention The Key to a Great YouTube Conclusion</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-image-packs-selecting-the-best-for-macbook-screens/"><u>2024 Approved Ideal Image Packs Selecting the Best for MacBook Screens</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/budget-friendly-camera-guide-best-bargains-for-2024/"><u>Budget-Friendly Camera Guide Best Bargains for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dynamic-volume-control-tips-for-producers/"><u>Dynamic Volume Control Tips for Producers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6 Plus without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/polaroid-camplus-pro-a-complete-action-recorder-review/"><u>Polaroid Cam+ Pro A Complete Action Recorder Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-development-mastery-combining-chatgpt-and-vs-code-ideas/"><u>Unlock Development Mastery: Combining ChatGPT and VS Code Ideas</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1716068816585-new-2024-approved-capture-share-enjoy/"><u>[New] 2024 Approved Capture, Share, Enjoy!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-discovering-digital-dominance-which-is-superior-youtubes-shorts-or-tiktoks/"><u>[New] 2024 Approved Discovering Digital Dominance Which Is Superior, YouTubes Shorts or TikToks?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-create-internet-laughter/"><u>[New] Create Internet Laughter</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-proportional-adjustments-online/"><u>[New] Mastering Proportional Adjustments Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-leading-10-competitors-to-zoom-for-pc-and-phone-for-2024/"><u>[New] The Leading 10 Competitors to Zoom for PC & Phone for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-fb-video-extraction-techniques-for-pc-and-mac/"><u>[Updated] FB Video Extraction Techniques for PC & Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-augment-canon-imagery-unlimited-freebies-and-customized-purchases/"><u>2024 Approved Augment Canon Imagery Unlimited Freebies & Customized Purchases</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-authenticity-in-client-testimonial-videos/"><u>2024 Approved Crafting Authenticity in Client Testimonial Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claude-2-unveiled-insight-into-its-purpose-and-utility/"><u>Claude 2 Unveiled: Insight Into Its Purpose and Utility</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-professional-captions-with-top-online-aids-and-platforms-for-2024/"><u>Crafting Professional Captions with Top Online Aids and Platforms for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-asus-z370-e-motherboard-drivers-fast-and-simple-installation/"><u>Download Asus Z370-E Motherboard Drivers - Fast and Simple Installation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/groundbreaking-strategies-30-innovative-facebook-moves/"><u>Groundbreaking Strategies 30 Innovative Facebook Moves</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/low-end-pc-reach-high-with-best-obs-configuration/"><u>Low-End PC Reach High with Best OBS Configuration</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-top-10-talking-photo-online-tools-you-have-to-try/"><u>New Top 10 Talking Photo Online Tools You Have To Try</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/resolving-common-windows-11-photo-app-problems/"><u>Resolving Common Windows 11 Photo App Problems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-insiders-guide-to-creating-viral-memes-on-9gag/"><u>The Insider's Guide to Creating Viral Memes on 9GAG</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-top-online-tools-for-perfecting-your-video-subtitles/"><u>The Ultimate Guide to Top Online Tools for Perfecting Your Video Subtitles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-gopro-studio-steps-for-time-lapse-magic/"><u>Ultimate GoPro Studio Steps for Time Lapse Magic</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unfreezing-photo-booth-recordings-a-guide-to-smoother-playback/"><u>Unfreezing Photo Booth Recordings A Guide to Smoother Playback</u></a></li>
 </ul></div>
 
