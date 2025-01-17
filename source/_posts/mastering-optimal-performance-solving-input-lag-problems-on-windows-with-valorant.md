@@ -1,7 +1,7 @@
 ---
 title: "Mastering Optimal Performance: Solving Input Lag Problems on Windows with Valorant"
-date: 2025-01-10T17:51:32.071Z
-updated: 2025-01-11T17:39:46.786Z
+date: 2025-01-15T10:47:51.640Z
+updated: 2025-01-16T16:33:28.539Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/188e4b5f7b4d2d2127c0913fec4bf39f7b63f882f
 ## Troubleshooting Windows Groggy Performance with Microsoft Edge Crashes Fixed
 
 Even though Microsoft Edge browser is not very popular these days, as a product that comes with the Microsoft system, there still some users using Microsoft Edge. If you are one of them, and you’re trouble with the**Microsoft Edge crashing** problem, don’t worry, we are here to help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Common methods
 
@@ -34,6 +38,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Run the troubleshooter
 
  Windows has built-in troubleshooter to fix some common errors. You can try Windows Store Apps troubleshooter to fix the Microsoft Edge crashing problem.
@@ -43,25 +51,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Repair & reset Microsoft Edge
 
@@ -81,6 +77,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
 ---
@@ -94,17 +94,21 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
@@ -113,10 +117,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
  It’s reported that the Rapport could cause Microsoft Edge crashing and many users had reported after uninstalling Trusteer Rapport/Endpoint the problem has been solved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 5: Run a System File Checker
 
@@ -138,11 +138,15 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -156,10 +160,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
@@ -189,20 +189,21 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-viewership-on-multiple-channels-youtube-and-friends/"><u>[New] Unlocking Viewership on Multiple Channels (YouTube & Friends)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-routine-for-large-files-journey-from-iphones-to-macs-for-2024/"><u>[Updated] The Ultimate Routine for Large Files' Journey From iPhones to Macs for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-celebrated-scripts-spanning-eight-movie-segments/"><u>2024 Approved Celebrated Scripts Spanning Eight Movie Segments</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-fps-game-quest-discovering-7-ultimate-titles/"><u>2024 Approved FPS Game Quest – Discovering 7 Ultimate Titles</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/adding-personal-touch-the-art-of-typeface-integration-in-ae-for-2024/"><u>Adding Personal Touch The Art of Typeface Integration in AE for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discord-struggle-no-more-proven-tips-for-dealing-with-unresponsive-launches-and-quick-fixes/"><u>Discord Struggle No More: Proven Tips for Dealing with Unresponsive Launches and Quick Fixes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/efficiently-configuring-zoom-for-flawless-calls/"><u>Efficiently Configuring Zoom for Flawless Calls</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/exploring-the-in-depth-world-of-magix-video-pro-x/"><u>Exploring the In-Depth World of Magix Video Pro X</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-video-zoom-editors-of-the-year-roundup/"><u>In 2024, Best Video Zoom Editors of the Year - Roundup</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-can-creators-earn-from-product-video-reviews/"><u>In 2024, Can Creators Earn From Product Video Reviews?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-capturing-magic-in-microphones-iphoneipad-tactics-for-superior-recordings/"><u>In 2024, Capturing Magic in Microphones IPhone/iPad Tactics for Superior Recordings</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-vivo-y100i-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Vivo Y100i Android SIM Unlock APK</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/schnell-und-sicher-von-dvd-auf-ssd-kopieren-lassen-sie-uns-ihnen-4-bewahrte-techniken-zeigen/"><u>Schnell Und Sicher Von DVD Auf SSD Kopieren: Lassen Sie Uns Ihnen 4 Bewährte Techniken Zeigen!</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-infinix-note-30-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Infinix Note 30</u></a></li>
-<li><a href="https://win11.techidaily.com/unwind-sluggishness-of-outlook-on-your-pc/"><u>Unwind Sluggishness of Outlook on Your PC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-amplify-your-brands-impact-with-a-strategic-approach-to-smm-excellence/"><u>[New] Amplify Your Brand's Impact with a Strategic Approach to SMM Excellence</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-best-cutting-edge-tools-for-intro-edits-on-devices/"><u>[Updated] In 2024, Best Cutting-Edge Tools for Intro Edits on Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-iphones-with-ease-download-podcasts-made-simple/"><u>[Updated] Navigating iPhones with Ease - Download Podcasts Made Simple</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimizing-web-video-for-crystal-clear-display/"><u>2024 Approved Optimizing Web Video for Crystal Clear Display</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-realme-v30t-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Realme V30T Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chasing-the-crash-action-cameras-reviewed-for-2024/"><u>Chasing the Crash Action Cameras Reviewed for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatbots-and-their-art-of-conversational-simulation/"><u>Chatbots and Their Art of Conversational Simulation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-captivating-vlog-narratives-for-2024/"><u>Crafting Captivating Vlog Narratives for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/face-off-frenzy-legendary-sj6-vs-xiaomis-four-k-creators/"><u>Face-Off Frenzy Legendary SJ6 Vs. Xiaomi's Four-K Creators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-save-and-play-gifs-on-an-iphone/"><u>How to Save and Play GIFs on An iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ideal-timing-aids-the-best-clock-apps-for-your-big-day/"><u>Ideal Timing Aids The Best Clock Apps For Your Big Day</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-moonbeam-methods-crafting-perfect-night-photography/"><u>In 2024, Moonbeam Methods Crafting Perfect Night Photography</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-ethernet-network-malfunctions-on-windows-117-a-step-by-step-guide/"><u>Solving Ethernet Network Malfunctions on Windows 11/7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/superior-psd-filters-galore/"><u>Superior PSD Filters Galore</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722869593927-the-future-of-personal-assistants-arrives-with-rumored-apple-innovation-price-speculations-inside/"><u>The Future of Personal Assistants Arrives with Rumored Apple Innovation – Price Speculations Inside!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-your-computer-with-c270-usb-webcam-driver-windows/"><u>Upgrade Your Computer with C270 USB Webcam Driver (Windows)</u></a></li>
 </ul></div>
 

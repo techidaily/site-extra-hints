@@ -1,7 +1,7 @@
 ---
 title: "Amazon Echo (4Gen): A Breakdown of Key Upgrades and Revamped Features"
-date: 2025-01-06T16:22:44.701Z
-updated: 2025-01-11T20:08:54.874Z
+date: 2025-01-15T00:17:24.954Z
+updated: 2025-01-17T07:01:03.762Z
 categories:
   - BestProducts
 description: "This Article Describes Amazon Echo (4Gen): A Breakdown of Key Upgrades and Revamped Features"
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Amazon Luna
@@ -43,6 +43,10 @@ Lifewire / Jeremy Laukkonen
 [View On Amazon](https://www.amazon.com/luna/landing-page?tag=lifewire-onsite-prod-20&ascsubtag=5119523%7Cnc95ba131dcd04d8fadef0bfb2a313e6816%7C)
 
 4.2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Amazon Luna
 
@@ -79,6 +83,10 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/c10USyUEVgaFrdeWRUBgX6MNpOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_05-7314cf2ae25a4f428d93f40cc56fb5d1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Jeremy Laukkonen
 
  The Luna app, both the Fire TV version and the web app version, is well-designed enough, without a whole lot to really stand out or impress. It functions as a basic interface to access all of the games that the service offers, including a Home screen that highlights games in various categories, a Library screen that lists every available game, and a Playlist page that provides easy access to games you have specifically chosen to place there.
@@ -108,6 +116,10 @@ Lifewire / Jeremy Laukkonen
  If you’re using the optional Luna controller, there is a bit of additional setup to work through. You can choose to have your controller automatically linked to your Amazon account when you buy it, which simplifies setup a bit, but it’s a fairly straightforward process either way.
 
 ![Amazon Luna](https://www.lifewire.com/thmb/6427gP-MSnqe4st8hfuI-7yxlos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_03-f12a92bc606e43caa77b445a2fdcf1c1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -147,19 +159,11 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NBB1N6qtwbtdjrUgwr1YaBaTuBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_02-37837bf860d244d3ab11ff01f37c609c-db472e204ada4ccca88e7510eacfae34.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Jeremy Laukkonen
 
  For some reason, the fighting category is populated by titles like the rogue-like shooter Everspace and the co-op brawler River City Girls. No actual fighting games, though. The horror category was empty until Amazon scored Resident Evil 7 Gold Edition and also saddled gorefest pixel art platformer Valfaris with the horror tag.
 
  It’s clear that Amazon is working to bring a nice mix of games to the service, but the depth and breadth of the titles you can access with a basic subscription remain the biggest question as Luna moves through beta and toward general launch.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Price: Affordable fee reflects the thin library
 
@@ -168,7 +172,7 @@ Lifewire / Jeremy Laukkonen
  The Luna controller has a heftier price tag of $50, but that’s actually pretty reasonable if you compare it to other wireless controllers. It’s cheaper than a lot of the other options, and you can use it via Wi-Fi with Luna, or via Bluetooth or USB-C to play non-Luna games on your PC. All in all, it’s a good controller that’s priced competitively.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Amazon Luna vs. Microsoft Game Pass Ultimate
@@ -189,10 +193,6 @@ Lifewire / Jeremy Laukkonen
 
  Amazon Luna is an impressive game streaming service that works surprisingly well whether or not you buy the optional controller. It isn’t perfect, and you’re likely to experience hiccups here and there, but it’s an extremely affordable way to experience dozens of games, many of which would otherwise require an expensive gaming PC or console, without any kind of initial investment. The future of the service remains uncertain, and the precedent of locking Ubisoft games behind an expensive additional paywall isn’t a great sign, but Amazon has a chance to make a real splash in the gaming world with Luna.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [Xbox Series X|S Controller](https://www.lifewire.com/xbox-series-x-or-s-controller-review-5113227)
@@ -200,7 +200,7 @@ Lifewire / Jeremy Laukkonen
 * [Xbox One Elite Controller](https://www.lifewire.com/xbox-one-elite-controller-review-4770957)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specs
@@ -233,20 +233,19 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-analyzing-user-feedback-the-latest-on-lg-bp350-display-tech/"><u>[New] Analyzing User Feedback The Latest on LG BP350 Display Tech</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-audio-transformation-expertise-from-ttml-and-xml-to-dynamic-srts/"><u>[New] Audio Transformation Expertise From TTML & XML to Dynamic SRTs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-close-up-power-in-videoleap-zooming-made-easy/"><u>[New] Close-Up Power in VideoLeap Zooming Made Easy</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-iphone-exposed-the-art-of-prolonged-photography/"><u>[New] In 2024, IPhone Exposed The Art of Prolonged Photography</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-the-ultimate-guide-to-legally-sharing-tunes-on-instagram-for-2024/"><u>[New] The Ultimate Guide to Legally Sharing Tunes on Instagram for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-timeless-shots-perfecting-the-art-of-date-placement-in-pictures/"><u>[New] Timeless Shots Perfecting the Art of Date Placement in Pictures</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-5-ios-backdrop-swappers-x87-edition/"><u>[Updated] Best 5 iOS Backdrop Swappers X/8/7 Edition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-choosing-google-pixel-music-matches-online/"><u>2024 Approved Choosing Google Pixel Music Matches Online</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-iphone-14-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing iPhone 14 iCloud Activation Lock</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expert-recommended-steadicams-for-drone-videography/"><u>Expert-Recommended Steadicams for Drone Videography</u></a></li>
-<li><a href="https://fox-that.techidaily.com/single-airpod-dilemma-how-to-revive-your-earbud-when-only-one-is-faulty/"><u>Single AirPod Dilemma: How to Revive Your Earbud When Only One Is Faulty</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-zoom-from-crashing-expert-solutions-for-windows-users-2e-edition/"><u>Stop Zoom From Crashing: Expert Solutions for Windows Users (2E Edition)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-stream-reversal-manual-an-18-step-guide-to-control-your-broadcast/"><u>The Stream Reversal Manual An 18-Step Guide to Control Your Broadcast</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/timelapse-with-iphone-a-step-by-step-guide-for-2024/"><u>Timelapse with iPhone A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/winning-the-war-against-climate-catastrophe-essential-technology-advances-for-a-sustainable-future-zdnet/"><u>Winning the War Against Climate Catastrophe: Essential Technology Advances for a Sustainable Future | ZDNet</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-audio-improvement-for-effective-online-communication/"><u>[New] 2024 Approved Audio Improvement for Effective Online Communication</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-boost-engagement-changing-numbers-effectively-on-tiktok/"><u>[New] Boost Engagement Changing Numbers Effectively on TikTok</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/reating-accessibility-your-guide-to-an-intuitive-youtube-signup-for-2024/"><u>[New] Creating Accessibility Your Guide to an Intuitive YouTube Signup for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unlocking-virtual-meetings-googles-facetime-tutorial/"><u>[Updated] 2024 Approved Unlocking Virtual Meetings Google's Facetime Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-choosing-androids-favorite-freepaid-video-tile-tools-8-ranked/"><u>[Updated] Choosing Android's Favorite Free/Paid Video Tile Tools #8 Ranked</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-waves-how-to-record-internet-radios-step-by-step/"><u>Capturing Waves How To Record Internet Radios Step-by-Step</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/demystifying-windows-8-movie-maker-a-comprehensive-overview/"><u>Demystifying Windows 8 Movie Maker A Comprehensive Overview</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-expert-strategies-for-developing-captivating-audio-visual-teasers/"><u>In 2024, Expert Strategies for Developing Captivating Audio-Visual Teasers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ignite-your-design-prowess-top-14-text-animation-snapshots/"><u>In 2024, Ignite Your Design Prowess Top 14 Text Animation Snapshots</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-enhanced-experience-of-movavi-video-pro/"><u>In 2024, The Enhanced Experience of Movavi Video Pro</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-thermaltake-massive-tl-laptop-cooler-features-and-cost-evaluation/"><u>In-Depth Analysis of the Thermaltake Massive TL Laptop Cooler - Features and Cost Evaluation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/propel-your-artistic-journey-the-ultimate-10-android-drawing-tools/"><u>Propel Your Artistic Journey The Ultimate 10 Android Drawing Tools</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-instagram-edge-rotating-videos-like-a-pro/"><u>The Instagram Edge Rotating Videos Like a Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleashing-new-worlds-best-psvr-games-on-their-way-out/"><u>Unleashing New Worlds Best PSVR Games on Their Way Out</u></a></li>
 </ul></div>
 

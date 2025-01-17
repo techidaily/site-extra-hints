@@ -1,7 +1,7 @@
 ---
 title: "[New] Augmented Reality Explained Simply"
-date: 2025-01-04T17:05:41.092Z
-updated: 2025-01-11T20:14:23.871Z
+date: 2025-01-15T21:36:44.518Z
+updated: 2025-01-16T17:29:33.240Z
 tags: 
   - screen-recording
   - ai video
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
  Mar 27, 2024• Proven solutions
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Definition of AR
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
  The presentation of augmented reality is in some form of futuristic technology, despite the fact that it has been around for many years. For example, the heads-up display in many fighter jets utilizes the principles of augmented reality, and these date back to the early 1990s when they were used to show information about altitude, speed and direction of the aircraft.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How does Augmented Reality work
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
  In general, the device will search for a particular object, which can be anything, but in most cases, they are usually 2D images like in the form of a movie poster. The augmented reality application will recognize the target through the camera and it will then process the image and augment it in some form through the utilization of sound and pictures. For example, if the target object was a movie poster, you may see it spring into life to play a trailer of the movie. So long as you continue viewing the poster through the “window” of the display object, you will see augmented reality rather than the plain old normal poster in normal reality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The future of Augmented Reality
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
  Like with every new technology, augmented reality comes with a plethora or ethical and political issues. For example, the Google Glass came along with a lot of privacy concerns, with some people worried that pictures may be snapped or conversations may be recorded surreptitiously. But amidst all these concerns, AR technology is expected to gather more steam in the near future and it will be a part of life for the majority.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Applications of Augmented Reality
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -117,18 +117,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-decoding-auroras-advanced-photographic-capabilities/"><u>[New] 2024 Approved Decoding Aurora's Advanced Photographic Capabilities</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-swaying-scripts-an-introduction-to-bouncy-text-animations/"><u>[New] 2024 Approved Swaying Scripts An Introduction to Bouncy Text Animations</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-uniting-your-network-with-cross-platform-skype-chat-groups-a-how-to-guide/"><u>[Updated] In 2024, Uniting Your Network with Cross-Platform Skype Chat Groups A How-To Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unmatched-access-the-finest-5-browser-tools-for-fb-videos/"><u>[Updated] Unmatched Access The Finest 5 Browser Tools for FB Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-artistic-modifications-pic-editing-masterclass/"><u>2024 Approved Artistic Modifications Pic Editing Masterclass</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-casino-confidential-communiques/"><u>2024 Approved CASINO CONFIDENTIAL COMMUNIQUES</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-chart-topping-storytellers-to-follow-on-youtube-this-year/"><u>In 2024, Chart-Topping Storytellers to Follow on YouTube This Year</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-poco-f5-pro-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Poco F5 Pro 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/the-art-of-gif-animation-explained/"><u>The Art of GIF Animation Explained</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/transform-your-youtube-sign-up-rate-learn-anime-subscribe-buttons-in-filmora-for-2024/"><u>Transform Your YouTube Sign-Up Rate - Learn Anime Subscribe Buttons in Filmora for 2024</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/troubleshooting-your-scanner-issues-essential-advice-by-yl-software-solutions/"><u>Troubleshooting Your Scanner Issues: Essential Advice by YL Software Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-the-most-popular-mac-software-curated/"><u>Ultimate Guide to the Most Popular Mac Software , Curated</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/virtual-reality-and-panoramic-videos-key-distinctions/"><u>Virtual Reality & Panoramic Videos Key Distinctions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-advanced-techniques-for-sharing-srt-data-on-vimeo-and-linkedin/"><u>[New] Advanced Techniques for Sharing SRT Data on Vimeo and LinkedIn</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-video-devices-direct-headset-screens/"><u>[New] Premium Video Devices Direct Headset Screens</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-your-best-fit-in-virtual-reality-worlds-choosing-between-portable-and-plugged-in/"><u>[New] Understanding Your Best Fit in Virtual Reality Worlds Choosing Between Portable and Plugged In</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-acoustic-dissolve-windowsmac-playback-guide/"><u>[Updated] Acoustic Dissolve Windows/Mac Playback Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-maximize-your-income-winning-at-monetizing-social-media-videos/"><u>[Updated] In 2024, Maximize Your Income Winning at Monetizing Social Media Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chromatic-spectrums-captured-a-deep-dive-into-4k-blade-tech-for-2024/"><u>Chromatic Spectrums Captured A Deep Dive Into 4K Blade Tech for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-guide-merging-primary-and-secondary-footage-for-2024/"><u>Comprehensive Guide Merging Primary and Secondary Footage for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/corporate-language-training-for-business-success-top-5-tips-to-enhance-communication-skills/"><u>Corporate Language Training for Business Success: Top 5 Tips to Enhance Communication Skills</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/embracing-change-adaptability-as-the-new-normal-in-business/"><u>Embracing Change Adaptability as the New Normal in Business</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exclusive-charger-kits-for-gopro-hero5-official-and-alternative-models/"><u>Exclusive Charger Kits for GoPro Hero5 – Official & Alternative Models</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/how-to-legally-clone-a-website-a-comprehensive-guide/"><u>How to Legally Clone a Website: A Comprehensive Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-apple-iphone-15-pro-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your Apple iPhone 15 Pro without Security Questions?</u></a></li>
+<li><a href="https://facebook.techidaily.com/instagram-expands-reels-with-advertising-facebook-explores-stickers/"><u>Instagram Expands Reels with Advertising, Facebook Explores Stickers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/intellectual-innovations-curated-selection-of-2024s-top-trivia-channels/"><u>Intellectual Innovations Curated Selection of 2024'S Top Trivia Channels</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mkvwav/"><u>MKVファイルをWAV形式への変換手順 - 専門家が推薦する方法</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premiere-edition-selective-sierra-video-editors/"><u>Premiere Edition Selective Sierra Video Editors</u></a></li>
+<li><a href="https://win-superb.techidaily.com/step-by-step-guide-to-migrating-your-data-preserving-and-reviving-information-between-windows-7-and-windows-nten/"><u>Step-by-Step Guide to Migrating Your Data: Preserving and Reviving Information Between Windows 7 and Windows nTen</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-pinnacle-of-gaming-controllers-a-comprehensive-review-of-the-xbox-one-elite-series-2/"><u>The Pinnacle of Gaming Controllers: A Comprehensive Review of the Xbox One Elite Series 2</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-6-online-background-cleansers-for-pristine-photo-edits/"><u>Top 6 Online Background Cleansers for Pristine Photo Edits</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "A Teacher’s Journey Through Multimedia Educational Practices"
-date: 2024-09-07T20:45:07.571Z
-updated: 2024-09-08T20:45:07.571Z
+date: 2025-01-14T21:50:20.976Z
+updated: 2025-01-17T00:57:56.550Z
 tags: 
   - screen-recording
   - ai video
@@ -16,24 +16,12 @@ keywords: "EdTech Learning Paths,Media in Classrooms,Teachers' Multimodal Guide,
 thumbnail: https://thmb.techidaily.com/988b0aa2e48e125d13283fa19f222d53a696ba967b4ae3ee4ad76e4ed04670c1.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## A Teacher’s Journey Through Multimedia Educational Practices
 
 The use of videos in online classrooms or classes is a very much researched topic that has greatly benefited many students. Students and teachers all agree on using video as a teaching tool. The availability of free and high-quality videos online also makes the perfect addition to mixed learning environments.
 
 ![video lecture](https://images.wondershare.com/filmora/article-images/2022/07/video-lecture.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Due to the pandemic, we can't go back to school and teach our students face-to-face; the best option we need to do is to show create and personalized video for the class. Of course, as teachers, we also need the creativity to do the videos for our students.
 
 Video in education can help the Teachers and Students as well.
@@ -51,38 +39,18 @@ Some schools find that synchronous videos are a great way to keep the students c
 
 ![synchronous videos lecture](https://images.wondershare.com/filmora/article-images/2022/07/synchronous-videos-lecture.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Asynchronous Videos -** you need to record videos that can be viewed and reviewed by the students. Your videos could be a recorded activity using a mobile phone or a screencast for them to know the lesson on that day. Screencasting is where you narrate a video recording or explain the task to your students using your computer screen. It's up to the teacher if they want to use audio, or you can also see your face in the video.
 
 Asynchronous learning can be more convenient for the students and allows them to learn anytime they want and place wherever they are. It can also be challenging for teachers to know whether students watched the videos or engaged with the work. We don't know if the students watched the videos or learned something in the videos. So, double-check it, teacher time to time.
 
 ![online video class](https://images.wondershare.com/filmora/article-images/2022/07/online-video-class.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Using videos in online classes or classrooms has many benefits and can be adapted for any learning objective. You might find it helpful to use synchronous and asynchronous videos simultaneously. Research continues to provide more insights on how to better utilize video in online classes or classrooms.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Different ways to use video in Online Classes
 
 **Keep your videos short**
@@ -135,9 +103,18 @@ More and more research supporting the advantages of blended learning will suppor
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-capture-perfection-iphone-camera-skills-guide/"><u>[New] Capture Perfection IPhone Camera Skills Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-detailed-capture-gopro-hero5-vs-sjcam-sj7/"><u>[New] Detailed Capture GoPro Hero5 vs SJCAM SJ7</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-exploring-the-extents-of-vr-technology-for-2024/"><u>[New] Exploring the Extents of VR Technology for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-digital-video-conquerors-ultimate-toolkit-list/"><u>[Updated] 2024 Approved Digital Video Conquerors' Ultimate Toolkit List</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-incorporating-instagrams-cutting-edge-filters/"><u>[Updated] 2024 Approved Incorporating Instagram's Cutting Edge Filters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-cost-effective-aerospace-for-huge-datasets-at-low-rates/"><u>[Updated] Cost-Effective AeroSpace for Huge Datasets at Low Rates</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/iconic-top-tier-virtual-reality-films-for-2024/"><u>Iconic Top-Tier Virtual Reality Films for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-musical-guide-to-enhancing-slides-with-tunes/"><u>In 2024, A Musical Guide to Enhancing Slides with Tunes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-lava-yuva-2-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Lava Yuva 2 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-inquiry-collection-for-podcast-appeal/"><u>Updated Inquiry Collection for Podcast Appeal</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/visionary-viewing-10-high-res-screens/"><u>Visionary Viewing #10 High-Res Screens</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Build DIY Virtual Reality  Google Cardboard Hack\""
-date: 2025-01-06T16:10:16.019Z
-updated: 2025-01-11T19:08:29.997Z
+date: 2025-01-13T20:34:11.368Z
+updated: 2025-01-16T22:02:16.726Z
 tags: 
   - screen-recording
   - ai video
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
  Google cardboard offers an immersive virtual reality experience in a fun, affordable and simple way. You don’t need to spend quite huge amount of money only to have your own Google cardboard. Just recently, Google introduced DIY virtual reality with some basic tools and at the comfort of your own home. So, how do you get started?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Steps for DIY VR
@@ -37,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
  In not more than 3 hours, people were able to construct their own virtual reality viewer. Do you also want to successfully make your own? Here’s what you will need, together with some important tips and tools to properly do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1.The accessories you will need
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
  It is recommended to use the right type of cardboard, with the same thickness as that of a durable shoe box. You can use a pizza box, but make sure it offers enough flat surfaced material to work with. Of course, you want something durable, yet slim to work with. In some cases, a couple of additional items might be needed such as ceramic disc magnet, neodymium magnet, some pieces of Velcro, big rubber band and at least 45 mm lenses.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2.How to assemble accessories
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 * If necessary, affix the NFC tag to the cardboard.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pros and cons of DYI Google cardboard
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Benjamin Arango
@@ -112,20 +112,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-12-best-html5-video-players-you-should-know/"><u>[New] 12 Best Html5 Video Players You Should Know</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-top-techniques-for-awesome-instagram-videos/"><u>[New] 2024 Approved Top Techniques for Awesome Instagram Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-adept-adjustments-mastering-the-chromatic-dance-for-2024/"><u>[New] Adept Adjustments Mastering the Chromatic Dance for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-pinnacle-of-immersion-highest-rated-oculus-headsets-for-2024/"><u>[New] The Pinnacle of Immersion Highest-Rated Oculus Headsets for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-the-ultimate-guide-to-grabbing-every-tiktok-video/"><u>[Updated] 2024 Approved The Ultimate Guide to Grabbing Every TikTok Video</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-benq-bl2711u-a-journey-through-professional-4k-display-tech/"><u>2024 Approved BenQ BL2711U - A Journey Through Professional 4K Display Tech</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-avi-images-from-video-to-graphics-using-filmora/"><u>2024 Approved Transform Your AVI Images From Video To Graphics Using Filmora</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/asus-proart-pa-329q-professional-4k-monitor-review-for-2024/"><u>Asus ProArt PA 329Q Professional 4K Monitor Review for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/extraordinary-12-tools-for-endless-screen-capture-for-2024/"><u>Extraordinary 12 Tools for Endless Screen Capture for 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-perform-sql-database-snapshots-with-the-backup-database-command-in-sql-server/"><u>How To Perform SQL Database Snapshots with the BACKUP DATABASE COMMAND in SQL Server</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-10-best-online-photo-background-changers-filmora/"><u>In 2024, 10 Best Online Photo Background Changers - Filmora</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-uncovering-hidden-content-secrets-of-fb-suggested-vids/"><u>In 2024, Uncovering Hidden Content Secrets of FB Suggested Vids</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-horizons-in-graphic-design-post-acid/"><u>New Horizons in Graphic Design Post-ACID</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlocking-iphones-potential-podcast-harmony/"><u>Unlocking iPhone's Potential - Podcast Harmony</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/vr-headset-match-the-top-10-360-degree-videos-on-pc/"><u>VR Headset Match The Top 10 360-Degree Videos on PC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-architects-of-online-marvel-adventures/"><u>[New] In 2024, Architects of Online Marvel Adventures</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-into-success-beginners-guide-to-hosting-tech-product-discussions-online/"><u>[Updated] Step-Into Success Beginner’s Guide to Hosting Tech Product Discussions Online</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-rotation-revelations-guide-crafting-captivating-images-on-social-media-for-2024/"><u>[Updated] The Rotation Revelations Guide Crafting Captivating Images on Social Media for 2024</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/alternativer-weg-nach-der-akronis-entwicklung-mit-problemen-bei-crucial-ssds-erkenntnisse-und-losungen/"><u>Alternativer Weg Nach Der Akronis-Entwicklung Mit Problemen Bei Crucial SSDs – Erkenntnisse Und Lösungen</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/can-image-smoothing-simplify-photo-editing-for-2024/"><u>Can Image Smoothing Simplify Photo Editing for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/get-your-hands-on-the-just-released-affordable-apple-10gen-ipad-for-a-steal-at-299-post-prime-day-insider-info-from-zdnet/"><u>Get Your Hands on the Just-Released, Affordable Apple 10Gen iPad for a Steal at $299 Post-Prime Day – Insider Info From ZDNet!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-a-compreayers-guide-to-monetizing-videos-critical-view-figures/"><u>In 2024, A Compreayer's Guide to Monetizing Videos Critical View Figures</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/iphone-photo-excellence-simple-tips-and-tricks/"><u>IPhone Photo Excellence Simple Tips & Tricks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-insights-into-sony-s6700s-updates/"><u>New Insights Into Sony S6700's Updates</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/snap-with-a-single-purpose-remove-bg-using-affinity/"><u>Snap with a Single Purpose - Remove Bg Using Affinity</u></a></li>
 </ul></div>
 

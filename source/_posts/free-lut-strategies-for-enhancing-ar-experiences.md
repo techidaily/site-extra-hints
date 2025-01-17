@@ -1,7 +1,7 @@
 ---
 title: "Free LUT Strategies for Enhancing AR Experiences"
-date: 2025-01-08T20:22:30.594Z
-updated: 2025-01-11T19:13:33.159Z
+date: 2025-01-13T07:49:28.623Z
+updated: 2025-01-17T07:13:31.170Z
 tags: 
   - screen-recording
   - ai video
@@ -20,6 +20,10 @@ thumbnail: https://www.lifewire.com/thmb/xBH9hBuHTmAlBY5tsEJzrsZCnPc=/400x300/fi
 
 Color LUTs (Lookup Textures) are tables of RGB color values. In Spark AR, you can use color LUTs to quickly create color gradation effects throughout the scene. Go through the article and create your color LUT effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. What are Luts in Spark AR used for?
 
 To create a color filter effect in [Spark AR](https://sparkar.facebook.com/ar-studio/), you need a color LUT in Spark AR.
@@ -29,7 +33,7 @@ To develop AR effects for mobile cameras, you can use the Mac and Windows augmen
 ![create a color gradient effect](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. How to use LUTs in Spark AR?
@@ -52,15 +56,15 @@ A patch graph is automatically set that applies a color LUT to the entire scene.
 
 ![apply to the whole scene](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The color LUT patch graph**
 
 The patch graph that renders the color gradation effect looks like this:
 
 ![color lut patch graph](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **To create the effect:**
 
@@ -68,16 +72,12 @@ The patch graph that renders the color gradation effect looks like this:
 * ColorLUTShader looks up the RGBA values of this texture in the Tension color LUT array and converts them to a new green color. This will change the texture and create a gradient effect.
 * Finally, the Screen Output patch renders the green color.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. Free LUTs resource for Spark AR
 
 Here are the best free LUTs resources for Spark AR:
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. [Frost Zombie (Technical Showcase)](https://we.tl/t-1uj4wJKluG)
@@ -85,6 +85,10 @@ Here are the best free LUTs resources for Spark AR:
 Client filter pieces occasionally end up on the scrap heap. It was a poor Frost Zombie in this instance. Since this is one of my simpler filters, I felt it was okay to publish the build information. Four objects make up much of the scene: an EyeColor block, a custom canvas segmentation, a face mesh, and an emitter for the breath mist (my personal favorite). To show the layers used in generating the primary zombie texture, I also moved to Substance Painter. This is a demonstration of my methods rather than a step-by-step manual.
 
 ![frost zombie](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Fur
 
@@ -100,7 +104,7 @@ Here are the key building principles.
 ![fur](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Shockwave
@@ -110,7 +114,7 @@ Even while using large image sequences is frequently discouraged, you can still 
 ![shockwave](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Transition Curves
@@ -118,10 +122,6 @@ Even while using large image sequences is frequently discouraged, you can still 
 There are 11 distinct animation curves included with Spark AR in the Transition patch. Here is a helpful visual aid because it might be challenging to distinguish between a quartic and a quintic when working on a project. With the SDF circle doubled (to sharpen the edge) and inserted into the Patch Pack's alpha channel, the circles are likewise straightforward rectangles. Since RGB values are three times one, the object is white.
 
 ![transition curves](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Realistic Smoke
 
@@ -169,22 +169,20 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-boost-your-gaming-presence-with-easy-and-cost-effective-character-voice-alteration-in-free-fire/"><u>[New] Boost Your Gaming Presence with Easy and Cost-Effective Character Voice Alteration in Free Fire</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-chorus-to-beginnings-10-musical-journeys-for-podcast-intros/"><u>[New] Chorus to Beginnings 10 Musical Journeys for Podcast Intros</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-mastering-borders-on-instagrams-short-films-for-2024/"><u>[New] Mastering Borders on Instagram's Short Films for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-pcs-gateway-to-the-past-selecting-top-5-ps1-game-emulators/"><u>[Updated] PC's Gateway to the Past - Selecting Top 5 PS1 Game Emulators</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/13-quick-and-simple-income-ideas-for-reddit-novices-for-2024/"><u>13 Quick and Simple Income Ideas for Reddit Novices for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/age-old-artwork-free-from-modern-constraints-for-2024/"><u>Age-Old Artwork Free From Modern Constraints for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/chime-chronicles-mastering-the-art-of-tamil-ringtones/"><u>Chime Chronicles Mastering the Art of Tamil Ringtones</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ng-edge-techniques-for-youtube-video-production-with-sony-vegas/"><u>Cutting-Edge Techniques for YouTube Video Production with Sony Vegas</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/detailed-close-ups-made-easy-in-videoleap-editing/"><u>Detailed Close-Ups Made Easy in Videoleap Editing</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722963495803-eveo-bluetooth-device-driver-download-now-to-enable-seamless-connectivity/"><u>EVEO Bluetooth Device Driver - Download Now to Enable Seamless Connectivity</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-honor-x50-gt-devices-by-drfone-android/"><u>How to Reset Gmail Password on Honor X50 GT Devices</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-the-art-of-film-capturing-essential-camera-movements-for-novices/"><u>In 2024, The Art of Film Capturing Essential Camera Movements for Novices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/instagram-enhancement-picture-posting-guide/"><u>Instagram Enhancement Picture Posting Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/podcasting-made-simple-easy-steps-to-capture-live-streams/"><u>Podcasting Made Simple Easy Steps to Capture Live Streams</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/turning-videos-backward-iphone-methods/"><u>Turning Videos Backward IPhone Methods</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-combined-imagery-and-action-mastering-iphone-recording/"><u>[New] 2024 Approved Combined Imagery & Action Mastering iPhone Recording</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-choices-in-game-livestream-technology/"><u>[New] Best Choices in Game Livestream Technology</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-best-mac-screen-recorders-a-comprehensive-guide/"><u>[New] In 2024, Best Mac Screen Recorders A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10plus-must-know-tactics-for-selecting-optimal-cricket-broadcasts/"><u>[Updated] 10+ Must-Know Tactics for Selecting Optimal Cricket Broadcasts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/advanced-techniques-developing-elapsed-time-features-in-obs-software-for-2024/"><u>Advanced Techniques Developing Elapsed Time Features in OBS Software for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-insights-is-chatgpt-the-new-oracle-for-personal-fortune-telling/"><u>Artificial Intelligence Insights - Is ChatGPT the New Oracle for Personal Fortune-Telling?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/complete-action-camera-buying-guide-for-beginners-2023-update/"><u>Complete Action Camera Buying Guide For Beginners -2023 Update</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-oneplus-ace-2-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-samsung-galaxy-s23-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Samsung Galaxy S23 online without jailbreak</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-sites-with-public-domain-game-soundtracks/"><u>In 2024, Best Sites with Public Domain Game Soundtracks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-naming-your-podcast-a-complete-guide-plus-list-of-over-50-creative-ideas/"><u>In 2024, Naming Your Podcast A Complete Guide + List of Over 50 Creative Ideas</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-11-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 11 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/lenovos-latest-strategy-utilizing-in-house-cpus-for-the-cutting-edge-legion-7000k-gaming-towers-in-china/"><u>Lenovo's Latest Strategy: Utilizing In-House CPUs for the Cutting-Edge Legion #7000K Gaming Towers in China</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/pasos-faciles-para-mover-tu-identidad-de-apple-entre-dispositivos/"><u>Pasos Fáciles Para Mover Tu Identidad De Apple Entre Dispositivos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/storing-image-frames-from-videos-on-windows-11/"><u>Storing Image Frames From Videos on Windows 11</u></a></li>
 </ul></div>
 
