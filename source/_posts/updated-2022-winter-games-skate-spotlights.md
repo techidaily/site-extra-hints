@@ -1,7 +1,7 @@
 ---
 title: "[Updated] 2022 Winter Games Skate Spotlights"
-date: 2025-01-08T18:42:53.948Z
-updated: 2025-01-11T16:29:42.748Z
+date: 2025-01-18T16:25:36.727Z
+updated: 2025-01-23T16:19:05.261Z
 tags: 
   - screen-recording
   - ai video
@@ -30,12 +30,16 @@ Nathan Chen got the combined score of 332.60 in short program and free skate com
 
 ![nathan chen skating](https://images.wondershare.com/filmora/article-images/nathan-chen-skating.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Nathan Chen of the United States reacts to winning the gold medal at the 2022 Beijing Winter Olympics. He successfully hit five quadruple jumps which helped him outshine others.
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
@@ -46,13 +50,13 @@ Shoma Uno of Japan won the bronze medal with a combined score of 293 points and 
 
 ![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
 
 ![nathan chen best male skater](https://images.wondershare.com/filmora/article-images/nathan-chen-best-male-skater.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Even though Nathan Chen finished first for men's short program of the team event, United States could not hold to the first position and losing to ROC.
 
@@ -85,7 +89,7 @@ Step 1: Download and install Filmora. Launch Filmora and click on New Project.
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: Go to File > Project Settings and set the parameters as per your requirements.
@@ -95,7 +99,7 @@ Step 3: Go to Import > Import with Instant Cutter Tool. It is time to import all
 ![filmora edit videos](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: You need to add all imported media files to Video Timeline while you should add background music or voiceover to the Audio Timeline.
@@ -103,10 +107,6 @@ Step 4: You need to add all imported media files to Video Timeline while you sho
 Step 5: Select individual or multiple slides and add Transitions, Effects, Titles and Elements.
 
 Step 6: When everything is done, click on Export to save the video and share anywhere you want.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -121,20 +121,24 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-overcoming-facebook-algorithm-change-hurdles/"><u>[New] 2024 Approved Overcoming Facebook Algorithm Change Hurdles</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-techniques-to-achieve-consistent-frame-rates-in-obs-studio/"><u>[Updated] In 2024, Techniques to Achieve Consistent Frame Rates in OBS Studio</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/complete-manual-integrating-srt-into-mp4-files/"><u>Complete Manual Integrating SRT Into MP4 Files</u></a></li>
-<li><a href="https://facebook.techidaily.com/crafting-a-comprehensive-guide-to-social-account-linking-for-xbox/"><u>Crafting a Comprehensive Guide to Social Account Linking for Xbox</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723000585923-frozen-in-action-solve-warframes-freezing-problem-once-and-for-all/"><u>Frozen in Action? Solve Warframe's Freezing Problem Once & For All!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/gadget-games-galore-quickest-quality-flash-titles/"><u>Gadget Games Galore Quickest Quality Flash Titles</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-vivo-x100-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo X100 Pro Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-10-free-jpg-to-gif-conversion-tools/"><u>In 2024, Best 10 Free JPG to GIF Conversion Tools</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/journey-to-aesthetic-excellence-fusing-images-masterfully-for-2024/"><u>Journey to Aesthetic Excellence Fusing Images Masterfully for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/stability-secrets-for-dynamic-photo-shoots/"><u>Stability Secrets for Dynamic Photo Shoots</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/stabilizing-shots-best-4k-gimbals-reviewed/"><u>Stabilizing Shots Best 4K Gimbals Reviewed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-correct-error-code-0x80d03801-ms-store/"><u>Steps to Correct Error Code 0X80D03801 MS Store</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-essential-guide-to-blurring-images-with-your-iphone/"><u>The Essential Guide to Blurring Images with Your iPhone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-future-of-interaction-with-microsofts-hololens-review/"><u>The Future of Interaction with Microsoft's HoloLens Review</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ited-editing-discover-these-9-free-cloud-tools/"><u>Unlimited Editing Discover These 9 Free Cloud Tools</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-beyond-basic-the-advanced-techniques-of-youtube-counts/"><u>[New] Beyond Basic The Advanced Techniques of YouTube Counts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-thorough-introduction-to-gdocs-speech-to-text-capabilities/"><u>[Updated] A Thorough Introduction to GDoc's Speech-to-Text Capabilities</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-converters-top-8-list-seamless-sub-and-srt-format-switching/"><u>[Updated] Converters' Top 8 List Seamless Sub and SRT Format Switching</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beijings-frost-touched-games-highlights-from-2022/"><u>Beijing's Frost-Touched Games, Highlights From 2022</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-animated-storyboards-in-movie-maker-for-2024/"><u>Building Animated Storyboards in Movie Maker for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-brand-authority-top-tips-for-novice-marketers-on-reddit-for-2024/"><u>Building Brand Authority Top Tips for Novice Marketers on Reddit for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-realme-narzo-n55-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Realme Narzo N55 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/come-trasformare-le-tue-fotografie-con-il-filtro-bianconero-per-unestetica-classica/"><u>Come Trasformare Le Tue Fotografie Con Il Filtro Bianconero per Un'Estetica Classica</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/cure-your-fall-guys-game-woes-steps-to-prevent-not-loading-or-immediate-crash-at-startup/"><u>Cure Your Fall Guys Game Woes: Steps to Prevent Not Loading or Immediate Crash at Startup</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/immersive-color-grading-navigating-luts-in-adobe-premiere-pro/"><u>Immersive Color Grading Navigating LUTs in Adobe Premiere Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-astounding-footage-with-every-frame-the-10-best-for-image-stability/"><u>In 2024, Astounding Footage with Every Frame The 10 Best for Image Stability</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-6-services-for-visual-text-interpretation/"><u>In 2024, Best 6 Services for Visual Text Interpretation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/iphone-black-screen-malfunction-steps-to-restore-and-repair/"><u>IPhone Black Screen Malfunction - Steps to Restore and Repair</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastery-over-smudge-effects-private-images-ps/"><u>Mastery Over Smudge Effects Private Images PS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/setting-up-alerts-activating-slack-notifications-for-iphone-and-apple-watch-a-step-by-step-guide/"><u>Setting Up Alerts: Activating Slack Notifications for iPhone and Apple Watch - A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-reducing-svchostexe-cpu-impact-on-your-windows-10-pc/"><u>Step-by-Step Tutorial: Reducing svchost.exe CPU Impact on Your Windows 10 PC</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-stereo-amp-models-your-ultimate-guide/"><u>Top Rated Stereo Amp Models : Your Ultimate Guide</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-best-websites-to-add-emojis-to-photos-online/"><u>Updated 2024 Approved Best Websites to Add Emojis to Photos Online</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/alaathor-aal-koa-norton-ghost-fy-nskh-alntham-windows-11-10-8-7/"><u>العثور على قوة Norton Ghost في نسخ النظام: Windows 11, 10, 8, 7</u></a></li>
 </ul></div>
 

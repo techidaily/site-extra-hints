@@ -1,7 +1,7 @@
 ---
 title: "Amazon Echo (4Gen): A Breakdown of Key Upgrades and Revamped Features"
-date: 2025-01-15T00:17:24.954Z
-updated: 2025-01-17T07:01:03.762Z
+date: 2025-01-21T16:37:33.243Z
+updated: 2025-01-23T16:55:43.302Z
 categories:
   - BestProducts
 description: "This Article Describes Amazon Echo (4Gen): A Breakdown of Key Upgrades and Revamped Features"
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/77d3e1b90c90a1223bd94c398f31bb9940ba742ed
 4.2
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Amazon Luna
@@ -44,13 +44,13 @@ Lifewire / Jeremy Laukkonen
 
 4.2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Amazon Luna
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NT3lnZ3hOwaGUbS2tHARE7zRT1Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_Hero_Square-cced3e5a3d3e4d24af1b85a59c76932d.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -84,7 +84,7 @@ Lifewire / Jeremy Laukkonen
 ![Amazon Luna](https://www.lifewire.com/thmb/c10USyUEVgaFrdeWRUBgX6MNpOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_05-7314cf2ae25a4f428d93f40cc56fb5d1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
@@ -96,6 +96,10 @@ Lifewire / Jeremy Laukkonen
  The controller is similarly unassuming, and Amazon clearly isn’t trying to rock the boat there. It’s extremely similar in profile to an Xbox One controller, right down to the positioning of the offset analog sticks. This configuration has long been my favorite, with the Sony-style side-by-side analogs feeling cramped, so the Luna controller feels instinctually good in my hands. If you’re a fan of the Xbox One controller, you’ll likely feel the same. If you don’t like the Xbox-style design for whatever reason, then you may at least appreciate the fact that the build quality of the controller feels quite solid, and it’s very snappy and responsive in use.
 
 ![Amazon Luna](https://www.lifewire.com/thmb/jNDwaMGOVuF5UIISPsmdb5uQdGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_04-985a4419a93945d2879b09d61fafae5a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -118,7 +122,7 @@ Lifewire / Jeremy Laukkonen
 ![Amazon Luna](https://www.lifewire.com/thmb/6427gP-MSnqe4st8hfuI-7yxlos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_03-f12a92bc606e43caa77b445a2fdcf1c1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
@@ -159,6 +163,10 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NBB1N6qtwbtdjrUgwr1YaBaTuBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_02-37837bf860d244d3ab11ff01f37c609c-db472e204ada4ccca88e7510eacfae34.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lifewire / Jeremy Laukkonen
 
  For some reason, the fighting category is populated by titles like the rogue-like shooter Everspace and the co-op brawler River City Girls. No actual fighting games, though. The horror category was empty until Amazon scored Resident Evil 7 Gold Edition and also saddled gorefest pixel art platformer Valfaris with the horror tag.
@@ -170,10 +178,6 @@ Lifewire / Jeremy Laukkonen
  Luna comes with a price tag of $4.95 per month during the beta period, with the insinuation that it will increase later on. It’s uncertain as to whether or not the price will actually go up, but right now it’s a pretty good deal. The only real caveat is that the attractive price tag is balanced by a somewhat thin library. Go ahead and check the library before you sign up. If you see more than a handful of games you’re interested in, then Luna is absolutely worth the price of admission.
 
  The Luna controller has a heftier price tag of $50, but that’s actually pretty reasonable if you compare it to other wireless controllers. It’s cheaper than a lot of the other options, and you can use it via Wi-Fi with Luna, or via Bluetooth or USB-C to play non-Luna games on your PC. All in all, it’s a good controller that’s priced competitively.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Amazon Luna vs. Microsoft Game Pass Ultimate
 
@@ -198,10 +202,6 @@ Lifewire / Jeremy Laukkonen
 * [Xbox Series X|S Controller](https://www.lifewire.com/xbox-series-x-or-s-controller-review-5113227)
 * [Sony DualSense Wireless Controller](https://www.lifewire.com/sony-dualsense-wireless-controller-review-feel-the-quality-5101639)
 * [Xbox One Elite Controller](https://www.lifewire.com/xbox-one-elite-controller-review-4770957)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -233,19 +233,22 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-audio-improvement-for-effective-online-communication/"><u>[New] 2024 Approved Audio Improvement for Effective Online Communication</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-boost-engagement-changing-numbers-effectively-on-tiktok/"><u>[New] Boost Engagement Changing Numbers Effectively on TikTok</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/reating-accessibility-your-guide-to-an-intuitive-youtube-signup-for-2024/"><u>[New] Creating Accessibility Your Guide to an Intuitive YouTube Signup for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unlocking-virtual-meetings-googles-facetime-tutorial/"><u>[Updated] 2024 Approved Unlocking Virtual Meetings Google's Facetime Tutorial</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-choosing-androids-favorite-freepaid-video-tile-tools-8-ranked/"><u>[Updated] Choosing Android's Favorite Free/Paid Video Tile Tools #8 Ranked</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/capturing-waves-how-to-record-internet-radios-step-by-step/"><u>Capturing Waves How To Record Internet Radios Step-by-Step</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/demystifying-windows-8-movie-maker-a-comprehensive-overview/"><u>Demystifying Windows 8 Movie Maker A Comprehensive Overview</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-expert-strategies-for-developing-captivating-audio-visual-teasers/"><u>In 2024, Expert Strategies for Developing Captivating Audio-Visual Teasers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ignite-your-design-prowess-top-14-text-animation-snapshots/"><u>In 2024, Ignite Your Design Prowess Top 14 Text Animation Snapshots</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-enhanced-experience-of-movavi-video-pro/"><u>In 2024, The Enhanced Experience of Movavi Video Pro</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-thermaltake-massive-tl-laptop-cooler-features-and-cost-evaluation/"><u>In-Depth Analysis of the Thermaltake Massive TL Laptop Cooler - Features and Cost Evaluation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/propel-your-artistic-journey-the-ultimate-10-android-drawing-tools/"><u>Propel Your Artistic Journey The Ultimate 10 Android Drawing Tools</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-instagram-edge-rotating-videos-like-a-pro/"><u>The Instagram Edge Rotating Videos Like a Pro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unleashing-new-worlds-best-psvr-games-on-their-way-out/"><u>Unleashing New Worlds Best PSVR Games on Their Way Out</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-blur-and-bury-backgrounds-with-ease/"><u>[New] Blur and Bury Backgrounds with Ease</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-profit-potential-per-viewer-youtubes-financial-dynamics/"><u>[New] In 2024, Profit Potential Per Viewer YouTube's Financial Dynamics</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-humor-in-captivity-top-20-memes-from-jail-to-joys-of-online-life/"><u>[Updated] Humor in Captivity Top 20 Memes From Jail to Joys of Online Life</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-cost-free-webm-playback-the-top-10-players-reviewed/"><u>2024 Approved Cost-Free WebM Playback The Top 10 Players Reviewed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audiophiles-dilemma-podcast-or-youtube-dominance-for-2024/"><u>Audiophile's Dilemma Podcast or YouTube Dominance for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/behind-glasses-and-screens-vrs-evolutionary-tale/"><u>Behind Glasses and Screens VR’s Evolutionary Tale</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-craft-an-engaging-solo-auditory-adventure-for-2024/"><u>How to Craft an Engaging Solo Auditory Adventure for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-hackers-guide-to-scoring-cool-images-at-pexels/"><u>In 2024, A Hacker's Guide to Scoring Cool Images at Pexels</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-se-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone SE After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-chinas-value-driven-virtual-reality-marketplace/"><u>In 2024, China's Value-Driven Virtual Reality Marketplace</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-recommendations-best-audio-crafting-pros/"><u>Master Recommendations Best Audio Crafting Pros</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-civi-3-disney-100th-anniversary-edition-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi Civi 3 Disney 100th Anniversary Edition? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/snapshot-selection-unveiling-the-top-10-camera-lenses/"><u>Snapshot Selection Unveiling the Top 10 Camera Lenses</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-free-on-premise-windows-ai-with-gpt4all/"><u>Unlock Free, On-Premise Windows AI with GPT4All</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-avs-video-editor-2023-features-pricing-and-performance-review/"><u>Updated AVS Video Editor 2023 Features, Pricing, and Performance Review</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/whisker-wonders-games-galore/"><u>Whisker Wonders: Games Galore!</u></a></li>
 </ul></div>
 

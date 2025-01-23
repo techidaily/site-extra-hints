@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to Fisheye Panoramas"
-date: 2025-01-12T01:35:25.130Z
-updated: 2025-01-16T21:11:59.121Z
+date: 2025-01-22T16:10:46.139Z
+updated: 2025-01-23T16:54:43.539Z
 tags: 
   - screen-recording
   - ai video
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Shooting 360 degrees panoramas with fisheye lens
 
  The process of shooting panoramas with fisheye lenses involves a number of considerations and they are as follows-:
@@ -37,7 +41,11 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 ![Panohead for Fisheye lens](https://images.wondershare.com/filmora/article-images/panohead-for-fishlens.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2. Leveling and rotating
@@ -47,11 +55,7 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3. The actual shooting
@@ -74,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
 [How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's fisheye lenses
 
  Fisheye lens refers to an ultra wide angle lens used to produce strong visual distortions with the aim of creating a wide hemispherical or panoramic image. Fisheye lenses are able to achieve very wide angles of view not through the production of straight lines of perspectives, but through a special mapping which makes the resulting images have the characteristic convex non-rectilinear appearance.
@@ -88,15 +88,15 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Conclusion
 
  Fisheye lenses have been around for a while now and the process of creating 360 panoramas with them may not be very challenging, but great results are achieved through practice and proper stitching. Once the photos are taken, you can use premium panorama software like Autopano Pro or you can use free options like the Microsoft ICE or Hugin. Ones stitching are done, it is imperative to have the final works uploaded online for others to view.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -113,21 +113,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-youtube-editors-handbook-a-step-by-step-journey/"><u>[New] The Ultimate YouTube Editor's Handbook A Step-by-Step Journey</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unlocking-potential-creating-compelling-content-on-your-phone/"><u>[Updated] 2024 Approved Unlocking Potential Creating Compelling Content on Your Phone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-achieve-professional-results-podcast-editing-made-simple-in-garageband/"><u>[Updated] Achieve Professional Results Podcast Editing Made Simple in GarageBand</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-airborne-shots-the-pivotal-role-of-dji-spark-in-selfie-culture/"><u>[Updated] Mastering Airborne Shots The Pivotal Role of DJI Spark in Selfie Culture</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-lava-blaze-2-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Lava Blaze 2 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/beyond-boundaries-the-present-state-and-future-of-vr-for-2024/"><u>Beyond Boundaries The Present State and Future of VR for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/design-memes-in-adobe/"><u>Design Memes in Adobe</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/geeky-gatherings-best-general-trivia-streams/"><u>Geeky Gatherings Best General Trivia Streams</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-did-your-iphone-se-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>In 2024, Did Your iPhone SE Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-xcover-6-pro-tactical-edition-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy XCover 6 Pro Tactical Edition Phone Pattern Lock</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mixing-masterclass-elevate-drone-audio-with-20-complimentary-luts/"><u>Mixing Masterclass - Elevate Drone Audio with 20 Complimentary LUTs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/nighttime-storyscapes-in-moving-pictures/"><u>Nighttime Storyscapes in Moving Pictures</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/prospective-cameras-to-document-2024s-music-industry-evolution/"><u>Prospective Cameras to Document 2024'S Music Industry Evolution</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-lava-yuva-2-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Lava Yuva 2 ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/update-alert-meta-discontinues-support-for-oculus-quest-1-vr-device/"><u>Update Alert: Meta Discontinues Support for Oculus Quest 1 VR Device</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-smart-solutions-apply-apple-watch-open-mac/"><u>[New] In 2024, Smart Solutions Apply Apple Watch, Open Mac</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-superior-obs-configurations-budget-edition-for-2024/"><u>[New] Superior OBS Configurations - Budget Edition for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-list-of-independent-mobile-games-play-without-a-network-android/"><u>[New] The Ultimate List of Independent Mobile Games - Play Without a Network (Android)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-elevate-your-photo-game-top-5-android-photo-editors-ranked/"><u>[Updated] 2024 Approved Elevate Your Photo Game Top 5 Android Photo Editors Ranked</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-closer-look-at-immersive-virtual-reality-tech/"><u>[Updated] A Closer Look at Immersive Virtual Reality Tech</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-key-3d-tools-optimized-for-animation-workflows/"><u>[Updated] Key 3D Tools Optimized for Animation Workflows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-conquer-podcast-production-with-garageband-skills/"><u>2024 Approved Conquer Podcast Production with GarageBand Skills</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-roadmap-to-crafting-popular-vlogging-narratives/"><u>A Roadmap to Crafting Popular Vlogging Narratives</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-checkup-vlle-for-app-health-for-2024/"><u>Comprehensive Checkup VLLE for App Health for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhance-visual-magnification-without-quality-loss/"><u>Enhance Visual Magnification without Quality Loss</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-solutions-for-fixing-internet-explorer-malfunctions/"><u>Essential Solutions for Fixing Internet Explorer Malfunctions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/hastening-vimeo-media-transmission/"><u>Hastening Vimeo Media Transmission</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/omni-vmix-universal-controller/"><u>Omni-VMix Universal Controller</u></a></li>
 </ul></div>
 

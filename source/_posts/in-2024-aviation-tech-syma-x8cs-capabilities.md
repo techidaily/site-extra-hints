@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Aviation Tech  Syma X8C's Capabilities\""
-date: 2025-01-14T00:54:59.935Z
-updated: 2025-01-17T02:42:08.521Z
+date: 2025-01-18T16:50:11.578Z
+updated: 2025-01-23T16:18:04.789Z
 tags: 
   - screen-recording
   - ai video
@@ -33,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 **You may also like:** [Full review for Syma X5C >>](HTTPS://filmora.wondershare.com/drones/syma-x5c-drone-review.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pros and Cons of Syma X8C
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
  There are loads of pros as well as cons related Syma H8C device but they appear different to various kinds of users. Professionals may be worried about its camera quality whereas beginners will find its controls little complex. But in case if you need something at low price with all acceptable features then Syma H8C is really a good choice for your needs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Complete Review
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 ![syma vs phantom design](https://images.wondershare.com/filmora/article-images/syma-vs-phantom-design.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If we consider the appearance then it looks close to the Phantom drone but no doubt to say that few variations exists and they make it unique. The overall dimension of this drone unit is 20x20x6.5 whereas maximum weight goes up to 450 grams thus it cannot be called as a tiny drone. When weighted with camera and prop guards, then this unit has overall weight of 600 grams. This dimension and weight makes this drone much stable in air.
@@ -108,13 +108,13 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 ![syma x8c camera](https://images.wondershare.com/filmora/article-images/syma-x8c-camera.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A drone cannot be complete without a camera mounted on its top; hence Syma has taken care of users need and they developed Syma X8C with a camera that can record everything in air. Although, it is not able to collect video information with HD quality but you will be glad to know that it is detachable and one can also make additional adjustments over its angles to adjust focus. All the recorded videos are stored inside a 4GB MicroSD card. Further, the attached gimbal assists in much stable footage.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -138,21 +138,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/s-a-brief-subscribe-beneficial-for-content-consumption/"><u>[New] Is a Brief Subscribe Beneficial for Content Consumption?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-ascend-youtube-rankings-through-optimal-dating/"><u>[Updated] 2024 Approved Ascend YouTube Rankings Through Optimal Dating</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-free-live-streaming-software-and-app-for-all-platforms/"><u>[Updated] Best Free Live Streaming Software and App for All Platforms</u></a></li>
-<li><a href="https://techtrends.techidaily.com/affordable-entertainment-free-tips-for-accessing-netflix-content/"><u>Affordable Entertainment: Free Tips for Accessing Netflix Content</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cartoonkingdom-comprehensive-24-guide/"><u>CartoonKingdom Comprehensive '24 Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/changer-gratuitement-un-fichier-mpeg-en-format-aiff-sur-la-toile-avec-movavi/"><u>Changer Gratuitement Un Fichier MPEG en Format AIFF Sur La Toile - Avec Movavi!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comparative-overview-of-googles-ar-stickers-and-its-counterparts-for-2024/"><u>Comparative Overview of Google's AR Stickers & Its Counterparts for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/creating-auditory-immersion-with-canvas-soundscape-tools/"><u>Creating Auditory Immersion with Canva's Soundscape Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discover-peak-efficiency-the-new-asus-n14-mini-pc-blending-intels-core-u-and-high-performance-nvidia-geforce-rtx-graphics/"><u>Discover Peak Efficiency: The New Asus N14 Mini PC, Blending Intel's Core U and High-Performance NVIDIA GeForce RTX Graphics</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Poco C65? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-the-art-of-chromatic-enhancement/"><u>In 2024, The Art of Chromatic Enhancement</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/m1-innovation-elevating-smoothness-in-every-editors-toolkit/"><u>M1 Innovation Elevating Smoothness in Every Editor's Toolkit</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/masterpiece-moments-iphone-plus-androids-best-ig-covers/"><u>Masterpiece Moments IPhone + Android's Best IG Covers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/perfecting-the-look-a-guide-to-haul-video-post-production/"><u>Perfecting the Look A Guide to Haul Video Post-Production</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/pros-and-cons-of-switching-to-ios-ebracketed-by-the-latest-update/"><u>Pros & Cons of Switching to iOS Ebracketed by the Latest Update</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-10-best-meme-templates/"><u>Top 10 Best Meme Templates</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-captivating-creations-utilizing-motion-blur-effects-in-ai/"><u>[New] Captivating Creations Utilizing Motion Blur Effects in AI</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-insta-stories-enhancing-background-blur-technique/"><u>[New] In 2024, Insta Stories Enhancing Background Blur Technique</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-mastering-video-reversal-on-ios-devices/"><u>[New] Mastering Video Reversal on iOS Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensive-review-of-facetunes-latest-updates/"><u>[Updated] Comprehensive Review of Facetune's Latest Updates</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-perfect-pixels-a-guide-to-the-11-best-edits-for-color-balance/"><u>[Updated] Perfect Pixels A Guide to the 11 Best Edits for Color Balance</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ving-youtube-excellence-with-gamers-channel-graphics/"><u>Achieving YouTube Excellence with Gamers' Channel Graphics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/acid-pro-insights-and-looking-for-alternatives-for-2024/"><u>ACID Pro Insights & Looking for Alternatives for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-converter-transform-mp4-videos-into-mp3-audio-files-with-movavi/"><u>Free Online Converter: Transform MP4 Videos Into MP3 Audio Files with Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-novice-to-expert-a-comprehensive-guide-to-macs-preview-software/"><u>From Novice to Expert A Comprehensive Guide to Mac's Preview Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-obscurity-to-star-in-3-simple-steps/"><u>From Obscurity to Star in 3 Simple Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/gigglegadget-assistant/"><u>GiggleGadget Assistant</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/harnessing-the-hype-how-to-hike-your-youtube-horde/"><u>Harnessing the Hype How to Hike Your Youtube Horde</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-in-class-top-10-streamers-with-a-comparative-edge/"><u>In 2024, Best in Class Top 10 Streamers with a Comparative Edge</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-google-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Google</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-physxloaderdll-not-found-error-when-starting-games/"><u>Resolving the 'physxloader.dll Not Found' Error When Starting Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-into-the-metaverse-analyzing-6-engrossing-cases/"><u>Step Into the Metaverse Analyzing 6 Engrossing Cases</u></a></li>
 </ul></div>
 

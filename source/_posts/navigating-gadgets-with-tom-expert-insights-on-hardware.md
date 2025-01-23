@@ -1,7 +1,7 @@
 ---
 title: "Navigating Gadgets with Tom: Expert Insights on Hardware"
-date: 2025-01-10T19:56:23.406Z
-updated: 2025-01-16T18:01:42.232Z
+date: 2025-01-20T16:14:50.410Z
+updated: 2025-01-23T16:43:52.024Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,18 +68,17 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-a-comprehensive-list-of-excellent-fb-cover-photo-creators/"><u>[New] 2024 Approved A Comprehensive List of Excellent FB Cover Photo Creators</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-captivating-stories-in-motion-best-video-theme-choices/"><u>[New] Captivating Stories in Motion Best Video Theme Choices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-framing-the-perfect-waterway-narrative/"><u>[New] In 2024, Framing the Perfect Waterway Narrative</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-master-your-chromebooks-pitch-and-tone-with-our-top-5-web-tools/"><u>[New] In 2024, Master Your Chromebook's Pitch and Tone with Our Top 5 Web Tools</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-maximize-your-ios-for-ps2-gaming-with-best-emulators/"><u>[New] In 2024, Maximize Your IOS for PS2 Gaming with Best Emulators</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-aqtime-media-center-diverse-audio-video-options/"><u>[Updated] Aqtime Media Center Diverse Audio, Video Options</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-understanding-facebooks-new-policies-and-updates/"><u>[Updated] In 2024, Understanding Facebook's New Policies and Updates</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/composing-the-unseen-score-trailer-music-magic/"><u>Composing the Unseen Score Trailer Music Magic</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Infinix Hot 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/laughter-is-free-access-to-top-meme-creations/"><u>Laughter Is Free Access to Top Meme Creations</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722989014410-modern-warfare-2-wont-launch-here-are-solutions-that-worked-for-me/"><u>Modern Warfare 2 Won't Launch? Here Are Solutions that Worked for Me</u></a></li>
-<li><a href="https://techtrends.techidaily.com/out-of-sample-prediction/"><u>Out-of-Sample Prediction</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/your-comprehensive-guide-to-the-best-wearable-tech-2024s-premier-smartwatches/"><u>Your Comprehensive Guide to the Best Wearable Tech: 2024’S Premier Smartwatches</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-digital-tapes-a-comprehensive-recorder-roundup/"><u>[New] In 2024, Digital Tapes A Comprehensive Recorder Roundup</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/debugging-and-solving-rust-application-failures-successfully/"><u>Debugging and Solving Rust Application Failures Successfully</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/demystifying-color-grading-with-powerful-luts/"><u>Demystifying Color Grading with Powerful LUTs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/foundations-of-mixing-adobe-auditions-fade-in-technique-for-2024/"><u>Foundations of Mixing Adobe Audition’s Fade In Technique for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/four-tiers-of-regulatory-oversight-in-the-age-of-ai/"><u>Four Tiers of Regulatory Oversight in the Age of AI</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-newest-pc-audio-drivers-for-windows-here/"><u>Get Your Newest PC Audio Drivers for Windows Here</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/live-radio-transmissions-recorded-with-ease-an-experts-guide/"><u>Live Radio Transmissions Recorded with Ease An Expert's Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-art-of-professional-gopro-cinematography/"><u>Mastering the Art of Professional Gopro Cinematography</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722976747082-simple-steps-to-download-the-latest-logitech-m325-drivers-get-started-today/"><u>Simple Steps to Download the Latest Logitech M325 Drivers – Get Started Today</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/stay-ahead-of-the-curve-engaging-activities-while-listening-to-talk-shows/"><u>Stay Ahead of The Curve Engaging Activities While Listening to Talk Shows</u></a></li>
+<li><a href="https://win-updates.techidaily.com/unveiling-your-visuals-find-out-which-graphics-processor-powers-your-pc-with-yls-expert-tips/"><u>Unveiling Your Visuals: Find Out Which Graphics Processor Powers Your PC with YL's Expert Tips</u></a></li>
 </ul></div>
 

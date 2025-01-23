@@ -1,7 +1,7 @@
 ---
 title: "Tips & Tricks: Fixing Common Arise Game-Crash Issues"
-date: 2025-01-09T19:02:12.310Z
-updated: 2025-01-11T16:41:36.341Z
+date: 2025-01-19T16:59:00.753Z
+updated: 2025-01-23T16:16:11.282Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 
 It’s a lot of fun to immerse in the epic naval warfare in World of Warships. However, when the game keeps crashing, it could feel awful and annoying. If you’re one of the many plagued by the constant crashes, don’t frustrate as this problem is not hard to fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 5 fixes that helped other players solve World of Warships crashing. You don’t need to try them all; just work in order until you find the one that does the trick.
@@ -32,6 +28,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 5. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
  The screenshots below come from Windows 10, but the fixes also apply to Windows 7 and Windows 8.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Repair the game files
 
@@ -51,6 +51,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After it finishes validating the game files, you can relaunch World of Warships to check if crashes are still there. If yes, proceed to **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  below.
 
 #### If you play on Wargaming launcher
@@ -62,22 +66,14 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait for the process to complete, and relaunch World of Warships to test this method. If it fails to cure the crash, move on to the fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics card driver
 
@@ -118,6 +114,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  Now that you’ve installed the most recent graphics driver, you can expect a smooth and enhanced game performance. If updating the driver doesn’t work, keep reading the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3 – Delete the preferences.xml file
 
  This is a simple but useful trick reported by many players to stop World of Warships from crashing. Please note that this process will clear the corrupted cache and revert the game settings, including audio, graphics and controls to default.
@@ -132,10 +132,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 See if the crashing issue goes away. If not, try the fixes below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4 – Launch World of Warships in safe mode
 
  If you’re accustomed to playing World of Warships with installed modifications but found the game started to malfunction after an update, the problem is possibly related to the mods. To identify whether that’s the case, you can try the safe mode.
@@ -147,7 +143,7 @@ See if the crashing issue goes away. If not, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Do the crashes disappear now? If not, continue to the next fix.
@@ -163,6 +159,10 @@ Do the crashes disappear now? If not, continue to the next fix.
 **2)** Select**Category** next to View by, and click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click**World of Warships** from the list, and click**Uninstall** . Then, follow the on-screen instructions to complete the process.
 
@@ -198,18 +198,21 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-essential-tactics-for-viral-fb-video-marketing/"><u>[New] 2024 Approved Essential Tactics for Viral FB Video Marketing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-crafting-customized-clips-on-iphone-3-free-music-integration-techniques/"><u>[Updated] Crafting Customized Clips on iPhone – 3 Free Music Integration Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-backstage-pass-for-streamers-recording-on-twitch/"><u>[Updated] In 2024, The Backstage Pass for Streamers Recording on Twitch</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-quick-reference-guide-to-mastering-mobizens-screen-recording-tech-for-2024/"><u>[Updated] Quick Reference Guide to Mastering Mobizen's Screen Recording Tech for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/all-inclusive-guide-what-is-googles-podcast-service-for-2024/"><u>All-Inclusive Guide What Is Google's Podcast Service for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhancing-visual-experience-preferred-picture-settings-for-a-samsung-ultra-hd-display/"><u>Enhancing Visual Experience: Preferred Picture Settings for a Samsung Ultra HD Display</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-building-a-successful-facebook-charity-competition/"><u>In 2024, Building a Successful Facebook Charity Competition</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-crystal-crisp-playback-ps5s-favorite-hdmi-21-displays/"><u>In 2024, Crystal Crisp Playback PS5's Favorite HDMI 2.1 Displays</u></a></li>
-<li><a href="https://win11.techidaily.com/methods-to-fix-disabled-desktop-icons/"><u>Methods to Fix Disabled Desktop Icons</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/night-shots-pro-tips-for-iphone-enthusiasts/"><u>Night Shots Pro Tips for iPhone Enthusiasts</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ltimate-gif-making-software-showdown-for-2024/"><u>The Ultimate GIF Making Software Showdown for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-smart-process-automation-what-you-need-to-know/"><u>Unveiling the Power of Smart Process Automation - What You Need to Know</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-xiaomi-redmi-note-12-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi Redmi Note 12 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-a-new-take-on-favorite-movies-7-alternatives/"><u>[New] 2024 Approved A New Take on Favorite Movies - #7 Alternatives</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-digital-space-for-every-need-the-best-free-services-offering-massive-storage/"><u>[New] Digital Space for Every Need - The Best Free Services Offering Massive Storage</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capture-the-internets-attention-craft-with-kapwing/"><u>[Updated] Capture the Internet’s Attention – Craft with Kapwing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/20-tips-to-transform-your-images-into-collages-for-2024/"><u>20 Tips to Transform Your Images Into Collages for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-step-by-step-guide-to-crafting-captivating-podcast-scripts-plus-free-examples/"><u>2024 Approved A Step-By Step Guide to Crafting Captivating Podcast Scripts (Plus Free Examples)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-into-the-unknown-how-to-start-and-flourish-as-a-travel-videographer/"><u>2024 Approved Into the Unknown How To Start & Flourish As a Travel Videographer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-civi-3-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Civi 3?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-samsung-galaxy-xcover-7-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Samsung Galaxy XCover 7? Try These Fixes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-infinix-smart-8-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Infinix Smart 8 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-quick-sequences-with-gopro-burst/"><u>Mastering Quick Sequences with GoPro Burst</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/prime-screen-grabbers-selection-1-8/"><u>Prime Screen Grabbers Selection #1-8</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/scheduling-zoom-conferences-for-android-users/"><u>Scheduling Zoom Conferences for Android Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/seamless-integration-instagram-meets-tiktok/"><u>Seamless Integration Instagram Meets TikTok</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/shielding-identity-video-blur-and-privacy-preservation-for-2024/"><u>Shielding Identity Video Blur and Privacy Preservation for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/simple-solutions-for-resolving-hardware-setup-challenges-tips-from-yl-computings-expert-software-guides/"><u>Simple Solutions for Resolving Hardware Setup Challenges - Tips From YL Computing's Expert Software Guides</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/start-a-new-story-install-xps-videographer-tools/"><u>Start a New Story, Install XP’s Videographer Tools</u></a></li>
 </ul></div>
 

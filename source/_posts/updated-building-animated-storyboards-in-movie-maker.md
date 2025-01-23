@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Building Animated Storyboards in Movie Maker"
-date: 2025-01-13T17:04:33.050Z
-updated: 2025-01-16T22:17:04.998Z
+date: 2025-01-20T16:09:25.186Z
+updated: 2025-01-23T16:57:03.314Z
 tags: 
   - screen-recording
   - ai video
@@ -23,7 +23,7 @@ Wondering how to make animation in Windows Movie Maker? As storytelling is the f
 Animated video is a rich, captivating medium that will make your main arguments stand out. You can use Windows Movie Maker effects as it has far lower resource needs than you may anticipate while yet providing all the advantages of a visual medium. The difficulty is in turning that central idea into a direct, concise tale that will hold the attention of your audience. Feel free to try out various combinations while using the Windows Movie Maker animation tool since you can always quickly delete an effect after applying it. Learn more about the best animation video maker software for Windows in this guide.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. Steps to Create Animation with Windows Movie Maker
@@ -46,15 +46,15 @@ If you wish to clip off a section, go to "Edit" under "Video Tools" and choose t
 
 ![preview video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/preview-video-movie-maker.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3Open the Animation Tab
 
 You may add two distinct types of animations—Transitions and Pan and Zoom—to video clips or photographs using the Animations window on the ribbon. The dropdown menu next to "Speed" in the "Edit" tab may be expanded to change the speed of a video clip. The 'Duration' dropdown menu allows you to choose how long a certain image will be shown in a movie.
 
 ![animation tab movie maker](https://images.wondershare.com/filmora/article-images/2022/09/animation-tab-movie-maker.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##### Step4Add Transitions
 
@@ -67,10 +67,6 @@ Between two multimedia portions, a transition effect may be added. In the "Anima
 When a transition is applied, a washed-out diagonal zone on the clip in the timeline indicates where the transition starts and finishes. Additionally, you have a choice in the sequence in which the effects are used. This may change how the movie is finally shown depending on the Effects, you choose. Once you're done, click Apply.
 
 ![save animation video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/save-animation-video-movie-maker.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. Movie Maker Alternative to Add Animations
 
@@ -118,21 +114,25 @@ If you wish to clip off a section, go to "Edit" under "Video Tools" and choose t
 
 ![preview video movie maker](https://images.wondershare.com/filmora/article-images/2022/09/preview-video-movie-maker.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step3Open the Animation Tab
 
 You may add two distinct types of animations—Transitions and Pan and Zoom—to video clips or photographs using the Animations window on the ribbon. The dropdown menu next to "Speed" in the "Edit" tab may be expanded to change the speed of a video clip. The 'Duration' dropdown menu allows you to choose how long a certain image will be shown in a movie.
 
 ![animation tab movie maker](https://images.wondershare.com/filmora/article-images/2022/09/animation-tab-movie-maker.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step4Add Transitions
 
 Between two multimedia portions, a transition effect may be added. In the "Animations" section, there are many different transitions available, including dissolves, patterns, and forms. The transition will be included at the start of the chosen medium. You may alter the effect's duration by writing or choosing a new time frame from the dropdown menu next to "Duration."
 
 ![add transitions movie maker](https://images.wondershare.com/filmora/article-images/2022/09/add-transitions-movie-maker.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step5Save the Video
 
@@ -167,7 +167,7 @@ Filmora helps you create your text animation using the controller window as seen
 The software's Preview window also allows you to preview the animation you've selected before adding it to the timeline with a few simple drag-and-drop actions. After finishing the production and editing of the instructional video, you may save it for distribution on social media. You may choose to save the document as an MP4, WMV, AVI, MOV, or even a GIF file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. Related FAQs about Windows Movie Maker
@@ -208,16 +208,19 @@ Simple movies may be easily made using Windows Live Movie Maker. With Windows Vi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-ace-10-drones-for-photography-and-cinematic-prowess/"><u>[New] Ace 10 Drones for Photography & Cinematic Prowess</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-video-dimensions-and-story-size-the-ultimate-guide-for-perfect-posts-for-2024/"><u>[New] Instagram Video Dimensions & Story Size [The Ultimate Guide for Perfect Posts] for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-how-to-produce-high-impact-low-cost-youtube-ads/"><u>[Updated] 2024 Approved How to Produce High-Impact, Low-Cost YouTube Ads?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-navigating-content-sharing-youtube-standards-vs-creative-commons/"><u>[Updated] Navigating Content Sharing YouTube Standards Vs. Creative Commons</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-metaverse-marketing-mysteries/"><u>2024 Approved Unveiling Metaverse Marketing Mysteries</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-base-to-brilliance-comparing-gopro-hero5-black-and-hero4-silver/"><u>From Base to Brilliance Comparing GoPro Hero5 Black and Hero4 Silver</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/future-proofing-with-a-new-iphone-release/"><u>Future-Proofing with a New iPhone Release</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722976206873-get-your-roccat-mouse-driver-now-free-software-downloads-available/"><u>Get Your Roccat Mouse Driver Now – Free Software Downloads Available</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/master-the-art-of-sound-alteration-on-sony-games/"><u>Master the Art of Sound Alteration on Sony Games</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-ios-and-android-photo-blur-tools/"><u>Top iOS & Android Photo Blur Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/windows-11-user-guide-for-professional-audio-recording-for-2024/"><u>Windows 11 User Guide for Professional Audio Recording for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagram-reels-sonic-boom-integrating-music-voiceovers/"><u>[New] In 2024, Instagram Reels Sonic Boom Integrating Music, Voiceovers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/102-deal-alert-macbook-stand-that-charges-and-expands-ports-spotlight/"><u>$102 Deal Alert! MacBook Stand that Charges and Expands Ports, Spotlight</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-speedy-streams-ios-media-on-your-pc/"><u>2024 Approved Speedy Streams IOS Media on Your PC</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/guide-facile-pour-nettoyer-les-fichiers-inutiles-sous-windows-10/"><u>Guide Facile Pour Nettoyer Les Fichiers Inutiles Sous Windows 10</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-blitzburst-freezeframe-video/"><u>In 2024, BlitzBurst FreezeFrame Video</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-chuckle-composer-app/"><u>In 2024, Chuckle Composer App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-cinematic-projects-utilizing-movie-maker-on-windows-8-pcs/"><u>In 2024, Crafting Cinematic Projects Utilizing Movie Maker on Windows 8 PCs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-networked-video-streams-with-precision-using-vlc/"><u>Navigating Networked Video Streams with Precision Using VLC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/setting-up-two-screens-a-step-by-step-guide-for-windows-11/"><u>Setting up Two Screens: A Step-by-Step Guide for Windows 11</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-for-running-windows-11-with-ineligible-cpu-models/"><u>Step-by-Step Tutorial for Running Windows 11 with Ineligible CPU Models</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-android-photo-enhancement-5-top-apps/"><u>The Ultimate Guide to Android Photo Enhancement 5 Top Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-ten-web-retailers-for-exquisite-wrapped-delights/"><u>Top Ten Web Retailers for Exquisite Wrapped Delights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/which-player-enhances-media-experience-more-vlc-vs-mx/"><u>Which Player Enhances Media Experience More? VLC Vs. MX</u></a></li>
 </ul></div>
 

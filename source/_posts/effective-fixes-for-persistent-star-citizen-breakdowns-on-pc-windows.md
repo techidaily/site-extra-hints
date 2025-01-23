@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Persistent Star Citizen Breakdowns on PC Windows
-date: 2025-01-12T09:37:10.147Z
-updated: 2025-01-17T04:21:18.931Z
+date: 2025-01-18T16:54:31.615Z
+updated: 2025-01-23T16:02:09.842Z
 tags:
   - win11
   - win10
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
  Launch Lunar Client and see if this fix works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
@@ -62,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -69,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
  Run Lunar Client and see if the latest graphics driver stops the crash. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Change launch directory
@@ -86,17 +90,17 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 ![lunar client new launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/lunar-client-new-launch-directory.jpg)
 4. In Lunar Client, go to**Settings** and click**Change Directory** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Change launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory.jpg)
 5. Select the new folder you created in step 3) and click**Select Folder** to set it to the launch directory.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Change launch directory 1](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Lunar Client and see if this issue persists. If it still crashes, try the next fix, below.
@@ -115,11 +119,19 @@ To perform a clean boot, just follow the steps below:
 ![Run msconfig](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Under to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
@@ -127,25 +139,13 @@ To perform a clean boot, just follow the steps below:
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Restart** your PC and launch Lunar Client to check if the game crashes. If not, you need to open the **System Configuration** window again and enable services and applications **one by one** until you find the problematic software. After enabling each startup service, you need to restart Windows OS for the changes to take effect.
 
  Once you find out the software that crashes your game, you may need to close or uninstall it before you launch Lunar Client.
 
  See if this fix works. If Lunar Client doesn’t crash, congratultions! You’ve fixed this issue. If not, you try the next fix below to reinstall Minecraft and Lunar.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Reinstall Minecraft and Lunar Client
 
@@ -175,24 +175,22 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/avigating-to-your-youtube-comments-easily/"><u>[New] Navigating to Your YouTube Comments Easily</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-stealthy-styles-easy-color-corrections-techniques/"><u>[New] Stealthy Styles Easy Color Corrections Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-achieve-side-by-side-viewing-on-chrome-the-pip-method/"><u>[Updated] Achieve Side-by-Side Viewing on Chrome The PIP Method</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-ai-powered-image-editor/"><u>2024 Approved Ultimate AI-Powered Image Editor</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-apps-for-perfecting-picture-framing-for-2024/"><u>Best Apps for Perfecting Picture Framing for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/biometric-battleground-face-id-vs-samsungs-facial-identification/"><u>Biometric Battleground Face ID Vs. Samsung's Facial Identification</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/clearstream-2v-indooroutdoor-hdtv-antenna-review/"><u>ClearStream 2V Indoor/Outdoor HDTV Antenna Review</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/clearview-cuts-excellence-in-4k-displays-for-editing/"><u>ClearView Cuts Excellence in 4K Displays for Editing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discover-the-leading-selection-of-ipad-friendly-mice-on-the-market/"><u>Discover the Leading Selection of iPad-Friendly Mice on the Market</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/exploring-gospel-music-how-to-download-and-modify-your-ringtone/"><u>Exploring Gospel Music How to Download & Modify Your Ringtone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-5-key-strategies-to-correct-iphone-hdri-premiere-pro-edition/"><u>In 2024, 5 Key Strategies to Correct iPhone HDRI Premiere Pro Edition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-step-by-step-guide-to-acquiring-elite-instagram-soundtracks-and-building-perfect-alarms/"><u>In 2024, A Step-by-Step Guide to Acquiring Elite Instagram Soundtracks and Building Perfect Alarms</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-audio-tempo-control-gear-guide-mobile-pc/"><u>In 2024, Audio Tempo Control Gear Guide (Mobile, PC)</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-immediate-access-best-5-convertors-no-download-required/"><u>In 2024, Immediate Access Best 5 Convertors, No Download Required</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/instant-solutions-how-to-address-google-drives-sync-issues-on-a-mac-computer/"><u>Instant Solutions: How to Address Google Drive's Sync Issues on a Mac Computer</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-your-guide-to-the-top-6-fee-free-digital-soundscape-editors-on-the-web-for-2024/"><u>New Your Guide to the Top 6 Fee-Free Digital Soundscape Editors on the Web for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/optimizing-unused-scenes-a-filmmakers-approach/"><u>Optimizing Unused Scenes A Filmmaker's Approach</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstall-success-fixing-clipchamp-on-windows-11/"><u>Reinstall Success: Fixing ClipChamp on Windows 11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-top-rated-hardware-review-essential-capture-cards-for-online-viewing/"><u>[New] In 2024, Top-Rated Hardware Review Essential Capture Cards for Online Viewing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/astering-cinematography-youtube-guides-by-aspiring-directors/"><u>[New] Mastering Cinematography YouTube Guides by Aspiring Directors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-choosing-spiritual-audio-for-your-cellphone/"><u>[Updated] Choosing Spiritual Audio for Your Cellphone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-strategies-efficiently-saving-rocket-league-matches/"><u>[Updated] In 2024, Top Strategies Efficiently Saving Rocket League Matches</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-a79-5g-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from A79 5G.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/demystifying-smooth-audio-conversions-crossfade/"><u>Demystifying Smooth Audio Conversions (Crossfade)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-images-cache-websites/"><u>Elite Images Cache Websites</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/erfolgreiches-aufzeichnen-und-teilen-von-fifa-18-spielauftritten-auf-der-ps4-ein-umfassender-leitfaden/"><u>Erfolgreiches Aufzeichnen Und Teilen Von FIFA 18 Spielauftritten Auf Der PS4: Ein Umfassender Leitfaden</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-quickly-amd-graphic-flaw/"><u>Fix Quickly: AMD Graphic Flaw</u></a></li>
+<li><a href="https://win-able.techidaily.com/garrys-mod-suddenly-closes-discover-top-strategies-for-fixes-in-2e4/"><u>Garry's Mod Suddenly Closes? Discover Top Strategies for Fixes in 2E4</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-auditory-enhancements-adding-sound-effectively-powerpoint/"><u>In 2024, Auditory Enhancements Adding Sound Effectively (PowerPoint)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-beginners-blueprint-setting-up-a-live-video-feed/"><u>In 2024, Beginner's Blueprint Setting Up a Live Video Feed</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-14-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From Apple iPhone 14</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimal-energy-solutions-for-gopro-hero5-certified-and-third-party/"><u>Optimal Energy Solutions for GoPro Hero5 Certified & Third-Party</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-repairing-missing-winhttpdll-errors-easily/"><u>Step-by-Step Guide: Repairing Missing winhttp.dll Errors Easily</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamline-your-online-experience-insights-into-ffxp/"><u>Streamline Your Online Experience Insights Into FFXP</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-complete-guide-to-proficient-kinemaster-use-and-top-digital-services/"><u>The Complete Guide to Proficient KineMaster Use and Top Digital Services</u></a></li>
 </ul></div>
 
