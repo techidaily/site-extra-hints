@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Create Visual Narratives  Install Microsoft's Movie Maker on W11\""
-date: 2024-09-17T21:44:35.219Z
-updated: 2024-09-19T18:01:36.376Z
+date: 2025-01-24T23:54:54.093Z
+updated: 2025-01-30T23:34:44.105Z
 tags: 
   - screen-recording
   - ai video
@@ -28,6 +28,14 @@ With the help of Clipchamp, anyone can easily create videos, even those without 
 
 ![open clipchamp on windows 11](https://images.wondershare.com/filmora/article-images/2022/09/open-clipchamp-on-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Add videos to the timeline**
 
 * Drag and drop the video from the library to the timeline. One can tap on the "+" button to add a file directly to the timeline, and tap on "Add" to all media files.
@@ -40,23 +48,13 @@ With the help of Clipchamp, anyone can easily create videos, even those without 
 
 * For trimming the unwanted parts, you can select the video on the timeline and drag their edges to cut the part.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Split the clips**
 
 * Choose the clips on the timeline, and move that scrubber to mention where you want to cut your clips.
 * After that, tap on the "scissor icon" on the top left.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Play the clip on the timeline**
@@ -72,11 +70,19 @@ With the help of Clipchamp, anyone can easily create videos, even those without 
 
 * To speed up, slow down, rotate, change volume, add filters, or crop, choose the clips on your timeline and use those options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Add music**
 
 * One can even add audio files to the video. You can drag the Audio from the computer to the library area. You can choose the audio file from the library.
 
 ![add music windows 11 movie maker](https://images.wondershare.com/filmora/article-images/2022/09/add-music-windows-11-movie-maker.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * After you have loaded the file, you can drag it to the timeline.
 * For changing the audio level, you can add the video go timeline.
@@ -95,10 +101,7 @@ With the help of Clipchamp, anyone can easily create videos, even those without 
 * After you have finished your edits, you can save the file in MP4 and tap on the export option in the right corner of the screen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Edit Videos in Windows 11 with Photos App
@@ -115,6 +118,10 @@ The outcome, the innocently named "Photos" app, can be pretty confusing. You can
 ### Add title card
 
 * Tap on the "Add title card" option on your storyboard pane, which can result in adding some extra fame before selecting the video on the storyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Add color pallete
 
@@ -154,6 +161,10 @@ Tap on "New Project" and enter the video editor. Register your product by tappin
 
 ![click on create a video](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step2Trim and edit the unwanted parts
 
 When you create a raw video, it contains several unwanted parts that need to be removed from the video. You must drag the video to the timeline from Media Tab to cut or trim the video parts.
@@ -169,10 +180,7 @@ You have now successfully removed the unnecessary parts from video clips. You wi
 ![tap on the text icon](https://images.wondershare.com/filmora/guide/select-boris-effect.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can get various templates in the software, which you can use for the video.
@@ -182,19 +190,6 @@ You can get various templates in the software, which you can use for the video.
 One can utilize numerous software filters to add exciting colors to the clip. Drag the filter and drop it on the timeline. Sliding to the end of the filter can change the lasting of the filter.
 
 Once you finish your edits, you can easily save and publish them.
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -225,6 +220,10 @@ One can add numerous clips, but each clip will get placed after the previously a
 You have now successfully removed the unnecessary parts from video clips. You will need to detach audio files and add music and transitions to the clips. Tap on the text icon to add subtitles to the video.
 
 ![tap on the text icon](https://images.wondershare.com/filmora/guide/select-boris-effect.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can get various templates in the software, which you can use for the video.
 
@@ -264,5 +263,22 @@ In this article, you have learned about various video editors available on Windo
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-affordable-high-frame-rate-recordings/"><u>[New] Affordable High Frame Rate Recordings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-average-earnings-for-podcast-creators/"><u>[Updated] Average Earnings for Podcast Creators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-conquer-the-clutter-learn-bg-erasure-in-figma-designs/"><u>[Updated] Conquer the Clutter Learn BG Erasure in Figma Designs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-audible-magic-cropping-and-edits-in-canva-videos/"><u>[Updated] Crafting Audible Magic Cropping and Edits in Canva Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-exploring-alternate-functions-with-webcams/"><u>[Updated] Exploring Alternate Functions with Webcams</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-harnessing-the-power-of-color-difference-keying-methods-for-2024/"><u>[Updated] Harnessing the Power of Color Difference Keying Methods for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leading-trivia-networks-of-2024-unveiled/"><u>[Updated] Leading Trivia Networks of 2024 Unveiled</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-screenstream-worldwide-live-including-exclusive-locals-for-2024/"><u>[Updated] ScreenStream Worldwide Live, Including Exclusive Locals for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/2023s-best-practices-to-prevent-and-solve-maplestory-issues-on-your-windows-pc/"><u>2023'S Best Practices to Prevent and Solve MapleStory Issues on Your Windows PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-camera-potential-with-10-premium-freebies-and-personalized-purchase-choices/"><u>2024 Approved Unleash Camera Potential with 10 Premium Freebies & Personalized Purchase Choices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-the-bubble-leading-android-and-ios-video-sharing-apps-for-2024/"><u>Beyond the Bubble Leading Android and iOS Video Sharing Apps for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boosting-zoom-performance-on-chrome-devices/"><u>Boosting Zoom Performance on Chrome Devices</u></a></li>
+<li><a href="https://blog-min.techidaily.com/conversao-gratuitada-de-avi-para-wmv-simples-e-rapida-com-o-programa-do-movavi/"><u>Conversão Gratuitada De AVI Para WMV Simples E Rápida Com O Programa Do Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-6s-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6s Plus without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-8-key-metaverse-ventures-unveiling-core-concepts/"><u>In 2024, 8 Key Metaverse Ventures Unveiling Core Concepts</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Implementing Photography Snippets From Videos"
-date: 2025-01-22T16:29:12.470Z
-updated: 2025-01-23T16:31:12.126Z
+date: 2025-01-24T23:35:52.787Z
+updated: 2025-01-31T03:14:35.905Z
 tags: 
   - screen-recording
   - ai video
@@ -34,6 +34,10 @@ In this article, you will learn how to save photo from Windows 10 Photos app and
 * [**Part2: Why I can’t save photo from video**](#part2)
 * [**Part3: Alternative way to save photo from video**](#part3)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to save photo from Windows 10 Photos app
 
 In this part of the article, we are going to discuss, how you would save photo from video with Windows 10 Photos app. The Photos app has numerous features for you, and the editing tools would simply amaze you. You can use the Windows Ink to write on the images or capture stills from a video for that matter. Let’s see, how to save photo from video using Windows 10 Photos app –
@@ -47,10 +51,6 @@ Creating a living image:
 
 ![ save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/save-photo-microsoft-photos.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Now, you can see the living picture by tapping ‘Play’ button.
 
 These photos are stored in the ‘Pictures’ folder of your computer having ‘LI’ appended file names. Now, it’s time to save the living image as photo on your computer using Photos app.
@@ -60,11 +60,11 @@ These photos are stored in the ‘Pictures’ folder of your computer having ‘
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/start-save-photos-from-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * This image will be saved as ‘LI\_Moment’ file in your Pictures folder by default.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Why I can’t save photo from video
 
@@ -77,16 +77,12 @@ We are explaining the solutions here –
 Click on ‘Start’ > ‘Settings’ > ‘Update & Security’ > ‘Windows Updates’ > ‘Check for Updates’ > ‘Update Available’. When update is available, go ahead and follow the prompts to get the update.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Sign in a different account in Microsoft Store
 
 You got to login with another Microsoft account to access Microsoft Store. It might be your existing Microsoft Store account undergoing some issues. This in turn might be affecting the Photos app from acting properly. Therefore, signing in a different account will help.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: Alternative way to save photo from video
 
@@ -100,6 +96,10 @@ Here comes the guide –
 
 ![save photo from video windows 10 photos](https://images.wondershare.com/filmora/article-images/screenshot-take-photo.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Once the image is captured, the editing tool bar is visible. It allows you to enhance the image to great extent.
 * Now, hit the ‘Save’ icon and get the image saved on your computer.
 
@@ -110,7 +110,7 @@ We provided you some knowledge on how to save a photo from video Windows 10 Phot
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -128,24 +128,24 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-win-10s-top-10-video-cam-applications/"><u>[New] In 2024, Win 10'S Top 10 Video Cam Applications</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-a-list-of-excellence-8k-cameras-reviewed/"><u>[Updated] A-List of Excellence 8K Cameras Reviewed</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-accelerate-office-productivity-with-speech-recognition-word/"><u>[Updated] Accelerate Office Productivity with Speech Recognition (Word)</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-todays-vr-hardware-review/"><u>[Updated] In 2024, Today's VR Hardware Review</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-invigorating-channel-content-best-video-concepts-to-inspire-viewers/"><u>[Updated] Invigorating Channel Content Best Video Concepts to Inspire Viewers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-advancing-zoom-clarity-in-online-gatherings-google-meet/"><u>2024 Approved Advancing Zoom Clarity in Online Gatherings (Google Meet)</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/buyers-guide-to-selecting-between-a-roku-or-fire-tv-stick/"><u>Buyer's Guide to Selecting Between a Roku or Fire TV Stick</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-connectivity-with-metaverse-strategies/"><u>Crafting Connectivity with Metaverse Strategies</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-your-path-to-optimal-hdr-camera-selection-for-2024/"><u>Crafting Your Path to Optimal HDR Camera Selection for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/drone-titans-the-ultimate-industrial-heavylifters/"><u>Drone Titans The Ultimate Industrial Heavylifters</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-realme-narzo-60-pro-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme Narzo 60 Pro 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-dawn-of-distinctive-filmmaking-with-vr/"><u>The Dawn of Distinctive Filmmaking with VR</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210830429-9798885405089-the-neurolinguistic-programming-in-the-holy-quran/"><u>The Neurolinguistic Programming in the Holy Quran | Free Book</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-list-of-top-5-mac-streamers/"><u>The Ultimate List of Top 5 Mac Streamers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-tutorial-on-removing-undocumented-programs-in-windows/"><u>Ultimate Tutorial on Removing Undocumented Programs in Windows</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unlocking-the-power-of-photo-editing-in-ps-novice-style-for-2024/"><u>Unlocking the Power of Photo Editing in PS, Novice Style for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unraveling-robloxs-close-up-mysteries-for-gamers/"><u>Unraveling Roblox's Close-Up Mysteries for Gamers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/upgrade-the-quality-solutions-for-blurry-image-issues-in-call-of-duty-warzone-desktop-version/"><u>Upgrade the Quality: Solutions for Blurry Image Issues in Call of Duty: Warzone - Desktop Version</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/eginners-guide-to-pro-youtube-tech/"><u>[New] Beginner's Guide to Pro YouTube Tech</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-navigating-video-sharing-from-imovie-to-the-vimeo-network/"><u>[Updated] 2024 Approved Navigating Video Sharing From iMovie to the Vimeo Network</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-apples-m1-milestone-the-next-gen-computing-core/"><u>[Updated] Apple’s M1 Milestone The Next-Gen Computing Core</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-chuckle-and-cry-the-top-instagram-memes-that-make-you-giggle/"><u>[Updated] In 2024, Chuckle & Cry The Top Instagram Memes that Make You Giggle</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/webmmp3/"><u>無縫的 WEBM到MP3適配 - 動感維予電影格式變更器</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/easy-tips-to-create-a-funny-meme-for-2024/"><u>Easy Tips to Create a Funny Meme for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/epicurean-entertainment-master-the-craft-with-these-7-food-film-techniques/"><u>Epicurean Entertainment Master the Craft with These 7 Food Film Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-epson-xp-245-drivers-for-your-pc-guide-for-windows-7-to-10-users/"><u>Get Epson XP-245 Drivers for Your PC: Guide for Windows 7 to 10 Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-around-the-clock-vision-versus-multiplanar-exposures/"><u>In 2024, Around-the-Clock Vision Versus Multiplanar Exposures</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-convert-your-srt-files-for-free-with-top-websites/"><u>In 2024, Convert Your SRT Files for FREE with Top Websites</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-get-started-in-editing-videos-via-windows-11s-movie-maker/"><u>In 2024, Get Started in Editing Videos via Windows 11'S Movie Maker</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-mac-to-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share Mac to Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/journey-to-new-realities-the-prime-10-smartphone-vr-headsets/"><u>Journey to New Realities - The Prime 10 Smartphone VR Headsets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/latest-smartphones-and-their-fit-with-gear-vr-technology/"><u>Latest Smartphones and Their Fit With Gear VR Technology</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723002593421-metro-exodus-pc-enhanced-stability-issues-heres-your-ultimate-fix-guide/"><u>Metro Exodus (PC, Enhanced) Stability Issues? Here's Your Ultimate Fix Guide!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quick-filmmaking-tricks-save-time-and-money-at-home/"><u>Quick Filmmaking Tricks Save Time & Money at Home</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-non-responsive-file-explorer-on-windows-10/"><u>Quick Fixes for Non-Responsive File Explorer on Windows 10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-art-of-kinemaster-made-memes/"><u>The Art of KineMaster-Made Memes</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-rated-no-cost-sandisk-ultimate-external-hard-drive-clone-tool/"><u>Top Rated No-Cost Sandisk Ultimate External Hard Drive Clone Tool</u></a></li>
 </ul></div>
 

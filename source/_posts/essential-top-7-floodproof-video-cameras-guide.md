@@ -1,7 +1,7 @@
 ---
 title: "Essential Top 7 Floodproof Video Cameras Guide"
-date: 2024-09-13T22:06:44.018Z
-updated: 2024-09-19T17:44:16.710Z
+date: 2025-01-28T17:38:01.375Z
+updated: 2025-01-30T18:26:56.574Z
 tags: 
   - screen-recording
   - ai video
@@ -72,75 +72,9 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
 
  Although this device appears like an old video game controller but it’s slim, compact and lightweight design can assist you on long and tough tours. This device is designed to handle all weather conditions and you can take it under water up 26 feet depth. It comes with 16MP advanced CMOS sensor whereas maximum video resolution is 720p. People love to enjoy its numerous shooting modes and advanced control features.
 
-## Comparison Table
-
-| Product                      | Price   | Nation | Waterproof          | Battery | Display  | Weight | shockproof | freezeproof     | Video resolution |
-| ---------------------------- | ------- | ------ | ------------------- | ------- | -------- | ------ | ---------- | --------------- | ---------------- |
-| Olympus TG-Tracker           | $299.99 | JP     | 30m without housing | 1350mAh | 1.5" LCD | 180g   | 2m         | \-10°C          | 4k/30fps         |
-| FujiFilm FinePix XP120       | $299.95 | JP     | 20m without housing | 740mAh  | 3" LCD   | 453g   | 1.75m      | \-10°C to +40°C | 1080P/60fps      |
-| GoPro Hero5 Black            | $399    | US     | 10m without housing | 1220mAh | 2" LCD   | 117g   | Y          | NA              | 4K/30FPS         |
-| Richo WG-M2                  | $196.99 | JP     | 20m without housing | 4.5wh   | 1.5" LCD | 136g   | 2m         | \-10°C          | 1080P/30fps      |
-| Kodak PIXPRO SP1             | $199    | US     | 10m without housing | 1250mah | 1.5" LCD | 155g   | 2m         | \-10°C to +40°C | 1080P/30fps      |
-| Shimano Sport Camera CM-1000 | $193.81 | JP     | 10m without housing | 950mah  | 3" LCD   | 86g    | NA         | \-10°C to +40°C | 1080P/30fps      |
-| Panasonic LUMIX DMC TS30     | $179.99 | JP     | 8m without housing  | 680mah  | 2.7" LCD | 144g   | 1.5m       | \-10°C          | 720p/30fps       |
-
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- The holiday season is about to come and most of you might have planned for a long week vacation at pool side. But in order to record your beautiful memories for that tour you may need a waterproof camera so that it can assist in all water based games, drops and cold environment. As we can never predict what adventure will happen in next moment so a camera is always desired to be handy and able to shoot everything without getting tired. If you love [snorkelling and diving](https://tools.techidaily.com/wondershare/filmora/download/) at exotic beach locations then it is not good to carry a camera with fear of water damage. Rather you must buy something that can go everywhere with you and can serve with advanced control features for every shoot. The underwater adventure can become more beautiful when you can mount a camera on your head or on wrist and enjoy long hour diving or snorkelling with friends. If you are searching for such a waterproof camera for outdoor adventures then the list below will help you to short list your device.
-
-* [Top 7 Waterproof Action Cameras](#part1)
-* [Comparison List](#part2)
-
-## Top 7 Waterproof Action Cameras
-
-#### 1\. [Olympus TG-Tracker](https://tools.techidaily.com/wondershare/filmora/download/) ($299.99)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01ERLMTSI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ERLMTSI&linkId=34d5c0e389cef67e7a6b9e5d754a12fc
-)
-
- This stylish yet rugged action camera is always ready to capture your special moments with UHD 4K resolution at 30fps. You need not to spend on additional housing accessories to protect this camera as it is already designed with advanced toughness. The shock proof, dust proof and water proof body can be carried under water at 98.4’ depth. You will be glad to know that it can serve you at low temperature range up to 14 degree F.
-
-#### 2\.  Fuji Film Fine Pix XP120 ($299.95)
-
-![ Waterproof action camera - FUJI FILM FINE PIX XP120](https://images.wondershare.com/filmora/article-images/fuji-film-fine-pix-xp120.jpg)
-
- Here is a compact camera unit for you that offers 16.4 MP picture clarity along with Full HD 1080p resolution at 10fps. It is designed with waterproof body (15.2m), shock proof (1.75m), Freeze Proof (14 degree F) and dustproof material. The built in WiFi connectivity offers easy remote operations and wind filter helps you to get noise free footage. Users can select so many unique moods while recording adventurous shoots on the way.
-
-#### 3\. [GoPro Hero5 Black](https://tools.techidaily.com/wondershare/filmora/download/) ($399)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa
-)
-
- Costly but always ready for adventure; It can go underwater and over skies with you while offering 4K video resolution and 12MP picture quality. The external housing can help users to take it up depth of 33’ and with advanced touch screen playback option you can edit footage on real time basis. 3 external microphones can be connected but they offer proper wind distortion shield and the digital image stabilization feature can meet your high quality result needs.
-
-#### 4\.  Ricoh WG-M2 ($196.99)
-
-[Check at Amazon](https://www.amazon.com/gp/product/B01C395NWU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C395NWU&linkId=6090fffac05d4c82ef9e790492fd38f8
-)
-
- This camera is designed with 204 degree ultra wide type impressive angle lens whereas the compact design offers amazing results on go. You will definitely enjoy its immersive 4K resolution at 30fps. This shock resistant and water proof device can be taken up to depth of 65’ under water and can serve you at low temperature ranges (14 degree F). The Wi-Fi connectivity allows remote operations from mobile whereas its lithium ion battery can support you up to 80 minutes with 4K recording.
-
-#### 5\.  Kodak PIXPRO SP1 ($199)
-
- Here is an advanced action camera unit from Kodak that can assist you on every trip with its compact, rugged and versatile construction. This camera will help you to enjoy active life style with lots of adventure at every next step and it will shoot everything for you on your way. The full HD video resolution goes up to 1080p whereas for still images 14Mp clarity is available. Its waterproof and shockproof body can go under water up to 32 feet with you and the wireless connection will help to operate it remotely with ease.
-
-#### 6\.  Shimano Sport Camera CM1000 ($193.81)
-
- Shimano is rated as one of the most light weighted action camera that provides full HD recording facility for videos. You can take it under water for 10m without any additional protective case and the viewing angle is 180 degree that offers wide coverage for every shoot. For still pictures it offers 6M clarity and during video recordings its battery can serve you up to 2 hours easily. Professionals say that it is one of the best sports camera for adventure lovers.
-
-#### 7\.  Panasonic LUMIXS DMC TS30 ($179.99)
-
- Although this device appears like an old video game controller but it’s slim, compact and lightweight design can assist you on long and tough tours. This device is designed to handle all weather conditions and you can take it under water up 26 feet depth. It comes with 16MP advanced CMOS sensor whereas maximum video resolution is 720p. People love to enjoy its numerous shooting modes and advanced control features.
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Comparison Table
 
@@ -157,10 +91,7 @@ Follow @Max Wales
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -192,16 +123,7 @@ Follow @Max Wales
 ![ Waterproof action camera - FUJI FILM FINE PIX XP120](https://images.wondershare.com/filmora/article-images/fuji-film-fine-pix-xp120.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Here is a compact camera unit for you that offers 16.4 MP picture clarity along with Full HD 1080p resolution at 10fps. It is designed with waterproof body (15.2m), shock proof (1.75m), Freeze Proof (14 degree F) and dustproof material. The built in WiFi connectivity offers easy remote operations and wind filter helps you to get noise free footage. Users can select so many unique moods while recording adventurous shoots on the way.
@@ -231,6 +153,10 @@ Follow @Max Wales
 #### 7\.  Panasonic LUMIXS DMC TS30 ($179.99)
 
  Although this device appears like an old video game controller but it’s slim, compact and lightweight design can assist you on long and tough tours. This device is designed to handle all weather conditions and you can take it under water up 26 feet depth. It comes with 16MP advanced CMOS sensor whereas maximum video resolution is 720p. People love to enjoy its numerous shooting modes and advanced control features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Comparison Table
 
@@ -303,16 +229,7 @@ Follow @Max Wales
  Although this device appears like an old video game controller but it’s slim, compact and lightweight design can assist you on long and tough tours. This device is designed to handle all weather conditions and you can take it under water up 26 feet depth. It comes with 16MP advanced CMOS sensor whereas maximum video resolution is 720p. People love to enjoy its numerous shooting modes and advanced control features.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Comparison Table
@@ -329,12 +246,79 @@ Follow @Max Wales
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ The holiday season is about to come and most of you might have planned for a long week vacation at pool side. But in order to record your beautiful memories for that tour you may need a waterproof camera so that it can assist in all water based games, drops and cold environment. As we can never predict what adventure will happen in next moment so a camera is always desired to be handy and able to shoot everything without getting tired. If you love [snorkelling and diving](https://tools.techidaily.com/wondershare/filmora/download/) at exotic beach locations then it is not good to carry a camera with fear of water damage. Rather you must buy something that can go everywhere with you and can serve with advanced control features for every shoot. The underwater adventure can become more beautiful when you can mount a camera on your head or on wrist and enjoy long hour diving or snorkelling with friends. If you are searching for such a waterproof camera for outdoor adventures then the list below will help you to short list your device.
+
+* [Top 7 Waterproof Action Cameras](#part1)
+* [Comparison List](#part2)
+
+## Top 7 Waterproof Action Cameras
+
+#### 1\. [Olympus TG-Tracker](https://tools.techidaily.com/wondershare/filmora/download/) ($299.99)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01ERLMTSI/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01ERLMTSI&linkId=34d5c0e389cef67e7a6b9e5d754a12fc
+)
+
+ This stylish yet rugged action camera is always ready to capture your special moments with UHD 4K resolution at 30fps. You need not to spend on additional housing accessories to protect this camera as it is already designed with advanced toughness. The shock proof, dust proof and water proof body can be carried under water at 98.4’ depth. You will be glad to know that it can serve you at low temperature range up to 14 degree F.
+
+#### 2\.  Fuji Film Fine Pix XP120 ($299.95)
+
+![ Waterproof action camera - FUJI FILM FINE PIX XP120](https://images.wondershare.com/filmora/article-images/fuji-film-fine-pix-xp120.jpg)
+
+ Here is a compact camera unit for you that offers 16.4 MP picture clarity along with Full HD 1080p resolution at 10fps. It is designed with waterproof body (15.2m), shock proof (1.75m), Freeze Proof (14 degree F) and dustproof material. The built in WiFi connectivity offers easy remote operations and wind filter helps you to get noise free footage. Users can select so many unique moods while recording adventurous shoots on the way.
+
+#### 3\. [GoPro Hero5 Black](https://tools.techidaily.com/wondershare/filmora/download/) ($399)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01M14ATO0/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01M14ATO0&linkId=5ce54ea937ecffa6b1b8056b6922abaa
+)
+
+ Costly but always ready for adventure; It can go underwater and over skies with you while offering 4K video resolution and 12MP picture quality. The external housing can help users to take it up depth of 33’ and with advanced touch screen playback option you can edit footage on real time basis. 3 external microphones can be connected but they offer proper wind distortion shield and the digital image stabilization feature can meet your high quality result needs.
+
+#### 4\.  Ricoh WG-M2 ($196.99)
+
+[Check at Amazon](https://www.amazon.com/gp/product/B01C395NWU/ref=as%5Fli%5Ftl?ie=UTF8&tag=vs-flora-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01C395NWU&linkId=6090fffac05d4c82ef9e790492fd38f8
+)
+
+ This camera is designed with 204 degree ultra wide type impressive angle lens whereas the compact design offers amazing results on go. You will definitely enjoy its immersive 4K resolution at 30fps. This shock resistant and water proof device can be taken up to depth of 65’ under water and can serve you at low temperature ranges (14 degree F). The Wi-Fi connectivity allows remote operations from mobile whereas its lithium ion battery can support you up to 80 minutes with 4K recording.
+
+#### 5\.  Kodak PIXPRO SP1 ($199)
+
+ Here is an advanced action camera unit from Kodak that can assist you on every trip with its compact, rugged and versatile construction. This camera will help you to enjoy active life style with lots of adventure at every next step and it will shoot everything for you on your way. The full HD video resolution goes up to 1080p whereas for still images 14Mp clarity is available. Its waterproof and shockproof body can go under water up to 32 feet with you and the wireless connection will help to operate it remotely with ease.
+
+#### 6\.  Shimano Sport Camera CM1000 ($193.81)
+
+ Shimano is rated as one of the most light weighted action camera that provides full HD recording facility for videos. You can take it under water for 10m without any additional protective case and the viewing angle is 180 degree that offers wide coverage for every shoot. For still pictures it offers 6M clarity and during video recordings its battery can serve you up to 2 hours easily. Professionals say that it is one of the best sports camera for adventure lovers.
+
+#### 7\.  Panasonic LUMIXS DMC TS30 ($179.99)
+
+ Although this device appears like an old video game controller but it’s slim, compact and lightweight design can assist you on long and tough tours. This device is designed to handle all weather conditions and you can take it under water up 26 feet depth. It comes with 16MP advanced CMOS sensor whereas maximum video resolution is 720p. People love to enjoy its numerous shooting modes and advanced control features.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Comparison Table
+
+| Product                      | Price   | Nation | Waterproof          | Battery | Display  | Weight | shockproof | freezeproof     | Video resolution |
+| ---------------------------- | ------- | ------ | ------------------- | ------- | -------- | ------ | ---------- | --------------- | ---------------- |
+| Olympus TG-Tracker           | $299.99 | JP     | 30m without housing | 1350mAh | 1.5" LCD | 180g   | 2m         | \-10°C          | 4k/30fps         |
+| FujiFilm FinePix XP120       | $299.95 | JP     | 20m without housing | 740mAh  | 3" LCD   | 453g   | 1.75m      | \-10°C to +40°C | 1080P/60fps      |
+| GoPro Hero5 Black            | $399    | US     | 10m without housing | 1220mAh | 2" LCD   | 117g   | Y          | NA              | 4K/30FPS         |
+| Richo WG-M2                  | $196.99 | JP     | 20m without housing | 4.5wh   | 1.5" LCD | 136g   | 2m         | \-10°C          | 1080P/30fps      |
+| Kodak PIXPRO SP1             | $199    | US     | 10m without housing | 1250mah | 1.5" LCD | 155g   | 2m         | \-10°C to +40°C | 1080P/30fps      |
+| Shimano Sport Camera CM-1000 | $193.81 | JP     | 10m without housing | 950mah  | 3" LCD   | 86g    | NA         | \-10°C to +40°C | 1080P/30fps      |
+| Panasonic LUMIX DMC TS30     | $179.99 | JP     | 8m without housing  | 680mah  | 2.7" LCD | 144g   | 1.5m       | \-10°C          | 720p/30fps       |
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
 
@@ -364,5 +348,16 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-best-wearable-action-cameras-for-extreme-sport/"><u>[Updated] Best Wearable Action Cameras For Extreme Sport</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-blueprinting-breathtaking-film-prologues/"><u>2024 Approved Blueprinting Breathtaking Film Prologues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/banishing-steam-sign-in-errors-a-step-by-step-fix/"><u>Banishing Steam Sign-In Errors - A Step-by-Step Fix</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-10-shopping-sites-to-customize-your-gift-boxes/"><u>Best 10 Shopping Sites to Customize Your Gift Boxes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/breaking-down-the-fundamentals-of-lut-design/"><u>Breaking Down the Fundamentals of LUT Design</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-to-network-coverage-and-roaming-terms-under-metro-unlimited-plans-by-t-mobile/"><u>Comprehensive Guide to Network Coverage & Roaming Terms Under Metro Unlimited Plans by T-Mobile</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-triple-thrills-novel-bio-techniques-and-engaging-formats-to-boost-your-tiktok-filmora-following/"><u>In 2024, Triple Thrills Novel Bio Techniques and Engaging Formats to Boost Your TikTok-Filmora Following</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-best-10-tools-for-restoring-and-repairing-digital-pictures-across-all-platforms-windows-and-macos/"><u>The Best 10 Tools for Restoring and Repairing Digital Pictures Across All Platforms: Windows & macOS</u></a></li>
+</ul></div>
 

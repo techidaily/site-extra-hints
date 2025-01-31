@@ -1,7 +1,7 @@
 ---
 title: "\"Expert Video Lighting Advice  Maximizing Visual Impact\""
-date: 2024-09-14T19:42:33.708Z
-updated: 2024-09-19T21:58:10.921Z
+date: 2025-01-27T19:26:27.301Z
+updated: 2025-01-31T04:32:18.857Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 Many people are wondering how to set up lighting for video shooting. While there are many different ways to set up lighting, some methods are more effective than others.
 
 Therefore, this article will give you a complete guide on how to set up your lighting to make your videos stand out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. How-to Guide
 
@@ -68,6 +72,10 @@ Practical lights appear on the camera to add some visual flair. It can be any li
 
 ![use practical lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then, we also have a LED ring light that shines toward the camera. The light adds even more light to the frame and gives a slight backlight to the subject.
 
 ![led ring light](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-5.jpg)
@@ -76,11 +84,19 @@ Finally, we have a few other small LED lights like this unicorn to put in the ba
 
 ![other small led lights](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After setting up all the lighting above, you can take a look at the comparison below:
 
 **Using Key Light only**
 
 ![using key light only](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Using Key Light + Fill + Backlight**
 
@@ -91,6 +107,10 @@ After setting up all the lighting above, you can take a look at the comparison b
 We usually set the lights around 50% brightness and a color temperature of 5600K.
 
 ![the light setting](https://images.wondershare.com/filmora/article-images/2022/12/make-videos-stand-out-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Summary
 
@@ -124,12 +144,20 @@ Hopefully, you learned something about lighting by taking a look at our setup. I
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-dive-into-multi-tasking-mastery-with-chromes-pip-feature/"><u>[New] 2024 Approved Dive Into Multi-Tasking Mastery with Chrome's PIP Feature</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-art-of-haul-videography-pre-and-post-editing-processes-for-2024/"><u>[New] The Art of Haul Videography Pre and Post Editing Processes for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-elevate-your-youtube-content-with-7-premium-free-audio-sounds-for-2024/"><u>[Updated] Elevate Your YouTube Content With 7 Premium, Free Audio Sounds for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-exclusive-list-of-premium-sound-recording-mics/"><u>[Updated] Exclusive List of Premium Sound Recording Mics</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-free-facebook-management-smart-post-scheduling-tips/"><u>[Updated] Free Facebook Management Smart Post Scheduling Tips</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-perfecting-your-ringtone-choices-on-an-iphone/"><u>[Updated] Perfecting Your Ringtone Choices on an iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/achieving-optimal-watchability-with-two-screens-on-netflix-for-2024/"><u>Achieving Optimal Watchability with Two Screens on Netflix for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/avoid-draft-overload-on-tiktok-by-mastering-edit-techniques-for-2024/"><u>Avoid Draft Overload on TikTok by Mastering Edit Techniques for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-compelling-narratives-with-wmm-and-animation-techniques-for-2024/"><u>Crafting Compelling Narratives with WMM and Animation Techniques for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-alpine-adventure-2022s-spectacular-snowboard-cross-olympic-moments/"><u>In 2024, Alpine Adventure 2022'S Spectacular Snowboard Cross Olympic Moments</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-honor-90-pro-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Honor 90 Pro Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-ultimate-guide-to-buying-and-testing-hardware-tips-from-toms-tech-advisors/"><u>The Ultimate Guide to Buying and Testing Hardware: Tips From Tom's Tech Advisors</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/uncovering-the-webs-leading-marketplaces-for-ringtones/"><u>Uncovering the Web's Leading Marketplaces for Ringtones</u></a></li>
+</ul></div>
 
