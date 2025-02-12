@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Hues Handbook  Theory Meets Technique\""
-date: 2025-01-24T23:45:13.353Z
-updated: 2025-01-31T02:10:50.296Z
+date: 2025-02-06T16:39:18.008Z
+updated: 2025-02-12T16:25:51.078Z
 tags: 
   - screen-recording
   - ai video
@@ -28,10 +28,6 @@ Color theory consists of many elements that could fill a library on its own but 
 
 There are many color wheels out there and all require understanding and research into that particular color arrangement but for this guide I will be focusing on the more widely used RGB which derives from the primary colors red green and blue, If you're thinking why red green and blue not red yellow and blue then you are observant, while RYB is taught as the three primary colors we will be using what is known as additive primary colors of light meaning the more you add of these colors the closer to white you get, the reason we will be using this combination is due to the fact RYB misses a lot of hues around the violet area and the blue-greens meaning we achieve a higher range of color to pick from. With this in mind let's start.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Color Wheel
 
 Using red, green and blue as primary colors we can mix the colors to one another to get our secondary colors giving us yellow, magenta and cyan. We can mix these to one another to create our tertiary colors which are raspberry, orange, sprig green, turquoise, ocean and violet giving us something which looks like this
@@ -39,10 +35,14 @@ Using red, green and blue as primary colors we can mix the colors to one another
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Color Harmony
 
@@ -51,7 +51,7 @@ So now we know how the wheel is made and what it looks like. What does it do? We
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
@@ -63,7 +63,7 @@ The blue lines represent what is known as split contrasting colors and these wil
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## But How Do I Use This
@@ -72,6 +72,10 @@ You may still be unsure as to how to implement color theory into your videos. Le
 
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
 As you can see from this example the base color for the scene is a dark blue/purple and using the analogous color of pink they created a point of interest within the scene that doesn't look out of place. This is a very good way to pull the viewers eyes towards something you want them to take in above all else.
@@ -79,10 +83,6 @@ As you can see from this example the base color for the scene is a dark blue/pur
 ![movie cover with color theory](https://images.wondershare.com/filmora/article-images/2022/08/movie-cover-with-color-theory.jpg)
 
 As you can see from all the movie covers above, they all use complementary colors from the blues to the war yellows and oranges, this creates high contrast and balance and is something done within the movie industry in every scene. It's no coincidence that the joker is purple and green or that the iron man is red and gold, this is well prepared and researched in the planning stages of everything a visual artist creates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -118,18 +118,22 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-cinema-in-your-palm-three-cost-effective-techniques-to-blend-beats-and-videos-on-iphone/"><u>[New] Cinema in Your Palm – Three Cost-Effective Techniques to Blend Beats and Videos on iPhone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-10-free-legal-chants-and-sounds-for-meditation-practice/"><u>[Updated] 10 Free Legal Chants and Sounds for Meditation Practice</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-charting-the-course-from-adsense-income-to-savings/"><u>[Updated] Charting the Course From AdSense Income to Savings</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-dynamic-range-with-iphone-cameras/"><u>[Updated] Mastering Dynamic Range with iPhone Cameras</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-rise-to-the-top-mobile-youtubing-without-million-subscriber-status/"><u>[Updated] Rise to the Top Mobile YouTubing Without Million-Subscriber Status</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ensuring-compatibility-with-macos-big-sur-release/"><u>Ensuring Compatibility with MacOS Big Sur Release</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expert-roundup-best-free-vs-premium-windows-graphics-apps/"><u>Expert Roundup Best Free vs Premium Windows Graphics Apps</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-10-essential-meme-blueprints/"><u>In 2024, 10 Essential Meme Blueprints</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oneplus-nord-3-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast OnePlus Nord 3 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-a15-4g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy A15 4G</u></a></li>
-<li><a href="https://win-dash.techidaily.com/installing-logitech-optical-wireless-mouse-on-windows-drivers-and-setup-guide/"><u>Installing Logitech Optical Wireless Mouse on Windows: Drivers and Setup Guide</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-the-social-sphere-instaplustiktok/"><u>Navigating the Social Sphere Insta+TikTok</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mastering-the-art-of-smooth-ipad-video-recording/"><u>[New] 2024 Approved Mastering the Art of Smooth iPad Video Recording</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-explore-the-world-of-frames-5-free-youtube-tips-for-you-for-2024/"><u>[New] Explore the World of Frames 5 Free YouTube Tips for You for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-choosing-excellence-a-buyers-guide-to-hdr-cameras/"><u>[Updated] Choosing Excellence A Buyer's Guide to HDR Cameras</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-orchestrating-scene-sounds-with-imovie/"><u>2024 Approved Orchestrating Scene Sounds with iMovie</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/double-delight-maximizing-the-use-of-netflixs-floating-window/"><u>Double Delight Maximizing the Use of Netflix's Floating Window</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/export-troubleshooting-saving-your-premieres-srt-data/"><u>Export Troubleshooting Saving Your Premiere's SRT Data</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/hearts-of-iron-4-crash-fix-steps-to-address-frequent-errors-effectively/"><u>Hearts of Iron 4 Crash Fix: Steps to Address Frequent Errors Effectively</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-ensure-periscope-videos-are-secured-post-record/"><u>How to Ensure Periscope Videos Are Secured Post-Record</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-codec-comparison-are-we-better-with-av1-or-vp9/"><u>In 2024, Codec Comparison Are We Better With AV1 or VP9?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-impeccable-inshot-segment-flows/"><u>In 2024, Crafting Impeccable Inshot Segment Flows</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-free-software-for-sound-changes-amplify-and-elevate-your-vocal-impact/"><u>In 2024, Free Software For Sound Changes - Amplify and Elevate Your Vocal Impact</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-perfecting-video-focus-videoleap-guide/"><u>In 2024, Perfecting Video Focus Videoleap Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavis-online-free-video-converter-ogv-to-mp4-instant-downloads-and-simple-usage-guide/"><u>Movavi's Online Free Video Converter OGV to MP4 – Instant Downloads and Simple Usage Guide</u></a></li>
+<li><a href="https://techidaily.com/overcoming-windows-update-hurdle-fixing-the-0x80070643-issue-efficiently/"><u>Overcoming Windows Update Hurdle: Fixing the 0X80070643 Issue Efficiently</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-essential-guide-to-transferring-tunes-across-platforms/"><u>The Essential Guide to Transferring Tunes Across Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-10-webcams-elevating-audio-quality-in-podcasts/"><u>Top 10 Webcams Elevating Audio Quality in Podcasts</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-master-list-of-speech-processing-software-with-top-8-selection-catering-to-desktop-pcs-macintosh-and-web-interface-usage/"><u>Updated 2024 Approved Master List of Speech Processing Software with Top 8 Selection, Catering to Desktop PCs, Macintosh and Web Interface Usage</u></a></li>
 </ul></div>
 

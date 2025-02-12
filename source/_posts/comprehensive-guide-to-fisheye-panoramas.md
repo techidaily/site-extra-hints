@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to Fisheye Panoramas"
-date: 2025-01-26T21:23:11.618Z
-updated: 2025-01-30T23:37:45.353Z
+date: 2025-02-11T16:16:49.024Z
+updated: 2025-02-12T16:37:31.668Z
 tags: 
   - screen-recording
   - ai video
@@ -27,16 +27,12 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
  Mar 27, 2024• Proven solutions
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Shooting 360 degrees panoramas with fisheye lens
 
  The process of shooting panoramas with fisheye lenses involves a number of considerations and they are as follows-:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1. The equipment and setup
 
@@ -51,7 +47,11 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3. The actual shooting
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 [How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's fisheye lenses
@@ -88,15 +88,15 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
 ![create 360 photos with fisheye lens](https://images.wondershare.com/filmora/article-images/fisheye-lens-image.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Conclusion
 
  Fisheye lenses have been around for a while now and the process of creating 360 panoramas with them may not be very challenging, but great results are achieved through practice and proper stitching. Once the photos are taken, you can use premium panorama software like Autopano Pro or you can use free options like the Microsoft ICE or Hugin. Ones stitching are done, it is imperative to have the final works uploaded online for others to view.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Benjamin Arango
 
@@ -113,24 +113,18 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-top-strategies-for-capturing-discords-real-time-broadcasts-for-2024/"><u>[New] Top Strategies for Capturing Discord's Real-Time Broadcasts for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-leading-edge-webcams-insiders-choice-in-windows-11/"><u>[Updated] 2024 Approved Leading Edge Webcams Insider's Choice in Windows 11</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-noskyshadowtool-premium-bg-elimination-software/"><u>[Updated] In 2024, NoSkyShadowTool Premium BG Elimination Software</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-vrs-elite-accessories-top-10/"><u>[Updated] Unveiling VR's Elite Accessories (Top 10)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-auditory-augmentation-for-win11-clips/"><u>2024 Approved Auditory Augmentation for Win11 Clips</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-comprehensive-guide-to-mastering-video-editing-tools-like-movie-maker-w11/"><u>A Comprehensive Guide to Mastering Video Editing Tools Like Movie Maker W11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-comprehensive-look-celebrating-15-outstanding-unboxing-vloggers-for-2024/"><u>A Comprehensive Look Celebrating 15 Outstanding Unboxing Vloggers for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/concoct-a-unique-digital-laugh-stick-for-2024/"><u>Concoct a Unique Digital Laugh Stick for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/conquer-the-canvas-of-nature-mastering-iphone-sky-photography-for-2024/"><u>Conquer the Canvas of Nature Mastering iPhone Sky Photography for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/diablo-3-stability-issues-resolved-no-more-game-crashes/"><u>Diablo 3 Stability Issues Resolved: No More Game Crashes!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/effortlessly-enable-picture-in-picture-mode-on-ios-youtube-app/"><u>Effortlessly Enable Picture In Picture Mode on iOS YouTube App</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/elite-recording-software-to-handle-ultra-hd-screenshots/"><u>Elite Recording Software to Handle Ultra HD Screenshots</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/exploring-collaborative-designs-the-best-free-and-paid-apps-in-videomosaic/"><u>Exploring Collaborative Designs The Best Free & Paid Apps in Videomosaic</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-8-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone 8 In Easy Steps | Stellar</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-auditory-aesthetics-incorporating-youtube-music-into-videos/"><u>In 2024, Auditory Aesthetics Incorporating YouTube Music Into Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-camera-and-accessories-guide-for-travel-vids/"><u>In 2024, Camera & Accessories Guide for Travel Vids</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-nvidia-rtx-2070-super-graphics-driver-updates-for-windows-operating-systems/"><u>Latest NVIDIA RTX 2070 Super Graphics Driver Updates for Windows Operating Systems</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-quick-winner-guide-how-to-make-money-on-reddit-in-just-a-click/"><u>The Quick-Winner Guide How to Make Money on Reddit in Just a Click</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-gaming-evolution-top-7-stardew-valley-enhancements-7-for-2024/"><u>[New] Gaming Evolution Top 7 Stardew Valley Enhancements (#7) for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimized-text-designs-for-after-effects/"><u>[New] Optimized Text Designs for After Effects</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-toolwiz-in-pictures-complete-review-unveiled/"><u>[New] Toolwiz in Pictures Complete Review Unveiled</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-5-secrets-to-preventing-blank-scenes-with-obs-recording/"><u>[Updated] 2024 Approved 5 Secrets to Preventing Blank Scenes with OBS Recording</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-ace-gpodcs-most-popular-shows/"><u>2024 Approved Ace GPodC's Most Popular Shows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-narzo-60-pro-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Realme Narzo 60 Pro 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/app-reception-a-comprehensive-scrutiny/"><u>App Reception A Comprehensive Scrutiny</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elite-picks-for-premium-usb-flash-drive-selection-2024/"><u>Elite Picks for Premium USB Flash Drive Selection, 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/extend-windows-security-integrating-firewalls-into-context-menus/"><u>Extend Window's Security: Integrating Firewalls Into Context Menus</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-angles-of-perspective-youtubes-path-to-dynamic-video-editing/"><u>In 2024, Angles of Perspective YouTube's Path to Dynamic Video Editing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-building-your-signature-solo-podcast-series/"><u>In 2024, Building Your Signature Solo Podcast Series</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-errors-effective-solutions-to-prevent-pacific-drive-from-crashing-on-your-desktop/"><u>Overcoming Errors: Effective Solutions to Prevent Pacific Drive From Crashing on Your Desktop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unveiling-the-real-value-in-cloud-storage-charges/"><u>Unveiling the Real Value in Cloud Storage Charges</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Mac's Preview  A Comprehensive Tutorial\""
-date: 2025-01-28T02:30:00.388Z
-updated: 2025-01-31T02:40:44.295Z
+date: 2025-02-09T16:09:03.755Z
+updated: 2025-02-12T16:55:23.673Z
 tags: 
   - screen-recording
   - ai video
@@ -30,15 +30,15 @@ The **Preview app** is a built-in program in macOS, and works as a default viewe
 
 That said, the sections below explain **how to use Preview on Mac** for elementary picture editing like rotating, cropping, adding annotations, etc.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Use Preview to Edit Images \[Complete Guide\]
 
 Being the default image editor for Mac, Apple tried to make the **Preview app** as simple as possible. Therefore, modifying the photos in the program isn’t much complicated as compared to its competitors from different vendors.
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to View and Edit Photos in Preview on Mac
 
@@ -67,6 +67,10 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -97,7 +101,7 @@ Use the method explained above to open the photo in Preview.
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How to Add Text to Image in Preview
@@ -116,6 +120,10 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to Remove Background in Preview
 
 As it is with some of the advanced image manipulation programs, even the **Preview app** allows you to remove background from a photo, and that too pretty easily. To get this done:
@@ -131,10 +139,6 @@ Once the background portion of the image gets selected (colored in red), without
 **Note:** Removing background requires the image to be in PNG format. If the photo you are working on is JPG, Preview prompts with a confirmation box asking your permission to convert the photo from JPG to PNG. You must allow this conversion in order to proceed with the background removal process.
 
 **Note:** Usually, not entire background could be selected in a single go, especially when there are multiple objects in the photo. In such a situation, you must repeat the process multiple times to get rid of all the unwanted objects/areas.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Combine Images into One
 
@@ -152,10 +156,6 @@ Ensure that Preview opens with both the images listed in the sidebar in the left
 
 After removing the background, press **Command** \+ **A** to select all the remaining elements, and then press **Command** \+ **C** to copy them. Next, select the second photo from the sidebar, and press **Command** \+ **V** to paste the object to combine the pictures. Additionally, you can drag the pasted object or move its side handles to reposition or resize it respectively.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Save Images in Different Formats
 
 The **Preview app** has a built-in image converter as well. To convert an image to a different format with Preview, you must:
@@ -169,7 +169,7 @@ After opening an image, click **File** from the menu bar at the top, and click *
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
@@ -221,20 +221,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-box-opening-marketing-mastery/"><u>[New] Box-Opening Marketing Mastery</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-combination-discover-5-advanced-webcams-for-clear-sound/"><u>[New] Ultimate Combination Discover 5 Advanced Webcams for Clear Sound</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-clarity-crusade-enhancing-video-in-zoom-meetings/"><u>[Updated] Clarity Crusade Enhancing Video in Zoom Meetings</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-budget-videography-choosing-the-best-panoramic-cameras/"><u>2024 Approved Budget Videography Choosing the Best Panoramic Cameras</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-perfection-an-essential-guide-to-hdr-imaging/"><u>2024 Approved Crafting Perfection An Essential Guide to HDR Imaging</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-gateways-to-googles-advertising-on-youtube-platforms/"><u>2024 Approved Gateways to Google's Advertising on YouTube Platforms</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/comment-proteger-votre-disque-ecrit-par-windows-11-beneficiez-de-ces-6-methodes-simples-pour-une-securite-accrue/"><u>Comment Protéger Votre Disque Écrit Par Windows 11 ? Bénéficiez De Ces 6 Méthodes Simples Pour Une Sécurité Accrue</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-netflix-buffering-problems-a-comprehensive-guide/"><u>How to Fix Netflix Buffering Problems: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-upgrades-safely-with-tpm-and-secure-boot-enablement/"><u>Navigating Upgrades Safely with TPM and Secure Boot Enablement</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/rapid-diy-filming-ideas-for-aspiring-directors/"><u>Rapid DIY Filming Ideas for Aspiring Directors</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/simplifying-the-process-of-creating-a-high-quality-rss-feed/"><u>Simplifying the Process of Creating a High-Quality RSS Feed</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-samsung-galaxy-s23plus-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Samsung Galaxy S23+ Phone Pattern Lock</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/1-tools-for-enthusiasts-to-rip-and-save-videos-for-2024/"><u>Top 11 Tools for Enthusiasts to Rip and Save Videos for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transforming-your-digital-memories-with-google-photos/"><u>Transforming Your Digital Memories with Google Photos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/transition-magic-quick-fade-tactics/"><u>Transition Magic Quick Fade Tactics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-artisans-nexus-reports-in-depth-studio-scrutiny-2023-edition/"><u>[New] Artisan's Nexus Reports In-Depth Studio Scrutiny, 2023 Edition</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-identifying-the-best-on-the-market-for-hdr-photography/"><u>[New] Identifying the Best on the Market for HDR Photography</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-buyers-path-to-a-top-360-camera-purchase-guide/"><u>[Updated] Buyer's Path to a Top 360 Camera Purchase Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-dial-in-to-youtube-chat-no-huge-follower-requirement-for-2024/"><u>[Updated] Dial in to YouTube Chat, No Huge Follower Requirement for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-stealthy-strategies-for-anonymous-instagram-broadcasts/"><u>[Updated] In 2024, Stealthy Strategies for Anonymous Instagram Broadcasts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-phantom-camera-pause-tips/"><u>[Updated] Phantom Camera Pause Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-12-signs-endless-stories-create-your-whatsapp-bio-narrative/"><u>2024 Approved 12 Signs, Endless Stories - Create Your WhatsApp Bio Narrative</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-2020s-windows-updates-a-quick-overview/"><u>2024 Approved 2020'S Windows Updates A Quick Overview</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-blueprint-for-seamless-integration-of-instagram-and-tiktok/"><u>2024 Approved Blueprint for Seamless Integration of Instagram and TikTok</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chuckle-constructor-app/"><u>Chuckle Constructor App</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-google-pixel-8-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Google Pixel 8.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-amplify-your-iphones-sound-with-top-rated-podcasts/"><u>In 2024, Amplify Your iPhone's Sound with Top-Rated Podcasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-highest-quality-gag-editor/"><u>In 2024, Highest Quality Gag Editor</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-hidden-pitfalls-of-ai-6-essential-factors-demanding-your-attention/"><u>The Hidden Pitfalls of AI: 6 Essential Factors Demanding Your Attention</u></a></li>
 </ul></div>
 

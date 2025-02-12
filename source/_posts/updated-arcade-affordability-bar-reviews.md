@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] ARCADE AFFORDABILITY BAR  Reviews\""
-date: 2024-09-18T16:28:57.276Z
-updated: 2024-09-19T18:56:55.773Z
+date: 2025-02-07T16:05:05.606Z
+updated: 2025-02-12T16:33:34.468Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 
 ## The Pros and Cons of POT Player
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Good
 
 * POT Players works fine with all editions of Windows (32/64 bit versions).
@@ -65,9 +69,17 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
 
 * Beginners may find its setup quite difficult with loads of advanced settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Truth
 
  The truth behind its classic design is that POT player is basically dedicated to advanced or professional users. Those who demand higher controls over customization and want to explore wide range of media file formats can enjoy great viewing experience over POT Player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Deep Review of Pot Player
 
@@ -78,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/1c99e9418ecc4dc629f64c0ecebd23df13aefb6fa
  The playlist tabs are well designed where users can manage numerous albums; all added controls are later automatically saved to playlists and they are auto loaded for the next time. Albums on its library are managed in alphabetical order and your can also add files from one album to another using add and edit menu. Note that, the drag and drop feature works only within playlists, they cannot work inside a playlist.
 
 ![ pot-add-files](https://images.wondershare.com/filmora/article-images/pot-add-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Playing Audio Files
 
@@ -227,13 +243,6 @@ Follow @Ollie Mattison
 * User defined shortcuts makes controlling much easier.
 * It creates minimal loads of memory and CPU.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The Bad
 
 * Beginners may find its setup quite difficult with loads of advanced settings.
@@ -242,7 +251,15 @@ Follow @Ollie Mattison
 
  The truth behind its classic design is that POT player is basically dedicated to advanced or professional users. Those who demand higher controls over customization and want to explore wide range of media file formats can enjoy great viewing experience over POT Player.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Deep Review of Pot Player
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Adding Files and Managing Playlists
 
@@ -262,6 +279,10 @@ Follow @Ollie Mattison
 
 ![pot-play-audio ](https://images.wondershare.com/filmora/article-images/pot-play-audio.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Playing Video Files
 
  Generally, the video frame appears on left portion of screen and right one stays cluttered with playlist but you can simply close it by pressing the little arrow head on right most corner of screen. In order to bring video to the full screen mode, you need to double click over it. Return back to small window by pressing Esc or double click again.
@@ -271,6 +292,10 @@ Follow @Ollie Mattison
 ![pot-play-video ](https://images.wondershare.com/filmora/article-images/pot-play-video.jpg)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -321,25 +346,11 @@ Follow @Ollie Mattison
 
 * Beginners may find its setup quite difficult with loads of advanced settings.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The Truth
 
  The truth behind its classic design is that POT player is basically dedicated to advanced or professional users. Those who demand higher controls over customization and want to explore wide range of media file formats can enjoy great viewing experience over POT Player.
 
 ## Deep Review of Pot Player
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Adding Files and Managing Playlists
 
@@ -348,6 +359,10 @@ Follow @Ollie Mattison
  The playlist tabs are well designed where users can manage numerous albums; all added controls are later automatically saved to playlists and they are auto loaded for the next time. Albums on its library are managed in alphabetical order and your can also add files from one album to another using add and edit menu. Note that, the drag and drop feature works only within playlists, they cannot work inside a playlist.
 
 ![ pot-add-files](https://images.wondershare.com/filmora/article-images/pot-add-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Playing Audio Files
 
@@ -358,13 +373,6 @@ Follow @Ollie Mattison
  Users can manage audio equalizer adjustments from control panel and it can also provide services for easy settings of video frames, video ratios, play settings, control subtitles, screen captures and other video settings.
 
 ![pot-play-audio ](https://images.wondershare.com/filmora/article-images/pot-play-audio.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Playing Video Files
 
@@ -377,10 +385,7 @@ Follow @Ollie Mattison
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ollie Mattison
@@ -411,5 +416,19 @@ Follow @Ollie Mattison
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-guide-to-srgb-and-rgb/"><u>[New] Comprehensive Guide to Srgb & Rgb</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-exploring-japanese-artistry-adding-anime-filters-on-snaps/"><u>[Updated] 2024 Approved Exploring Japanese Artistry Adding Anime Filters on Snaps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elite-10-audio-boosters-for-os-x-ios-android-for-2024/"><u>[Updated] Elite 10 Audio Boosters for OS X, iOS, Android for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/balancing-speed-and-quality-choosing-between-lower-and-higher-fps-for-2024/"><u>Balancing Speed & Quality Choosing Between Lower and Higher FPS for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-tips-for-proficient-use-of-vlcs-functions/"><u>In 2024, Advanced Tips for Proficient Use of VLC's Functions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-complete-manual-for-installing-microsofts-wm6/"><u>In 2024, Complete Manual for Installing Microsoft's WM6</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-motionmaster-win8-version/"><u>In 2024, MotionMaster Win8 Version</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-science-of-sensor-based-hands-monitoring/"><u>In 2024, The Science of Sensor-Based Hands Monitoring</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-parental-control-management-a-guide-with-yl-software-solutions/"><u>Mastering Parental Control Management: A Guide with YL Software Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/soft-volume-tricks-lives-hidden-gems/"><u>Soft Volume Tricks Live’s Hidden Gems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-up-in-the-metaverse-game-with-these-critical-devices-top-7/"><u>Step Up in the Metaverse Game with These Critical Devices (Top 7)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-encyclopedia-of-motion-sensing-types-and-applications/"><u>The Encyclopedia of Motion Sensing Types & Applications</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Simplicity in Skewing Photographic Content"
-date: 2024-09-14T16:06:49.465Z
-updated: 2024-09-19T16:42:39.624Z
+date: 2025-02-08T16:36:04.489Z
+updated: 2025-02-12T16:32:44.885Z
 tags: 
   - screen-recording
   - ai video
@@ -46,6 +46,10 @@ Play around with the settings in the options bar. There are quite a few differen
 
 ![change image height photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-image-height-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 20% **Horizontal Distortion** makes one side of the image appear larger than the other. This is what my photo looks like at 20%.
 
 ![change horizontal distortion photoshop](https://images.wondershare.com/filmora/article-images/2022/09/change-horizontal-distortion-photoshop.jpg)
@@ -58,15 +62,31 @@ The **Bend Direction** option rotates the angle of the bend.
 
 ![bend direction image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/bend-direction-image-photoshop.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Flip any of these effects in the opposite direction by placing a negative sign in front of the percentage. Here's -20% in the **Bend** box with a vertical bend.
 
 ![flip effect image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/flip-effect-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step4Save the Image
 
 Once you're happy with the way your image looks, go to File > Save As in the menu bar or press Ctrl+Shift+S or Command+Shift+S on your keyboard. Choose a file format and location to save your image and click Save. And that's it! You've successfully curved
 
 ![save curve image photoshop](https://images.wondershare.com/filmora/article-images/2022/09/save-curve-image-photoshop.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -100,12 +120,24 @@ We hope this post has helped you learn how to curve an image in Photoshop. The b
      data-full-width-responsive="true"></ins>
 
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-bite-sized-narrative-notation/"><u>[New] Bite-Sized Narrative Notation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-winning-with-windows-11-mastering-video-conferencing-via-zoom/"><u>[New] In 2024, Winning with Windows 11 Mastering Video Conferencing via Zoom</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-from-snapshot-to-success-an-in-depth-video-guide-for-youtube-photos/"><u>[Updated] In 2024, From Snapshot to Success An In-Depth Video Guide for YouTube Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unparalleled-clarity-a-selection-of-the-best-4k-camera-phones/"><u>[Updated] Unparalleled Clarity A Selection of the Best 4K Camera Phones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-aeon-matrix-the-single-screen-superior-desk/"><u>2024 Approved Aeon Matrix The Single Screen, Superior Desk</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-bringing-back-windows-photo-viewer-a-quick-guide-for-win-11-users/"><u>2024 Approved Bringing Back Windows Photo Viewer A Quick Guide for Win 11 Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-calculating-costs-music-video-filming/"><u>2024 Approved Calculating Costs Music Video Filming</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-samsung-galaxy-s24-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Samsung Galaxy S24 Ultra Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-practices-for-zoom-engagement-on-win10-systems/"><u>Best Practices for Zoom Engagement on Win10 Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-a-winning-sponsorship-proposal-for-youtube-creators/"><u>Crafting a Winning Sponsorship Proposal for Youtube Creators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-the-ultimate-list-15-premier-mounts-for-gopro/"><u>In 2024, Crafting the Ultimate List 15 Premier Mounts for GoPro</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-itel-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Itel Phones with/without a PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m14-4g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M14 4G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamline-your-audio-experience-with-apods/"><u>Streamline Your Audio Experience with APods</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-seamless-storyteller-leveraging-inshot-for-elegant-transitions/"><u>The Seamless Storyteller Leveraging Inshot for Elegant Transitions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-y78t-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo Y78t Fingerprint Not Working Solutions</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] Best Data Buffering Option for Sony A7C"
-date: 2024-07-22T14:04:29.984Z
-updated: 2024-07-23T14:04:29.984Z
+date: 2025-02-07T16:56:52.154Z
+updated: 2025-02-12T16:04:53.523Z
 tags: 
   - screen-recording
   - ai video
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -68,9 +72,104 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Best Memory Cards for Sony A7S II
+
+#### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
+
+ The Class 10 cards offer high capacity and high speed processing for 4K videos and stills so they are mostly recommended to work with DSLR cameras. They provide write speed rating of 90MB/s whereas transfer speed goes up to 95MB/s.
+
+* Well known for high speed performance with extended support to capture 240 HD photos/minute.
+* Ensures fast data transfer services.
+* They support 4K recordings.
+* Comes with data recovery softwares so that you can get back your lost files immediately.
+
+#### 2. Transcend 64GB U3 SDXC Card
+
+ It is one of the best recommendations for high quality video recordings. These cards can work in flow with many big brands while ensuring higher reliability even with lower price range. Most of the professionals love to use Transcend cards for HD and 4K recording needs.
+
+* They offer write speed up to 40MB/s and Read capacity of 60MB/s.
+* Works with error correction mechanism for ensuring higher reliability.
+* Higher durability.
+* Suitable for HD camcorders and DSLR cameras.
+
+#### 3. SanDisk Extreme 64GB U3 SDXC Card
+
+ SanDisk card helps users to enjoy uninterrupted recording sessions for longer duration while delivery higher reliability, faster processing and improved performance rate. You will be able to buy this card with lifetime warranty so this is a great deal.
+
+* They are about 8 times faster as compared to simple memory cards.
+* Exceptional readability with 60MB/s support and higher data transfer rates.
+* The write speed goes up to 40MB/s and it work with multiple frames/second.
+* Works perfectly with 3D and Full HD videos.
+* Can serve in higher temperature ratings and are also shockproof as well as X-ray proof.
+
+#### 4. SanDisk Extreme Pro 64GB U3 SDXC Card
+
+ With Extreme Pro you can enjoy recording up to longer time without any losses in data and you also need not to stop downloading. These cards are designed to work efficiently even in extreme weather conditions and assists in quick file transfers for 4K and Full HD content.
+
+* They can read with 95MB/s rating and write with 90MB/s.
+* Extreme Pro is compatible with SDXC devices.
+* Ensures perfect results for Full HD, 3D and 4K resolution levels.
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+ Sony A7S II is well known for its abilities to process all media file formats along with 4K resolution levels. But note that you will need huge storage capacity to work with all advanced features of this camera so here is a need to go through available memory cards. Note that Sony A7S II is highly dependent upon type of memory card and when it find that memory card is not meeting desired requirements then card type it simply disables few important features. It is good to ensure that you have bought right card so that your camera can function properly.
+
+ The article below can help you to select right memory cards for your Sony A7S II camera:
+
+## How to choose the right memory card for your Sony A7S II
+
+#### Section 1: UHS (Ultra High Speed) Card Classification
+
+ You will find few memory cards with Ultra High Speed (UHS) classifications that determine maximum reading speed of your card. Presently, you can find two major types of UHS classifications as UHS-I and USH-II where the first one is rated to serve at 104MB/s and second one serves at 312 MB/s. It simply means that footage in USH-II cards can be offloaded 3x faster but to maintain this speed you need to have a fast connection and fast hard drive.
+
+#### Section 2: Requirements for Sony A7S II Memory Card
+
+#### 1. Card Type: SDXC
+
+ The SDXC card technology was launched in 2010 to serve the requirements of full HD recordings with higher speed and capacity. However, these cards follow dimensions comparable to SD as well as SDHC cards but they can support only SDXC devices. You can find these cards ranging from 64GB memory capacity to 2TB and the speed variation goes from 104MB/s to 300MB/s respectively.
+
+**Features**
+
+* These cards provide higher storage capacities ranging between 64GB to 2TB.
+* Its exFAT type file support allows users to work with large files with higher bitrates.
+
+#### 2. Speed Class Rating: U3
+
+ Some of the common specifications that manufacturers provide with their cards are write speed limits and burst read details but both of these cannot help user to get right card for their 4K video needs. Actually the ratio between burst rate and speed does not follow a simple relation thus the best idea is to buy cards by checking their speed class rating. This speed class rating shows that your card will not reduce its writing speed below the specified speed class limit. Some of the most popular peed class ratings available in market are Class 10, U3, U1, Class 6 and Class 4.
+
+**Features**
+
+* The U3 or UHS speed class 3 cards are designed to serve compatible speed rates for A7S II cameras.
+* They can maintain minimum write speed value of 30MB/s.
+* These cards can record details very smoothly without missing any frame in between.
+
+#### 3. Card Capacity
+
+ As advanced 4k recording cameras like A7S II are designed to work with high capacity cards so the best idea is to buy a card with 64GB capacity so that all frames can be processed without any loss in information. In order to get best results for your classic 4k recordings always prefer to pick a card with higher rating. When you buy a card with higher capacity:
+
+**Features**
+
+* You will be able to minimize the risks of sudden card failures. Because when cards are not able to support higher bitrates then they often lose most of the information. It is good to choose a card that can easily record footage up to 1 or 2 hours.
+* Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
+* The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -126,8 +225,9 @@ Follow @Max Wales
  The article below can help you to select right memory cards for your Sony A7S II camera:
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to choose the right memory card for your Sony A7S II
 
 #### Section 1: UHS (Ultra High Speed) Card Classification
@@ -203,9 +303,6 @@ Follow @Max Wales
 * Extreme Pro is compatible with SDXC devices.
 * Ensures perfect results for Full HD, 3D and 4K resolution levels.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -260,105 +357,9 @@ Follow @Max Wales
 * The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-## Best Memory Cards for Sony A7S II
 
-#### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
-
- The Class 10 cards offer high capacity and high speed processing for 4K videos and stills so they are mostly recommended to work with DSLR cameras. They provide write speed rating of 90MB/s whereas transfer speed goes up to 95MB/s.
-
-* Well known for high speed performance with extended support to capture 240 HD photos/minute.
-* Ensures fast data transfer services.
-* They support 4K recordings.
-* Comes with data recovery softwares so that you can get back your lost files immediately.
-
-#### 2. Transcend 64GB U3 SDXC Card
-
- It is one of the best recommendations for high quality video recordings. These cards can work in flow with many big brands while ensuring higher reliability even with lower price range. Most of the professionals love to use Transcend cards for HD and 4K recording needs.
-
-* They offer write speed up to 40MB/s and Read capacity of 60MB/s.
-* Works with error correction mechanism for ensuring higher reliability.
-* Higher durability.
-* Suitable for HD camcorders and DSLR cameras.
-
-#### 3. SanDisk Extreme 64GB U3 SDXC Card
-
- SanDisk card helps users to enjoy uninterrupted recording sessions for longer duration while delivery higher reliability, faster processing and improved performance rate. You will be able to buy this card with lifetime warranty so this is a great deal.
-
-* They are about 8 times faster as compared to simple memory cards.
-* Exceptional readability with 60MB/s support and higher data transfer rates.
-* The write speed goes up to 40MB/s and it work with multiple frames/second.
-* Works perfectly with 3D and Full HD videos.
-* Can serve in higher temperature ratings and are also shockproof as well as X-ray proof.
-
-#### 4. SanDisk Extreme Pro 64GB U3 SDXC Card
-
- With Extreme Pro you can enjoy recording up to longer time without any losses in data and you also need not to stop downloading. These cards are designed to work efficiently even in extreme weather conditions and assists in quick file transfers for 4K and Full HD content.
-
-* They can read with 95MB/s rating and write with 90MB/s.
-* Extreme Pro is compatible with SDXC devices.
-* Ensures perfect results for Full HD, 3D and 4K resolution levels.
-
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
- Sony A7S II is well known for its abilities to process all media file formats along with 4K resolution levels. But note that you will need huge storage capacity to work with all advanced features of this camera so here is a need to go through available memory cards. Note that Sony A7S II is highly dependent upon type of memory card and when it find that memory card is not meeting desired requirements then card type it simply disables few important features. It is good to ensure that you have bought right card so that your camera can function properly.
-
- The article below can help you to select right memory cards for your Sony A7S II camera:
-
-## How to choose the right memory card for your Sony A7S II
-
-#### Section 1: UHS (Ultra High Speed) Card Classification
-
- You will find few memory cards with Ultra High Speed (UHS) classifications that determine maximum reading speed of your card. Presently, you can find two major types of UHS classifications as UHS-I and USH-II where the first one is rated to serve at 104MB/s and second one serves at 312 MB/s. It simply means that footage in USH-II cards can be offloaded 3x faster but to maintain this speed you need to have a fast connection and fast hard drive.
-
-#### Section 2: Requirements for Sony A7S II Memory Card
-
-#### 1. Card Type: SDXC
-
- The SDXC card technology was launched in 2010 to serve the requirements of full HD recordings with higher speed and capacity. However, these cards follow dimensions comparable to SD as well as SDHC cards but they can support only SDXC devices. You can find these cards ranging from 64GB memory capacity to 2TB and the speed variation goes from 104MB/s to 300MB/s respectively.
-
-**Features**
-
-* These cards provide higher storage capacities ranging between 64GB to 2TB.
-* Its exFAT type file support allows users to work with large files with higher bitrates.
-
-#### 2. Speed Class Rating: U3
-
- Some of the common specifications that manufacturers provide with their cards are write speed limits and burst read details but both of these cannot help user to get right card for their 4K video needs. Actually the ratio between burst rate and speed does not follow a simple relation thus the best idea is to buy cards by checking their speed class rating. This speed class rating shows that your card will not reduce its writing speed below the specified speed class limit. Some of the most popular peed class ratings available in market are Class 10, U3, U1, Class 6 and Class 4.
-
-**Features**
-
-* The U3 or UHS speed class 3 cards are designed to serve compatible speed rates for A7S II cameras.
-* They can maintain minimum write speed value of 30MB/s.
-* These cards can record details very smoothly without missing any frame in between.
-
-#### 3. Card Capacity
-
- As advanced 4k recording cameras like A7S II are designed to work with high capacity cards so the best idea is to buy a card with 64GB capacity so that all frames can be processed without any loss in information. In order to get best results for your classic 4k recordings always prefer to pick a card with higher rating. When you buy a card with higher capacity:
-
-**Features**
-
-* You will be able to minimize the risks of sudden card failures. Because when cards are not able to support higher bitrates then they often lose most of the information. It is good to choose a card that can easily record footage up to 1 or 2 hours.
-* Note that there is no money saving deal in memory card price ranges. When you go to buy a 128GB memory card it will naturally cost same as if you buy two 64GB cards.
-* The SD cards are small sized, compact units so whether you carry a 64GB card in your pocket or choose a 128GB package, none of these are going to put additional weight on your pocket.
-
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Best Memory Cards for Sony A7S II
 
 #### 1. Sony 64GB High Performance Class 10 UHS-1/U3 SDXC
@@ -427,7 +428,18 @@ Follow @Max Wales
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-drone-purchase-primer-the-beginners-guide-to-informed-buying/"><u>[New] 2024 Approved Drone Purchase Primer The Beginner's Guide to Informed Buying</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-advanced-tips-for-removing-backgrounds-in-affinity-photo/"><u>[New] Advanced Tips for Removing Backgrounds in Affinity Photo</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-refining-your-tiktok-profile-age-with-ease/"><u>[New] Refining Your TikTok Profile Age with Ease</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-lexicon-of-persuasion-in-business-communication/"><u>[Updated] The Lexicon of Persuasion in Business Communication</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-intrinsic-insights-for-instant-identification-in-fb/"><u>2024 Approved Intrinsic Insights for Instant Identification in FB</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audiovisual-amplification-harness-no-cost-tools-for-dynamic-voice-effects/"><u>Audiovisual Amplification Harness No-Cost Tools for Dynamic Voice Effects</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/download-content-from-1upcom-in-high-quality-formats-like-mp4-and-avi-with-our-simple-guide/"><u>Download Content From 1UP.com in High-Quality Formats Like MP4 and AVI with Our Simple Guide!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ensuring-compliance-for-apple-podcast-listing/"><u>Ensuring Compliance for Apple Podcast Listing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-xiaomi-civi-3-disney-100th-anniversary-edition-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Xiaomi Civi 3 Disney 100th Anniversary Edition Phone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-lenovos-latest-ai-powered-thinkpads-the-ultimate-solution-for-modern-professionals-insights/"><u>Introducing Lenovo's Latest AI-Powered ThinkPads: The Ultimate Solution for Modern Professionals - Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-the-art-of-chapter-integration-in-youtube-videos-for-maximum-impact/"><u>Unlocking the Art of Chapter Integration in YouTube Videos for Maximum Impact</u></a></li>
+</ul></div>
 
