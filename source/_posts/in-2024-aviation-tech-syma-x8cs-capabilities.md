@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Aviation Tech  Syma X8C's Capabilities\""
-date: 2025-02-06T16:55:52.755Z
-updated: 2025-02-12T16:00:18.190Z
+date: 2025-03-02T07:24:36.298Z
+updated: 2025-03-03T06:37:31.888Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 ![syma x8c](https://images.wondershare.com/filmora/article-images/syma-x8c.jpg)
 
 **You may also like:** [Full review for Syma X5C >>](HTTPS://filmora.wondershare.com/drones/syma-x5c-drone-review.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Pros and Cons of Syma X8C
 
@@ -77,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 
 ![syma vs phantom design](https://images.wondershare.com/filmora/article-images/syma-vs-phantom-design.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If we consider the appearance then it looks close to the Phantom drone but no doubt to say that few variations exists and they make it unique. The overall dimension of this drone unit is 20x20x6.5 whereas maximum weight goes up to 450 grams thus it cannot be called as a tiny drone. When weighted with camera and prop guards, then this unit has overall weight of 600 grams. This dimension and weight makes this drone much stable in air.
 
  This device can also be used without propeller guards because they do not have much role to play in its flights but the added benefit is that removal of prop guards leads to reduced weight and hence flight time gets little improved. The overall length of propeller is about 9” and they are designed of very high quality material.
@@ -97,25 +89,13 @@ thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f
 
 ![syma x8c controller](https://images.wondershare.com/filmora/article-images/syma-x8c-controller.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Controller or the transmitter of X8C device is small enough that fits perfectly in user’s hands. Construction is completed with ABS plastic material that leads to light weight structure and this controller makes use of 2.4GHz frequency band to send control signals towards drone in air. The best thing to know about Syma X8C is that it can cover the 100 meter range impressively.
 
 #### 6\.  Camera
 
 ![syma x8c camera](https://images.wondershare.com/filmora/article-images/syma-x8c-camera.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A drone cannot be complete without a camera mounted on its top; hence Syma has taken care of users need and they developed Syma X8C with a camera that can record everything in air. Although, it is not able to collect video information with HD quality but you will be glad to know that it is detachable and one can also make additional adjustments over its angles to adjust focus. All the recorded videos are stored inside a 4GB MicroSD card. Further, the attached gimbal assists in much stable footage.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -138,20 +118,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-boosting-visual-impact-incorporate-apple-music/"><u>[Updated] Boosting Visual Impact Incorporate Apple Music</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-capture-and-create-first-edits-in-lunapic-photo-editor/"><u>[Updated] Capture & Create First Edits in LunaPic Photo Editor</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-accelerating-your-creative-process-high-quality-3d-models-tools/"><u>2024 Approved Accelerating Your Creative Process High-Quality 3D Models Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-critical-look-at-the-action-focused-polaroid-cubeplus/"><u>A Critical Look at the Action-Focused Polaroid Cube+</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/convertissez-gratuitement-vos-videos-qt-en-format-mov-avec-movavi-online-free-tool/"><u>Convertissez Gratuitement Vos Vidéos QT en Format MOV Avec Movavi Online Free Tool</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/explore-the-elite-eight-exceptional-gaming-experiences-with-google-play-pass/"><u>Explore the Elite Eight: Exceptional Gaming Experiences with Google Play Pass</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-review-of-syma-x8c/"><u>In 2024, Comprehensive Review of Syma X8C</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oppo-f25-pro-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Oppo F25 Pro 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-through-slug-line-syntax-in-screenplays/"><u>Navigating Through Slug Line Syntax in Screenplays</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premier-20-unrestricted-pubg-montage-samples/"><u>Premier 20 Unrestricted PUBG Montage Samples</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-issues-with-your-iphones-proximity-detection-capabilities/"><u>Resolving Issues with Your iPhone's Proximity Detection Capabilities</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-artisans-path-to-perfecting-video-chroma-balance-11-lessons/"><u>The Artisan's Path to Perfecting Video Chroma Balance (11 Lessons)</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/ultimate-windows-11-performance-tuning-manual-boosting-your-dex-3dex-3-relyrx-systems/"><u>Ultimate Windows 11 Performance Tuning Manual: Boosting Your DEX 3/DEX 3 RE/LYRX Systems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveiling-seamless-sound-moves-in-premiere-pro/"><u>Unveiling Seamless Sound Moves in Premiere Pro</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/harting-financial-horizons-the-threefold-technique-for-analyzing-youtube-earning-data-for-2024/"><u>[New] Charting Financial Horizons The Threefold Technique for Analyzing YouTube Earning Data for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-shambling-successes-the-cutthroat-list-of-best-zombies-gaming-for-2024/"><u>[New] Shambling Successes The Cutthroat List of Best Zombies Gaming for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-digital-broadcasting-battle-comparing-facebook-live-youtube-live-and-twitter-spaces/"><u>[Updated] 2024 Approved Digital Broadcasting Battle Comparing Facebook LIVE, YouTube Live, & Twitter Spaces</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-rapid-capture-sounds-alongside-images/"><u>[Updated] Rapid Capture Sounds Alongside Images</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/blueprint-for-building-a-graphic-design-business/"><u>Blueprint for Building a Graphic Design Business</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/economical-choice-for-superior-asmr-sound-experiencing/"><u>Economical Choice for Superior ASMR Sound Experiencing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-auditory-transitions-with-logic-pro-x/"><u>Innovative Auditory Transitions with Logic Pro X</u></a></li>
+<li><a href="https://facebook.techidaily.com/investigating-the-skeleton-of-facebooks-system/"><u>Investigating The Skeleton of Facebook's System</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/the-ultimate-guide-to-adding-time-markers-on-youtubes-for-2024/"><u>The Ultimate Guide to Adding Time Markers on YouTubes for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-360-degree-shoot-selecting-your-perfect-model/"><u>Ultimate 360-Degree Shoot Selecting Your Perfect Model</u></a></li>
+<li><a href="https://win-data.techidaily.com/yl-computings-collection-of-premium-201/"><u>YL Computing's Collection of Premium 201</u></a></li>
 </ul></div>
 

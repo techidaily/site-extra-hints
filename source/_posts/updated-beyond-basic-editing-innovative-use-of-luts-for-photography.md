@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Beyond Basic Editing  Innovative Use of LUTs for Photography\""
-date: 2025-01-25T17:51:55.802Z
-updated: 2025-01-31T01:03:40.007Z
+date: 2025-03-01T17:07:17.074Z
+updated: 2025-03-03T10:53:55.340Z
 tags: 
   - screen-recording
   - ai video
@@ -58,10 +58,6 @@ LUTs come pre-installed with programs, but you may also purchase them online and
 
 ![how to use luts using Photoshop cc](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Choose Adjustment Layer
 
 1. Opt for Color Lookup.
@@ -69,10 +65,6 @@ Choose Adjustment Layer
 3. Select Load 3D LUT. A list of LUTs that come with Photoshop will appear.
 
 ![how to use luts using Photoshop cc - load 3d lut](https://images.wondershare.com/filmora/article-images/2022/05/luts-photography-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 load 3d lut
 
@@ -82,20 +74,12 @@ load 3d lut
 
 LUTs come pre-installed in Photoshop, and you can use them as adjustment layers. As mentioned earlier, they'll alter the image's colors, and some of them will also alter the contrast. But what if you want to add LUTs? To add LUTs to Photoshop, you have two options. The first is really simple; all you have to do is discover the LUT and apply it to that specific project. The alternative is a little more difficult, but it enables you to access your LUTs at all times.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Here's the first method
 
 1. It would be best to unzip the LUT before using it in your project. This is relatively simple, and you may either use specialized software or the built-in unzipping utility in Windows.
 2. When discussing Photoshop, the project is typically an image, so go ahead and open it. Open a new one by pressing 'Ctrl+O' or importing something from your cloud.
 3. To do so, go to the 'Adjustments' tab and select the 'Color Lookup' button.
 4. Select the 'Load 3D LUT' button, then navigate to the directory where you unpacked the LUT files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Here's the second one
 
@@ -122,10 +106,6 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More](#)
 
 ![Filmora Windows](https://images.wondershare.com/assets/images-common/box-filmora-x.png) ![Filmora Mac](https://neveragain.allstatics.com/2019/assets/icon/logo/filmora-9-square.svg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Closing Thoughts:
 
@@ -157,24 +137,18 @@ The use of LUTs, like most elements of photography and photo editing, necessitat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-achieving-youtube-live-prominence-with-pro-level-tips-for-2024/"><u>[New] Achieving YouTube Live Prominence with Pro-Level Tips for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-beyond-spectacle-delving-into-vrs-negatives/"><u>[New] Beyond Spectacle Delving Into VR's Negatives</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-core-principles-in-crafting-persuasive-facebook-ads-for-2024/"><u>[New] Core Principles in Crafting Persuasive Facebook Ads for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-ultimate-video-upgrade-with-enhancer-22/"><u>[New] In 2024, The Ultimate Video Upgrade with Enhancer 2.2</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-which-is-superior-obs-or-streamlabs-for-your-livestream-needs/"><u>[Updated] 2024 Approved Which Is Superior, OBS or Streamlabs for Your Livestream Needs?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-8-websites-where-you-can-download-free-3d-text-psdfiles/"><u>[Updated] Best 8 Websites Where You Can Download Free 3D Text PSDFiles</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-beyond-the-headsets-the-essence-of-virtual-reality/"><u>[Updated] Beyond the Headsets The Essence of Virtual Reality</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-a-huge-impact-youtube-titles-that-sell-for-2024/"><u>Crafting a Huge Impact YouTube Titles That Sell for 2024</u></a></li>
-<li><a href="https://media-tips.techidaily.com/effortless-transition-from-rmvb-to-avi-top-conversion-tools-reviewed-for-you/"><u>Effortless Transition From RMVB to AVI: Top Conversion Tools Reviewed for You</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-static-to-dynamic-making-text-pop-on-instagram-stories/"><u>From Static to Dynamic Making Text Pop on Instagram Stories</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-analyzing-aurora-hdrs-impact-on-visual-experience/"><u>In 2024, Analyzing Aurora HDR's Impact on Visual Experience</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-blitz-photo-screening-for-windows-users/"><u>In 2024, Blitz Photo Screening for Windows Users</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-clipcutting-masterwin8/"><u>In 2024, ClipCutting MasterWin8</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/moment-of-glory-snapshots-in-win-os/"><u>Moment of Glory Snapshots in Win OS</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-initial-errors-how-to-start-football-manager-2023/"><u>Overcoming Initial Errors – How to Start Football Manager 2023</u></a></li>
-<li><a href="https://win11.techidaily.com/precision-tactics-to-handle-win1011-recycle-bin-crashes/"><u>Precision Tactics to Handle Win10/11 Recycle Bin Crashes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/reversal-blueprint-swiftly-backward-apple-vids/"><u>Reversal Blueprint Swiftly Backward Apple Vids</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-picks-the-ultimate-selection-of-4k-monitors-for-macos/"><u>Top Picks The Ultimate Selection of 4K Monitors for MacOS</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-step-by-step-the-ultimate-guide-to-borders-on-insta-pics/"><u>[New] 2024 Approved Step-By-Step The Ultimate Guide to Borders on Insta Pics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-ace-10-drones-for-photography-and-cinematic-prowess/"><u>[New] Ace 10 Drones for Photography & Cinematic Prowess</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-breaking-down-lg-27ud88-uhd-tv-with-usb-type-c/"><u>[New] Breaking Down LG 27UD88-UHD TV with USB Type-C</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-capturing-marine-magic-pro-tips-for-filming-oceanic-scenes-using-gopro/"><u>[New] Capturing Marine Magic Pro Tips for Filming Oceanic Scenes Using GoPro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-complete-mastery-over-picsart-the-ultimate-users-guide/"><u>[Updated] Complete Mastery over PicsArt The Ultimate User's Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-insta-wealth-tactics-for-transforming-passion-projects-into-paid-opportunities-for-2024/"><u>[Updated] Insta-Wealth Tactics for Transforming Passion Projects Into Paid Opportunities for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-x100-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevating-zooms-video-resolution-expert-advice/"><u>Elevating Zoom's Video Resolution Expert Advice</u></a></li>
+<li><a href="https://article-tips.techidaily.com/heaviest-heroes-in-the-air-drone-power-list-for-2024/"><u>Heaviest Heroes in the Air Drone Power List for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/intrepid-selection-best-slow-mo-cameras-for-2024/"><u>Intrepid Selection Best Slow-Mo Cameras for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-through-value-proposition-an-insightful-evaluation-of-the-google-pixelbook-go/"><u>Navigating Through Value Proposition: An Insightful Evaluation of the Google Pixelbook Go</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/cket-viewer-numbers-with-the-top-12-effective-tactics/"><u>Skyrocket Viewer Numbers with the Top 12 Effective Tactics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-ios-and-android-photo-blur-tools/"><u>Top iOS & Android Photo Blur Tools</u></a></li>
 </ul></div>
 

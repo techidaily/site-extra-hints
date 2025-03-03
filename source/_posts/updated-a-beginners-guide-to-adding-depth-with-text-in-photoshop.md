@@ -1,7 +1,7 @@
 ---
 title: "[Updated] A Beginner's Guide to Adding Depth with Text in Photoshop"
-date: 2025-02-09T16:03:42.510Z
-updated: 2025-02-12T16:16:36.855Z
+date: 2025-03-02T05:38:49.865Z
+updated: 2025-03-02T19:30:46.411Z
 tags: 
   - screen-recording
   - ai video
@@ -30,10 +30,6 @@ Step1 Open up Adobe Photoshop and create a New Document. Then, edit the document
 
 ![new document photoshop](https://images.wondershare.com/filmora/article-images/new-adobe-photoshop.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Select the **Type** tool and choose a color of your liking. Then, click anywhere on the blank canvas and type in your word.
 
 ![type text photoshop](https://images.wondershare.com/filmora/article-images/type-adobe-photoshop.png)
@@ -45,10 +41,6 @@ Step3 Now, locate the **Layers** panel at the bottom-right corner of the screen.
 Step4 You are now editing in the 3D Workspace inside Photoshop. Here is where we will create the 3D text effect. First, click on the **Layers** panel **→ right-click on "Background" →** select **"Postcard".**
 
 ![edit background](https://images.wondershare.com/filmora/article-images/postcard-adobe-photoshop.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step5 Now, without touching anything else, hold on to the **SHIFT** key and click on your text layer. This will select the text and background layer at the same time. Then, just hold on **CTRL + E / Cmnd + E**. This will merge the two layers.
 
@@ -68,10 +60,6 @@ Step9 We're almost done. The next step is to go back to the **Layers** tab → r
 
 ![convert to smart object](https://images.wondershare.com/filmora/article-images/convert-adobe-photoshop.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step10 Finally, from the upper-right corner drop-down button, select **Essentials**.
 
 ![convert back](https://images.wondershare.com/filmora/article-images/essentials-adobe-photoshop.png)
@@ -89,10 +77,6 @@ There is. It's called [Filmora](https://tools.techidaily.com/wondershare/filmora
 [Free Download](https://tools.techidaily.com/wondershare/filmora/download/) For macOS 10.14 or later
 
 Compared to Photoshop, Filmora is not only easier to use, but it's significantly more affordable as well. With that said, let's find out how you can create a 3D text effect in Filmora.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Make a 3D Text Effect in Filmora
 
@@ -113,10 +97,6 @@ Step3 Next, head over to **Titles** and search for "3D". Select any option you l
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
 
@@ -136,17 +116,9 @@ Step1 First, you should download Filmora and install the program on your compute
 
 ![open new project filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-01.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step2 Import a background video or image by going to **My Media** and selecting **Import Media.** From here, select any clip or image you want and hit **Open.** When it's imported, simply drag the clip to the Timeline below.
 
 ![import media files filmora](https://images.wondershare.com/filmora/guide/get-started-with-filmora-02.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step3 Next, head over to **Titles** and search for "3D". Select any option you like and drag it to the Timeline, above your background clip.
 
@@ -155,10 +127,6 @@ Step3 Next, head over to **Titles** and search for "3D". Select any option you l
 Step4 Lastly, double-click on the 3D Title clip in the Timeline and edit its settings. Type in your custom text, change its font, color, and other features.
 
 ![3d titles filmora](https://images.wondershare.com/filmora/guide/3d-title.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 That's it! Congratulations!. You've created a 3D text effect with Filmora in just four simple steps.
 
@@ -190,24 +158,21 @@ Creating 3D text with Photoshop is a good idea if you already know how to use th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unlock-slow-momentum-a-filmmakers-tale-on-instagram/"><u>[New] In 2024, Unlock Slow Momentum A Filmmaker’s Tale on Instagram</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-enhancing-productivity-with-azure-voice-recognition-for-2024/"><u>[Updated] Enhancing Productivity with Azure Voice Recognition for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-invisible-observers-the-ultimate-list-of-apps/"><u>[Updated] In 2024, Invisible Observers The Ultimate List of Apps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-nintendo-switch-prime-capture-experience/"><u>[Updated] Nintendo Switch Prime Capture Experience</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/azure-speech-to-text-explained-simply/"><u>Azure Speech to Text Explained Simply</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/crafting-soft-declines-in-volume-using-audacity/"><u>Crafting Soft Declines in Volume Using Audacity</u></a></li>
-<li><a href="https://techtrends.techidaily.com/doubling-your-beats-per-minute-can-two-individuals-listen-to-spotify-simultaneeusly/"><u>Doubling Your Beats per Minute: Can Two Individuals Listen to Spotify Simultaneeusly?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/engaging-audiences-in-real-time-periscope-tips/"><u>Engaging Audiences in Real-Time Periscope Tips</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/how-to-share-twitch-stream-on-facebook/"><u>How to Share Twitch Stream on Facebook?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-instant-insight-snapshots-for-windows-enthusiasts/"><u>In 2024, Instant Insight Snapshots for Windows Enthusiasts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/interactivemix-for-all-systems/"><u>InteractiveMix for All Systems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/refine-image-quality-on-canon-devices-using-free-plus-payable-lut-tools/"><u>Refine Image Quality on Canon Devices Using Free + Payable LUT Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/sculpting-brilliance-a-deep-dive-into-hdr-in-lightroom/"><u>Sculpting Brilliance A Deep Dive Into HDR in Lightroom</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-undercover-upsell-simple-image-saving/"><u>The Undercover Upsell Simple Image Saving</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-audio-alerts-high-quality-pages/"><u>Ultimate Audio Alerts High-Quality Pages</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722902801689-unlock-your-ideal-device-at-a-bargain-top-verizon-upgrade-offers-of-the-month/"><u>Unlock Your Ideal Device at a Bargain - Top Verizon Upgrade Offers of the Month!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/why-isnt-the-classic-shortcut-key-combo-work-troubleshooting-steps-inside/"><u>Why Isn't the Classic Shortcut Key Combo Work? Troubleshooting Steps Inside!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/windows-11-photos-setup-guide-adding-aesthetic-overlays-and-music/"><u>Windows 11 Photos Setup Guide Adding Aesthetic Overlays & Music</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mastering-android-facetime-a-step-by-step-guide/"><u>[Updated] 2024 Approved Mastering Android FaceTime A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-dribbble-artwork-aspect-ratio-guide/"><u>[Updated] In 2024, Dribbble Artwork Aspect Ratio Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-video-separation-standards-recorders-rating-review/"><u>[Updated] In 2024, Video Separation Standards Recorder's Rating Review</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-hd-reception-with-amazonbasics-flat-tv-antenna-your-guide-to-cutting-costs-on-broadcast-television/"><u>Affordable HD Reception with AmazonBasics' Flat TV Antenna - Your Guide to Cutting Costs on Broadcast Television!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012998956-ashen-crash-troubles-master-quick-solutions-today/"><u>Ashen Crash Troubles? Master Quick Solutions Today</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-frames-per-second-complete-slow-motion-analysis-2024/"><u>Beyond Frames Per Second Complete Slow Motion Analysis, 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bigger-photos-uncompromised-clarity/"><u>Bigger Photos, Uncompromised Clarity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/budding-entrepreneurs-guide-mastering-the-art-of-social-media-advertising-for-2024/"><u>Budding Entrepreneurs Guide Mastering the Art of Social Media Advertising for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/comparing-video-codecs-unpacking-mpeg-4-and-h264-distinctions/"><u>Comparing Video Codecs: Unpacking MPEG-4 and H.264 Distinctions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevating-media-quality-from-xmlssattml-to-premium-srt/"><u>Elevating Media Quality From XML/SSA/TTML to Premium SRT</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-12-pro-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 12 Pro Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ringtone-renaissance-websites-worth-visiting/"><u>Ringtone Renaissance Websites Worth Visiting</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138547224-9789176371138-the-prophet-wisehouse-classics-edition/"><u>THE PROPHET (Wisehouse Classics Edition) | Free Book</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-quick-fix-efficient-use-of-the-eraser-in-psx/"><u>The Quick Fix Efficient Use of the Eraser in PSX</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-streamline-your-podcast-on-google/"><u>The Ultimate Guide to Streamline Your Podcast on Google</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-resolving-issues-with-unresponsive-dvd-bd-and-cd-drives/"><u>Troubleshooting Tips: Resolving Issues with Unresponsive DVD, BD & CD Drives</u></a></li>
 </ul></div>
 

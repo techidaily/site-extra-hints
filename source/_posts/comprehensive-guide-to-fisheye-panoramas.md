@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to Fisheye Panoramas"
-date: 2025-02-11T16:16:49.024Z
-updated: 2025-02-12T16:37:31.668Z
+date: 2025-02-24T01:14:57.501Z
+updated: 2025-03-03T09:33:45.410Z
 tags: 
   - screen-recording
   - ai video
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Shooting 360 degrees panoramas with fisheye lens
 
  The process of shooting panoramas with fisheye lenses involves a number of considerations and they are as follows-:
@@ -45,14 +41,6 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
  Other than setting up and calibrating the equipment in the right manner, it is important to keep the camera steady and leveled as you make the rotations to take shots. For leveling, it is recommended to use an appropriate leveling base, while for rotation, using a panning clamp on top of the ballhead is highly recommended.
 
 ![Panning clam on ballhead](https://images.wondershare.com/filmora/article-images/panning-clam-on-ballhead.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3. The actual shooting
 
@@ -74,10 +62,6 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
 [How to stitch GoPro clips into 360 videos >>](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's fisheye lenses
 
  Fisheye lens refers to an ultra wide angle lens used to produce strong visual distortions with the aim of creating a wide hemispherical or panoramic image. Fisheye lenses are able to achieve very wide angles of view not through the production of straight lines of perspectives, but through a special mapping which makes the resulting images have the characteristic convex non-rectilinear appearance.
@@ -94,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/18316e8f71e11f28b59d175ffaa88b6b208294f15
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -113,18 +93,24 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-gaming-evolution-top-7-stardew-valley-enhancements-7-for-2024/"><u>[New] Gaming Evolution Top 7 Stardew Valley Enhancements (#7) for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-optimized-text-designs-for-after-effects/"><u>[New] Optimized Text Designs for After Effects</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-toolwiz-in-pictures-complete-review-unveiled/"><u>[New] Toolwiz in Pictures Complete Review Unveiled</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-5-secrets-to-preventing-blank-scenes-with-obs-recording/"><u>[Updated] 2024 Approved 5 Secrets to Preventing Blank Scenes with OBS Recording</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-ace-gpodcs-most-popular-shows/"><u>2024 Approved Ace GPodC's Most Popular Shows</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-realme-narzo-60-pro-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Realme Narzo 60 Pro 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/app-reception-a-comprehensive-scrutiny/"><u>App Reception A Comprehensive Scrutiny</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/elite-picks-for-premium-usb-flash-drive-selection-2024/"><u>Elite Picks for Premium USB Flash Drive Selection, 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/extend-windows-security-integrating-firewalls-into-context-menus/"><u>Extend Window's Security: Integrating Firewalls Into Context Menus</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-angles-of-perspective-youtubes-path-to-dynamic-video-editing/"><u>In 2024, Angles of Perspective YouTube's Path to Dynamic Video Editing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-building-your-signature-solo-podcast-series/"><u>In 2024, Building Your Signature Solo Podcast Series</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-errors-effective-solutions-to-prevent-pacific-drive-from-crashing-on-your-desktop/"><u>Overcoming Errors: Effective Solutions to Prevent Pacific Drive From Crashing on Your Desktop</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveiling-the-real-value-in-cloud-storage-charges/"><u>Unveiling the Real Value in Cloud Storage Charges</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-step-by-step-strategy-for-dominating-the-digital-marketing-arena/"><u>[New] A Step-by-Step Strategy for Dominating the Digital Marketing Arena</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-closer-look-techniques-for-microsoft-teams/"><u>[New] Closer Look Techniques for Microsoft Teams</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-elevating-your-audioshifting-game-with-premiere-pro-for-2024/"><u>[New] Elevating Your Audioshifting Game with Premiere Pro for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-audiophiles-guide-to-speed-adjustment-apps/"><u>[Updated] Audiophile's Guide to Speed Adjustment Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-bidding-adieu-with-elegance-sample-choices/"><u>[Updated] Bidding Adieu with Elegance Sample Choices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-captivating-cinematic-experiences-exploring-top-6-genres/"><u>[Updated] Captivating Cinematic Experiences Exploring Top 6 Genres</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comparative-analysis-of-winning-drawing-software/"><u>[Updated] Comparative Analysis of Winning Drawing Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-enhancing-online-presence-obs-and-facebook-synergy-for-2024/"><u>[Updated] Enhancing Online Presence OBS & Facebook Synergy for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-rated-5-backdrop-change-utilities-for-iphones-x78/"><u>2024 Approved Best-Rated 5 Backdrop Change Utilities for iPhones X/7/8</u></a></li>
+<li><a href="https://facebook.techidaily.com/bring-back-the-buzz-tactics-to-reactivate-a-dormant-facebook-account/"><u>Bring Back the Buzz: Tactics to Reactivate a Dormant Facebook Account</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/craft-impressive-clips-with-these-intros-for-2024/"><u>Craft Impressive Clips With These Intros for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/free-mindfulness-melodies/"><u>Free Mindfulness Melodies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-guide-to-vsco-camera-app/"><u>In 2024, Comprehensive Guide to VSCO Camera App</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-motorola-moto-g14-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Motorola Moto G14 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-samsung-galaxy-s24-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Samsung Galaxy S24 FRP Bypass</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/inside-the-capabilities-of-the-tp-link-av1300-powerline-wi-fi-repeater-an-in-depth-review/"><u>Inside the Capabilities of the TP-Link AV1300 Powerline Wi-Fi Repeater: An In-Depth Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pro-camera-powerhouse-the-sj-cam-s6-reviewed/"><u>Pro Camera Powerhouse The SJ-CAM S6 Reviewed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reviving-your-iphone-without-using-physical-buttons-a-comprehensive-guide/"><u>Reviving Your iPhone Without Using Physical Buttons: A Comprehensive Guide</u></a></li>
 </ul></div>
 

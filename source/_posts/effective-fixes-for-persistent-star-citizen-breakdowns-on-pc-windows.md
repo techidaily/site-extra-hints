@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Persistent Star Citizen Breakdowns on PC Windows
-date: 2025-02-09T16:23:58.003Z
-updated: 2025-02-12T16:54:44.034Z
+date: 2025-02-24T08:22:11.654Z
+updated: 2025-03-02T18:29:21.369Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/SOLVED-Lunar-Client-keeps-crashing-on-PC-1200x336.jpg)
 
  Lunar Client is a modpack for many versions of Minecraft. Recently, we’ve seen many Minecraft players report that**Lunar Client keeps crashing on their PC** . If you’re experiencing the exact same issue, you’ve come to the right place. Whether it crashes on startup or crashes in the middle of the game, after reading this article, you should be able to resolve this problem on your own easily!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 3. Go to[the official Java website](https://java.com/en/download/) to download the latest version to your computer. Double-clcik the installation file and follow the instructions on the screen to install it on your PC.
 
  Launch Lunar Client and see if this fix works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -83,16 +75,8 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Run-appdata.png)
 3. **Double-click** on the**.minecraft** folder to open it. Then create a new folder and name it as_new launch directory_ (or whatever you like).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![lunar client new launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/lunar-client-new-launch-directory.jpg)
 4. In Lunar Client, go to**Settings** and click**Change Directory** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Change launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory.jpg)
 5. Select the new folder you created in step 3) and click**Select Folder** to set it to the launch directory.  
@@ -118,26 +102,14 @@ To perform a clean boot, just follow the steps below:
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
@@ -175,22 +147,22 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-firefoxs-pip-explained-a-users-handbook/"><u>[New] Firefox's PIP Explained A User's Handbook</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-a-treasure-trove-of-budget-friendly-digital-artistry-tools/"><u>[Updated] 2024 Approved A Treasure Trove of Budget-Friendly Digital Artistry Tools</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-from-content-creation-to-revenue-recognition-the-systematic-3-step-formula-for-youtube-income-examination-for-2024/"><u>[Updated] From Content Creation to Revenue Recognition The Systematic 3-Step Formula for YouTube Income Examination for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-complete-overview-regulating-snapchats-video-velocity/"><u>2024 Approved A Complete Overview Regulating Snapchat's Video Velocity</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-10-virtual-world-games-on-ios-and-android/"><u>2024 Approved Best 10 Virtual World Games on iOS & Android</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/add-a-snapshot-to-your-instagram-story/"><u>Add a Snapshot to Your Instagram Story</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/adobe-memefixer-a-humorous-journey/"><u>Adobe Memefixer A Humorous Journey</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-update-canon-printer-mx490-drivers-for-windows-pc/"><u>Download and Update Canon Printer MX490 Drivers for Windows PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/explore-the-spectrum-of-light-with-windows-hdr-video-capabilities/"><u>Explore the Spectrum of Light with Windows' HDR Video Capabilities</u></a></li>
-<li><a href="https://win-answers.techidaily.com/exploring-the-resilience-of-the-black-community-through-the-lens-of-eternal-return/"><u>Exploring the Resilience of the Black Community Through the Lens of 'Eternal Return'</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-acquire-version-6-of-windows-movie-maker/"><u>How to Acquire Version 6 of Windows Movie Maker</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-oneplus-open-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on OnePlus Open</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/misinformation-clear-gpt-win-clientfalse-claim/"><u>Misinformation Clear: GPT-Win Client—False Claim</u></a></li>
-<li><a href="https://fox-access.techidaily.com/morphvox-mastery-a-complete-voice-modification-companion-for-2024/"><u>MorphVOX Mastery A Complete Voice Modification Companion for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-advanced-settings-a-beginners-guide-to-google-photos/"><u>Navigating Advanced Settings A Beginner's Guide to Google Photos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/regular-maintenance-alert-setup-automatic-weekly-reboot-for-your-samsung-galaxy-device/"><u>Regular Maintenance Alert: Setup Automatic Weekly Reboot for Your Samsung Galaxy Device</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlocking-potential-in-spotifys-ad-ecosystem/"><u>Unlocking Potential in Spotify's Ad Ecosystem</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-chromebooks-premium-free-video-capture-extensions-for-2024/"><u>[New] Chromebook's Premium Free Video Capture Extensions for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-orchestrating-scene-sounds-with-imovie/"><u>[New] Orchestrating Scene Sounds with iMovie</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-air-vs-pro-with-m1-optimal-laptop-for-your-needs/"><u>[Updated] Air Vs. Pro with M1 Optimal Laptop for Your Needs?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-quit-quickly-leave-facebook-lives-on-pc-and-pads/"><u>[Updated] Quit Quickly Leave Facebook Lives on PC & Pads</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/close-up-filmmaking-zooming-into-details-for-2024/"><u>Close-Up Filmmaking Zooming Into Details for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/compact-guide-to-free-live-streaming-apps-on-mobile-devices-for-2024/"><u>Compact Guide to Free Live Streaming Apps on Mobile Devices for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-fix-in-depth-tutorial-on-resolving-intel-dynamic-platform-and-thermal-framework-driver-problems/"><u>Effortless Fix: In-Depth Tutorial on Resolving Intel Dynamic Platform & Thermal Framework Driver Problems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/grasping-the-glossary-of-virtual-worlds/"><u>Grasping the Glossary of Virtual Worlds</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-v30-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme V30 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comical-connections-top-websites-for-funny-phone-sounds/"><u>In 2024, Comical Connections Top Websites for Funny Phone Sounds</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-complementing-visuals-embedding-text-into-windowsmac-pictures/"><u>In 2024, Complementing Visuals Embedding Text Into Windows/Mac Pictures</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-tecno-spark-10-pro-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Tecno Spark 10 Pro Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/e-music-mayhem-selecting-distorted-apps/"><u>Mobile Music Mayhem Selecting Distorted Apps</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/pixel-slate-assessment-dissecting-the-chaos-of-chromeos/"><u>Pixel Slate Assessment: Dissecting the Chaos of ChromeOS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-artisans-path-mastery-of-background-removal-tools-in-photoshop/"><u>The Artisan's Path Mastery of Background Removal Tools in Photoshop</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-free-filmora-13-editor-download-for-windows-and-mac/"><u>Updated Free Filmora 13 Editor Download For Windows and Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/voice-over-text-made-easy-choosing-the-best-mac-translation-software/"><u>Voice Over Text Made Easy Choosing the Best Mac Translation Software</u></a></li>
 </ul></div>
 

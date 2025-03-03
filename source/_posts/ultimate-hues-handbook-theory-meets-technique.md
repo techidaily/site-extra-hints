@@ -1,7 +1,7 @@
 ---
 title: "\"Ultimate Hues Handbook  Theory Meets Technique\""
-date: 2025-02-06T16:39:18.008Z
-updated: 2025-02-12T16:25:51.078Z
+date: 2025-02-26T17:08:31.256Z
+updated: 2025-03-03T02:54:25.179Z
 tags: 
   - screen-recording
   - ai video
@@ -34,25 +34,13 @@ Using red, green and blue as primary colors we can mix the colors to one another
 
 ![colcor wheel](https://images.wondershare.com/filmora/article-images/2024/color-wheel.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 As you can see, we have every color available in this wheel and they are arranged in a unison with the mixed colors starting with red, green and blue and working towards each other.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Color Harmony
 
 So now we know how the wheel is made and what it looks like. What does it do? We can use this wheel now to gather our palette. Within color theory we talk about harmonious colors that work together in a pleasant way creating less stress on the eyes to find information in your scene.
 
 ![color harmony](https://images.wondershare.com/filmora/article-images/2022/08/color-harmony.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 One such harmony is complementary colors and luckily for us this is very easy to find. You take your base color and find the opposite color on the wheel. In this example the complementary color to blue is yellow depicted with a red line.
 
@@ -62,19 +50,11 @@ The blue lines represent what is known as split contrasting colors and these wil
 
 The corners of the black rectangle land on what is known as tetradic complement and allows you to add four colors with the understanding that they will complement each other perfectly. Lastly is the purple line which represents the analogous complementary colors, you can pick these neighboring colors with the peace of mind that they will harmonize with each other. There are many more but these four are the main ones that you will use more often than any other, by selecting colors using these four main types you can create a palette for your scenes and allow the viewer to effortlessly enjoy your content. These types work no matter where you start from on the wheel so long as you keep the distances the same.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## But How Do I Use This
 
 You may still be unsure as to how to implement color theory into your videos. Let's look at some scenarios that color theory may help your creations.
 
 ![apply color theory video](https://images.wondershare.com/filmora/article-images/2022/08/apply-color-theory-video.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 In this scene the director decided that the backdrop should complement the top the actor is wearing, looking at our wheel we can see the complementary color would be dark purple so they started with that, to create a more dynamic scene they then used the analogous colors of that purple being pink and red and created the backdrop. This creates a harmony within the scene and makes it effortless to see all the key elements straight away.
 
@@ -118,22 +98,22 @@ By including this into your thought process when creating videos with [Filmora](
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mastering-the-art-of-smooth-ipad-video-recording/"><u>[New] 2024 Approved Mastering the Art of Smooth iPad Video Recording</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-explore-the-world-of-frames-5-free-youtube-tips-for-you-for-2024/"><u>[New] Explore the World of Frames 5 Free YouTube Tips for You for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-choosing-excellence-a-buyers-guide-to-hdr-cameras/"><u>[Updated] Choosing Excellence A Buyer's Guide to HDR Cameras</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-orchestrating-scene-sounds-with-imovie/"><u>2024 Approved Orchestrating Scene Sounds with iMovie</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/double-delight-maximizing-the-use-of-netflixs-floating-window/"><u>Double Delight Maximizing the Use of Netflix's Floating Window</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/export-troubleshooting-saving-your-premieres-srt-data/"><u>Export Troubleshooting Saving Your Premiere's SRT Data</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/hearts-of-iron-4-crash-fix-steps-to-address-frequent-errors-effectively/"><u>Hearts of Iron 4 Crash Fix: Steps to Address Frequent Errors Effectively</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-ensure-periscope-videos-are-secured-post-record/"><u>How to Ensure Periscope Videos Are Secured Post-Record</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-codec-comparison-are-we-better-with-av1-or-vp9/"><u>In 2024, Codec Comparison Are We Better With AV1 or VP9?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-impeccable-inshot-segment-flows/"><u>In 2024, Crafting Impeccable Inshot Segment Flows</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-free-software-for-sound-changes-amplify-and-elevate-your-vocal-impact/"><u>In 2024, Free Software For Sound Changes - Amplify and Elevate Your Vocal Impact</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-perfecting-video-focus-videoleap-guide/"><u>In 2024, Perfecting Video Focus Videoleap Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavis-online-free-video-converter-ogv-to-mp4-instant-downloads-and-simple-usage-guide/"><u>Movavi's Online Free Video Converter OGV to MP4 – Instant Downloads and Simple Usage Guide</u></a></li>
-<li><a href="https://techidaily.com/overcoming-windows-update-hurdle-fixing-the-0x80070643-issue-efficiently/"><u>Overcoming Windows Update Hurdle: Fixing the 0X80070643 Issue Efficiently</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-essential-guide-to-transferring-tunes-across-platforms/"><u>The Essential Guide to Transferring Tunes Across Platforms</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-10-webcams-elevating-audio-quality-in-podcasts/"><u>Top 10 Webcams Elevating Audio Quality in Podcasts</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-master-list-of-speech-processing-software-with-top-8-selection-catering-to-desktop-pcs-macintosh-and-web-interface-usage/"><u>Updated 2024 Approved Master List of Speech Processing Software with Top 8 Selection, Catering to Desktop PCs, Macintosh and Web Interface Usage</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-become-the-star-of-your-match-unique-tinder-profile-ideas-to-try/"><u>[New] Become the Star of Your Match - Unique Tinder Profile Ideas to Try</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-expert-tips-for-drone-racing-enthusiasts-and-premium-fpv-units/"><u>[New] In 2024, Expert Tips for Drone Racing Enthusiasts & Premium FPV Units</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-mastering-capturing-with-camstudio-complete/"><u>[New] In 2024, Mastering Capturing with CamStudio Complete</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-undead-delight-the-best-zombie-games-reviewed/"><u>[Updated] 2024 Approved Undead Delight The Best Zombie Games Reviewed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-360-degree-cams-face-off-the-ultimate-test/"><u>[Updated] 360 Degree Cams Face-Off The Ultimate Test</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-pioneering-playgrounds-of-action-adventure-classics-top-10-for-2024/"><u>[Updated] Pioneering Playgrounds of Action-Adventure Classics (Top 10) for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/craft-professional-videos-with-free-intros/"><u>Craft Professional Videos with Free Intros</u></a></li>
+<li><a href="https://extra-information.techidaily.com/dive-into-zoom-meeting-basics/"><u>Dive Into Zoom Meeting Basics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expertise-in-technology-meet-kaley-torres-at-the-helm-of-digiarty-software/"><u>Expertise in Technology: Meet Kaley Torres at the Helm of Digiarty Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/getting-started-with-itunes-podcasts-on-ios-devices/"><u>Getting Started with iTunes Podcasts on iOS Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-codec-clash-determining-the-leader-in-video-quality/"><u>In 2024, Codec Clash Determining the Leader in Video Quality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-favorite-spotlight-equipment-17/"><u>In 2024, YouTube's Favorite Spotlight Equipment #17</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/memetic-mastery-the-finest-text-based-jesters-for-2024/"><u>Memetic Mastery The Finest Text-Based Jesters for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/synchronize-your-iphones-cinematic-moments/"><u>Synchronize Your iPhone's Cinematic Moments</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-iron-bank-of-erebor-online-resources-for-got-audio-calls/"><u>The Iron Bank of Erebor Online Resources for GoT Audio Calls</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/tricks-to-turn-off-youtube-videos-without-compromise/"><u>Tricks to Turn Off YouTube Videos Without Compromise</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Honor Magic V2 | Dr.fone</u></a></li>
 </ul></div>
 

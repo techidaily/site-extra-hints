@@ -1,7 +1,7 @@
 ---
 title: "Swift Windows Document Reviewing Techniques"
-date: 2025-02-10T16:46:12.812Z
-updated: 2025-02-12T16:07:13.074Z
+date: 2025-02-25T07:07:27.565Z
+updated: 2025-03-02T16:59:50.908Z
 tags: 
   - screen-recording
   - ai video
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/4bdb303f42b83bdabbc89bbaed552a530d9809337
 
 Windows operating system comes with an inbuilt file preview feature embedded in Explorer. This feature lets you preview documents and images before uploading them on apps like Skype, Facebook, and more. But what happens if you want to preview videos, audio, spreadsheets, ZIP, and more? In that case, install **QuickLook for Windows**. So, what exactly is **QuickLook for Windows 10,** and where can you get this app? For answers and more, read to the end.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Download Quick Look App on Microsoft Store
 
 If your computer is always handling documents, spreadsheets, PDFs, presentations, images, and other files, it’s probably time to install **QuickLook for Mac** and Windows. This intelligent program lets you quickly preview files without opening them on separate apps. Just think of it as the “file viewer” feature on Windows File Explorer, which allows you to view files before loading online or opening them on local apps. Of course, this can help you know which app can open the file and if it’s the correct file to open.
@@ -41,10 +37,6 @@ Step2 Once you find QuickLook, click “Get it” to download and install the ap
 Step3 After successfully installing QuickLook, head to File Explorer and select any file you want to preview. Press the “Space” bar on your keyboard to view the file.
 
 ![preview video on quicklook for windows](https://images.wondershare.com/filmora/article-images/2022/09/quicklook-for-windows-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Unfortunately, you won’t preview the content inside the document file. Instead, you’ll only see details like the file type/format, size, image name, and more. You can also directly choose the opening app. As for videos and audio, the media file will automatically play on the QuickLook media player. But don’t fret because the following section will teach you to read your documents, presentations, PDFs, and other files on QuickLook without opening the file.
 
@@ -70,10 +62,6 @@ Step4 After a successful installation, find the file you want to preview and sel
 
 **Pro tip**: We recommend installing the QuickLook OfficeViewer plugin to rip open your Office files and view the content inside. This method is recommended if you haven’t installed Microsoft Office on your PC. However, you might notice that the OfficeViewer plugin isn’t supported on your Windows PC. So to install OfficeViewer, select the file and click the space bar to preview it on QuickLook. Then, tap the “Click here to install this plugin” button. Now restart QuickLook and view all your office documents without opening them on their respective programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Should We Expect Built-in Quick Look on Windows in the Future?
 
 Mac users have enjoyed the powerful QuickLook capabilities for at least 15 years. But are we going to see QuickLook coming to Windows 10/11 anytime soon? According to sources, plans are already underway to add this feature to Microsoft Windows and rename it Peek. After selecting a file on Explorer, simply tap the Shift + Space bar to preview the content. Like the macOS version, you can preview PDFs, Excels, Words, images, videos, audio, and pretty much anything.
@@ -81,10 +69,6 @@ Mac users have enjoyed the powerful QuickLook capabilities for at least 15 years
 Meanwhile, it’s expected that QuickLook will come with a small preview screen. However, that should be enough space to preview whatever file you’re searching for. Also, it’s expected that Windows will embed the QuickLook capabilities into the Photos app. But it’s not yet clear if Peek will work with media files like videos and audio as it is on Mac.
 
 In other related news, Microsoft will be answering the prayers of their loyal patrons to get tabbed browsing. This is another feature similar to what you currently have on macOS, where you can open new tabs for numerous file locations. In return, this makes moving and copying files more straightforward. This easy-to-navigate addition will definitely make Microsoft Windows users more productive than before.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Frequently Asked Questions
 
@@ -99,10 +83,6 @@ Unfortunately, Microsoft QuickLook doesn’t offer native support for E-books. B
 #### 3\. Can QuickLook for Mac edit files?
 
 Now this is one of the primary advantages of using the Mac QuickLook. You can trim video and audio clips, rotate photos, and use markups directly on the program. We hope that the Windows version will add these convenient features as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -138,18 +118,22 @@ This guidepost is another testament that your PC has massive hidden abilities. W
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-secrets-to-successful-twitpicingvideos-included/"><u>[New] 2024 Approved Secrets to Successful Twitpicing—Videos Included</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-facebook-favoritism-at-your-fingertips-the-top-8-app-list/"><u>[Updated] 2024 Approved Facebook Favoritism at Your Fingertips The Top 8 App List</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-level-up-in-valorant-with-a-costless-cutting-edge-voice-modification-solution-for-2024/"><u>[Updated] Level Up in Valorant with a Costless, Cutting-Edge Voice Modification Solution for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-newbies-manual-to-vector-art-grasping-different-kinds-and-software/"><u>2024 Approved Newbie’s Manual to Vector Art Grasping Different Kinds & Software</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/detailed-steps-to-using-azure-speech-recognition/"><u>Detailed Steps to Using Azure Speech Recognition</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-adobe-illustrator-adding-smooth-motion-blurs/"><u>Mastering Adobe Illustrator Adding Smooth Motion Blurs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-google-pixel-8-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Google Pixel 8 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/pinnacle-of-video-quality-3-key-transcoder-strategies/"><u>Pinnacle of Video Quality 3 Key Transcoder Strategies</u></a></li>
-<li><a href="https://some-tips.techidaily.com/recalibrating-the-game-how-microsoft-is-tweaking-its-approach-to-consumers-insights-for-todays-digital-landscape-zdnet/"><u>Recalibrating the Game: How Microsoft Is Tweaking Its Approach to Consumers - Insights for Today's Digital Landscape | ZDNet</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/redefining-efficiency-the-latest-in-windows-10-tech/"><u>Redefining Efficiency The Latest in Windows 10 Tech</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/superior-webcams-revolutionizing-podcast-recording/"><u>Superior Webcams Revolutionizing Podcast Recording</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/transformed-terrain-continues-its-chill-version-update-now-resolved/"><u>Transformed Terrain Continues Its Chill: Version Update Now Resolved</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-above-and-beyond-the-ultimate-guide-to-mavic-pro/"><u>[New] Above and Beyond - The Ultimate Guide to Mavic Pro</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-action-camera-mics-top-tier-selection-unveiled/"><u>[New] Action Camera Mics Top-Tier Selection Unveiled</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-android-2024-premium-cloud-savers-guide/"><u>[Updated] Android 2024 Premium Cloud Savers Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pc-friendly-non-inshot-editing-software/"><u>[Updated] PC-Friendly Non-Inshot Editing Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/covert-creativity-easy-photo-fixes-for-starters/"><u>Covert Creativity Easy Photo Fixes for Starters</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-14ipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone 14/iPad? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/full-spectrum-visionary-eizos-cg318-4k-reviewed-and-revealed-for-2024/"><u>Full Spectrum Visionary EIZO's CG318-4K Reviewed and Revealed for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-huawei-p60-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-samsung-galaxy-s23-fe-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Samsung Galaxy S23 FE Location | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-6-social-sites-for-enterprise-communication/"><u>Leading 6 Social Sites for Enterprise Communication</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/lgs-virtual-frontier-a-comprehensive-vr-review/"><u>LG's Virtual Frontier A Comprehensive VR Review</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/osteoblastic-lesions-are-characterized-by-new-bone-formation-as-a-response-to-metastatic-tumors/"><u>Osteoblastic Lesions Are Characterized by New Bone Formation as a Response to Metastatic Tumors.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/redefining-mac-data-recovery-the-enhanced-stellar-edition/"><u>Redefining Mac Data Recovery - The Enhanced Stellar Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-pexels-image-arsenal-with-ease/"><u>Unlocking Pexels' Image Arsenal with Ease</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-xiaomi-redmi-note-12-pro-4g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Xiaomi Redmi Note 12 Pro 4G on Windows?</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/zoom-video-clarity-a-step-by-step-2024-camera-repair-guide/"><u>Zoom Video Clarity - A Step-by-Step 2024 Camera Repair Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Declutter Your Canvas  How To Delete Background in Figma\""
-date: 2024-07-22T13:59:19.677Z
-updated: 2024-07-23T13:59:19.677Z
+date: 2025-02-26T08:20:30.374Z
+updated: 2025-03-03T04:25:25.702Z
 tags: 
   - screen-recording
   - ai video
@@ -68,23 +68,14 @@ To get the APPkey, visit **"Wondershare PixCut,"** log in to your account using 
 
 Step3 Paste the Appkey in the pop-up window in Figma and click **"Save."** Now, click the **"Main Menu"** icon and navigate to **"Plugins" > "PixCut Background Remover" > "Run."**
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![running the pixcut plugin in figma](https://images.wondershare.com/filmora/article-images/2023/03/running-the-pixcut-plugin-in-figma.png)
 
 The program will start running the plugin, and the background of your image will disappear. Click the **"Export"** option and save your file on your system.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Other Options To Remove Image's Background In Figma
 
 Apart from using PixCut Plugin in Figma, there are some alternatives that you can use to remove the image's background in Figma:
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### (1) When Images Are With Transparent or Solid Colour Backgrounds
 
 Follow these tips to remove the background of images with transparent or solid color:
@@ -92,9 +83,6 @@ Follow these tips to remove the background of images with transparent or solid c
 * When saving your images from programs like Photoshop, make sure to save them with transparent background. This way, when you import it to Figma, the BG will be removed automatically.
 * If your image has a solid background, import it to Figma and use the **"Edit Color"** tool to change the BG to transparent.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### (2) 3 Other Figma Plugins
 
 You can use the following **Figma plugins to remove the image background**:
@@ -117,14 +105,6 @@ Step3 Select **"Find More Plugins"** and use the search option in the pop-up win
 
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### (3) Using Online Removers
 
 Another alternative is to use any tool that **removes the image background online**. For example, we recommend using the [Remove BG tool](https://www.remove.bg/).
@@ -135,9 +115,6 @@ To use the Remove BG tool, visit its website, drop your image file, or click the
 
 Hopefully, you have found an ideal solution by now. To help you remove the image's background in Figma with more ease, we have prepared a video for you. You can combine the video content with the guidance above:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 In this article, we've explored the step-by-step process of how to remove background in Figma using the PixCut plugin. We've also explained the reasons why you should use this tool.
@@ -156,28 +133,8 @@ Step2 **Right-click** on the image in the editor and click **"Plugins."**
 
 Step3 Select **"Find More Plugins"** and use the search option in the pop-up window to find the plugin you need.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![accessing the plugin installation page in figma](https://images.wondershare.com/filmora/article-images/2023/03/accessing-the-plugin-installation-page-in-figma.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### (3) Using Online Removers
 
 Another alternative is to use any tool that **removes the image background online**. For example, we recommend using the [Remove BG tool](https://www.remove.bg/).
@@ -218,7 +175,26 @@ Hopefully, this article helped resolve your queries, and you can now use the Fig
      data-full-width-responsive="true"></ins>
 
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-country-grooves-for-calmness-top-20-tiktok-anthems/"><u>[New] Country Grooves for Calmness Top 20 TikTok Anthems</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-see-your-subscribers-on-youtube/"><u>[New] In 2024, How to See Your Subscribers on YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-eternal-void-a-complete-ban-on-youtube-short-video-feature/"><u>[Updated] Eternal Void A Complete Ban on YouTube Short Video Feature</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-leading-10-customizable-tiktok-filters-for-personal-flair/"><u>[Updated] In 2024, Leading 10 Customizable TikTok Filters for Personal Flair</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-5-streamlined-online-convertors-for-gifs-to-video/"><u>2024 Approved Best 5 Streamlined Online Convertors for GIFs to Video</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-shot-without-a-lifeline-hand-balancing-hacks/"><u>2024 Approved The Shot Without a Lifeline Hand Balancing Hacks</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-realme-c51-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-compreenas-guide-to-leveraging-ps-background-erasure-for-professional-results/"><u>A Compreenas Guide to Leveraging PS Background Erasure for Professional Results</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comprehensive-review-of-non-google-augmented-reality-accessories-for-2024/"><u>Comprehensive Review of Non-Google Augmented Reality Accessories for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/digital-repository-open-source-game-tunes/"><u>Digital Repository Open Source Game Tunes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-level-techniques-in-video-spinning-and-joining-on-android/"><u>Expert-Level Techniques in Video Spinning and Joining on Android</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovations-in-podcasting-generating-custom-rss-files/"><u>Innovations in Podcasting Generating Custom RSS Files</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphone-and-android-edition-compile-the-most-useful-top-8-edits-tools-for-2024/"><u>IPhone and Android Edition Compile the Most Useful Top 8 Edits Tools for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-slow-motion-footage-gopro-hero-10-tips/"><u>Mastering Slow-Motion Footage GoPro Hero 10 Tips</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-the-tech-world-tips-and-reviews-from-toms-hardware-specialists/"><u>Navigating the Tech World: Tips & Reviews From Tom's Hardware Specialists</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95922549-9781912023684-pause-every-day/"><u>Pause Every Day | Free Book</u></a></li>
+<li><a href="https://extra-support.techidaily.com/simplify-tech-transitions-smartphone-vr-integration-guide-for-2024/"><u>Simplify Tech Transitions Smartphone-VR Integration Guide for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/solo-sounder-snafu-remedy-plan/"><u>Solo Sounder Snafu Remedy Plan</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-future-of-photo-shooting-smart-hdr-technology-insights/"><u>The Future of Photo Shooting Smart HDR Technology Insights</u></a></li>
+</ul></div>
 

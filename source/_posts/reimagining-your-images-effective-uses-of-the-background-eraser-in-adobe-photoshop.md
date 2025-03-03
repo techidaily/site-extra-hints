@@ -1,7 +1,7 @@
 ---
 title: "\"Reimagining Your Images  Effective Uses of the Background Eraser in Adobe Photoshop\""
-date: 2025-02-09T16:40:33.512Z
-updated: 2025-02-12T16:14:30.428Z
+date: 2025-03-01T17:56:39.789Z
+updated: 2025-03-02T16:01:08.536Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,6 @@ There are three main variations of eraser tools in Photoshop:
 
 Many people need clarification with Photoshop's Background Eraser and Magic Eraser tools. Therefore, we've discussed their similarities and dissimilarities. You can understand them better and so that you can prefer the one that suits your needs:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Similarities
 
 The following are the similarities between the Background Eraser and Magic Eraser Tools:
@@ -47,10 +43,6 @@ The following are the similarities between the Background Eraser and Magic Erase
 **Erase Pixels Based On Colors:** The Background Eraser tool and Magic Eraser tool can erase pixels based on their color. This means you can select a color, and the tool will erase all the related pixels.
 
 **Destructive Tools:** Both the Background Eraser and Magic Eraser are destructive tools in nature. They delete the pixels you erase. Therefore, you cannot undo or redo your changes once you've used either of these tools. However, there are some non-native workarounds to restore your images.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Dissimilarities
 
@@ -100,10 +92,6 @@ The Limit function comes with three options:
 
 ![limits function in background eraser tool](https://images.wondershare.com/filmora/article-images/2023/03/limits-function-in-background-eraser-tool.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Tolerance
 
 Located directly to the right of the Limits function, Tolerance is one of the most important options in Background Eraser, as it signifies how much a pixel's shade can vary from the sampled color for Photoshop to erase it.
@@ -118,10 +106,6 @@ If, however, the background color is fringing around the subject, use a higher T
 
 The Brush Angle option can help you adjust the angle of your crosshair to quickly erase the pixels in difficult-to-reach areas in your image's background. You can also hit the **"R"** key on your keyboard to rotate the canvas.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Protect Foreground Color
 
 Sometimes, Photoshop erases parts of your subject while removing the background, no matter what Tolerance value you use. To avoid this, the Protected Foreground Color option in the Options bar can come in handy.
@@ -131,10 +115,6 @@ This option allows you to choose a color from your subject as a foreground color
 ### 7\. Pen Pressure
 
 Pen Pressure is helpful if you use a drawing tablet instead of a mouse. With this option selected, the crosshair opacity will be regulated based on the pressure applied with your pen on the tablet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How To Use Background Eraser Tool To Erase An Image Background?
 
@@ -158,10 +138,6 @@ Step4 If your image background and subject are of the same color and **Photoshop
 
 ![setting the tolerance value in background eraser tool](https://images.wondershare.com/filmora/article-images/2023/03/setting-the-tolerance-value-in-background-eraser-tool.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step5 When removing pixels from a background, you can preserve specific pixel colors from being removed, which can be helpful if they are close to the area you want to erase.
 
 For this, place the cursor on the color you want to keep and press & hold the **ALT** (Windows) or the **Option** key (Mac) until the brush changes to the Eyedropper Tool icon. Then, click the area to sample the color in the **Foreground Swatch.**
@@ -182,10 +158,6 @@ After importing the image, when we check the **"Layers"** panel, we can see that
 
 ![checking the image layer in the layers panel](https://images.wondershare.com/filmora/article-images/2023/03/checking-the-image-layer-in-the-layers-panel.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 When we select the Background Erase tool, the cursor changes to a brush that helps Photoshop to sample the colors that come under the **crosshair (Plus)** in the center of the circle. The circle around the crosshair shows the area where the software will erase the pixels (only the pixels with the same color or shades).
 
 Now, to remove the pink stripes, we'll move the brush to that part, and when clicked, the area under the circle will be erased. Notice that even if the circle moves to the blue area, it remains untouched because those pixels are not the same shade/color.
@@ -194,10 +166,6 @@ Therefore, as long as we keep the crosshair within the pink area, Photoshop will
 
 ![checking the working process of photo shop](https://images.wondershare.com/filmora/article-images/2023/03/checking-the-working-process-of-photo-shop.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 However, if we accidentally erase the blue stripes, we can always go back by simply pressing the **"CTRL+Z"** in Windows and **"Command+Z"** in Mac. To undo multiple steps, hit the **"Ctrl+Alt+Z" (Windows)** or **Command+Option+Z" (Mac)** keys repeatedly.
 
 ## Common FAQs When Using Background Esarser Tool in Photoshop
@@ -205,10 +173,6 @@ However, if we accidentally erase the blue stripes, we can always go back by sim
 ### 1\. Why Is Photoshop Eraser Tool Not Accessible?
 
 If your Photoshop Eraser Tool is not accessible, make sure you have no active selection and that you are working on the active layer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. I Am Unable To Locate The Background Eraser Tool In Photoshop. Where Is It?
 
@@ -266,17 +230,24 @@ Hopefully, you can use the tools in Phoshop with ease and remove images' backgro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-alter-twitter-video-headline-image/"><u>[New] In 2024, Alter Twitter Video Headline Image</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-complete-insight-a-detailed-walkthrough-of-facetune-app/"><u>[Updated] Complete Insight A Detailed Walkthrough of Facetune App</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-thinkers-arena-premier-gk-quiz-vids/"><u>[Updated] Thinkers’ Arena Premier GK Quiz Vids</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-maze-of-massive-content-movement-from-iphones-to-mac/"><u>2024 Approved Navigating the Maze of Massive Content Movement From iPhones to Mac</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/box-it-up-the-top-10-online-houses-for-customized-gift-boxes/"><u>Box It Up! The Top 10 Online Houses for Customized Gift Boxes</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-closer-look-at-sonys-s6700-enhancements/"><u>In 2024, A Closer Look at Sony's S6700 Enhancements</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-accelerate-your-sluggish-vids-to-speedy-shots-on-android/"><u>In 2024, Accelerate Your Sluggish Vids to Speedy Shots on Android</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-exploring-10-innovative-affordable-video-call-apps-iosandroid/"><u>In 2024, Exploring 10 Innovative, Affordable Video Call Apps - iOS/Android</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-step-by-step-photo-addition-to-instagram/"><u>In 2024, Step-by-Step Photo Addition to Instagram</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/masterful-14-textual-movement-illustrations/"><u>Masterful 14 Textual Movement Illustrations</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/psp-dvd/"><u>PSPディスクレスプレイ - DVD動画再生ガイド</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/solutions-to-stop-blank-spots-in-obs-media/"><u>Solutions to Stop Blank Spots in OBS Media</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-amazon-prime-hits-twitters-trendiest-watchers-and-lovers-for-2024/"><u>[New] Amazon Prime Hits Twitter's Trendiest Watchers & Lovers for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-capturing-more-with-less-lgs-360-camera-redefined-and-reviewed/"><u>[New] Capturing More with Less - LG's 360 Camera Redefined & Reviewed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-legal-ways-to-boost-your-video-watch-count-responsibly/"><u>[New] Legal Ways to Boost Your Video Watch Count Responsibly</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-ultimate-intro-video-guide-for-iphone-and-android-users/"><u>[Updated] 2024 Approved The Ultimate Intro Video Guide for iPhone and Android Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-proven-methods-for-high-quality-webinars/"><u>2024 Approved Proven Methods for High-Quality Webinars</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/blending-youtube-audio-features-into-video-projects-for-2024/"><u>Blending YouTube Audio Features Into Video Projects for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-head-mounted-display-creators/"><u>Elite Head-Mounted Display Creators</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-sites-for-free-snapchat-tones/"><u>Essential Sites for Free Snapchat Tones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ethereal-time-extended-recording/"><u>Ethereal Time-Extended Recording</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/excellent-streamers-guide-to-360-degree-live-footage/"><u>Excellent Streamers' Guide to 360-Degree Live Footage</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fine-details-focused-discussions-zoom-tips-for-teams-for-2024/"><u>Fine Details, Focused Discussions Zoom Tips for Teams for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-live-cricket-watch-tactics-unveiled/"><u>In 2024, Best Live Cricket Watch Tactics Unveiled</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovate-in-note-taking-with-mematic-platform/"><u>Innovate in Note-Taking with Mematic Platform</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-m6-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco M6 5G Phone FRP Lock</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-culinary-cinematography-essential-food-film-techniques/"><u>Mastering Culinary Cinematography Essential Food Film Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/revolutionizing-portable-tech-explore-the-cutting-edge-features-of-amazons-revamped-fire-hd-8-tablet-now-with-wireless-charging-capabilities/"><u>Revolutionizing Portable Tech - Explore the Cutting-Edge Features of Amazon's Revamped Fire HD 8 Tablet, Now with Wireless Charging Capabilities!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/thrustmaster-t300-driver-software-free-download-and-installation-guide-for-windows-1110-users/"><u>ThrustMaster T300 Driver Software - Free Download & Installation Guide for Windows 11/10 Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-accessories-to-upgrade-and-improve-your-phantom-4/"><u>Top Accessories to Upgrade and Improve Your Phantom 4</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unleashing-creativity-time-lapse-on-samsung/"><u>Unleashing Creativity Time-Lapse on Samsung</u></a></li>
 </ul></div>
 

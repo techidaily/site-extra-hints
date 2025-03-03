@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Mac's Preview  A Comprehensive Tutorial\""
-date: 2025-02-09T16:09:03.755Z
-updated: 2025-02-12T16:55:23.673Z
+date: 2025-02-25T03:36:48.617Z
+updated: 2025-03-03T09:38:48.555Z
 tags: 
   - screen-recording
   - ai video
@@ -36,10 +36,6 @@ Being the default image editor for Mac, Apple tried to make the **Preview app** 
 
 The instructions given in the following sections explain how to edit pictures with the **Preview app for Mac**:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to View and Edit Photos in Preview on Mac
 
 As mentioned earlier, the **Preview app** is a default photo viewer on Mac that also has many editing tools. Therefore:
@@ -67,10 +63,6 @@ Click the **Show Markup Toolbar** icon present at the upper-right area to reveal
 Click the **Hide Markup Tools** icon from the upper-right area to hide **Markup Toolbar**.
 
 **Note:** Throughout this demonstration, the **Markup Toolbar** is kept visible to access the editing tools easily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Crop in Preview
 
@@ -100,10 +92,6 @@ Use the method explained above to open the photo in Preview.
 
 Click the **Rotate Left** icon from the upper-right area of the standard toolbar to rotate the image anticlockwise. Alternatively, you can also click **Tools** from the top, and choose your preferred rotation direction or flipping orientation from the menu that comes down next.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to Add Text to Image in Preview
 
 The **Preview app** even lets you annotate the images with ease. To add text to a photo:
@@ -119,10 +107,6 @@ Click inside the frame, delete the existing placeholder text, and type a new cap
 **Step 3: Format the Text**
 
 Select the text, click the **Text Style** icon from the **Markup Toolbar**, and change font, size, color, etc. using the available options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to Remove Background in Preview
 
@@ -167,10 +151,6 @@ After opening an image, click **File** from the menu bar at the top, and click *
 **Step 2: Choose Output Format and Export**
 
 Choose a destination folder in the **Where** field, select your preferred format from the **Format** drop-down list, and click **Save** to convert the image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 2: FAQs About Preview App on Mac
 
@@ -221,19 +201,17 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-artisans-nexus-reports-in-depth-studio-scrutiny-2023-edition/"><u>[New] Artisan's Nexus Reports In-Depth Studio Scrutiny, 2023 Edition</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-identifying-the-best-on-the-market-for-hdr-photography/"><u>[New] Identifying the Best on the Market for HDR Photography</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-buyers-path-to-a-top-360-camera-purchase-guide/"><u>[Updated] Buyer's Path to a Top 360 Camera Purchase Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-dial-in-to-youtube-chat-no-huge-follower-requirement-for-2024/"><u>[Updated] Dial in to YouTube Chat, No Huge Follower Requirement for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-stealthy-strategies-for-anonymous-instagram-broadcasts/"><u>[Updated] In 2024, Stealthy Strategies for Anonymous Instagram Broadcasts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-phantom-camera-pause-tips/"><u>[Updated] Phantom Camera Pause Tips</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-12-signs-endless-stories-create-your-whatsapp-bio-narrative/"><u>2024 Approved 12 Signs, Endless Stories - Create Your WhatsApp Bio Narrative</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-2020s-windows-updates-a-quick-overview/"><u>2024 Approved 2020'S Windows Updates A Quick Overview</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-blueprint-for-seamless-integration-of-instagram-and-tiktok/"><u>2024 Approved Blueprint for Seamless Integration of Instagram and TikTok</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/chuckle-constructor-app/"><u>Chuckle Constructor App</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-google-pixel-8-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Google Pixel 8.</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-amplify-your-iphones-sound-with-top-rated-podcasts/"><u>In 2024, Amplify Your iPhone's Sound with Top-Rated Podcasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-highest-quality-gag-editor/"><u>In 2024, Highest Quality Gag Editor</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-hidden-pitfalls-of-ai-6-essential-factors-demanding-your-attention/"><u>The Hidden Pitfalls of AI: 6 Essential Factors Demanding Your Attention</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-rapid-rendering-sounds-with-visuals/"><u>[New] In 2024, Rapid Rendering Sounds with Visuals</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-leading-the-pack-2023s-8-facebook-movie-downloads-for-2024/"><u>[New] Leading the Pack 2023'S #8 Facebook Movie Downloads for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-action-cameras-on-wheels-top-5-picks-for-23-riders/"><u>[Updated] Best Action Cameras on Wheels – Top 5 Picks for '23 Riders</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-superior-animation-suites-top-3d-modelers/"><u>2024 Approved Superior Animation Suites Top 3D Modelers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/affordable-laptop-ventilation-for-your-device-check-out-the-topmate-c3amator-review/"><u>Affordable Laptop Ventilation for Your Device? Check Out the TopMate C3amator Review!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enabling-dynamic-hdr-in-windows-11-os/"><u>Enabling Dynamic HDR in Windows 11 OS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-guide-integrating-virtual-backgrounds-for-webcasters/"><u>Essential Guide Integrating Virtual Backgrounds for Webcasters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-anonymous-to-iconic-solo-podcast-blueprint-for-fame/"><u>From Anonymous to Iconic Solo Podcast Blueprint for Fame</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/simplicity-in-capturing-your-lenovo-pics-for-2024/"><u>Simplicity in Capturing Your Lenovo Pics for 2024</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-samsung-galaxy-s23plus-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Samsung Galaxy S23+</u></a></li>
+<li><a href="https://windows11.techidaily.com/take-charge-of-your-workspace-filter-and-theme-mastery-in-the-windows-11-task-manager/"><u>Take Charge of Your Workspace: Filter and Theme Mastery in the Windows 11 Task Manager</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-ringtone-choices-essential-downloads-guide/"><u>Top Ringtone Choices Essential Downloads Guide</u></a></li>
 </ul></div>
 

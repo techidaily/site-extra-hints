@@ -1,7 +1,7 @@
 ---
 title: "Free LUT Strategies for Enhancing AR Experiences"
-date: 2025-02-07T17:07:28.597Z
-updated: 2025-02-12T16:54:49.542Z
+date: 2025-02-27T06:10:20.745Z
+updated: 2025-03-03T08:44:52.772Z
 tags: 
   - screen-recording
   - ai video
@@ -27,10 +27,6 @@ To create a color filter effect in [Spark AR](https://sparkar.facebook.com/ar-st
 To develop AR effects for mobile cameras, you can use the Mac and Windows augmented reality platform Spark AR Studio. Imagine it like Sketch or Photoshop for augmented reality. The color values of the camera texture are mapped to the x, y, and z coordinates of the location in the color LUT. This location contains a corresponding output color that is drawn over the scene to create a color gradient effect.
 
 ![create a color gradient effect](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. How to use LUTs in Spark AR?
 
@@ -58,10 +54,6 @@ The patch graph that renders the color gradation effect looks like this:
 
 ![color lut patch graph](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **To create the effect:**
 
 * Fix Scene Render Pass renders cameraTexture0 and all objects in the scene that are children of the device. This creates the output texture.
@@ -71,10 +63,6 @@ The patch graph that renders the color gradation effect looks like this:
 ## Part 3\. Free LUTs resource for Spark AR
 
 Here are the best free LUTs resources for Spark AR:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. [Frost Zombie (Technical Showcase)](https://we.tl/t-1uj4wJKluG)
 
@@ -101,33 +89,17 @@ Even while using large image sequences is frequently discouraged, you can still 
 
 ![shockwave](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Transition Curves
 
 There are 11 distinct animation curves included with Spark AR in the Transition patch. Here is a helpful visual aid because it might be challenging to distinguish between a quartic and a quintic when working on a project. With the SDF circle doubled (to sharpen the edge) and inserted into the Patch Pack's alpha channel, the circles are likewise straightforward rectangles. Since RGB values are three times one, the object is white.
 
 ![transition curves](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Realistic Smoke
 
 By adding smoke to a scene, you can easily add a lot of detail and realism. Nothing revolutionary is happening here. The particle emitter creates flat planes of smoke texture that are forced upward. The force slowly shifts left and right as seen in the patch editor. The Fade particle script (created by Josh Beckwith) enlarges the particles and fades them out at the same time.
 
 ![realistic smoke](https://images.wondershare.com/filmora/article-images/2022/08/how-to-use-luts-in-spark-ar-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Rainbow Glitter
 
@@ -169,18 +141,17 @@ Spark AR is an amazing website for LUTs and color grading. Whether you're a new 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-chorus-to-beginnings-10-musical-journeys-for-podcast-intros/"><u>[New] Chorus to Beginnings 10 Musical Journeys for Podcast Intros</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-breaking-down-instagrams-per-video-ceiling/"><u>[Updated] Breaking Down Instagram's Per-Video Ceiling</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-usb-c-vision-the-new-standard-in-monitors-hp-envy-27/"><u>[Updated] USB-C Vision The New Standard in Monitors - HP Envy 27</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-precision-in-performance-utilizing-social-blade-for-youtube-data/"><u>2024 Approved Precision in Performance Utilizing Social Blade for YouTube Data</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mkv-macx-mkv-mac/"><u>無償でMKV形式の動画変換: MacX MKVコンバータ - Macユーザー向けフリーソフト</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/age-old-artwork-free-from-modern-constraints-for-2024/"><u>Age-Old Artwork Free From Modern Constraints for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/blurry-or-crisp-master-partial-blurring-on-devices-for-2024/"><u>Blurry or Crisp? Master Partial Blurring on Devices for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/chime-chronicles-mastering-the-art-of-tamil-ringtones/"><u>Chime Chronicles Mastering the Art of Tamil Ringtones</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://fox-place.techidaily.com/risolvi-il-guasto-come-riavere-indietro-tutti-i-tuoi-dati-eliminati-dallhard-disk-senza-costi/"><u>Risolvi Il Guasto! Come Riavere Indietro Tutti I Tuoi Dati Eliminati Dall'Hard Disk Senza Costi!</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-ultimate-guide-to-inshot-on-pcs-and-laptops-for-2024/"><u>The Ultimate Guide to Inshot on PCs and Laptops for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/turning-videos-backward-iphone-methods/"><u>Turning Videos Backward IPhone Methods</u></a></li>
-<li><a href="https://fox-that.techidaily.com/uncover-the-signs-of-being-blocked-on-imessage-a-comprehensive-guide/"><u>Uncover the Signs of Being Blocked on iMessage - A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-easy-screen-capture-in-vlc-player/"><u>[New] Easy Screen Capture in VLC Player</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-rapid-revamp-of-images-navigating-the-photos-editor-in-win10/"><u>[Updated] Rapid Revamp of Images Navigating the Photos Editor in WIN10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/efficient-backdrop-removal-methods-in-figma-design/"><u>Efficient Backdrop Removal Methods in Figma Design</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-5-exceptional-4k-gaming-screens/"><u>In 2024, 5 Exceptional 4K Gaming Screens</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-auditory-artistry-in-storytelling/"><u>In 2024, Auditory Artistry in Storytelling</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-chromatic-creativity-techniques-for-film-colorists/"><u>In 2024, Chromatic Creativity Techniques for Film Colorists</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-analysis-dji-inspire-1-unveiled/"><u>In 2024, Comprehensive Analysis DJI Inspire 1 Unveiled</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimizing-performance-by-customizing-drivers-on-windows-881/"><u>Optimizing Performance by Customizing Drivers on Windows 8/8.1</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/optimizing-your-obs-setup-for-zero-latency-expert-advice-on-dealing-with-stream-and-record-delays/"><u>Optimizing Your OBS Setup for Zero Latency: Expert Advice on Dealing with Stream & Record Delays</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-vivo-v29e-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Vivo V29e Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/witness-your-pets-world-with-petcubes-economical-hd-device/"><u>Witness Your Pet's World with Petcube’s Economical HD Device</u></a></li>
 </ul></div>
 

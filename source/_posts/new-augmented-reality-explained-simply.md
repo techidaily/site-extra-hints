@@ -1,7 +1,7 @@
 ---
 title: "[New] Augmented Reality Explained Simply"
-date: 2025-02-05T17:10:18.897Z
-updated: 2025-02-12T16:43:39.088Z
+date: 2025-03-02T10:48:12.690Z
+updated: 2025-03-03T10:55:20.137Z
 tags: 
   - screen-recording
   - ai video
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Definition of AR
 
  Augmented Reality (AR) is the application of technology to superimpose information on digitally rendered images into real world environments to give a sense of virtual reality or create an illusion. For example, images and sounds are superimposed over what users see and hear.
@@ -38,19 +34,11 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 
  The presentation of augmented reality is in some form of futuristic technology, despite the fact that it has been around for many years. For example, the heads-up display in many fighter jets utilizes the principles of augmented reality, and these date back to the early 1990s when they were used to show information about altitude, speed and direction of the aircraft.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How does Augmented Reality work
 
  The kind of augmented reality you are likely to experience these days utilizes a range of sensors such as cameras and computer components as well as display devices in creating the illusion of virtual objects in the real world. Some of the smartphones in the market today have all the necessary components needed in the creation of augmented reality hence they are commonly used for most of AR experiences. The basic working of augmented reality is as follows-:
 
  In general, the device will search for a particular object, which can be anything, but in most cases, they are usually 2D images like in the form of a movie poster. The augmented reality application will recognize the target through the camera and it will then process the image and augment it in some form through the utilization of sound and pictures. For example, if the target object was a movie poster, you may see it spring into life to play a trailer of the movie. So long as you continue viewing the poster through the “window” of the display object, you will see augmented reality rather than the plain old normal poster in normal reality.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The future of Augmented Reality
 
@@ -59,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
  There is also ongoing research on AR for contact lenses and other wearable devices. The chief aim of augmented reality is to avail natural and convenient immersions and this practically means that the current mobile devices used for AR will be replaced, though it is still not known what exactly will replace them.
 
  Like with every new technology, augmented reality comes with a plethora or ethical and political issues. For example, the Google Glass came along with a lot of privacy concerns, with some people worried that pictures may be snapped or conversations may be recorded surreptitiously. But amidst all these concerns, AR technology is expected to gather more steam in the near future and it will be a part of life for the majority.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Applications of Augmented Reality
 
@@ -98,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/benjamin-arango-author.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Benjamin Arango
 
 Benjamin Arango is a writer and a lover of all things video.
@@ -117,22 +97,16 @@ Follow @Benjamin Arango
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-beyond-traditional-viewing-vr-movies-alteration/"><u>[New] Beyond Traditional Viewing VR Movies Alteration</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-chuckling-chambers-humor-for-special-days/"><u>[New] Chuckling Chambers Humor for Special Days</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-preserve-tweets-as-visual-delights-with-iosandroid-steps/"><u>[New] In 2024, Preserve Tweets as Visual Delights with iOS/Android Steps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-top-5-best-monitors-for-ps5/"><u>[Updated] 2024 Approved Top 5 Best Monitors for Ps5</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-xiaomi-11-series-brings-cinema-quality-into-mobile-devices/"><u>[Updated] 2024 Approved Xiaomi 11 Series Brings Cinema Quality Into Mobile Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-artistic-modifications-pic-editing-masterclass/"><u>2024 Approved Artistic Modifications Pic Editing Masterclass</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-blades-vivid-palette-now-in-stunning-4k-clarity/"><u>2024 Approved Blade's Vivid Palette, Now in Stunning 4K Clarity</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Motorola Edge 2023? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/periscope-review/"><u>Periscope Review</u></a></li>
-<li><a href="https://driver-install.techidaily.com/qualcomms-wireless-solutions-reinstallation-steps/"><u>Qualcomm's Wireless Solutions: Reinstallation Steps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/startup-strategies-for-making-money-on-periscope/"><u>Startup Strategies for Making Money on Periscope</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-halo-infinite-from-crashing-on-windows-discover-these-7-quick-and-effective-troubleshooting-steps/"><u>Stop Halo Infinite From Crashing on Windows: Discover These 7 Quick & Effective Troubleshooting Steps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/streamline-your-videos-with-these-10-editors/"><u>Streamline Your Videos with These 10 Editors</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-list-best-video-editing-apps-for-vloggers-ios-and-android/"><u>The Ultimate List Best Video Editing Apps for Vloggers (iOS & Android)</u></a></li>
-<li><a href="https://win-info.techidaily.com/top-rangige-gratis-pc-cloud-backup-losungen-ihre-optimale-auswahl/"><u>Top-Rangige Gratis PC-Cloud-Backup-Lösungen: Ihre Optimale Auswahl</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/troubleshooting-common-issues-why-your-graphics-card-may-cease-to-work-yl-technology-advice/"><u>Troubleshooting Common Issues: Why Your Graphics Card May Cease to Work - YL Technology Advice</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/virtual-reality-and-panoramic-videos-key-distinctions/"><u>Virtual Reality & Panoramic Videos Key Distinctions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-dji-drone-limited-use-color-filters-complimentary/"><u>[New] 2024 Approved DJI Drone Limited-Use Color Filters – Complimentary</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-audio-exploration-the-comprehensible-review-of-pazera/"><u>[Updated] Audio Exploration The Comprehensible Review of Pazera</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-boosting-photo-editing-skills-essential-pixlr-techniques/"><u>[Updated] Boosting Photo Editing Skills Essential Pixlr Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mobile-mastery-secure-your-favorite-igtv-content-easily/"><u>[Updated] In 2024, Mobile Mastery Secure Your Favorite IGTV Content Easily</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-basic-understanding-of-digital-lore-making/"><u>2024 Approved Basic Understanding of Digital Lore Making</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beating-the-heat-substitutes-for-xsplit/"><u>Beating the Heat Substitutes for XSplit</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/boosting-views-a-guide-for-tiktok-unboxing-gurus-for-2024/"><u>Boosting Views A Guide for TikTok Unboxing Gurus for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-transform-your-snapchat-soundtrack-easy-changes-in-just-two-steps/"><u>In 2024, Transform Your Snapchat Soundtrack Easy Changes in Just Two Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovators-choice-top-5-state-of-the-art-slow-cams/"><u>Innovators' Choice Top 5 State-of-the-Art Slow Cams</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/revolutionizing-desktop-capturing-a-look-at-springs-features/"><u>Revolutionizing Desktop Capturing A Look at Spring's Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-upgrading-your-playstation-5-with-solid-state-drive/"><u>Step-by-Step Guide: Upgrading Your PlayStation 5 with Solid State Drive</u></a></li>
 </ul></div>
 

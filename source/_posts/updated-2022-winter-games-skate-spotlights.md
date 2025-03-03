@@ -1,7 +1,7 @@
 ---
 title: "[Updated] 2022 Winter Games Skate Spotlights"
-date: 2025-01-30T03:44:23.906Z
-updated: 2025-01-30T23:30:24.397Z
+date: 2025-02-26T01:01:35.096Z
+updated: 2025-03-02T18:29:25.205Z
 tags: 
   - screen-recording
   - ai video
@@ -34,10 +34,6 @@ Nathan Chen of the United States reacts to winning the gold medal at the 2022 Be
 
 ![nathan chen skating gold medal](https://images.wondershare.com/filmora/article-images/nathan-chen-skating-gold-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United States. He receives a combined score of 310.05 points and wins the silver medal at the 2022 Beijing Winter Olympics.
 
 ![yuma kagiyama](https://images.wondershare.com/filmora/article-images/yuma-kagiyama.jpg)
@@ -45,10 +41,6 @@ Yuma Kagiyama of Japan reacts to become second to Nathan Chen of the United Stat
 Shoma Uno of Japan won the bronze medal with a combined score of 293 points and he has become the second Japanese to win a medal at the 2022 Beijing Winter Olympics.
 
 ![shoma uno](https://images.wondershare.com/filmora/article-images/shoma-uno.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Nathan Chen successful triumph has been four years in the making and it is a perfect combination of seven perfect skating minutes. Back at 2018 Olympics, he botched and ended with disappointment. Therefore, Olympics Games Beijing2022 has been redemption for America's best male skater.
 
@@ -58,23 +50,11 @@ Even though Nathan Chen finished first for men's short program of the team event
 
 ![russian olympic committee athletes](https://images.wondershare.com/filmora/article-images/russian-olympic-committee-athletes.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Russian Olympic Committee athletes won the gold medal at team event by a margin of 9 points with the combined score of 74\. United States won the silver medal with a combined score of 65 points.
 
 ![japan won the bronze medal](https://images.wondershare.com/filmora/article-images/japan-won-the-bronze-medal.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Japan won the bronze medal with 63 points falling short by 2 points 2 behind the United States. The figure skating competition is held at the Capital Indoor Stadium in Beijing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. Create a Video for Showing the Highlights of Figure Skating
 
@@ -121,24 +101,20 @@ Figure skating is undoubtedly one of the most followed sport events in the Winte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-androidios-video-cutting-edge-8-top-montage-tools-revealed/"><u>[New] Android/iOS Video Cutting-Edge 8 Top Montage Tools Revealed</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-calm-tales-on-screen-analyzing-parent-child-bedtime-videos/"><u>[New] Calm Tales on Screen Analyzing Parent-Child Bedtime Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-from-zero-to-hero-on-instagram-6-strategies-that-lead-to-verified-status/"><u>[New] From Zero to Hero on Instagram 6 Strategies That Lead to Verified Status</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-coders-showdown-which-codec-will-dominate-video-quality/"><u>[Updated] Coders' Showdown Which Codec Will Dominate Video Quality?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-ensemble-dynamics-crafting-collaborative-content-for-musicians/"><u>[Updated] In 2024, Ensemble Dynamics Crafting Collaborative Content for Musicians</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-how-to-record-tv-shows-on-windows-pc-with-free-video-recording-software/"><u>[Updated] In 2024, How to Record TV Shows on Windows PC with Free Video Recording Software?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-apples-m1-milestone-the-next-gen-computing-core/"><u>2024 Approved Apple’s M1 Milestone The Next-Gen Computing Core</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/brightness-and-hd-in-harmony-a-fit-for-hdr-for-2024/"><u>Brightness and HD in Harmony A Fit for HDR for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor 90 Lite? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-tecno-spark-10-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Tecno Spark 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-c300-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia C300 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/lava-storm-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Lava Storm 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/lightroom-for-android-unveiled-detailed-assessment/"><u>Lightroom for Android Unveiled Detailed Assessment</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/nokia-g22-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia G22 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/snapshot-to-sequence-live-photo-to-video-journey/"><u>Snapshot to Sequence Live Photo to Video Journey</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/sunny-side-up-videography-for-android/"><u>Sunny Side-Up Videography for Android</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transforming-messages-into-memorable-video-experienits/"><u>Transforming Messages Into Memorable Video Experienits</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/troubleshooting-steps-for-the-non-functioning-exodus-kodi-add-on-latest-july-fixes/"><u>Troubleshooting Steps for the Non-Functioning Exodus Kodi Add-On - Latest July Fixes</u></a></li>
-<li><a href="https://blog-min.techidaily.com/youtube-musicmp3/"><u>Youtube Music音楽MP3ファイルに変換するパソコンユーザー向けレシピ</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-a-beginners-guide-to-making-attractive-video-thumbnails-for-social-media-platforms/"><u>[New] 2024 Approved A Beginner's Guide to Making Attractive Video Thumbnails for Social Media Platforms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channel-success-story-turning-budget-into-brands/"><u>[New] 2024 Approved Channel Success Story Turning Budget Into Brands</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ultimate-guide-ten-most-affordable-screen-capture-software/"><u>[New] 2024 Approved Ultimate Guide Ten Most Affordable Screen Capture Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-advanced-tips-for-professionally-changing-image-hues/"><u>[New] Advanced Tips for Professionally Changing Image Hues</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-insta-explosion-supercharge-with-content-likes-and-videos/"><u>[New] Insta Explosion Supercharge with Content, Likes & Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-premier-5-web-titlers-shaping-industry-norms/"><u>[Updated] Unveiling the Premier 5 Web Titlers Shaping Industry Norms</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-secrets-to-stunning-fisheye-sphere-photography/"><u>2024 Approved Secrets to Stunning Fisheye Sphere Photography</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capturing-moments-like-never-before-with-sj-cam-s6/"><u>Capturing Moments Like Never Before with SJ-CAM S6</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-visionary-exploring-top-visual-computation-techniques/"><u>ChatGPT Visionary: Exploring Top Visual Computation Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/compelling-beginnings-scriptwriting-tips-for-intros-for-2024/"><u>Compelling Beginnings Scriptwriting Tips for Intros for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/excellent-unrestricted-pubg-visual-sequences/"><u>Excellent Unrestricted PUBG Visual Sequences</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-file-compression-techniques-for-disk-optimization/"><u>Mastering File Compression Techniques for Disk Optimization</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/maximize-engagement-optimal-twitters-video-converters/"><u>Maximize Engagement Optimal Twitters Video Converters</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/virtual-reality-wars-which-tech-rules-the-gamers-world/"><u>Virtual Reality Wars Which Tech Rules the Gamer’s World</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tips & Tricks: Fixing Common Arise Game-Crash Issues"
-date: 2025-01-29T19:29:25.118Z
-updated: 2025-01-30T16:35:10.690Z
+date: 2025-02-28T06:26:50.140Z
+updated: 2025-03-02T19:58:06.458Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/7e22f518017db6277dcd7e1190b41157a79340260
 ## Quick Solutions: Overcome PC Issues in World of Warships - Top 5 Fixes
 
 It’s a lot of fun to immerse in the epic naval warfare in World of Warships. However, when the game keeps crashing, it could feel awful and annoying. If you’re one of the many plagued by the constant crashes, don’t frustrate as this problem is not hard to fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -46,10 +42,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 **2)** Right-click**World of Warships** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
@@ -99,10 +91,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de.jpg)
@@ -113,10 +101,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Now that you’ve installed the most recent graphics driver, you can expect a smooth and enhanced game performance. If updating the driver doesn’t work, keep reading the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Delete the preferences.xml file
 
@@ -152,17 +136,9 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-1-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Select**Category** next to View by, and click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Click**World of Warships** from the list, and click**Uninstall** . Then, follow the on-screen instructions to complete the process.
 
@@ -198,18 +174,19 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-6-essential-tips-to-create-instas-most-attractive-unboxings/"><u>[New] 6 Essential Tips to Create Insta's Most Attractive Unboxings</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/xclusive-guide-to-affordable-premium-video-editors/"><u>[New] Exclusive Guide to Affordable, Premium Video Editors</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-8-must-have-methods-for-crafting-memorable-gifs/"><u>[Updated] 8 Must-Have Methods for Crafting Memorable GIFs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-unlocking-viewership-growth-on-twitch-top-4-strategies/"><u>[Updated] Unlocking Viewership Growth on Twitch Top 4 Strategies</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-boxing-battlegrounds-live-vs-virtual-warriors/"><u>2024 Approved Boxing Battlegrounds Live VS Virtual Warriors</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/basic-approach-tweaking-clownfish-tones-in-windoze-for-2024/"><u>Basic Approach Tweaking Clownfish Tones in Windoze for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/digital-camouflage-for-gamers/"><u>Digital Camouflage for Gamers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discover-the-power-of-pixlr-25-must-use-tips-and-tricks/"><u>Discover the Power of Pixlr 25 Must-Use Tips and Tricks</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/elevate-the-listening-experience-with-garageband-edits/"><u>Elevate the Listening Experience with GarageBand Edits</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-dim-to-dazzling-a-guide-to-selecting-top-quality-displays/"><u>From Dim to Dazzling A Guide to Selecting Top-Quality Displays</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guia-facil-y-gratuita-para-cambiar-tu-video-3g2-a-formato-avi-en-internet-usando-movavi/"><u>Guía Fácil Y Gratuita Para Cambiar Tu Video 3G2 a Formato AVI en Internet Usando Movavi</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-14-plus-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By Apple iPhone 14 Plus without the Previous Owner?</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-generate-neon-text-in-seconds-8-user-friendly-online-tools/"><u>Updated 2024 Approved Generate Neon Text in Seconds 8 User-Friendly Online Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-video-quality-editing-tips-for-published-content-for-2024/"><u>[New] Enhancing Video Quality Editing Tips for Published Content for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-proficiency-uncovering-the-best-5-online-title-creators/"><u>2024 Approved Exploring Proficiency Uncovering the Best 5 Online Title Creators</u></a></li>
+<li><a href="https://driver-download.techidaily.com/complete-guide-downloading-and-updating-elan-smbus-drivers-on-windows-solved/"><u>Complete Guide: Downloading & Updating Elan SMBus Drivers on Windows – Solved!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-top-quality-password-managers-exploring-free-versions-and-payment-based-alternatives/"><u>Discover Top Quality Password Managers: Exploring Free Versions and Payment-Based Alternatives</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exciting-imessage-challenges-the-best-games-on-your-iphone-as-we-step-into-2024/"><u>Exciting iMessage Challenges: The Best Games on Your iPhone as We Step Into 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-intel-hd-graphics-440-download-and-install-drivers/"><u>Get the Latest Intel HD Graphics 440: Download & Install Drivers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-achieving-spotlight-submitting-on-apple-platform/"><u>In 2024, Achieving Spotlight Submitting on Apple Platform</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-value-budget-friendly-pros-for-high-impact-sports/"><u>In 2024, Best Value Budget-Friendly Pros for High-Impact Sports</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-capturing-life-with-precision-an-overview-of-advanced-camera-modes/"><u>In 2024, Capturing Life with Precision An Overview of Advanced Camera Modes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-youtube-video-archiving-made-simple/"><u>In 2024, YouTube Video Archiving Made Simple</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/interactive-therapy-in-the-virtual-world/"><u>Interactive Therapy in the Virtual World</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-fix-windows-compatible-wireless-keyboards-that-wont-respond-anymore/"><u>Mastering the Fix: Windows-Compatible Wireless Keyboards That Won't Respond Anymore!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/top-ranking-photo-restoration-tools-for-fixing-damaged-images/"><u>Top-Ranking Photo Restoration Tools for Fixing Damaged Images</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-solve-the-app-not-running-problem-on-your-computer/"><u>Troubleshooting Tips: Solve the 'App Not Running' Problem on Your Computer</u></a></li>
 </ul></div>
 
